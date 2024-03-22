@@ -2,7 +2,7 @@
 Proyecto de introducción a señales biomedicas
 
 
-## Inegrantes
+## Integrantes
 ### 1. Gianni Di Trani 
 ### 2. María Zubiate 
 ### 3. Christian Mucha
