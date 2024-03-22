@@ -9,10 +9,13 @@ Proyecto de introducción a señales biomedicas
 ![Imagen de WhatsApp 2024-03-22 a las 12 47 08_82488931](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/731f2565-b870-4552-b472-28fc5b09c836)
 
 ##### 3. Christian Mucha - christian.mucha@upch.pe
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
+## Tabla de contenido
+- Introduccción
+- Problematica
+- Metodologia
+- Solución
+  
 ## Plan de Trabajo
 | Fecha  | Actividad |
 | ------------- | ------------- |
