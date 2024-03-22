@@ -19,6 +19,6 @@ Proyecto de introducción a señales biomedicas
 - Solución
   
 ## Plan de Trabajo
-| Fecha  | Actividad |
-| ------------- | ------------- |
-| 22/03/24  | GitHub  |
+| Fecha  | Actividad | Encargado
+| ------------- | ------------- | ------------- 
+| 22/03/24  | GitHub  | Todos
