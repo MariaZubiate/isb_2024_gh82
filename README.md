@@ -13,12 +13,26 @@ Proyecto de introducción a señales biomedicas
 <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/152a2d7c-6dc1-4d09-a10b-c4a7b01efdf2" alt="Christian Mucha" width="200" height="200">
 
 
-## Tabla de contenido
-- Introduccción
-- Problematica
-- Metodologia
-- Solución
-  
+## Tabla de Contenidos
+
+1. [Introducción](#introducción)
+2. [Problemática](#problemática)
+3. [Metodología](#metodología)
+4. [Solución](#solución)
+
+## Introducción
+...
+
+## Problemática
+...
+
+## Metodología
+...
+
+## Solución
+...
+
+
 ## Plan de Trabajo
 | Fecha  | Actividad | Encargado
 | ------------- | ------------- | ------------- 
