@@ -14,16 +14,16 @@ Somos un grupo de apasionados estudiantes de interesados en explorar el campo de
 * [Metodología](#metodología)
 * [Solución](#solución)
 
-## Introducción
+#### Introducción
 ...
 
-## Problemática
+#### Problemática
 ...
 
-## Metodología
+#### Metodología
 ...
 
-## Solución
+#### Solución
 ...
 
 
@@ -39,9 +39,12 @@ Somos un grupo de apasionados estudiantes de interesados en explorar el campo de
 <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/152a2d7c-6dc1-4d09-a10b-c4a7b01efdf2" alt="Christian Mucha" width="200" height="200">
 
 ##### 4. Jossef Tintaya - cristian.mucha@upch.pe
+<img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/339bcb03-403a-4fcf-815a-11b893380c46" alt="Jossef Tintaya" width="200" height="200">
 
 ## Plan de Trabajo
 
-| Fecha  | Actividad | Encargado
-| ------------- | ------------- | ------------- 
-| 22/03/24  | GitHub  | Todos
+| Fecha  | Actividad | Encargado | Estado
+| ------------- | ------------- | ------------- | -------------
+| 22/03/24  | GitHub  | Todos | Completado
+
+
