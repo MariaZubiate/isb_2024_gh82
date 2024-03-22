@@ -38,6 +38,7 @@ Somos un grupo de apasionados estudiantes de interesados en explorar el campo de
 ##### 3. Christian Mucha - christian.mucha@upch.pe
 <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/152a2d7c-6dc1-4d09-a10b-c4a7b01efdf2" alt="Christian Mucha" width="200" height="200">
 
+##### 4. Jossef Tintaya - cristian.mucha@upch.pe
 
 ## Plan de Trabajo
 
