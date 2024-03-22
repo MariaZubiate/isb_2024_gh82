@@ -1,6 +1,9 @@
 # isb_2024_gh82
 Somos un grupo de apasionados estudiantes de interesados en explorar el campo de las señales biomédicas. Nos encontramos en un viaje de aprendizaje conjunto, donde buscamos aplicar nuestros conocimientos teóricos en este proyecto que llevaremos en el transcurso del ciclo 2024-1.
 
+<div align="center">
+  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/6cd7d905-a2e5-4c2f-af1d-deb23b504e79" alt="Captura" width="400">
+</div>
 
 
 
