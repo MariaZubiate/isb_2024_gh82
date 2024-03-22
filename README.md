@@ -1,5 +1,5 @@
 # isb_2024_gh82
-Proyecto de introducción a señales biomedicas
+Somos un grupo de apasionados estudiantes de interesados en explorar el campo de las señales biomédicas. Nos encontramos en un viaje de aprendizaje conjunto, donde buscamos aplicar nuestros conocimientos teóricos en este proyecto que llevaremos en el transcurso del ciclo 2024-1.
 
 
 
