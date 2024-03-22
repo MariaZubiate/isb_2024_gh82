@@ -13,3 +13,7 @@ Proyecto de introducción a señales biomedicas
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+## Plan de Trabajo
+| Fecha  | Actividad |
+| ------------- | ------------- |
+| 22/03/24  | GitHub  |
