@@ -31,17 +31,21 @@
 
 ## Integrantes
 
+
 ##### 1. Gianni Di Trani  - gianni.ditranig@gmail.com
-<img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/7bc954aa-1480-49ca-a2cc-fb4aa8ffd471" alt="Gianni Di Trani" width="200" height="200">
+![Gianni Di Trani](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/7bc954aa-1480-49ca-a2cc-fb4aa8ffd471)
 
 ##### 2. María Zubiate - maria.zubiate@upch.pe
-<img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/731f2565-b870-4552-b472-28fc5b09c836" alt="María Zubiate" width="200" height="200">
+![Maria (12)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/15ccde3b-2f0c-4372-9093-5115b2751347)
+
 
 ##### 3. Christian Mucha - christian.mucha@upch.pe
-<img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/152a2d7c-6dc1-4d09-a10b-c4a7b01efdf2" alt="Christian Mucha" width="200" height="200">
+![Christian (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5925b2c5-aed4-48e8-bb33-ab4e581a9c7e)
+
 
 ##### 4. Jossef Tintaya - cristian.mucha@upch.pe
-<img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/339bcb03-403a-4fcf-815a-11b893380c46" alt="Jossef Tintaya" width="200" height="200">
+![Christian (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/fbcaa51d-827d-4bc8-919a-7aea75deff5f)
+
 
 ## Plan de Trabajo
 
