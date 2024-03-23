@@ -6,6 +6,8 @@
 
 ![Foto de grupo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/236e182c-c8f8-4712-a984-01cce784d439)
 
+<p style="font-family: Arial, sans-serif; font-size: 24px; color: #333; text-align: center;"><strong>CULTURA ORGANIZACIONAL</strong></p>
+
 <p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;"><strong>MISIÓN</strong></p>
 ...
 <p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;"><strong>VISIÓN</strong></p>
