@@ -44,7 +44,8 @@
 
 
 ##### 4. Jossef Tintaya - cristian.mucha@upch.pe
-![Christian (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/fbcaa51d-827d-4bc8-919a-7aea75deff5f)
+![jossef (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/39514d72-00ce-4b6b-9fba-342651bc6dc7)
+
 
 
 ## Plan de Trabajo
