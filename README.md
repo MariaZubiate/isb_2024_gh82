@@ -5,7 +5,7 @@ Somos un grupo de apasionados estudiantes de interesados en explorar el campo de
   <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/6cd7d905-a2e5-4c2f-af1d-deb23b504e79" alt="Captura" width="400">
 </div>
 
-#Repositorio del grupo 8 para el curso de Introducción a Señales Biomédicas(2024-1)
+##Repositorio del grupo 8 para el curso de Introducción a Señales Biomédicas(2024-1)
 ## Tabla de Contenidos
 
 * [Introducción](#introducción)
