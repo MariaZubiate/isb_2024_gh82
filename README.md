@@ -10,11 +10,13 @@
 <p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;"><i>«la innovación es lo que distingue a un líder de los demás»</i></p>
 
 <p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;"><strong>MISIÓN</strong></p>
-...
+<p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;">Nuestra misión es explorar y comprender las complejidades de las señales biomédicas, aplicando de manera creativa y rigurosa nuestros conocimientos teóricos.</p>
+
 <p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;"><strong>VISIÓN</strong></p>
-...
+<p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;">Como estudiantes apasionados por las señales biomédicas, aspiramos a convertirnos en líderes en el campo, impulsando el desarrollo de tecnologías y metodologías que revolucionen la atención médica.</p>
+
 <p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;"><strong>VALORES</strong></p>
-...
+<p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;">Excelencia, integridad, responsabilidad con los demás miembros en el equipo, pasión e innovación.</p>
 
 ## Repositorio del grupo 8 para el curso de Introducción a Señales Biomédicas(2024-1)
 ## Tabla de Contenidos
