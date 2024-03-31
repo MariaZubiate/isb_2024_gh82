@@ -26,21 +26,8 @@
 * [Metodología](#metodología)
 * [Solución](#solución)
 
-#### Introducción
-...
-
-#### Problemática
-...
-
-#### Metodología
-...
-
-#### Solución
-...
-
 
 ## Integrantes
-
 
 ##### 1. Gianni Di Trani  - gianni.ditranig@gmail.com
 ![Gianni Di Trani](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/7bc954aa-1480-49ca-a2cc-fb4aa8ffd471)
@@ -63,5 +50,23 @@
 | Fecha  | Actividad | Encargado | Estado
 | ------------- | ------------- | ------------- | -------------
 | 22/03/24  | GitHub  | Todos | Completado
+| 30/03/24  | Recopilación de información  | Todos | En proceso
+| 31/03/24  | Definición de la problematica y la solución  | Todos | En proceso
+
+##
+
+
+#### Introducción
+...
+
+#### Problemática
+...
+
+#### Metodología
+...
+
+#### Solución
+...
+
 
 
