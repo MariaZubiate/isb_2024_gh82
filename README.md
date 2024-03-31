@@ -26,20 +26,6 @@
 * [Metodología](#metodología)
 * [Solución](#solución)
 
-#### Introducción
-...
-
-#### Problemática
-...
-
-#### Metodología
-...
-
-#### Solución
-...
-
-
-## Integrantes
 
 
 ##### 1. Gianni Di Trani  - gianni.ditranig@gmail.com
@@ -64,4 +50,20 @@
 | ------------- | ------------- | ------------- | -------------
 | 22/03/24  | GitHub  | Todos | Completado
 
+
+
+#### Introducción
+...
+
+#### Problemática
+...
+
+#### Metodología
+...
+
+#### Solución
+...
+
+
+## Integrantes
 
