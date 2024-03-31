@@ -27,6 +27,7 @@
 * [Solución](#solución)
 
 
+## Integrantes
 
 ##### 1. Gianni Di Trani  - gianni.ditranig@gmail.com
 ![Gianni Di Trani](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/7bc954aa-1480-49ca-a2cc-fb4aa8ffd471)
@@ -50,6 +51,7 @@
 | ------------- | ------------- | ------------- | -------------
 | 22/03/24  | GitHub  | Todos | Completado
 
+##
 
 
 #### Introducción
@@ -65,5 +67,4 @@
 ...
 
 
-## Integrantes
 
