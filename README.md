@@ -50,8 +50,8 @@
 | Fecha  | Actividad | Encargado | Estado
 | ------------- | ------------- | ------------- | -------------
 | 22/03/24  | GitHub  | Todos | Completado
-| 30/03/24  | Recopilación de información  | Todos | En proceso
-| 31/03/24  | Definición de la problematica y la solución  | Todos | En proceso
+| 30/03/24  | Recopilación de información  | Todos | Completado
+| 02/04/24  | Definición de la problematica y la solución  | Todos | En proceso
 
 ##
 
