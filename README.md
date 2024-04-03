@@ -79,7 +79,8 @@ Existen diferentes tratamientos para este síndrome, uno de ellos es el tratamie
 
 Por tanto, a nivel de la articulación de la muñeca tenemos movimientos tales como: 
 
-Flexión dorsal(extensión) y flexión palmar 
+Flexión dorsal(extensión) y flexión palmar ![Captura de pantalla 2024-04-03 074716](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/1455e6d0-adc7-4f98-875b-d40a441238b8)
+
 Los músculos que intervienen durante la flexión son: flexores del antebrazo, palmar mayor, cubital anterior, flexores de los dedos (flexores superficiales y profundos) y abductor del pulgar. 
 Por otro lado, durante la extensión intervienen músculos extensores del brazo: extensor radial largo del carpo, extensor radial corto del carpo, extensor cubital del carpo, extensor común de los dedos y el extensor propio del meñique. Además de los músculos extensores del pulgar: extensor largo del pulgar, extensor corto del pulgar y aductor del pulgar.
 
