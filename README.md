@@ -84,6 +84,7 @@ Flexión dorsal(extensión) y flexión palmar
 Los músculos que intervienen durante la flexión son: flexores del antebrazo, palmar mayor, cubital anterior, flexores de los dedos (flexores superficiales y profundos) y abductor del pulgar. 
 Por otro lado, durante la extensión intervienen músculos extensores del brazo: extensor radial largo del carpo, extensor radial corto del carpo, extensor cubital del carpo, extensor común de los dedos y el extensor propio del meñique. Además de los músculos extensores del pulgar: extensor largo del pulgar, extensor corto del pulgar y aductor del pulgar.
 ![Captura de pantalla 2024-04-03 074716](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/1455e6d0-adc7-4f98-875b-d40a441238b8)
+
 Fig.2. Movimientos de extensión y flexión palmar en rangos normales.
 
 
@@ -93,44 +94,45 @@ Los músculos involucrados en abducción son: extensor radial largo del carpo y 
 
 Fig.3. Movimientos de abducción y aducción palmar en rangos normales.
 
+
 Pronación y supinación palmar
 En este movimiento los músculos involucrados en la pronación son: pronador redondo, pronador cuadrado y braquiorradial. Y para la supinación se necesita la acción del supinador y bíceps braquial.
-
-Fig.4. Movimientos de extensión y flexión palmar.
+![Captura de pantalla 2024-04-03 075222](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/011d5ceb-1ec0-4934-9f0e-d6991bfcd30b)
+Fig.4. Movimientos de pronación y supinación palmar.
 Fuente:https://www.uab.cat/web/detalle-noticia/los-humanos-mas-eficientes-al-coger-objetos-1345680342040.html?articleId=1345644713355 
 
 Finalmente, a nivel de los dedos tenemos movimientos tales como:
 
 Flexión y extensión de articulaciones metacarpofalángicas
 Tenemos músculos participantes en la flexión tales como: flexor común superficial de los dedos y flexor común profundo de los dedos. Y los involucrados en la extensión son:  el extensor común de los dedos y el extensor propio del meñique.
+![Captura de pantalla 2024-04-03 075233](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/d83ca5be-5d0d-44cf-aa4d-643c29d12567)
 
 Fig.5. Movimientos de extensión y flexión palmar en rangos normales.
-Fuente: https://www.researchgate.net/figure/Figura-2-a-Movilidad-de-la-articulacion-metacarpofalangica-felxion-y-extension-b_fig1_353298995 
 
 Flexión y extensión proximal y distal de articulaciones interfalángicas
 Aquí los músculos involucrados en pronación son: pronador redondo, pronador cuadrado y el braquiorradial. Mientras que los músculos involucrados en la supinación son: supinador y el bíceps braquial. 
+![Captura de pantalla 2024-04-03 075312](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/2571e992-ab95-46d4-96be-791f39baae82)
 
 Fig.6. Movimientos de extensión y flexión proximal y distal en articulaciones interfalángicas en rangos normales.
-Fuente: https://www.researchgate.net/figure/Flexion-y-extension-de-las-falanges-distal-y-media-Fuente_fig4_312263802  
 
 Abducción y aducción de los dedos
 Aquí los músculos involucrados en abducción son los músculos interóseos dorsales; y en tanto a aducción está presente la acción de los músculos interóseos palmares. 
 Aquí es preciso recalcar que ninguno de estos músculos se encuentra conectado al antebrazo ni pasan por esa región anatómica por lo que no serán contemplados en el análisis posterior.
+![Captura de pantalla 2024-04-03 075351](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/0cbd2200-6fd7-4ea0-8e52-ff84970fe6df)
 
 Fig.7. Abducción y aducción de los dedos en rangos normales.
-Fuente: https://www.researchgate.net/figure/Figura-2-a-Movilidad-de-la-articulacion-metacarpofalangica-felxion-y-extension-b_fig1_353298995  
 
 Abducción y aducción del pulgar
 En donde intervienen el abductor y aductor del pulgar.
+![Captura de pantalla 2024-04-03 075414](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/e680f23c-0e27-4a18-bde6-e2cbcc02998d)
 
 Fig.8. Abducción y aducción del pulgar con rangos normales.
-Fuente: https://es.slideshare.net/EstebanLopeez/exploracin-fsica-de-la-mano-34550468 
 
 Flexión y extensión del pulgar
 En donde intervienen el flexor y extensor del pulgar.
+![Captura de pantalla 2024-04-03 075445](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/394fb083-667a-487c-8010-9c6b234213ba)
 
-Fig.8. Flexión y extensión del pulgar en rangos normales.
-Fuente: https://es.slideshare.net/jeje1002/arcos-de-movilidad-de-mano  
+Fig.9. Flexión y extensión del pulgar en rangos normales.
 
 Estos ejercicios de rehabilitación son percibidos por gran parte de los pacientes como monótonos y triviales, además, también existen pacientes que empeoran la situación al realizar la terapia por sí mismos; de aquí se ve la necesidad de convertir esta experiencia en algo lúdico y seguro para el paciente.
 
