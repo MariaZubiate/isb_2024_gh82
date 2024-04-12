@@ -1,6 +1,6 @@
 # Laboratorio 4
 
-
+Anotaciones: Arco positivo es deflexión positiva hacia arriba, arco negativo es deflexión negativa hacia abajo.
 #### 1. Fotos de conexión usada(Electrodos-cuerpo, BITalino-cables)
 
 
