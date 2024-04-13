@@ -64,7 +64,7 @@ En este experimento, se presentan tres tipos de ensayos realizados para estudiar
 
 En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo bíceps del brazo. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
 
-|  *Brazo en reposo*  | *Brazo sin oposición, flexión natural* | *Brazo con oposición* |
+|  *Brazo en reposo*  | *Brazo sin oposición* | *Brazo con oposición* |
 |:------------:|:---------------:|:------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f7f49c2-6be4-4870-a7e8-eceb64c939a5"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/584f563d-ff11-4118-9ac6-21e6ea6a8d99"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/8cfe8ff7-a35b-416f-97b7-32faa4c2a6cb"></video>|
 
@@ -100,7 +100,7 @@ En el siguiente link se puede visualizar los archivos .txt de cada ensayo realiz
 ### *3.6. Ploteo de la señal en Python* <a name="id9"></a> 
 ##### 3.6.1. Lectura del musculo flexor del pulgar en python
 
-|  *Pulgar en reposo*  | *Pulgar sin oposición* | *Pulgar con oposición* |
+|  *Pulgar en reposo*  | *Pulgar sin oposición, flexión natural* | *Pulgar con oposición* |
 |:------------:|:---------------:|:------------:|
 |![Pulgar_reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/ea650291-c626-42d1-96a3-71eb2b2c1f6a)|![Pulgar_flexión](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f4bd28d6-2412-49e2-8f42-4aeb02572335)|![Pulgar_Contra](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/671297fd-4322-4ad3-8094-2fc511170736)|
 
@@ -110,7 +110,7 @@ En el siguiente link se puede visualizar los archivos .txt de cada ensayo realiz
 
 ##### 3.6.2. Lectura del musculo bíceps del brazo en python
 
-|  *Brazo en reposo*  | *Brazo sin oposición* | *Brazo con oposición* |
+|  *Brazo en reposo*  | *Brazo sin oposición, flexión natural* | *Brazo con oposición* |
 |:------------:|:---------------:|:------------:|
 |![Bicep_reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/7227ab9f-9e12-44c5-8ad2-eb362351156e)|![Bicep_flexión](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6a85b086-9fb8-4cc4-a952-a5458e5e7111)|![Bicep_contra](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/14e9c29d-bf43-45ab-a9c4-a32181bd0a00)|
 
@@ -121,7 +121,7 @@ En el siguiente link se puede visualizar los archivos .txt de cada ensayo realiz
 
 ##### 3.6.3. Lectura del musculo gemelo de la pantorrilla en python
 
-|  *Pierna en reposo*  | *Pierna sin oposición* | *Pierna con oposición* |
+|  *Pierna en reposo*  | *Pierna sin oposición, flexión natural* | *Pierna con oposición* |
 |:------------:|:---------------:|:------------:|
 |![Pierna_reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/2be51c73-2aad-4284-a81f-b267c32ab54a)|![Pierna_flexión](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/c88540c0-f4a4-41c8-9939-5e771f7951e1)|![Pierna_contra](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/550f4e78-f06a-4bc5-8f71-9b7549497c85)|
 
