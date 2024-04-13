@@ -11,7 +11,7 @@
      3.3 [Ploteo de la señal en OpenSignal](#id6)\
      3.4 [Resumen y explicación de la señal ploteada](#id7)\
      3.5 [Archivo de los datos de la señal ploteada](#id8)\
-     3.6 [Ploteo de la señal en Python](#id9)\
+     3.6 [Ploteo de la señal en Python](#id9)
 4. [Bibliografia](#id10)
    
 ## *Objetivos* <a name="id1"></a>
