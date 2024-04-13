@@ -81,6 +81,8 @@ Descripción de los patrones de actividad eléctrica esperados durante una elect
 
 ### *3.5. Archivo de los datos de la señal ploteada* <a name="id8"></a> 
 
+En el siguiente link se puede visualizar los archivos .txt de cada ensayo realizado
+
 [Documentos_txt](./Documentos_txt)
 
 ### *3.6. Ploteo de la señal en Python* <a name="id9"></a> 
