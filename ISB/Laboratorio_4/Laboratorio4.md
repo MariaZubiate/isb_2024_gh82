@@ -14,18 +14,18 @@
      3.6 [Ploteo de la señal en Python](#id9)
 4. [Bibliografia](#id10)
    
-## *Objetivos* <a name="id1"></a>
+## *1. Objetivos* <a name="id1"></a>
 * Adquirir señales biomédicas de EMG.
 * Hacer una correcta configuración de BiTalino.
 * Extraer la información de las señales EMG del software OpenSignals (r)evolution
 
-## *Materiales y equipos* <a name="id2"></a>
+## *2. Materiales y equipos* <a name="id2"></a>
 * Kit BITalino
 * Laptop  
 
-## *RESULTADOS* <a name="id3"></a>
+## *3. RESULTADOS* <a name="id3"></a>
 
-### *Fotos de conexión usada* <a name="id4"></a>
+### *3.1. Fotos de conexión usada* <a name="id4"></a>
 Se utilizó la placa Bitalino con conexión EMG, empleando el sensor EMG de 3 electrodos, como se puede visualizar en la siguiente imagen 
 
 <p align="center">
@@ -34,9 +34,9 @@ Se utilizó la placa Bitalino con conexión EMG, empleando el sensor EMG de 3 el
 
 
 
-### *Video de la señal* <a name="id5"></a>
+### *3.2. Video de la señal* <a name="id5"></a>
 
-##### 2.1. Lectura del musculo de la mano
+##### 3.2.1. Lectura del musculo de la mano
 
 |  *Mano en reposo*  | *Mano sin presión* | *Mano con presión* |
 |:------------:|:---------------:|:------------:|
@@ -44,7 +44,7 @@ Se utilizó la placa Bitalino con conexión EMG, empleando el sensor EMG de 3 el
 
 
 
-##### 2.2. Lectura del musculo del brazo
+##### 3.2.2. Lectura del musculo del brazo
 
 |  *Brazo en reposo*  | *Brazo sin presión* | *Brazo con presión* |
 |:------------:|:---------------:|:------------:|
@@ -52,7 +52,7 @@ Se utilizó la placa Bitalino con conexión EMG, empleando el sensor EMG de 3 el
 
  
 
-##### 2.3. Lectura del musculo de la pierna
+##### 3.2.3. Lectura del musculo de la pierna
 
 |  *Pierna en reposo*  | *Pierna sin presión* | *Pierna con presión* |
 |:------------:|:---------------:|:------------:|
@@ -60,20 +60,20 @@ Se utilizó la placa Bitalino con conexión EMG, empleando el sensor EMG de 3 el
 
  
  
-### *Ploteo de la señal en OpenSignals* <a name="id6"></a> 
+### *3.3. Ploteo de la señal en OpenSignals* <a name="id6"></a> 
 
-### *Resumen y explicación de la señal ploteada* <a name="id7"></a> 
+### *3.4. Resumen y explicación de la señal ploteada* <a name="id7"></a> 
 
 
-### *Archivo de los datos de la señal ploteada* <a name="id8"></a> 
+### *3.5. Archivo de los datos de la señal ploteada* <a name="id8"></a> 
 
 [Documentos_txt](./Documentos_txt)
 
-### *Ploteo de la señal en Python* <a name="id9"></a> 
+### *3.6. Ploteo de la señal en Python* <a name="id9"></a> 
 
 
    
-## *Bibliografia* <a name="id10"></a>
+## *4. Bibliografia* <a name="id10"></a>
 
 
 
