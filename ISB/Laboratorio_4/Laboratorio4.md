@@ -63,11 +63,13 @@ https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/305c3eea-6430-4a4
  
 #### 3. Ploteo de la señal en OpenSignals.
 
-[Documentos_txt](./Documentos_txt)
+
 
 #### 4. Resumen y explicación de la señal ploteada.
 
 #### 5. El archivo de los datos de la señal ploteada.
+
+[Documentos_txt](./Documentos_txt)
 
 #### 6. Ploteo de la señal en Python
 
