@@ -102,10 +102,10 @@ En el siguiente link se puede visualizar los archivos .txt de cada ensayo realiz
 
 |  *Mano en reposo*  | *Mano sin oposición* | *Mano con oposición* |
 |:------------:|:---------------:|:------------:|
-|![image](![Imagen de WhatsApp 2024-04-13 a las 12 37 57_6449a3ca](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/36754cd3-20e4-450d-b5aa-182fa0f672eb)
-)|![image](![Imagen de WhatsApp 2024-04-13 a las 12 37 57_e4608dd3](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/1b77059b-9c96-463d-991c-a9710c708bca)
-)|![image](![Imagen de WhatsApp 2024-04-13 a las 12 37 56_c2e9c967](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/b408ac4f-759c-48d2-80d0-061bdfaae344)
-)|
+
+![Imagen de WhatsApp 2024-04-13 a las 12 37 57_6449a3ca](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/0c564a20-2ee4-4f22-88b2-fe8bf98dbda5)
+![Imagen de WhatsApp 2024-04-13 a las 12 37 57_e4608dd3](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/09ac37d9-f498-4fba-80eb-6b73c634cea7)
+![Imagen de WhatsApp 2024-04-13 a las 12 37 56_c2e9c967](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/2ab31ab3-d7c7-4114-86ac-7da4f7281c02)
 
 |  *Intervalo respectivo*  | *Intervalo respectivo* | *Intervalo respectivo* |
 |:------------:|:---------------:|:------------:|
