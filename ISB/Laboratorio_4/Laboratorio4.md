@@ -106,7 +106,6 @@ En el siguiente link se puede visualizar los archivos .txt de cada ensayo realiz
 
 |  *Intervalo respectivo*  | *Intervalo respectivo* | *Intervalo respectivo* |
 |:------------:|:---------------:|:------------:|
-
 |![Pulgar_reposo_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/b74a79d2-78d1-43c1-91b4-ee24a39b73b1)|![Pulgar_flexión_Int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/d6b1a840-a672-4459-b8ee-9dd299fd306b)|![Pulgar_contra_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/be410d64-29a1-44da-a10c-88a79e86fed4)|
 
 ##### 3.6.2. Lectura del musculo bíceps del brazo en python
