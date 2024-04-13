@@ -103,11 +103,16 @@ En el siguiente link se puede visualizar los archivos .txt de cada ensayo realiz
 |  *Mano en reposo*  | *Mano sin oposición* | *Mano con oposición* |
 |:------------:|:---------------:|:------------:|
 |![image](![Imagen de WhatsApp 2024-04-13 a las 12 37 57_6449a3ca](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/36754cd3-20e4-450d-b5aa-182fa0f672eb)
-)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/97120fc9-2a07-488a-acd9-81c31a551415)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f64e938-6199-4083-a62c-741eb4a157a7)|
+)|![image](![Imagen de WhatsApp 2024-04-13 a las 12 37 57_e4608dd3](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/1b77059b-9c96-463d-991c-a9710c708bca)
+)|![image](![Imagen de WhatsApp 2024-04-13 a las 12 37 56_c2e9c967](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/b408ac4f-759c-48d2-80d0-061bdfaae344)
+)|
 
 |  *Intervalo respectivo*  | *Intervalo respectivo* | *Intervalo respectivo* |
 |:------------:|:---------------:|:------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd7e29b1-d61b-4be6-befa-e061fe3a6ad7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/97120fc9-2a07-488a-acd9-81c31a551415)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f64e938-6199-4083-a62c-741eb4a157a7)|
+|![image](![Imagen de WhatsApp 2024-04-13 a las 12 37 57_884a9ee3](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/81333a69-bf6f-45ec-a7f7-e56b6e017215)
+)|![image](![Imagen de WhatsApp 2024-04-13 a las 12 37 57_6841112a](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/92372972-fa08-40ab-8c2a-ce21f253a1b4)
+)|![image](![Imagen de WhatsApp 2024-04-13 a las 12 37 56_53ff8279](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/9cb006f9-561b-456a-8619-edc8a9bfd1b7)
+)|
 
 ##### 3.6.2. Lectura del musculo del brazo en python
 
