@@ -104,7 +104,9 @@ En el siguiente link se puede visualizar los archivos .txt de cada ensayo realiz
 |:------------:|:---------------:|:------------:|
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd7e29b1-d61b-4be6-befa-e061fe3a6ad7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/97120fc9-2a07-488a-acd9-81c31a551415)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f64e938-6199-4083-a62c-741eb4a157a7)|
 
-
+|  *Mano en reposo*  | *Mano sin oposición* | *Mano con oposición* |
+|:------------:|:---------------:|:------------:|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd7e29b1-d61b-4be6-befa-e061fe3a6ad7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/97120fc9-2a07-488a-acd9-81c31a551415)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f64e938-6199-4083-a62c-741eb4a157a7)|
 
 ##### 3.6.2. Lectura del musculo del brazo en python
 
