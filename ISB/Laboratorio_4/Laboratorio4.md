@@ -54,7 +54,7 @@ En este experimento, se presentan tres tipos de ensayos realizados para estudiar
 ##
 ##### 3.2.1. Lectura del musculo flexor del pulgar
 
-En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo felxor del pulgar. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento.
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar, específicamente, la actividad del músculo flexor del pulgar. Estos ensayos abarcan momentos en los que el músculo está en movimiento, ya sea en flexión natural o en contracción, momentos de actividad sin oposición y momentos de actividad con oposición. . Los electrodos se colocaron estratégicamente en el músculo objetivo para registrar con precisión los cambios en el voltaje durante cada tipo de actividad.
 
 |  *Mano en reposo*  | *Mano sin oposición* | *Mano con oposición* |
 |:------------:|:---------------:|:------------:|
@@ -62,6 +62,7 @@ En este experimento, se presentan tres tipos de ensayos realizados para estudiar
 
 ##### 3.2.2. Lectura del musculo bíceps del brazo
 
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar, específicamente, la actividad del músculo bíceps del brazo. Estos ensayos abarcan momentos en los que el músculo está en movimiento, ya sea en flexión natural o en contracción, momentos de actividad sin oposición y momentos de actividad con oposición. . Los electrodos se colocaron estratégicamente en el músculo objetivo para registrar con precisión los cambios en el voltaje durante cada tipo de actividad.
 
 
 |  *Brazo en reposo*  | *Brazo sin oposición* | *Brazo con oposición* |
@@ -72,7 +73,7 @@ En este experimento, se presentan tres tipos de ensayos realizados para estudiar
 
 ##### 3.2.3. Lectura del musculo gemelo de la pantorrilla
 
-En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo gemelo de la pantorrilla. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar, específicamente, la actividad del músculo gemelo de la pantorrilla. Estos ensayos abarcan momentos en los que el músculo está en movimiento, ya sea en flexión natural o en contracción, momentos de actividad sin oposición y momentos de actividad con oposición. . Los electrodos se colocaron estratégicamente en el músculo objetivo para registrar con precisión los cambios en el voltaje durante cada tipo de actividad.
 
 |  *Pierna en reposo*  | *Pierna sin oposición* | *Pierna con oposición* |
 |:------------:|:---------------:|:------------:|
