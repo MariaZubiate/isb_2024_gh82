@@ -24,6 +24,13 @@
 * Kit BITalino
 * Laptop  
 
+
+##
+La electromiografía y la velocidad de conducción nerviosa son procedimientos fundamentales en el diagnóstico y seguimiento de patologías que afectan el sistema nervioso periférico en pacientes pediátricos. La Guía de Procedimiento de Electromiografía y Velocidad de Conducción de Nervios Periféricos, elaborada por el Instituto Nacional de Salud del Niño – San Borja, proporciona un marco técnico estandarizado para la realización de estos estudios[1]. 
+
+En nuestro laboratorio, nos hemos guiado por este documento para llevar a cabo tres pruebas de electromiografía en diferentes regiones del cuerpo: mano, brazo y pierna. Esta guía nos ha permitido estandarizar los procesos, garantizando la calidad de los estudios realizados y asegurando una buena obtención de resultados.
+##
+
 ## *3. RESULTADOS* <a name="id3"></a>
 
 ### *3.1. Fotos de conexión usada* <a name="id4"></a>
@@ -36,6 +43,12 @@ Se utilizó la placa Bitalino con conexión EMG, empleando el sensor EMG de 3 el
 
 
 ### *3.2. Video de la señal* <a name="id5"></a>
+
+Descripción de los patrones de actividad eléctrica esperados durante una electromiografía (EMG).
+
+|  *En reposo*  | *Sin oposición* | *Con oposición* |
+|:------------:|:---------------:|:------------:|
+|Líneas de base estables.|Potenciales de acción muscular en respuesta al movimiento|Cambios en la amplitud y frecuencia de los potenciales de acción muscular en relación con la fuerza y velocidad del movimiento|
 
 ##### 3.2.1. Lectura del musculo de la mano
 
@@ -76,6 +89,7 @@ Se utilizó la placa Bitalino con conexión EMG, empleando el sensor EMG de 3 el
    
 ## *4. Bibliografia* <a name="id10"></a>
 
+[1] Instituto Nacional de Salud del Niño – San Borja. "Guía de Procedimiento de Electromiografía y Velocidad de Conducción de Nervios Periféricos." Fecha: Octubre 2020. Código: GP-001/INSNSB/UAIE/SUAIEPSE – Neurología Pediátrica V01. Página 1-39.
 
 
 
