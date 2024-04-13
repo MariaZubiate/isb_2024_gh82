@@ -85,7 +85,6 @@ Descripción de los patrones de actividad eléctrica esperados durante una elect
 
 ### *3.6. Ploteo de la señal en Python* <a name="id9"></a> 
 
-
    
 ## *4. Bibliografia* <a name="id10"></a>
 
