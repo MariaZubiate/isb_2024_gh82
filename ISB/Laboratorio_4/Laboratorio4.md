@@ -100,19 +100,21 @@ En el siguiente link se puede visualizar los archivos .txt de cada ensayo realiz
 ### *3.6. Ploteo de la señal en Python* <a name="id9"></a> 
 ##### 3.6.1. Lectura del musculo flexor del pulgar en python
 
-|  *Mano en reposo*  | *Mano sin oposición* | *Mano con oposición* |
+|  *Pulgar en reposo*  | *Pulgar sin oposición* | *Pulgar con oposición* |
 |:------------:|:---------------:|:------------:|
 |![Pulgar_reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/ea650291-c626-42d1-96a3-71eb2b2c1f6a)|![Pulgar_flexión](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f4bd28d6-2412-49e2-8f42-4aeb02572335)|![Pulgar_Contra](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/671297fd-4322-4ad3-8094-2fc511170736)|
 
 |  *Intervalo respectivo*  | *Intervalo respectivo* | *Intervalo respectivo* |
 |:------------:|:---------------:|:------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd7e29b1-d61b-4be6-befa-e061fe3a6ad7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/97120fc9-2a07-488a-acd9-81c31a551415)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f64e938-6199-4083-a62c-741eb4a157a7)|
+
+|![Pulgar_reposo_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/b74a79d2-78d1-43c1-91b4-ee24a39b73b1)|![Pulgar_flexión_Int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/d6b1a840-a672-4459-b8ee-9dd299fd306b)|![Pulgar_contra_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/be410d64-29a1-44da-a10c-88a79e86fed4)|
 
 ##### 3.6.2. Lectura del musculo bíceps del brazo en python
 
 |  *Brazo en reposo*  | *Brazo sin oposición* | *Brazo con oposición* |
 |:------------:|:---------------:|:------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd7e29b1-d61b-4be6-befa-e061fe3a6ad7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/97120fc9-2a07-488a-acd9-81c31a551415)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f64e938-6199-4083-a62c-741eb4a157a7)|
+|![Bicep_reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/7227ab9f-9e12-44c5-8ad2-eb362351156e)|![Bicep_flexión](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6a85b086-9fb8-4cc4-a952-a5458e5e7111)|![Bicep_contra](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/14e9c29d-bf43-45ab-a9c4-a32181bd0a00)|
+
 
 |  *Intervalo respectivo*  | *Intervalo respectivo* | *Intervalo respectivo* |
 |:------------:|:---------------:|:------------:|
