@@ -13,9 +13,11 @@ Se utilizó la placa Bitalino con conexión EMG, empleando el sensor EMG de 3 el
 
 
 #### 2. Video de señal en silencio eléctrico o reposo, que se muestre las conexiones electrodos-cuerpo y señal ploteada.
-
-
 ##### 2.1. Lectura del musculo de la mano
+
+[![Video](https://img.youtube.com/vi/j-kuJTq2Mso/maxresdefault.jpg)](https://youtu.be/j-kuJTq2Mso)
+
+
 
 
 | Lectura en reposo  | Lectura en actividad sin presión | Lectura en actividad con presión 
