@@ -49,7 +49,9 @@ Descripción de los patrones de actividad eléctrica esperados durante una elect
 |  *En reposo*  | *Sin oposición* | *Con oposición* |
 |:------------:|:---------------:|:------------:|
 |Líneas de base estables.|Potenciales de acción muscular en respuesta al movimiento|Cambios en la amplitud y frecuencia de los potenciales de acción muscular en relación con la fuerza y velocidad del movimiento|
-
+##
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad de el flexor pulgar de la mano, músculo bíceps del brazo y del músculo gemelo de la pantorrilla. Estos ensayos incluyen momentos en los que el músculo está sin actividad o en reposo, momentos de flexión natural, y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento en base a valores de voltaje en el orden de los milivoltios.
+##
 ##### 3.2.1. Lectura del musculo flexor del pulgar
 
 En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo felxor del pulgar. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento.
@@ -58,11 +60,9 @@ En este experimento, se presentan tres tipos de ensayos realizados para estudiar
 |:------------:|:---------------:|:------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/992c45ce-b300-4fde-93e4-c8b830b24b83"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2f7bf97c-3a95-4edb-8198-c4461e802a22"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/965ca49e-ba45-41da-9031-d3ccff87b05c"></video>|
 
-En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo bíceps del brazo. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
-
 ##### 3.2.2. Lectura del musculo bíceps del brazo
 
-En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo bíceps del brazo. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
+
 
 |  *Brazo en reposo*  | *Brazo sin oposición* | *Brazo con oposición* |
 |:------------:|:---------------:|:------------:|
