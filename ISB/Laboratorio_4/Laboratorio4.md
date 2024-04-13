@@ -117,18 +117,18 @@ En el siguiente link se puede visualizar los archivos .txt de cada ensayo realiz
 
 |  *Intervalo respectivo*  | *Intervalo respectivo* | *Intervalo respectivo* |
 |:------------:|:---------------:|:------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd7e29b1-d61b-4be6-befa-e061fe3a6ad7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/97120fc9-2a07-488a-acd9-81c31a551415)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f64e938-6199-4083-a62c-741eb4a157a7)|
+|![Bicep_reposo_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/244eadf5-1287-4f88-af54-24e03b64a297)|![Bicep_flexión_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/ad2ec23f-8472-472d-9903-8bd2471868e1)|![Bicep_contra_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/d74cfbcc-01fe-4100-b90c-b3ea321c7d39)|
 
 ##### 3.6.3. Lectura del musculo gemelo de la pantorrilla en python
 
-|  *Pierna en oposición*  | *Pierna sin oposición* | *Pierna con oposición* |
+|  *Pierna en reposo*  | *Pierna sin oposición* | *Pierna con oposición* |
 |:------------:|:---------------:|:------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd7e29b1-d61b-4be6-befa-e061fe3a6ad7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/97120fc9-2a07-488a-acd9-81c31a551415)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f64e938-6199-4083-a62c-741eb4a157a7)|
+|![Pierna_reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/2be51c73-2aad-4284-a81f-b267c32ab54a)|![Pierna_flexión](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/c88540c0-f4a4-41c8-9939-5e771f7951e1)|![Pierna_contra](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/550f4e78-f06a-4bc5-8f71-9b7549497c85)|
 
 |  *Intervalo respectivo*  | *Intervalo respectivo* | *Intervalo respectivo* |
 |:------------:|:---------------:|:------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd7e29b1-d61b-4be6-befa-e061fe3a6ad7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/97120fc9-2a07-488a-acd9-81c31a551415)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f64e938-6199-4083-a62c-741eb4a157a7)|
- 
+|![Pierna_reposo_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/3581fc5a-d611-4430-879d-8d0ddf1ec9b3)|![Pierna_flexión_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/c0c99924-371a-4743-a246-ff13ec177b43)|![Pierna_contra_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/85840e2b-c3cb-4a92-9ef5-82495df85264)|
+
    
 ## *4. Bibliografia* <a name="id10"></a>
 
