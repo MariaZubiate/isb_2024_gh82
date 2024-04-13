@@ -58,7 +58,7 @@ En este experimento, se presentan tres tipos de ensayos realizados para estudiar
 |:------------:|:---------------:|:------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/992c45ce-b300-4fde-93e4-c8b830b24b83"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2f7bf97c-3a95-4edb-8198-c4461e802a22"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/965ca49e-ba45-41da-9031-d3ccff87b05c"></video>|
 
-
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo bíceps del brazo. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
 
 ##### 3.2.2. Lectura del musculo bíceps del brazo
 
