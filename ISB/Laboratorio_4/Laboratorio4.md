@@ -1,4 +1,5 @@
 
+
 # Laboratorio 4
 
 # *Tabla de contenidos*
@@ -38,25 +39,25 @@ Se utilizó la placa Bitalino con conexión EMG, empleando el sensor EMG de 3 el
 
 ##### 3.2.1. Lectura del musculo de la mano
 
-|  *Mano en reposo*  | *Mano sin presión* | *Mano con presión* |
+|  *Mano en reposo*  | *Mano sin oposición* | *Mano con oposición* |
 |:------------:|:---------------:|:------------:|
-|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/8c07733a-7538-4480-b4ad-f8ff05b5f38c"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/ccb2f6aa-a953-45ee-9942-67a8ae745be7"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/43c03788-4cbd-44e8-83b4-b69e6f64da2f"></video>|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/992c45ce-b300-4fde-93e4-c8b830b24b83"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2f7bf97c-3a95-4edb-8198-c4461e802a22"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/965ca49e-ba45-41da-9031-d3ccff87b05c"></video>|
 
 
 
 ##### 3.2.2. Lectura del musculo del brazo
 
-|  *Brazo en reposo*  | *Brazo sin presión* | *Brazo con presión* |
+|  *Brazo en reposo*  | *Brazo sin oposición* | *Brazo con oposición* |
 |:------------:|:---------------:|:------------:|
-|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/ba43d724-7204-4ad6-aaed-bf3308490e7e"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/ee81fd0d-6b0a-4ae4-9b1a-e9948c32d394"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e851e9cb-2889-4f30-814d-93e3a1622012"></video>|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f7f49c2-6be4-4870-a7e8-eceb64c939a5"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/584f563d-ff11-4118-9ac6-21e6ea6a8d99"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/8cfe8ff7-a35b-416f-97b7-32faa4c2a6cb"></video>|
 
  
 
 ##### 3.2.3. Lectura del musculo de la pierna
 
-|  *Pierna en reposo*  | *Pierna sin presión* | *Pierna con presión* |
+|  *Pierna en oposición*  | *Pierna sin oposición* | *Pierna con oposición* |
 |:------------:|:---------------:|:------------:|
-|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/9c89bdef-4107-46ef-871c-6762a52f5378"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/0c059628-d641-49e3-9f8a-c8d99518e482"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/305c3eea-6430-4a4c-99c0-b83f9ac8d573"></video>|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1605be48-11b0-41d0-848f-ce09309d112d"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/dfba9255-2c5c-4456-888c-cf01668151e9"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/677f8032-84da-4d45-aebb-cef48d437505"></video>|
 
  
  
