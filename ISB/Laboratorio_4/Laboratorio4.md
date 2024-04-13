@@ -50,7 +50,9 @@ Descripción de los patrones de actividad eléctrica esperados durante una elect
 |:------------:|:---------------:|:------------:|
 |Líneas de base estables.|Potenciales de acción muscular en respuesta al movimiento|Cambios en la amplitud y frecuencia de los potenciales de acción muscular en relación con la fuerza y velocidad del movimiento|
 
-##### 3.2.1. Lectura del musculo de la mano
+##### 3.2.1. Lectura del musculo flexor del pulgar
+
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo felxor del pulgar. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
 
 |  *Mano en reposo*  | *Mano sin oposición* | *Mano con oposición* |
 |:------------:|:---------------:|:------------:|
@@ -58,7 +60,9 @@ Descripción de los patrones de actividad eléctrica esperados durante una elect
 
 
 
-##### 3.2.2. Lectura del musculo del brazo
+##### 3.2.2. Lectura del musculo bíceps del brazo
+
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo bíceps del brazo. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
 
 |  *Brazo en reposo*  | *Brazo sin oposición* | *Brazo con oposición* |
 |:------------:|:---------------:|:------------:|
@@ -66,9 +70,11 @@ Descripción de los patrones de actividad eléctrica esperados durante una elect
 
  
 
-##### 3.2.3. Lectura del musculo de la pierna
+##### 3.2.3. Lectura del musculo gemelo de la pantorrilla
 
-|  *Pierna en oposición*  | *Pierna sin oposición* | *Pierna con oposición* |
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo gemelo de la pantorrilla. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
+
+|  *Pierna en reposo*  | *Pierna sin oposición* | *Pierna con oposición* |
 |:------------:|:---------------:|:------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1605be48-11b0-41d0-848f-ce09309d112d"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/dfba9255-2c5c-4456-888c-cf01668151e9"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/677f8032-84da-4d45-aebb-cef48d437505"></video>|
 
@@ -76,15 +82,54 @@ Descripción de los patrones de actividad eléctrica esperados durante una elect
  
 ### *3.3. Ploteo de la señal en OpenSignals* <a name="id6"></a> 
 
+El siguiente video es una recopilación de las imagenes obtenidas por OpenSignals de todos los ensayos en el laboratorio
+
+[![Alt Text](http://img.youtube.com/vi/Wbo8ktPWpFk/0.jpg)](https://youtu.be/Wbo8ktPWpFk)
+
+
+
 ### *3.4. Resumen y explicación de la señal ploteada* <a name="id7"></a> 
 
 
 ### *3.5. Archivo de los datos de la señal ploteada* <a name="id8"></a> 
 
+En el siguiente link se puede visualizar los archivos .txt de cada ensayo realizado
+
 [Documentos_txt](./Documentos_txt)
 
 ### *3.6. Ploteo de la señal en Python* <a name="id9"></a> 
+##### 3.6.1. Lectura del musculo flexor del pulgar en python
 
+|  *Pulgar en reposo*  | *Pulgar sin oposición* | *Pulgar con oposición* |
+|:------------:|:---------------:|:------------:|
+|![Pulgar_reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/ea650291-c626-42d1-96a3-71eb2b2c1f6a)|![Pulgar_flexión](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f4bd28d6-2412-49e2-8f42-4aeb02572335)|![Pulgar_Contra](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/671297fd-4322-4ad3-8094-2fc511170736)|
+
+|  *Intervalo respectivo*  | *Intervalo respectivo* | *Intervalo respectivo* |
+|:------------:|:---------------:|:------------:|
+
+|![Pulgar_reposo_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/b74a79d2-78d1-43c1-91b4-ee24a39b73b1)|![Pulgar_flexión_Int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/d6b1a840-a672-4459-b8ee-9dd299fd306b)|![Pulgar_contra_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/be410d64-29a1-44da-a10c-88a79e86fed4)|
+
+##### 3.6.2. Lectura del musculo bíceps del brazo en python
+
+|  *Brazo en reposo*  | *Brazo sin oposición* | *Brazo con oposición* |
+|:------------:|:---------------:|:------------:|
+|![Bicep_reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/7227ab9f-9e12-44c5-8ad2-eb362351156e)|![Bicep_flexión](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6a85b086-9fb8-4cc4-a952-a5458e5e7111)|![Bicep_contra](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/14e9c29d-bf43-45ab-a9c4-a32181bd0a00)|
+
+
+|  *Intervalo respectivo*  | *Intervalo respectivo* | *Intervalo respectivo* |
+|:------------:|:---------------:|:------------:|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd7e29b1-d61b-4be6-befa-e061fe3a6ad7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/97120fc9-2a07-488a-acd9-81c31a551415)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f64e938-6199-4083-a62c-741eb4a157a7)|
+
+##### 3.6.3. Lectura del musculo gemelo de la pantorrilla en python
+
+|  *Pierna en oposición*  | *Pierna sin oposición* | *Pierna con oposición* |
+|:------------:|:---------------:|:------------:|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd7e29b1-d61b-4be6-befa-e061fe3a6ad7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/97120fc9-2a07-488a-acd9-81c31a551415)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f64e938-6199-4083-a62c-741eb4a157a7)|
+
+|  *Intervalo respectivo*  | *Intervalo respectivo* | *Intervalo respectivo* |
+|:------------:|:---------------:|:------------:|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd7e29b1-d61b-4be6-befa-e061fe3a6ad7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/97120fc9-2a07-488a-acd9-81c31a551415)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f64e938-6199-4083-a62c-741eb4a157a7)|
+ 
    
 ## *4. Bibliografia* <a name="id10"></a>
 
