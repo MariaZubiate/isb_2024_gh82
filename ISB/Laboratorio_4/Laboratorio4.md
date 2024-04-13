@@ -89,8 +89,11 @@ El siguiente video es una recopilación de las imagenes obtenidas por OpenSignal
 
 
 ### *3.4. Resumen y explicación de la señal ploteada* <a name="id7"></a> 
+Analizando los gráficos obtenidos, se puede observar claramente cómo varía la amplitud del voltaje en función del estado de actividad del músculo. En el caso de las señales obtenidas durante el reposo muscular, es evidente que la actividad eléctrica es mínima, reflejada por la baja amplitud del voltaje, la cual oscila típicamente entre -20 y 20 mV tanto para el músculo del pulgar como para los bíceps. Esto indica que durante el reposo, la actividad eléctrica en los músculos es casi nula, lo cual es esperado dado que no se está ejerciendo ninguna fuerza o movimiento significativo.
 
+Por otro lado, al analizar las señales durante el movimiento de flexión y extensión muscular, se observa un marcado cambio en la amplitud del voltaje. Durante la fase de flexión, cuando el músculo se contrae y genera tensión, la amplitud del voltaje aumenta significativamente, alcanzando valores muy altos. Este aumento en la amplitud del voltaje refleja la intensa actividad eléctrica generada por la contracción muscular. En contraste, durante la fase de extensión, cuando el músculo se relaja, la amplitud del voltaje tiende a disminuir, ya que la actividad eléctrica asociada con la contracción muscular se reduce gradualmente.
 
+Además, al introducir una fuerza de oposición al movimiento, se puede observar cómo la amplitud del voltaje aumenta aún más. Este aumento en la amplitud del voltaje durante la resistencia externa indica un mayor esfuerzo muscular para contrarrestar la fuerza opuesta. Valores de amplitud superiores a 1.3V sugieren un elevado grado de fuerza muscular aplicada para superar la resistencia externa, lo cual es indicativo del nivel de esfuerzo y actividad muscular requerido para vencer la oposición.
 ### *3.5. Archivo de los datos de la señal ploteada* <a name="id8"></a> 
 
 En el siguiente link se puede visualizar los archivos .txt de cada ensayo realizado
