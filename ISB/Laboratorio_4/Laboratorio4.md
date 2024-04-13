@@ -82,6 +82,12 @@ En este experimento, se presentan tres tipos de ensayos realizados para estudiar
  
 ### *3.3. Ploteo de la señal en OpenSignals* <a name="id6"></a> 
 
+El siguiente video es una recopilación de las imagenes obtenidas por OpenSignals de todos los ensayos en el laboratorio
+
+[![Alt Text](http://img.youtube.com/vi/Wbo8ktPWpFk/0.jpg)](https://youtu.be/Wbo8ktPWpFk)
+
+
+
 ### *3.4. Resumen y explicación de la señal ploteada* <a name="id7"></a> 
 
 
