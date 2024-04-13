@@ -50,9 +50,9 @@ Descripción de los patrones de actividad eléctrica esperados durante una elect
 |:------------:|:---------------:|:------------:|
 |Líneas de base estables.|Potenciales de acción muscular en respuesta al movimiento|Cambios en la amplitud y frecuencia de los potenciales de acción muscular en relación con la fuerza y velocidad del movimiento|
 
-##### 3.2.1. Lectura del musculo de la mano
+##### 3.2.1. Lectura del musculo flexor del pulgar
 
-En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo de la mano. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo felxor del pulgar. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
 
 |  *Mano en reposo*  | *Mano sin oposición* | *Mano con oposición* |
 |:------------:|:---------------:|:------------:|
@@ -60,9 +60,9 @@ En este experimento, se presentan tres tipos de ensayos realizados para estudiar
 
 
 
-##### 3.2.2. Lectura del musculo del brazo
+##### 3.2.2. Lectura del musculo bíceps del brazo
 
-En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo del brazo. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo bíceps del brazo. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
 
 |  *Brazo en reposo*  | *Brazo sin oposición* | *Brazo con oposición* |
 |:------------:|:---------------:|:------------:|
@@ -70,9 +70,9 @@ En este experimento, se presentan tres tipos de ensayos realizados para estudiar
 
  
 
-##### 3.2.3. Lectura del musculo de la pierna
+##### 3.2.3. Lectura del musculo gemelo de la pantorrilla
 
-En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo de la pierna. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo gemelo de la pantorrilla. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
 
 |  *Pierna en reposo*  | *Pierna sin oposición* | *Pierna con oposición* |
 |:------------:|:---------------:|:------------:|
@@ -98,17 +98,17 @@ En el siguiente link se puede visualizar los archivos .txt de cada ensayo realiz
 [Documentos_txt](./Documentos_txt)
 
 ### *3.6. Ploteo de la señal en Python* <a name="id9"></a> 
-##### 3.6.1. Lectura del musculo de la mano en python
+##### 3.6.1. Lectura del musculo flexor del pulgar en python
 
 |  *Mano en reposo*  | *Mano sin oposición* | *Mano con oposición* |
 |:------------:|:---------------:|:------------:|
-|![Imagen de WhatsApp 2024-04-13 a las 12 37 57_6449a3ca](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/569b5a43-5ecf-42f3-b509-c3f8efcb7069)|![Imagen de WhatsApp 2024-04-13 a las 12 37 57_e4608dd3](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/2643fa36-83a5-447a-a1b3-378377ce2b84)|![Imagen de WhatsApp 2024-04-13 a las 12 37 56_c2e9c967](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/bfcf89ae-2e88-483b-bd2c-a7768be47260)|
+|![Pulgar_reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/ea650291-c626-42d1-96a3-71eb2b2c1f6a)|![Pulgar_flexión](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f4bd28d6-2412-49e2-8f42-4aeb02572335)|![Pulgar_Contra](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/671297fd-4322-4ad3-8094-2fc511170736)|
 
 |  *Intervalo respectivo*  | *Intervalo respectivo* | *Intervalo respectivo* |
 |:------------:|:---------------:|:------------:|
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd7e29b1-d61b-4be6-befa-e061fe3a6ad7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/97120fc9-2a07-488a-acd9-81c31a551415)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f64e938-6199-4083-a62c-741eb4a157a7)|
 
-##### 3.6.2. Lectura del musculo del brazo en python
+##### 3.6.2. Lectura del musculo bíceps del brazo en python
 
 |  *Brazo en reposo*  | *Brazo sin oposición* | *Brazo con oposición* |
 |:------------:|:---------------:|:------------:|
@@ -118,7 +118,7 @@ En el siguiente link se puede visualizar los archivos .txt de cada ensayo realiz
 |:------------:|:---------------:|:------------:|
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd7e29b1-d61b-4be6-befa-e061fe3a6ad7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/97120fc9-2a07-488a-acd9-81c31a551415)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f64e938-6199-4083-a62c-741eb4a157a7)|
 
-##### 3.6.3. Lectura del musculo de la pierna en python
+##### 3.6.3. Lectura del musculo gemelo de la pantorrilla en python
 
 |  *Pierna en oposición*  | *Pierna sin oposición* | *Pierna con oposición* |
 |:------------:|:---------------:|:------------:|
