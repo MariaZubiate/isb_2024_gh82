@@ -52,6 +52,8 @@ Descripción de los patrones de actividad eléctrica esperados durante una elect
 
 ##### 3.2.1. Lectura del musculo de la mano
 
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo de la mano. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
+
 |  *Mano en reposo*  | *Mano sin oposición* | *Mano con oposición* |
 |:------------:|:---------------:|:------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/992c45ce-b300-4fde-93e4-c8b830b24b83"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2f7bf97c-3a95-4edb-8198-c4461e802a22"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/965ca49e-ba45-41da-9031-d3ccff87b05c"></video>|
@@ -59,6 +61,8 @@ Descripción de los patrones de actividad eléctrica esperados durante una elect
 
 
 ##### 3.2.2. Lectura del musculo del brazo
+
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo del brazo. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
 
 |  *Brazo en reposo*  | *Brazo sin oposición* | *Brazo con oposición* |
 |:------------:|:---------------:|:------------:|
@@ -68,7 +72,9 @@ Descripción de los patrones de actividad eléctrica esperados durante una elect
 
 ##### 3.2.3. Lectura del musculo de la pierna
 
-|  *Pierna en oposición*  | *Pierna sin oposición* | *Pierna con oposición* |
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo de la pierna. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
+
+|  *Pierna en reposo*  | *Pierna sin oposición* | *Pierna con oposición* |
 |:------------:|:---------------:|:------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1605be48-11b0-41d0-848f-ce09309d112d"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/dfba9255-2c5c-4456-888c-cf01668151e9"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/677f8032-84da-4d45-aebb-cef48d437505"></video>|
 
