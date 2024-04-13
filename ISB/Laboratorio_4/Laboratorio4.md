@@ -9,10 +9,11 @@
      3.1 [Fotos de conexión usada](#id4)\
      3.2 [Video de señal](#id5)\
      3.3 [Ploteo de la señal en OpenSignal](#id6)\
-     3.4 [Archivos](#id7)\
-     3.5 [Ploteo de la señal en Python](#id8)
-
-
+     3.4 [Resumen y explicación de la señal ploteada](#id7)\
+     3.5 [Archivo de los datos de la señal ploteada](#id8)\
+     3.6 [Ploteo de la señal en Python](#id9)\
+4. [Bibliografia](#id10)
+   
 ## *Objetivos* <a name="id1"></a>
 * Adquirir señales biomédicas de EMG.
 * Hacer una correcta configuración de BiTalino.
@@ -25,7 +26,7 @@
 ## *RESULTADOS* <a name="id3"></a>
 
 ### *Fotos de conexión usada* <a name="id4"></a>
-Se utilizó la placa Bitalino con conexión EMG, empleando el sensor EMG de 3 electrodos, como se puede visualizar en la 
+Se utilizó la placa Bitalino con conexión EMG, empleando el sensor EMG de 3 electrodos, como se puede visualizar en la siguiente imagen 
 
 <p align="center">
   <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/be068f65-d8cb-4049-86eb-769473c3d3de" alt="Bitalino" width="200">
@@ -58,28 +59,22 @@ Se utilizó la placa Bitalino con conexión EMG, empleando el sensor EMG de 3 el
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/9c89bdef-4107-46ef-871c-6762a52f5378"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/0c059628-d641-49e3-9f8a-c8d99518e482"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/305c3eea-6430-4a4c-99c0-b83f9ac8d573"></video>|
 
  
-###### Lectura en reposo 
-
-
-
-###### Lectura en actividad con presión 
-
-
-
-###### Lectura en actividad con presión
-
  
-#### 3. Ploteo de la señal en OpenSignals.
+### *Ploteo de la señal en OpenSignals* <a name="id6"></a> 
+
+### *Resumen y explicación de la señal ploteada* <a name="id7"></a> 
 
 
-
-#### 4. Resumen y explicación de la señal ploteada.
-
-#### 5. El archivo de los datos de la señal ploteada.
+### *Archivo de los datos de la señal ploteada* <a name="id8"></a> 
 
 [Documentos_txt](./Documentos_txt)
 
-#### 6. Ploteo de la señal en Python
+### *Ploteo de la señal en Python* <a name="id9"></a> 
+
+
+   
+## *Bibliografia* <a name="id10"></a>
+
 
 
 
