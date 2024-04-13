@@ -28,7 +28,7 @@
 ##
 La electromiografía y la velocidad de conducción nerviosa son procedimientos fundamentales en el diagnóstico y seguimiento de patologías que afectan el sistema nervioso periférico en pacientes pediátricos. La Guía de Procedimiento de Electromiografía y Velocidad de Conducción de Nervios Periféricos, elaborada por el Instituto Nacional de Salud del Niño – San Borja, proporciona un marco técnico estandarizado para la realización de estos estudios[1]. 
 
-En nuestro laboratorio, nos hemos guiado por este documento para llevar a cabo tres pruebas de electromiografía en diferentes regiones del cuerpo: mano, brazo y pierna. Esta guía nos ha permitido estandarizar los procesos, garantizando la calidad de los estudios realizados y asegurando una buena obtención de resultados.
+En nuestro laboratorio, nos hemos guiado por este documento para llevar a cabo tres pruebas de electromiografía en diferentes regiones del cuerpo: mano, brazo y pierna. Esta guía nos ha permitido estandarizar los procesos, garantizando la calidad de los estudios realizados y asegurando una buena obtención de resultados. Además, para un adecuado manejo del software OpenSignals nos basamos en la guía oficial del desarrollador[2].
 ##
 
 ## *3. RESULTADOS* <a name="id3"></a>
@@ -52,7 +52,7 @@ Descripción de los patrones de actividad eléctrica esperados durante una elect
 
 ##### 3.2.1. Lectura del musculo flexor del pulgar
 
-En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo felxor del pulgar. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad del músculo felxor del pulgar. Estos ensayos incluyen momentos en los que el músculo está en movimiento, momentos de actividad sin oposición y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento.
 
 |  *Mano en reposo*  | *Mano sin oposición* | *Mano con oposición* |
 |:------------:|:---------------:|:------------:|
@@ -136,6 +136,7 @@ En el siguiente link se puede visualizar los archivos .txt de cada ensayo realiz
 ## *4. Bibliografia* <a name="id10"></a>
 
 [1] Instituto Nacional de Salud del Niño – San Borja. "Guía de Procedimiento de Electromiografía y Velocidad de Conducción de Nervios Periféricos." Fecha: Octubre 2020. Código: GP-001/INSNSB/UAIE/SUAIEPSE – Neurología Pediátrica V01. Página 1-39.
+[2] Support Plux Biosignals official (no date) Support PLUX Biosignals official. Available at: https://support.pluxbiosignals.com/article-categories/documentation/ Fecha: 12 April 2024. 
 
 
 
