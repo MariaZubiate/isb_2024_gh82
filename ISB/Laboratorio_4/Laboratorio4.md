@@ -135,10 +135,10 @@ En el siguiente link se puede visualizar los archivos .txt de cada ensayo realiz
 
    
 ## *4. Bibliografia* <a name="id10"></a>
-
+#
 [1] Instituto Nacional de Salud del Niño – San Borja. "Guía de Procedimiento de Electromiografía y Velocidad de Conducción de Nervios Periféricos." Fecha: Octubre 2020. Código: GP-001/INSNSB/UAIE/SUAIEPSE – Neurología Pediátrica V01. Página 1-39.
 [2] Support Plux Biosignals official (no date) Support PLUX Biosignals official. Available at: https://support.pluxbiosignals.com/article-categories/documentation/ Fecha: 12 April 2024. 
 [3] BITalino (r)evolution Lab Guide. (n.d.). Retrieved April 13, 2024, from https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf
-
+#
 
 
