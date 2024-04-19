@@ -1,176 +1,153 @@
-# isb_2024_gh82
-# ¿Quiénes somos?
-
-<p style="font-family: Arial, sans-serif; font-size: 18px; color: #333;">Somos un grupo de apasionados estudiantes de interesados en explorar el campo de las señales biomédicas. Nos encontramos en un viaje de aprendizaje conjunto, donde buscamos aplicar nuestros conocimientos teóricos en este proyecto que llevaremos en el transcurso del ciclo 2024-1.</p>
 
 
-![Foto de grupo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/236e182c-c8f8-4712-a984-01cce784d439)
-
-<p style="font-family: Arial, sans-serif; font-size: 26px; color: #333; text-align: center;"><strong>CULTURA ORGANIZACIONAL</strong></p>
-<p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;"><i>«la innovación es lo que distingue a un líder de los demás»</i></p>
-
-<p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;"><strong>MISIÓN</strong></p>
-<p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;">Nuestra misión es explorar y comprender las complejidades de las señales biomédicas, aplicando de manera creativa y rigurosa nuestros conocimientos teóricos.</p>
-
-<p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;"><strong>VISIÓN</strong></p>
-<p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;">Como estudiantes apasionados por las señales biomédicas, aspiramos a convertirnos en líderes en el campo, impulsando el desarrollo de tecnologías y metodologías que revolucionen la atención médica.</p>
-
-<p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;"><strong>VALORES</strong></p>
-<p style="font-family: Arial, sans-serif; font-size: 20px; color: #333;">Excelencia, integridad, responsabilidad con los demás miembros en el equipo, pasión e innovación.</p>
-
-## Repositorio del grupo 8 para el curso de Introducción a Señales Biomédicas(2024-1)
-## Tabla de Contenidos
-
-* [Introducción](#introducción)
-* [Problemática](#problemática)
-* [Metodología](#metodología)
-* [Solución](#solución)
-
-
+# Laboratorio 5
 ## Integrantes
+- Christian Martin Mucha Huatuco
 
-##### 1. Gianni Di Trani  - gianni.ditranig@gmail.com
-![Gianni Di Trani](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/7bc954aa-1480-49ca-a2cc-fb4aa8ffd471)
+- Maria del Carmen Zubiate Castillo
 
-##### 2. María Zubiate - maria.zubiate@upch.pe
-![Maria (12)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/15ccde3b-2f0c-4372-9093-5115b2751347)
+- Jossef Caleb Tintaya Salva
 
+- Gianni Atilio Di Trani Grández
 
-##### 3. Christian Mucha - christian.mucha@upch.pe
-![Christian (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5925b2c5-aed4-48e8-bb33-ab4e581a9c7e)
+# *Tabla de contenidos*
 
+1. [Objetivos](#id1)
+2. [Materiales y equipos](#id2)
+3. [Resultados](#id3)\
+     3.1 [Fotos de conexión usada](#id4)\
+     3.2 [Video de señal](#id5)\
+     3.3 [Ploteo de la señal en OpenSignal](#id6)\
+     3.4 [Resumen y explicación de la señal ploteada](#id7)\
+     3.5 [Archivo de los datos de la señal ploteada](#id8)\
+     3.6 [Ploteo de la señal en Python](#id9)
+4. [Bibliografia](#id10)
+   
+## *1. Objetivos* <a name="id1"></a>
+* Adquirir señales biomédicas de EMG.
+* Hacer una correcta configuración de BiTalino.
+* Extraer la información de las señales EMG del software OpenSignals (r)evolution
 
-##### 4. Jossef Tintaya - cristian.mucha@upch.pe
-![jossef (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/39514d72-00ce-4b6b-9fba-342651bc6dc7)
+## *2. Materiales y equipos* <a name="id2"></a>
+* Kit BITalino
+* Laptop  
 
-
-
-## Plan de Trabajo
-
-| Fecha  | Actividad | Encargado | Estado
-| ------------- | ------------- | ------------- | -------------
-| 22/03/24  | GitHub  | Todos | Completado
-| 30/03/24  | Recopilación de información  | Todos | Completado
-| 02/04/24  | Definición de la problematica y la solución  | Todos | En proceso
 
 ##
+La electromiografía y la velocidad de conducción nerviosa son procedimientos fundamentales en el diagnóstico y seguimiento de patologías que afectan el sistema nervioso periférico en pacientes pediátricos. La Guía de Procedimiento de Electromiografía y Velocidad de Conducción de Nervios Periféricos, elaborada por el Instituto Nacional de Salud del Niño – San Borja, proporciona un marco técnico estandarizado para la realización de estos estudios[1]. 
+
+En nuestro laboratorio, nos hemos guiado por este documento para llevar a cabo tres pruebas de electromiografía en diferentes regiones del cuerpo: mano, brazo y pierna. Esta guía nos ha permitido estandarizar los procesos, garantizando la calidad de los estudios realizados y asegurando una buena obtención de resultados. Además, para un adecuado manejo del software OpenSignals y el dispositivo BITalino nos basamos en la guía oficial del desarrollador[2],[3].
+##
+
+## *3. RESULTADOS* <a name="id3"></a>
+
+### *3.1. Fotos de conexión usada* <a name="id4"></a>
+Se utilizó la placa Bitalino con conexión EMG, empleando el sensor EMG de 3 electrodos, como se puede visualizar en la siguiente imagen 
+
+<p align="center">
+  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/be068f65-d8cb-4049-86eb-769473c3d3de" alt="Bitalino" width="200">
+</p>
 
 
-#### Introducción
 
-El Síndrome del Túnel Carpiano (STC) es una afección común que causa síntomas como dolor y entumecimiento en la mano debido a la compresión del nervio mediano. A pesar de la variedad de tratamientos disponibles, la falta de motivación y adherencia de los pacientes a menudo dificulta el éxito de la rehabilitación. Para abordar este desafío, proponemos un enfoque innovador que combina la rehabilitación física con la tecnología de juegos interactivos. Este proyecto utiliza señales electromiográficas (EMG) para controlar un juego de pon, convirtiendo la rehabilitación en una experiencia lúdica y motivadora para los pacientes. Se espera que esta aproximación mejore la adherencia al tratamiento y los resultados de la rehabilitación del STC, ofreciendo una alternativa efectiva y atractiva a las terapias tradicionales.
+### *3.2. Video de la señal* <a name="id5"></a>
 
-#### Problemática
+Descripción de los patrones de actividad eléctrica esperados durante una electromiografía (EMG).
 
-<div align="center">
-  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e0f0cc89-a3a1-4b54-8dc1-b9770d880adc" alt="Descripción de la imagen">
-</div>
-Fig.1. Sindrome del Tunel Carpiano.
-Fuente:“Síndrome del Túnel Carpiano: causas, síntomas y tratamiento”. Top Doctors. Accedido el 3 de abril de 2024
+|  *En reposo*  | *Sin oposición* | *Con oposición* |
+|:------------:|:---------------:|:------------:|
+|Líneas de base estables.|Potenciales de acción muscular en respuesta al movimiento|Cambios en la amplitud y frecuencia de los potenciales de acción muscular en relación con la fuerza y velocidad del movimiento|
+##
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar la actividad de el flexor pulgar de la mano, músculo bíceps del brazo y del músculo gemelo de la pantorrilla. Estos ensayos incluyen momentos en los que el músculo está sin actividad o en reposo, momentos de flexión natural, y momentos de actividad con oposición. Cada tipo de ensayo ofrece información valiosa sobre la respuesta del músculo en diferentes condiciones, lo que permite un análisis más completo de su funcionamiento y comportamiento en base a valores de voltaje en el orden de los milivoltios.
+##
+##### 3.2.1. Lectura del musculo flexor del pulgar
 
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar, específicamente, la actividad del músculo flexor del pulgar. Estos ensayos abarcan momentos en los que el músculo está en movimiento, ya sea en flexión natural o en contracción, momentos de actividad sin oposición y momentos de actividad con oposición. . Los electrodos se colocaron estratégicamente en el músculo objetivo para registrar con precisión los cambios en el voltaje durante cada tipo de actividad.
 
-El Síndrome del Túnel Carpiano (STC) es una condición médica que afecta la mano, caracterizada por la compresión del nervio mediano en el túnel del carpo. Esto ocasiona sensaciones de adormecimiento, hormigueo y dolor en la mano, especialmente en los dedos pulgar, índice, medio y anular. Los síntomas suelen empeorar durante la noche y con actividades que implican el uso repetitivo de la mano, como escribir, coser o conducir. En casos más graves, puede haber una pérdida de fuerza muscular en la base del pulgar. Las causas del STC pueden variar, desde factores anatómicos como túneles estrechos de nacimiento hasta condiciones médicas subyacentes como artritis reumatoide, hipotiroidismo o diabetes. El diagnóstico se basa en la evaluación clínica y pruebas como la electromiografía. El tratamiento inicialmente puede implicar medidas conservadoras como la inmovilización y terapia física, pero en casos avanzados, puede ser necesaria la intervención quirúrgica para aliviar la compresión del nervio mediano y restaurar la función de la mano[1].
+|  *Mano en reposo*  | *Mano sin oposición* | *Mano con oposición* |
+|:------------:|:---------------:|:------------:|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/992c45ce-b300-4fde-93e4-c8b830b24b83"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2f7bf97c-3a95-4edb-8198-c4461e802a22"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/965ca49e-ba45-41da-9031-d3ccff87b05c"></video>|
 
+##### 3.2.2. Lectura del musculo bíceps del brazo
 
-El Síndrome del Túnel Carpiano (STC) es una preocupación significativa de salud pública, con una prevalencia entre la población adulta, según múltiples estudios [3,4,5,6,7]. Los hallazgos muestran una gran disparidad de género, con un predominio de casos en mujeres, siendo hasta el 91%, como se evidencia en el estudio llevado a cabo en el hospital de Trujillo [1]. Asimismo, el mayor número de casos se presenta en personas de entre 40 a 
-60 años de edad [3,7]. De acuerdo con los datos, la incidencia del STC en la población oscila entre el 1% y el 5%, con una proporción de 3 mujeres por cada hombre [7,8]. Además, en Perú, según EsSalud en el 2023, se ha reportado un aumento del 50% en pacientes, siendo las mujeres de 20 a 40 años las más afectadas, posiblemente debido al trabajo remoto y al uso constante de dispositivos electrónicos.
-
-Existen diferentes tratamientos para este síndrome, uno de ellos es el tratamiento conservador basado en fisioterapia, este se enfoca, principalmente, en la realización de movimientos repetitivos, de entre 8 a 12 repeticiones, en la muñeca y dedos[4]. Primero analizaremos cada movimiento y los músculos participantes, al final podremos seleccionar los músculos más trascendentales que merecen nuestro enfoque y ubicación de los electrodos. 
-
-Por tanto, a nivel de la articulación de la muñeca tenemos movimientos tales como: 
-
-## Flexión dorsal(extensión) y flexión palmar 
-
-Los músculos que intervienen durante la flexión son: flexores del antebrazo, palmar mayor, cubital anterior, flexores de los dedos (flexores superficiales y profundos) y abductor del pulgar. 
-Por otro lado, durante la extensión intervienen músculos extensores del brazo: extensor radial largo del carpo, extensor radial corto del carpo, extensor cubital del carpo, extensor común de los dedos y el extensor propio del meñique. Además de los músculos extensores del pulgar: extensor largo del pulgar, extensor corto del pulgar y aductor del pulgar.
-![Captura de pantalla 2024-04-03 074716](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/1455e6d0-adc7-4f98-875b-d40a441238b8)
-
-Fig.2. Movimientos de extensión y flexión palmar en rangos normales.
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar, específicamente, la actividad del músculo bíceps del brazo. Estos ensayos abarcan momentos en los que el músculo está en movimiento, ya sea en flexión natural o en contracción, momentos de actividad sin oposición y momentos de actividad con oposición. . Los electrodos se colocaron estratégicamente en el músculo objetivo para registrar con precisión los cambios en el voltaje durante cada tipo de actividad.
 
 
-## Abducción y aducción de la muñeca
-Los músculos involucrados en abducción son: extensor radial largo del carpo y extensor radial corto del carpo. Los músculos involucrados en la aducción son: flexor cubital del carpo (también conocido como flexor ulnar del carpo) y el palmar mayor.
-![Captura de pantalla 2024-04-03 075210](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8fab8cf1-5792-4414-a209-ba741596d2a2)
+|  *Brazo en reposo*  | *Brazo sin oposición* | *Brazo con oposición* |
+|:------------:|:---------------:|:------------:|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3f7f49c2-6be4-4870-a7e8-eceb64c939a5"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/584f563d-ff11-4118-9ac6-21e6ea6a8d99"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/8cfe8ff7-a35b-416f-97b7-32faa4c2a6cb"></video>|
 
-Fig.3. Movimientos de abducción y aducción palmar en rangos normales.
+ 
 
+##### 3.2.3. Lectura del musculo gemelo de la pantorrilla
 
-## Pronación y supinación palmar
-En este movimiento los músculos involucrados en la pronación son: pronador redondo, pronador cuadrado y braquiorradial. Y para la supinación se necesita la acción del supinador y bíceps braquial.
-![Captura de pantalla 2024-04-03 075222](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/011d5ceb-1ec0-4934-9f0e-d6991bfcd30b)
-Fig.4. Movimientos de pronación y supinación palmar.
+En este experimento, se presentan tres tipos de ensayos realizados para estudiar, específicamente, la actividad del músculo gemelo de la pantorrilla. Estos ensayos abarcan momentos en los que el músculo está en movimiento, ya sea en flexión natural o en contracción, momentos de actividad sin oposición y momentos de actividad con oposición. . Los electrodos se colocaron estratégicamente en el músculo objetivo para registrar con precisión los cambios en el voltaje durante cada tipo de actividad.
 
-Finalmente, a nivel de los dedos tenemos movimientos tales como:
+|  *Pierna en reposo*  | *Pierna sin oposición* | *Pierna con oposición* |
+|:------------:|:---------------:|:------------:|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1605be48-11b0-41d0-848f-ce09309d112d"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/dfba9255-2c5c-4456-888c-cf01668151e9"></video>|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/677f8032-84da-4d45-aebb-cef48d437505"></video>|
 
-## Flexión y extensión de articulaciones metacarpofalángicas
-Tenemos músculos participantes en la flexión tales como: flexor común superficial de los dedos y flexor común profundo de los dedos. Y los involucrados en la extensión son:  el extensor común de los dedos y el extensor propio del meñique.
-![Captura de pantalla 2024-04-03 075233](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/d83ca5be-5d0d-44cf-aa4d-643c29d12567)
+ 
+ 
+### *3.3. Ploteo de la señal en OpenSignals* <a name="id6"></a> 
 
-Fig.5. Movimientos de extensión y flexión palmar en rangos normales.
+El siguiente video es una recopilación de las imagenes obtenidas por OpenSignals de todos los ensayos en el laboratorio
 
-## Flexión y extensión proximal y distal de articulaciones interfalángicas
-Aquí los músculos involucrados en pronación son: pronador redondo, pronador cuadrado y el braquiorradial. Mientras que los músculos involucrados en la supinación son: supinador y el bíceps braquial. 
-![Captura de pantalla 2024-04-03 075312](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/2571e992-ab95-46d4-96be-791f39baae82)
-
-Fig.6. Movimientos de extensión y flexión proximal y distal en articulaciones interfalángicas en rangos normales.
-
-## Abducción y aducción de los dedos
-Aquí los músculos involucrados en abducción son los músculos interóseos dorsales; y en tanto a aducción está presente la acción de los músculos interóseos palmares. 
-Aquí es preciso recalcar que ninguno de estos músculos se encuentra conectado al antebrazo ni pasan por esa región anatómica por lo que no serán contemplados en el análisis posterior.
-![Captura de pantalla 2024-04-03 075351](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/0cbd2200-6fd7-4ea0-8e52-ff84970fe6df)
-
-Fig.7. Abducción y aducción de los dedos en rangos normales.
-
-## Abducción y aducción del pulgar
-En donde intervienen el abductor y aductor del pulgar.
-![Captura de pantalla 2024-04-03 075414](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/e680f23c-0e27-4a18-bde6-e2cbcc02998d)
-
-Fig.8. Abducción y aducción del pulgar con rangos normales.
-
-## Flexión y extensión del pulgar
-En donde intervienen el flexor y extensor del pulgar.
-![Captura de pantalla 2024-04-03 075445](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/394fb083-667a-487c-8010-9c6b234213ba)
-
-Fig.9. Flexión y extensión del pulgar en rangos normales.
-
-Estos ejercicios de rehabilitación son percibidos por gran parte de los pacientes como monótonos y triviales, además, también existen pacientes que empeoran la situación al realizar la terapia por sí mismos; de aquí se ve la necesidad de convertir esta experiencia en algo lúdico y seguro para el paciente.
+[![Alt Text](http://img.youtube.com/vi/Wbo8ktPWpFk/0.jpg)](https://youtu.be/Wbo8ktPWpFk)
 
 
-#### Metodología
-...
 
-#### Solución
+### *3.4. Resumen y explicación de la señal ploteada* <a name="id7"></a> 
+Analizando detenidamente los gráficos obtenidos, se despliega una panorámica reveladora de cómo la amplitud del voltaje fluctúa en armonía con el estado de actividad del músculo. En el reposo muscular, se manifiesta una actividad eléctrica mínima, representada por una baja amplitud del voltaje. Para el músculo flexor del pulgar, esta actividad oscilaba entre -20mV y -30mV aproximadamente, mientras que para el bíceps, se percibían fluctuaciones desde -20mV hasta 15mV, indicando una actividad basal de bajo nivel.
 
-El proyecto se enfoca en utilizar señales electromiográficas (EMG) para analizar los movimientos musculares, con el objetivo de controlar un juego de pon. Esta tecnología permitirá a los pacientes realizar sus terapias de rehabilitación física de una manera interactiva y motivadora. Al jugar al pon, los pacientes realizarán movimientos que fortalecerán los músculos afectados por el síndrome del túnel carpiano, mientras se divierten y se mantienen comprometidos con su tratamiento de rehabilitación.
+Al explorar el ciclo de flexión y extensión muscular, emerge un cambio pronunciado en la amplitud del voltaje. Durante la fase de flexión, el músculo se contrae vigorosamente, generando una tensión palpable que se refleja en un aumento considerable del voltaje. Para el pulgar en flexión natural, los valores se situaron entre -1V y 1.1V, mientras que para el bíceps en flexión, se experimentaron variaciones desde -1.5V hasta 1.5V, indicando una activación muscular más intensa.
 
-El proyecto consta de 4 fases:
+La introducción de una fuerza de oposición al movimiento desencadena una respuesta aún más marcada en la amplitud del voltaje. En el caso del pulgar sometido a una fuerza de oposición, la señal superó el intervalo de -1.5V a 1.5V, destacando el esfuerzo adicional requerido para contrarrestar la resistencia externa. Para el bíceps, en oposición a una fuerza, se registraron valores desde -200mV hasta 300mV, sugiriendo un aumento significativo en la actividad muscular para superar la oposición.
 
-1. Captura de señales EMG: Se colocan electrodos en los músculos de la mano y la muñeca para detectar las señales electromiográficas (EMG) generadas por la actividad muscular.
+El músculo gemelo de la pantorrilla, albergando una complejidad estructural y funcional notable, exhibió una variabilidad excepcional en las señales eléctricas. Durante el reposo, las señales se situaron en un rango amplio, desde -50mV hasta 150mV, reflejando una actividad eléctrica basal significativa. Durante la flexión o contracción, la amplitud del voltaje abarcó un espectro impresionante, desde -1600mV hasta 1600mV, lo que subraya la potencia y versatilidad de este músculo en su capacidad de generar fuerza. En oposición a una fuerza, el músculo gemelo de la pantorrilla exhibió una respuesta vigorosa, con valores desde -400mV hasta 400mV, destacando su capacidad para adaptarse y responder a demandas externas con eficacia.
+### *3.5. Archivo de los datos de la señal ploteada* <a name="id8"></a> 
 
-2. Análisis de movimientos: Las señales EMG se procesan para identificar los patrones de activación muscular.
+En el siguiente link se puede visualizar los archivos .txt de cada ensayo realizado
 
-3. Interfaz con el juego de pon: Estos patrones de activación muscular se utilizan como entrada para controlar el movimiento de la barra en el juego de pon.
+[Documentos_txt](./Documentos_txt)
 
-4. Feedback en tiempo real: Durante el juego, los pacientes reciben retroalimentación visual y auditiva sobre su desempeño, lo que les permite ajustar su técnica y mejorar su control muscular.
+### *3.6. Ploteo de la señal en Python* <a name="id9"></a> 
+##### 3.6.1. Lectura del musculo flexor del pulgar en python
 
-Con ello conseguiremos que los pacientes realicen movimientos musculares para mover la barra y jugar al pon. Este proceso involucra al paciente en su terapia y fortalece los músculos afectados por el síndrome del túnel carpiano.
-Así al combinar la rehabilitación con un juego interactivo y divertido, se fomenta la motivación y la adherencia al tratamiento, lo que puede mejorar significativamente los resultados de la rehabilitación del túnel carpiano.
+|  *Pulgar en reposo*  | *Pulgar sin oposición, flexión natural* | *Pulgar con oposición* |
+|:------------:|:---------------:|:------------:|
+|![Pulgar_reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/ea650291-c626-42d1-96a3-71eb2b2c1f6a)|![Pulgar_flexión](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f4bd28d6-2412-49e2-8f42-4aeb02572335)|![Pulgar_Contra](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/671297fd-4322-4ad3-8094-2fc511170736)|
+
+|  *Intervalo respectivo*  | *Intervalo respectivo* | *Intervalo respectivo* |
+|:------------:|:---------------:|:------------:|
+|![Pulgar_reposo_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/b74a79d2-78d1-43c1-91b4-ee24a39b73b1)|![Pulgar_flexión_Int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/d6b1a840-a672-4459-b8ee-9dd299fd306b)|![Pulgar_contra_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/be410d64-29a1-44da-a10c-88a79e86fed4)|
+
+##### 3.6.2. Lectura del musculo bíceps del brazo en python
+
+|  *Brazo en reposo*  | *Brazo sin oposición, flexión natural* | *Brazo con oposición* |
+|:------------:|:---------------:|:------------:|
+|![Bicep_reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/7227ab9f-9e12-44c5-8ad2-eb362351156e)|![Bicep_flexión](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6a85b086-9fb8-4cc4-a952-a5458e5e7111)|![Bicep_contra](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/14e9c29d-bf43-45ab-a9c4-a32181bd0a00)|
 
 
-#### Bibliografia
-[1] “Síndrome del Túnel Carpiano: causas, síntomas y tratamiento”. Top Doctors. [En línea]. Disponible: https://www.topdoctors.es/articulos-medicos/se-te-adormece-la-mano-o-tienes-hormigueos
+|  *Intervalo respectivo*  | *Intervalo respectivo* | *Intervalo respectivo* |
+|:------------:|:---------------:|:------------:|
+|![Bicep_reposo_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/244eadf5-1287-4f88-af54-24e03b64a297)|![Bicep_flexión_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/ad2ec23f-8472-472d-9903-8bd2471868e1)|![Bicep_contra_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/d74cfbcc-01fe-4100-b90c-b3ea321c7d39)|
 
-[2] «EsSalud advierte aumento del 50% de problemas en la muñeca debido al trabajo remoto y al uso constante de la computadora y el celular», Essalud. [En línea]. Disponible en: http://noticias.essalud.gob.pe/?inno-noticia=essalud-advierte-aumento-del-50-de-problemas-en-la-muneca-debido-al-trabajo-remoto-y-al-uso-constante-de-la-computadora-y-el-celular
+##### 3.6.3. Lectura del musculo gemelo de la pantorrilla en python
 
-[3] M. B. F. Melo, «CARACTERÍSTICAS CLÍNICO-EPIDEMIOLÓGICAS DEL SÍNDROME DEL TÚNEL CARPIANO EN PACIENTES CON TRATAMIENTO QUIRÚRGICO EN EL SERVICIO DE ORTOPEDIA Y TRAUMATOLOGÍA DEL HOSPITAL III YANAHUARA ESSALUD AREQUIPA 2019».
+|  *Pierna en reposo*  | *Pierna sin oposición, flexión natural* | *Pierna con oposición* |
+|:------------:|:---------------:|:------------:|
+|![Pierna_reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/2be51c73-2aad-4284-a81f-b267c32ab54a)|![Pierna_flexión](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/c88540c0-f4a4-41c8-9939-5e771f7951e1)|![Pierna_contra](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/550f4e78-f06a-4bc5-8f71-9b7549497c85)|
 
-[4] Hospital Universitario de Vinalopó, Síndrome del Túnel Carpiano Fisioterapia, https://www.vinaloposalud.com/wp-content/uploads/2020/03/GU%C3%8DA-STC.pdf (accessed Apr. 3, 2024). 
+|  *Intervalo respectivo*  | *Intervalo respectivo* | *Intervalo respectivo* |
+|:------------:|:---------------:|:------------:|
+|![Pierna_reposo_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/3581fc5a-d611-4430-879d-8d0ddf1ec9b3)|![Pierna_flexión_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/c0c99924-371a-4743-a246-ff13ec177b43)|![Pierna_contra_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/85840e2b-c3cb-4a92-9ef5-82495df85264)|
 
-[5] L. M. V. Espinosa, C. V. Machado, J. B. Soto, y D. G. Augustin, «CARACTERIZACIÓN DEL SÍNDROME DEL TÚNEL DEL CARPO. HOSPITAL ORTOPÉDICO FRUCTUOSO RODRÍGUEZ», vol. 16, n.o 1, 2021.
+   
+## *4. Bibliografia* <a name="id10"></a>
 
-[6] D. L. Benavides, «El Síndrome de túnel carpiano diagnóstico y tratamiento: Revisión sistemática Carpal tunnel syndrome diagnosis and treatment: Systematic review», vol. 3, 2023.
+[1] Instituto Nacional de Salud del Niño – San Borja. "Guía de Procedimiento de Electromiografía y Velocidad de Conducción de Nervios Periféricos." Fecha: Octubre 2020. Código: GP-001/INSNSB/UAIE/SUAIEPSE – Neurología Pediátrica V01. Página 1-39.
 
-[7] J. O. Sevy, R. E. Sina, y M. Varacallo, «Carpal Tunnel Syndrome», en StatPearls, Treasure Island (FL): StatPearls Publishing, 2024. [En línea]. Disponible en: http://www.ncbi.nlm.nih.gov/books/NBK448179/
+[2] Support Plux Biosignals official (no date) Support PLUX Biosignals official. Available at: https://support.pluxbiosignals.com/article-categories/documentation/ Fecha: 12 April 2024. 
 
-[8] A. Joshi et al., «Carpal Tunnel Syndrome: Pathophysiology and Comprehensive Guidelines for Clinical Evaluation and Treatment», Cureus, vol. 14, n.o 7, p. e27053, doi: 10.7759/cureus.27053.
-
+[3] BITalino (r)evolution Lab Guide. (n.d.). Retrieved April 13, 2024, from https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf
