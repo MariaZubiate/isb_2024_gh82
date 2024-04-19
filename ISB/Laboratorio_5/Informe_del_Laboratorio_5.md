@@ -37,8 +37,17 @@ Extraer la información de las señales ECG del software OpenSignals (r)evolutio
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
 ### *4.1. Fotos de conexión usada* <a name="id5"></a>
+Siguiendo la guia experimental del BITalino (r)evolution Lab Guide, se procedio a hacer la lectura de ECG. Para ellos primero se acondiciono las partes del cuerpo a utilizar y luego se procedio a colocar los electrodos, como se puede observar en la imagen 1. 
 
 ### *4.2. Video de la señal* <a name="id6"></a>
+Despues de colocar los electrodos, se procedio a realizar las siguientes lecturas: ECG en reposo, ECG con respiración profunda antes del ejercicio, ECG despues del ejercicio, ECG con respiración profund despues del ejercicio. 
+
+| **TIPO** | **VIDEO** |
+|:------------:|:---------------:|
+| Reposo |   video  |  
+| Respiración profunda antes del ejercicio|      Video     |       
+| Despues del ejercicio |   video  | 
+|  Respiración profunda después del ejercicio  |   video  | 
 
 ##### 4.2.1. Lectura del EKG de la muñeca
 
