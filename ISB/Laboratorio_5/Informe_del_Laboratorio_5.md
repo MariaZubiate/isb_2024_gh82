@@ -42,17 +42,17 @@
 
 ##### 4.2.3. Lectura del musculo gemelo de la pantorrilla
  
-### *4.3. Ploteo de la señal en OpenSignals* <a name="id6"></a> 
+### *4.3. Ploteo de la señal en OpenSignals* <a name="id7"></a> 
 
-### *4.4. Resumen y explicación de la señal ploteada* <a name="id7"></a> 
+### *4.4. Resumen y explicación de la señal ploteada* <a name="id8"></a> 
 
-### *4.5. Archivo de los datos de la señal ploteada* <a name="id8"></a> 
+### *4.5. Archivo de los datos de la señal ploteada* <a name="id9"></a> 
 
-### *4.6. Ploteo de la señal en Python* <a name="id9"></a> 
+### *4.6. Ploteo de la señal en Python* <a name="id10"></a> 
 ##### 4.6.1. Lectura del musculo flexor del pulgar en python
 
 ##### 4.6.2. Lectura del musculo bíceps del brazo en python
 
 ##### 4.6.3. Lectura del musculo gemelo de la pantorrilla en python
    
-## *5. Bibliografia* <a name="id10"></a>
+## *5. Bibliografia* <a name="id11"></a>
