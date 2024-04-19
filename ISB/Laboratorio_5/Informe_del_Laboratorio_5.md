@@ -3,11 +3,8 @@
 # Laboratorio 5
 ## Integrantes
 - Christian Martin Mucha Huatuco
-
 - Maria del Carmen Zubiate Castillo
-
 - Jossef Caleb Tintaya Salva
-
 - Gianni Atilio Di Trani Grández
 
 # *Tabla de contenidos*
@@ -25,14 +22,20 @@
 5. [Bibliografia](#id11)
    
 ## *1. Introducción* <a name="id1"></a>
+
 El electrocardiograma(EKG) es una herramienta de diagnóstico utilizada para medir la actividad del corazón. Consiste en colocar electrodos en partes especificas del cuerpo, las cuales tienen contacto con la piel. Estos detectan impulsos eléctricos generados por el corazón. Esta información se registras como ondas en un gráfico.
 La señal ECG contan de diferentes componentes, entre ellos esta la onda P, el complejo QRS y la onda T; las cuales representan la despolarización auricular, despolarización ventricular y repolarización ventricular, respectivamente[1]. 
 ## *2. Objetivos* <a name="id2"></a>
 
+Adquirir señales biomédicas de ECG.
+Hacer una correcta configuración de BiTalino.
+Extraer la información de las señales ECG del software OpenSignals (r)evolution
 ## *3. Materiales y equipos* <a name="id3"></a>
 
-## *4. Resultados* <a name="id4"></a>
-
+|  **Modelo**  | **Descripción** | **Cantidad** |
+|:------------:|:---------------:|:------------:|
+| (R)EVOLUTION |   Kit BITalino  |       1      |
+|       -      |      Laptop     |       1      |
 ### *4.1. Fotos de conexión usada* <a name="id5"></a>
 
 ### *4.2. Video de la señal* <a name="id6"></a>
