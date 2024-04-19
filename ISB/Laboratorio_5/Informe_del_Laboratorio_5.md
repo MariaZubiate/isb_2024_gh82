@@ -12,16 +12,17 @@
 
 # *Tabla de contenidos*
 
-1. [Objetivos](#id1)
-2. [Materiales y equipos](#id2)
-3. [Resultados](#id3)\
-     3.1 [Fotos de conexión usada](#id4)\
-     3.2 [Video de señal](#id5)\
-     3.3 [Ploteo de la señal en OpenSignal](#id6)\
-     3.4 [Resumen y explicación de la señal ploteada](#id7)\
-     3.5 [Archivo de los datos de la señal ploteada](#id8)\
-     3.6 [Ploteo de la señal en Python](#id9)
-4. [Bibliografia](#id10)
+1. [Introducción](#id1)
+2. [Objetivos](#id2)
+3. [Materiales y equipos](#id3)
+4. [Resultados](#id4)\
+     4.1 [Fotos de conexión usada](#id5)\
+     4.2 [Video de señal](#id6)\
+     4.3 [Ploteo de la señal en OpenSignal](#id7)\
+     4.4 [Resumen y explicación de la señal ploteada](#id8)\
+     4.5 [Archivo de los datos de la señal ploteada](#id9)\
+     4.6 [Ploteo de la señal en Python](#id10)
+5. [Bibliografia](#id11)
    
 ## *1. Objetivos* <a name="id1"></a>
 * Adquirir señales biomédicas de EMG.
