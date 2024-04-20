@@ -27,9 +27,9 @@ El electrocardiograma (EKG) es una herramienta de diagnóstico utilizada para me
 La señal electrocardiográfica está compuesta de diferentes ondas: la onda P, el complejo QRS y la onda T; las cuales representan la despolarización auricular, despolarización ventricular y repolarización ventricular, respectivamente [1]. 
 ## *2. Objetivos* <a name="id2"></a>
 
-*Adquirir señales biomédicas de ECG.
-*Hacer una correcta configuración de BiTalino.
-*Extraer la información de las señales ECG del software OpenSignals (r)evolution
+* Adquirir señales biomédicas de ECG.
+* Hacer una correcta configuración de BiTalino.
+* Extraer la información de las señales ECG del software OpenSignals (r)evolution
 ## *3. Materiales y equipos* <a name="id3"></a>
 
 |  **Modelo**  | **Descripción** | **Cantidad** |
