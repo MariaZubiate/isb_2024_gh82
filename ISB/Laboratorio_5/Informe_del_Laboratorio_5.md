@@ -147,11 +147,11 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 
 ### 5.2. Lectura del EKG con Onda de presión venosa central(CVP)
 
-|  *Video*  | *Foto*| *Descripción*|
-|:------------:|:---------------:|:---------------:|
+|  *Video*  | *Foto*|
+|:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/27c57372-0a59-4922-be60-afab24a67f2c"></video>|![WhatsApp Image 2024-04-20 at 09 10 01](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a67083b8-1738-411c-ab34-6667bfeb9995)
-| ------|
-
+|  *Descripción*  | *Foto*|
+|:------------:|:---------------:|
 ### 5.3. Lectura del EKG con taticardia ventricular a 160 lpm
 
 |  *Video*  | *Foto*| *Descripción*|
@@ -164,7 +164,7 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 |:------------:|:---------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2d388713-c81f-4b52-b60a-5f07be1ebddc"></video>|![WhatsApp Image 2024-04-20 at 09 10 00 (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a8c8d1bb-f0d1-4872-8c22-c199b270fa90)| ------|
 
-### 5.5. Lectura del EKG con asistolia
+### 5.5. Lectura del EKG con asistolía
 
 |  *Video*  | *Foto*| *Descripción*|
 |:------------:|:---------------:|:---------------:|
