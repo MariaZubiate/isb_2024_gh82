@@ -66,10 +66,13 @@ Lectura del EKG en caso de paro cardiaco durante la actividad física.
 
 Ejercicio realizado:
 
+<div align="center">
+
 |  *Ejercicio ejecutado*  | *Video*| 
 |:------------:|:---------------:|
 |Saltos con sentadillas | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/66060780-36f8-4a65-8f14-727dfa776c57"></video>|
 
+</div>
 
 ### *4.2. Video de la señal* <a name="id6"></a>
 
@@ -147,20 +150,21 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 |  *Video*  | *Foto*| *Descripción*|
 |:------------:|:---------------:|:---------------:|
-|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/37bd1119-d2b8-4837-9460-908392018482"></video>|| ------|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/37bd1119-d2b8-4837-9460-908392018482"></video>|![WhatsApp Image 2024-04-20 at 09 10 00 (6)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/16bf3972-1bfc-4751-96e1-aed37c86aab1)| ------|
 
 
 ### 5.2. Lectura del EKG con Onda de presión venosa central(CVP)
 
 |  *Video*  | *Foto*| *Descripción*|
 |:------------:|:---------------:|:---------------:|
-|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/27c57372-0a59-4922-be60-afab24a67f2c"></video>|![WhatsApp Image 2024-04-20 at 09 10 00 (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/ce3bb910-914d-4a0b-93c4-cf919fbec6e3)| ------|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/27c57372-0a59-4922-be60-afab24a67f2c"></video>|![WhatsApp Image 2024-04-20 at 09 10 01](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a67083b8-1738-411c-ab34-6667bfeb9995)
+| ------|
 
 ### 5.3. Lectura del EKG con taticardia ventricular a 160 lpm
 
 |  *Video*  | *Foto*| *Descripción*|
 |:------------:|:---------------:|:---------------:|
-|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/fc4e1382-bc11-4b89-9b64-fcff8c6df573"></video>|| ------|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/fc4e1382-bc11-4b89-9b64-fcff8c6df573"></video>|![WhatsApp Image 2024-04-20 at 09 10 00 (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/ce3bb910-914d-4a0b-93c4-cf919fbec6e3)| ------|
 
 ### 5.4. Lectura del EKG con fibrilación ventricular severa
 
