@@ -31,7 +31,7 @@ El ECG posee 12 derivadas, las cuales permiten visualizar el corazoón desde dif
 
 Para la elaboración de esta labotorio hemos decido realizar una analisis de la primera derivada, la cual proporciona información sobre la actividad eléctrica que se dirige hacia y desde la parte frontal del corazón. Estos ensayos nos permitiran visualizar el cambio que surge en las ondas de acuerdo a diferentes actividades realizadas. 
 
-Para la lectura de la señal ECG se hara uso de un Bitalino, el cual nos permite la lectura de señales fisiologicas. Para su uso, se conecta el dispositivo al ordenador mediante un dongle Bluetooth y se emplea el software OpenSignals (r)evolution para la adquisición y análisis de datos. Los electrodos se colocan en diferentes posiciones del cuerpo según el tipo de señal a adquirir, como en el pecho, muñecas o clavículas para el ECG, y luego se realiza la grabación de datos siguiendo el protocolo[1].
+La lectura de la señal ECG se realizará utilizando un dispositivo Bitalino, el cual permite la lectura de señales fisiologicas. Para su uso, se conecta el dispositivo al ordenador mediante un dongle Bluetooth y se emplea el software OpenSignals (r)evolution para la adquisición y análisis de datos. Los electrodos se colocan en diferentes posiciones del cuerpo según el tipo de señal a adquirir, como en el pecho, muñecas o clavículas para el ECG, y luego se realiza la grabación de datos siguiendo el protocolo[1].
 
 ## *2. Objetivos* <a name="id2"></a>
 
