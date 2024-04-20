@@ -14,15 +14,11 @@ import matplotlib.pyplot as plt
 
 # Cargar los datos de la señal EMG desde el archivo de texto
 
-#PULGAR
-emg_data = np.loadtxt('pulgar_reposo.txt')
-#emg_data = np.loadtxt('pulgar_flexion.txt')
-#emg_data = np.loadtxt('pulgar_contrafuerza.txt')
+#Muñeca burpees
+emg_data_1 = np.loadtxt('1D_muñeca_burpees.txt')
 
-#BICEPS
-#emg_data = np.loadtxt('biceps_reposo.txt')
-#emg_data = np.loadtxt('biceps_flexion.txt')
-#emg_data = np.loadtxt('biceps_contrafuerza.txt')
+#
+emg_data_2 = np.loadtxt('biceps_reposo.txt')
 
 #PANTORRILLA
 #emg_data = np.loadtxt('pantorrilla_reposo.txt')
