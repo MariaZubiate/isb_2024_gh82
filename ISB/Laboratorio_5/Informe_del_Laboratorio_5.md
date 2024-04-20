@@ -81,6 +81,8 @@ Lectura del EKG en caso de paro cardiaco durante la actividad física.
 
 ### *4.3. Ploteo de la señal en OpenSignals y lectura* <a name="id7"></a> 
 
+Se tomaron capturas de pantalla de la lectura de los OpenSignals y se procedió a realizar un análisis detallado.
+
 ##### 4.3.1. Lectura del EKG en reposo
 
 ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)
@@ -115,6 +117,8 @@ En el siguiente linke se puede visualizar los archivos .txt de cada ensayo reali
 
 ##### 4.6.2. Lectura del EKG respiración profunda antes del ejercicio
 
+Se utilizaron los archivos de txt de cada grabación del OpenSignals y se generó una lectura de los datos en Python.
+
 |  *EKG respiración profunda antes del ejercicio*  | *Intervalo respectivo*| 
 |:------------:|:---------------:|
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|
@@ -134,7 +138,36 @@ En el siguiente linke se puede visualizar los archivos .txt de cada ensayo reali
    
 ## *5. Analisis de las señales producidas por el Promsim4* <a name="id11"></a>
 
+### 5.1. Lectura del EKG con frecuencia respiratoria Normal
 
+|  *Video*  | *Descripción*| 
+|:------------:|:---------------:|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|------|
+
+
+### 5.1. Lectura del EKG con Onda de presión venosa central(CVP)
+
+|  *Video*  | *Descripción*| 
+|:------------:|:---------------:|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|------|
+
+### 5.3. Lectura del EKG con taticardia ventricular a 160 lpm
+
+|  *Video*  | *Descripción*| 
+|:------------:|:---------------:|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|------|
+
+### 5.4. Lectura del EKG con fibrilación ventricular severa
+
+|  *Video*  | *Descripción*| 
+|:------------:|:---------------:|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|------|
+
+### 5.4. Lectura del EKG con asistolia
+
+|  *Video*  | *Descripción*| 
+|:------------:|:---------------:|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|------|
 
    
 ## *6. Bibliografia* <a name="id12"></a>
