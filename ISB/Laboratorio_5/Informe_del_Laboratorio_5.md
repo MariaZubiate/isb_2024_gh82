@@ -117,20 +117,20 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 ##### 4.6.2. Lectura del EKG respiración profunda antes del ejercicio
 
-|  *EKG respiración profunda antes del ejercicio*  | *Intervalo respectivo*| 
-|:------------:|:---------------:|
+|  *EKG respiración profunda antes del ejercicio*  | *Intervalo respectivo*|  *1 Ciclo*|
+|:------------:|:---------------:|:------------:|
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|
 
 ##### 4.6.3. Lectura del EKG después del ejercicio
 
-|  *EKG después del ejercicio*  | *Intervalo respectivo*| 
-|:------------:|:---------------:|
+|  *EKG después del ejercicio*  | *Intervalo respectivo*|  *1 Ciclo*|
+|:------------:|:---------------:|:------------:|
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|
 
 ##### 4.6.4. Lectura del EKG respiración profunda después del ejercicio
 
-|  *EKG respiración profunda después del ejercicio*  | *Intervalo respectivo*| 
-|:------------:|:---------------:|
+|  *EKG respiración profunda después del ejercicio*  | *Intervalo respectivo*| *1 Ciclo*| 
+|:------------:|:---------------:|:---------------:|
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|
 
    
