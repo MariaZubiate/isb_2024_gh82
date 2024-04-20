@@ -74,7 +74,7 @@ Despues de colocar los electrodos, se procedio a realizar las siguientes lectura
 ### *4.3. Ploteo de la señal en OpenSignals* <a name="id7"></a> 
 
 #### 4.3.1. Archivo de datos de la señal ploteada
-En el siguiente link se pueden visualizar los archivos .txt de cada ensayo realizado:
+En el siguiente linke se puede visualizar los archivos .txt de cada ensayo realizado.
 [Data_ECG](./Data_ECG)
 
 ### *4.4. Resumen y explicación de la señal ploteada* <a name="id8"></a> 
@@ -83,15 +83,30 @@ En el siguiente link se pueden visualizar los archivos .txt de cada ensayo reali
 
 ### *4.6. Ploteo de la señal en Python* <a name="id10"></a> 
 
-##### 4.6.1. Lectura del EKG de la muñeca
+##### 4.6.1. Lectura del EKG en reposo
 
-##### 4.6.2. Lectura del EKG en reposo
+|  *EKG en reposo*  | *Intervalo respectivo*| 
+|:------------:|:---------------:|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cb3f66f2-a077-4252-a978-01a10c24d0bf)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/79c619e0-ae73-4850-919d-c9a0b5c8ba35)|
 
-##### 4.6.3. Lectura del EKG respiración profunda antes del ejercicio
 
-##### 4.6.4. Lectura del EKG después del ejercicio
+##### 4.6.2. Lectura del EKG respiración profunda antes del ejercicio
 
-##### 4.6.5. Lectura del EKG respiración profunda después del ejercicio
+|  *EKG respiración profunda antes del ejercicio*  | *Intervalo respectivo*| 
+|:------------:|:---------------:|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cb3f66f2-a077-4252-a978-01a10c24d0bf)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/79c619e0-ae73-4850-919d-c9a0b5c8ba35)|
+
+##### 4.6.3. Lectura del EKG después del ejercicio
+
+|  *EKG después del ejercicio*  | *Intervalo respectivo*| 
+|:------------:|:---------------:|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cb3f66f2-a077-4252-a978-01a10c24d0bf)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/79c619e0-ae73-4850-919d-c9a0b5c8ba35)|
+##### 4.6.4. Lectura del EKG respiración profunda después del ejercicio
+
+|  *EKG respiración profunda después del ejercicio*  | *Intervalo respectivo*| 
+|:------------:|:---------------:|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cb3f66f2-a077-4252-a978-01a10c24d0bf)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/79c619e0-ae73-4850-919d-c9a0b5c8ba35)|
+
    
 ## *5. Bibliografia* <a name="id11"></a>
 
