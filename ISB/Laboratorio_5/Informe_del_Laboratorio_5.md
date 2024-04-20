@@ -14,10 +14,9 @@
 4. [Resultados](#id4)\
      4.1 [Fotos de conexión usada](#id5)\
      4.2 [Video de señal](#id6)\
-     4.3 [Ploteo de la señal en OpenSignal](#id7)\
-     4.4 [Resumen y explicación de la señal ploteada](#id8)\
-     4.5 [Archivo de los datos de la señal ploteada](#id9)\
-     4.6 [Ploteo de la señal en Python](#id10)
+     4.3 [Resumen y explicación de la señal ploteada](#id8)\
+     4.4 [Archivo de los datos de la señal ploteada](#id9)\
+     4.5 [Ploteo de la señal en Python](#id10)
 5. [Analisis de las señales producidas por el Promsim4](#id11)
 6. [Bibliografia](#id12)
    
@@ -84,37 +83,28 @@ Ejercicio realizado:
 |  Respiración profunda después del ejercicio  | Análisis del electrocardiograma mientras el paciente realiza respiraciones profundas después de haber finalizado la actividad física | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/7a17e564-6024-4342-a032-eb8a35acb914"></video>| 
 
 
-
-
-
-### *4.3. Ploteo de la señal en OpenSignals y lectura* <a name="id7"></a> 
-
-Se tomaron capturas de pantalla de la lectura de los OpenSignals y se procedió a realizar un análisis detallado.
+### *4.3. Resumen y explicación de la señal ploteada* <a name="id8"></a> 
 
 ##### 4.3.1. Lectura del EKG en reposo
 
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)
+
 
 ##### 4.3.2. Lectura del EKG respiración profunda antes del ejercicio
 
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)
 
 ##### 4.3.3. Lectura del EKG después del ejercicio
 
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)
+
 
 ##### 4.3.4. Lectura del EKG respiración profunda después del ejercicio
 
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)
 
 
-### *4.4. Resumen y explicación de la señal ploteada* <a name="id8"></a> 
-
-### *4.5. Archivo de los datos de la señal ploteada* <a name="id9"></a> 
+### *4.4. Archivo de los datos de la señal ploteada* <a name="id9"></a> 
 En el siguiente linke se puede visualizar los archivos .txt de cada ensayo realizado.
 [Data_ECG](./Data_ECG)
 
-### *4.6. Ploteo de la señal en Python* <a name="id10"></a> 
+### *4.5. Ploteo de la señal en Python* <a name="id10"></a> 
 
 ##### 4.6.1. Lectura del EKG en reposo
 
