@@ -25,11 +25,11 @@
 
 El electrocardiograma(ECG) es una herramienta de diagnóstico utilizada para medir la actividad del corazón. Consiste en colocar electrodos en partes especificas del cuerpo, las cuales tienen contacto con la piel. Estos detectan impulsos eléctricos generados por el corazón. Esta información se registras como ondas en un gráfico.
 
-La señal ECG contan de diferentes componentes, entre ellos esta la onda P, el complejo QRS y la onda T; las cuales representan la despolarización auricular, despolarización ventricular y repolarización ventricular, respectivamente[1].
+La señal ECG contan de diferentes componentes, entre ellos esta la onda P, el complejo QRS y la onda T; las cuales representan la despolarización auricular, despolarización ventricular y repolarización ventricular, respectivamente.
 
 El ECG posee 12 derivadas, las cuales permiten visualizar el corazoón desde diferentes ángulos. Estas derivaciones se pueden utilizar para etectar attirmias y transtornos cardíacos. Entre las derivaciones tenemos: derivaciones bipolares(I,II,III), derivaciones unipolares(aVR, aVL,aVF) y derivaciones precordiales(V1-V6). 
 
-Para la elaboración de esta labotorio hemos decido realizar una analisis de la primera derivada, la cual proporciona información sobre la actividad eléctrica que se dirige hacia y desde la parte frontal del corazón. Estos ensayos nos permitiran visualizar el cambio que surge en las ondas de acuerdo a diferentes actividades realizadas. 
+Para la elaboración de esta labotorio hemos decido realizar una analisis de la primera derivada, la cual proporciona información sobre la actividad eléctrica que se dirige hacia y desde la parte frontal del corazón. Estos ensayos nos permitiran visualizar el cambio que surge en las ondas de acuerdo a diferentes actividades realizadas[1]. 
 
 
 ## *2. Objetivos* <a name="id2"></a>
