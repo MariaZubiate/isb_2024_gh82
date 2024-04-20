@@ -110,8 +110,8 @@ En el siguiente linke se puede visualizar los archivos .txt de cada ensayo reali
 
 Se utilizaron los archivos de txt de cada grabación del OpenSignals y se generó una lectura de los datos en Python.
 
-|  *EKG en reposo*  | *Intervalo respectivo* | *Intervalo respectivo*| 
-|:------------:|:---------------:|
+|  *EKG en reposo*  | *Intervalo respectivo* | *1 Ciclo*|
+|:------------:|:---------------:|:------------:|
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|
 
 
