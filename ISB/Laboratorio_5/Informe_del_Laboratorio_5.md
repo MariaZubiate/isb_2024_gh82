@@ -142,6 +142,10 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 ## *5. Analisis de las señales producidas por el Promsim4* <a name="id11"></a>
 
 Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira simular la frecuencia cardiaca. Se llevaron a cabo diversas pruebas. Estas incluyeron la visualización de una frecuencia respiratoria normal, la onda de presión venosa central (CVP), taquicardia ventricular a 160 lpm, fibrilación ventricular severa y asistolia[2].
+|  *Señal completa en Python*  | *Descripción*|
+|:------------:|:---------------:|
+|![Prosim_completo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/f7277f70-44eb-44ef-bb78-a00234346d94)|
+
 
 ### 5.1. Lectura del EKG con frecuencia respiratoria Normal
 
@@ -150,6 +154,8 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/37bd1119-d2b8-4837-9460-908392018482"></video>|![WhatsApp Image 2024-04-20 at 09 10 00 (6)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/16bf3972-1bfc-4751-96e1-aed37c86aab1)
 |  *Ploteo Python*  | *Descripción*|
 |:------------:|:---------------:|
+|![Prosim_etapa1](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/099ae69d-9aa5-41cb-bad9-d3dd04c5a830)|
+
 
 ### 5.2. Lectura del EKG con Onda de presión venosa central(CVP)
 
