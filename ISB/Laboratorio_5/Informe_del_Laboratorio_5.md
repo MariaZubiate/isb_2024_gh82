@@ -36,6 +36,9 @@ Extraer la información de las señales ECG del software OpenSignals (r)evolutio
 |:------------:|:---------------:|:------------:|
 | (R)EVOLUTION |   Kit BITalino  |       1      |
 |       -      |      Laptop     |       1      |
+
+## *4.Resultados* <a name="id4"></a>
+
 ### *4.1. Fotos de conexión usada* <a name="id5"></a>
 Siguiendo la guia experimental del BITalino (r)evolution Lab Guide, se procedio a hacer la lectura de ECG. Para ellos primero se acondiciono las partes del cuerpo a utilizar y luego se procedio a colocar los electrodos, como se puede observar en la imagen 1. 
 
@@ -67,11 +70,15 @@ Despues de colocar los electrodos, se procedio a realizar las siguientes lectura
 
 ### *4.6. Ploteo de la señal en Python* <a name="id10"></a> 
 
-##### 4.6.1. Lectura del musculo flexor del pulgar en python
+##### 4.6.1. Lectura del EKG de la muñeca
 
-##### 4.6.2. Lectura del musculo bíceps del brazo en python
+##### 4.6.2. Lectura del EKG en reposo
 
-##### 4.6.3. Lectura del musculo gemelo de la pantorrilla en python
+##### 4.6.3. Lectura del EKG respiración profunda antes del ejercicio
+
+##### 4.6.4. Lectura del EKG después del ejercicio
+
+##### 4.6.5. Lectura del EKG respiración profunda después del ejercicio
    
 ## *5. Bibliografia* <a name="id11"></a>
 
