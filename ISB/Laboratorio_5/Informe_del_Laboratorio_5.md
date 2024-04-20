@@ -57,11 +57,11 @@ Siguiendo la guía experimental del BITalino (r)evolution Lab Guide, se procedi�
 
 Siguiendo la guía, seleccionamos el ejercicio de sentadillas con saltos para realizar un análisis detallado de diferentes aspectos durante la actividad. Estos son:
 
-Lectura del EKG en reposo.
-Lectura del EKG durante la respiración profunda antes del ejercicio.
-Lectura del EKG después del ejercicio.
-Lectura del EKG durante la respiración profunda después del ejercicio.
-Lectura del EKG en caso de paro cardiaco durante la actividad física.
+1. Lectura del EKG en reposo.
+2. Lectura del EKG durante la respiración profunda antes del ejercicio.
+3. Lectura del EKG después del ejercicio.
+4. Lectura del EKG durante la respiración profunda después del ejercicio.
+5. Lectura del EKG en caso de paro cardiaco durante la actividad física.
 
 Ejercicio realizado:
 
