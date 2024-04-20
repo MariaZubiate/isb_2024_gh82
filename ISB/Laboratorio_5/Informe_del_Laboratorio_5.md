@@ -146,6 +146,8 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
    
 ## *5. Analisis de las señales producidas por el Promsim4* <a name="id11"></a>
 
+Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira simular la frecuencia cardiaca. Se llevaron a cabo diversas pruebas. Estas incluyeron la visualización de una frecuencia respiratoria normal, la onda de presión venosa central (CVP), taquicardia ventricular a 160 lpm, fibrilación ventricular severa y asistolia.
+
 ### 5.1. Lectura del EKG con frecuencia respiratoria Normal
 
 |  *Video*  | *Foto*| *Descripción*|
