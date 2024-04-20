@@ -112,7 +112,8 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 |  *EKG en reposo*  | *Intervalo respectivo* | *1 Ciclo*|
 |:------------:|:---------------:|:------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|
+|![Reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/df0c4abd-b7c2-41fe-8231-423f02dd0857)|![Reposo_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9bba41f0-c1fd-496c-a768-3b0fac98eadc)|![Reposo_1ciclo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/eab5c839-71e4-41e1-b5bf-eb5d0e6ae2f5)|
+
 
 
 ##### 4.6.2. Lectura del EKG respiración profunda antes del ejercicio
