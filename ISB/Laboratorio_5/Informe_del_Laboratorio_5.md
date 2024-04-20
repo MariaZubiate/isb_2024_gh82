@@ -74,7 +74,7 @@ Despues de colocar los electrodos, se procedio a realizar las siguientes lectura
 ### *4.3. Ploteo de la señal en OpenSignals* <a name="id7"></a> 
 
 #### 4.3.1. Archivo de datos de la señal ploteada
-En el siguiente linke se puede visualizar los archivos .txt de cada ensayo realizado.
+En el siguiente link se pueden visualizar los archivos .txt de cada ensayo realizado:
 [Data_ECG](./Data_ECG)
 
 ### *4.4. Resumen y explicación de la señal ploteada* <a name="id8"></a> 
