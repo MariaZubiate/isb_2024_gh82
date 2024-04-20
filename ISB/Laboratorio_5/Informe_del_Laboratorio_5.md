@@ -144,7 +144,7 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira simular la frecuencia cardiaca. Se llevaron a cabo diversas pruebas. Estas incluyeron la visualización de una frecuencia respiratoria normal, la onda de presión venosa central (CVP), taquicardia ventricular a 160 lpm, fibrilación ventricular severa y asistolia[2].
 |  *Señal completa en Python*  | *Descripción*|
 |:------------:|:---------------:|
-|![Prosim_completo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/f7277f70-44eb-44ef-bb78-a00234346d94)|
+|![Prosim_completo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/f7277f70-44eb-44ef-bb78-a00234346d94)|Como se puede visualizar, en la simulación se presentan 5 etapas durante todo el ritmo cardiaco. Cada una de estas corresponde a cierta complicación cardiaca que se describirá más adelante.|
 
 
 ### 5.1. Lectura del EKG con frecuencia respiratoria Normal
@@ -162,14 +162,15 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/27c57372-0a59-4922-be60-afab24a67f2c"></video>|![WhatsApp Image 2024-04-20 at 09 10 01](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a67083b8-1738-411c-ab34-6667bfeb9995)
 |  *Ploteo Python*  | *Descripción*|
-|:------------:|:---------------:|
+|![Prosim_etapa2](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0c94e45c-0831-4cd9-9931-14a00c65dcb0)|:---------------:|
+
 ### 5.3. Lectura del EKG con taticardia ventricular a 160 lpm
 
 |  *Video*  | *Foto*|
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/fc4e1382-bc11-4b89-9b64-fcff8c6df573"></video>|![WhatsApp Image 2024-04-20 at 09 10 00 (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/ce3bb910-914d-4a0b-93c4-cf919fbec6e3)
 |  *Ploteo Python*  | *Descripción*|
-|:------------:|:---------------:|
+|![Prosim_etapa3](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/c292c7f2-1af4-47c2-9dd3-420eede14bc7)|:---------------:|
 
 ### 5.4. Lectura del EKG con fibrilación ventricular severa
 
@@ -177,7 +178,7 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2d388713-c81f-4b52-b60a-5f07be1ebddc"></video>|![WhatsApp Image 2024-04-20 at 09 10 00 (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a8c8d1bb-f0d1-4872-8c22-c199b270fa90)
 |  *Ploteo Python*  | *Descripción*|
-|:------------:|:---------------:|
+|![Prosim_etapa4](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9abe390d-c0ce-4d05-98c7-609f2d310670)|:---------------:|
 
 ### 5.5. Lectura del EKG con asistolía
 
@@ -185,7 +186,7 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/125b3219-db6d-4dc6-a762-8f24c9937045"></video>|![WhatsApp Image 2024-04-20 at 09 10 00](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/989f6aa3-c3e0-4de3-aa9d-ce140cd1718b)
 |  *Ploteo Python*  | *Descripción*|
-|:------------:|:---------------:|
+|![Prosim_etapa5](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1d9d885-4f17-4672-bf54-b576348742a8)|:---------------:|
    
 ## *6. Bibliografia* <a name="id12"></a>
 
