@@ -65,13 +65,19 @@ Lectura del EKG después del ejercicio.
 Lectura del EKG durante la respiración profunda después del ejercicio.
 Lectura del EKG en caso de paro cardiaco durante la actividad física.
 
+Ejercicio realizado:
+
+|  *Ejercicio ejecutado*  | *Video*| 
+|:------------:|:---------------:|
+|Saltos con sentadillas | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/66060780-36f8-4a65-8f14-727dfa776c57"></video>|
+
 
 ### *4.2. Video de la señal* <a name="id6"></a>
 
 | **TIPO** | **DEFINICIÓN** | **VIDEO** |
 |:--------------:|:---------------:|:---------------:|
-| Reposo | Análisis del electrocardiograma mientras el paciente se encuentra en reposo antes de iniciar cualquier actividad física. |  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/f2de5d5f-7580-4284-8e2b-142b4efcb1d5)|  
-| Respiración profunda antes del ejercicio| Interpretación del electrocardiograma mientras el paciente realiza respiraciones profundas antes de comenzar el ejercicio.  |    ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/57579b71-3884-4310-a65b-d75a4c717991)|       
+| Reposo | Análisis del electrocardiograma mientras el paciente se encuentra en reposo antes de iniciar cualquier actividad física. |  <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3749934a-30a9-4a4d-93c8-4abd15446a87"></video>|  
+| Respiración profunda antes del ejercicio| Interpretación del electrocardiograma mientras el paciente realiza respiraciones profundas antes de comenzar el ejercicio.  |  <video src=""></video> |       
 | Despues del ejercicio |  Evaluación del electrocardiograma inmediatamente después de que el paciente haya terminado la actividad física.  | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/fc5902ee-1275-4d23-a308-8ae1bdd27b88)| 
 |  Respiración profunda después del ejercicio  | Análisis del electrocardiograma mientras el paciente realiza respiraciones profundas después de haber finalizado la actividad física |  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2216a6ef-5142-4160-81ff-2c16fb761911) | 
 | Paro cardiaco | Interpretación del electrocardiograma en el caso de que ocurra un paro cardiaco durante la actividad física |  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2216a6ef-5142-4160-81ff-2c16fb761911)|
