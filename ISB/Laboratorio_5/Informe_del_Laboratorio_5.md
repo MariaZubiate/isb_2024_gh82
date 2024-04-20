@@ -19,7 +19,8 @@
      4.4 [Resumen y explicación de la señal ploteada](#id8)\
      4.5 [Archivo de los datos de la señal ploteada](#id9)\
      4.6 [Ploteo de la señal en Python](#id10)
-5. [Bibliografia](#id11)
+5. [Analisis de las señales producidas por el Promsim4](#id11)
+6. [Bibliografia](#id12)
    
 ## *1. Introducción* <a name="id1"></a>
 
@@ -51,47 +52,51 @@ Extraer la información de las señales ECG del software OpenSignals (r)evolutio
 Siguiendo la guía experimental del BITalino (r)evolution Lab Guide, se procedió a realizar la lectura de ECG utilizando la derivación I con los electrodos colocados en las muñecas. Primero, se acondicionaron las partes del cuerpo que se utilizarían para la colocación de electrodos. Luego, siguiendo las instrucciones proporcionadas en la guía, se colocaron los electrodos en las muñecas: el electrodo positivo (rojo) en la muñeca izquierda, el electrodo negativo (negro) en la muñeca derecha y el electrodo de referencia (blanco) en la parte inferior del abdomen, cerca del hueso de la cadera izquierda[1].
 
 <div align="center">
-  <img src="![Imagen1](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5a6af5a4-3323-4075-9bdd-5105d31df0ed)
-" width="300">
+  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5a6af5a4-3323-4075-9bdd-5105d31df0ed" alt="Imagen1" width="300">
+  <p>Imagen 1. Foto de conexión usada</p>
 </div>
 
 
+Siguiendo la guía, seleccionamos el ejercicio de sentadillas con saltos para realizar un análisis detallado de diferentes aspectos durante la actividad. Estos son:
+
+Lectura del EKG en reposo.
+Lectura del EKG durante la respiración profunda antes del ejercicio.
+Lectura del EKG después del ejercicio.
+Lectura del EKG durante la respiración profunda después del ejercicio.
+Lectura del EKG en caso de paro cardiaco durante la actividad física.
+
 
 ### *4.2. Video de la señal* <a name="id6"></a>
-Despues de colocar los electrodos, se procedio a realizar las siguientes lecturas: ECG en reposo, ECG con respiración profunda antes del ejercicio, ECG despues del ejercicio, ECG con respiración profund despues del ejercicio. 
 
 | **TIPO** | **DEFINICIÓN** | **VIDEO** |
 |:--------------:|:---------------:|:---------------:|
-| Reposo | ----- |  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/f2de5d5f-7580-4284-8e2b-142b4efcb1d5)|  
-| Respiración profunda antes del ejercicio| ----- |    ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/57579b71-3884-4310-a65b-d75a4c717991)|       
-| Despues del ejercicio |  ----- | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/fc5902ee-1275-4d23-a308-8ae1bdd27b88)| 
-|  Respiración profunda después del ejercicio  | ----- |  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2216a6ef-5142-4160-81ff-2c16fb761911) | 
-| Paro cardiaco | ----- ||
+| Reposo | Análisis del electrocardiograma mientras el paciente se encuentra en reposo antes de iniciar cualquier actividad física. |  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/f2de5d5f-7580-4284-8e2b-142b4efcb1d5)|  
+| Respiración profunda antes del ejercicio| Interpretación del electrocardiograma mientras el paciente realiza respiraciones profundas antes de comenzar el ejercicio.  |    ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/57579b71-3884-4310-a65b-d75a4c717991)|       
+| Despues del ejercicio |  Evaluación del electrocardiograma inmediatamente después de que el paciente haya terminado la actividad física.  | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/fc5902ee-1275-4d23-a308-8ae1bdd27b88)| 
+|  Respiración profunda después del ejercicio  | Análisis del electrocardiograma mientras el paciente realiza respiraciones profundas después de haber finalizado la actividad física |  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2216a6ef-5142-4160-81ff-2c16fb761911) | 
+| Paro cardiaco | Interpretación del electrocardiograma en el caso de que ocurra un paro cardiaco durante la actividad física |  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2216a6ef-5142-4160-81ff-2c16fb761911)|
 
 
-##### 4.2.1. Lectura del EKG en reposo
 
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)
 
-##### 4.2.2. Lectura del EKG respiración profunda antes del ejercicio
+### *4.3. Ploteo de la señal en OpenSignals y lectura* <a name="id7"></a> 
 
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)
-
-##### 4.2.3. Lectura del EKG después del ejercicio
+##### 4.3.1. Lectura del EKG en reposo
 
 ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)
 
-##### 4.2.4. Lectura del EKG respiración profunda después del ejercicio
+##### 4.3.2. Lectura del EKG respiración profunda antes del ejercicio
 
 ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)
 
-##### 4.2.5 Lectura del EKG paro cardiaco
+##### 4.3.3. Lectura del EKG después del ejercicio
 
-### *4.3. Ploteo de la señal en OpenSignals* <a name="id7"></a> 
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)
 
-|  *EKG en reposo*  | *EKG respiración profunda antes del ejercicio*|  *EKG después del ejercicio*  | *EKG respiración profunda después del ejercicio*| 
-|:------------:|:---------------:| :------------:|:---------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|
+##### 4.3.4. Lectura del EKG respiración profunda después del ejercicio
+
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)
+
 
 ### *4.4. Resumen y explicación de la señal ploteada* <a name="id8"></a> 
 
@@ -127,7 +132,12 @@ En el siguiente linke se puede visualizar los archivos .txt de cada ensayo reali
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|
 
    
-## *5. Bibliografia* <a name="id11"></a>
+## *5. Analisis de las señales producidas por el Promsim4* <a name="id11"></a>
+
+
+
+   
+## *6. Bibliografia* <a name="id12"></a>
 
 [1] PLUX – Wireless Biosignals, "BITalino (r)evolution Lab Guide," Lisbon, Portugal, 2020.
 [1] Facultad de Medicina de la Universidad Complutense, "Electrocardiografia basica. Realizacion e interpretacion de un ECG", Madrid, 2012.
