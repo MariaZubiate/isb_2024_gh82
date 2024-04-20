@@ -147,32 +147,32 @@ Se utilizaron los archivos de txt de cada grabaci처n del OpenSignals y se gener�
 
 |  *Video*  | *Foto*| *Descripci처n*|
 |:------------:|:---------------:|:---------------:|
-|-----------|![WhatsApp Image 2024-04-20 at 09 10 00 (4)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1705fe61-c486-48b4-928a-160860d57385)| ------|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/37bd1119-d2b8-4837-9460-908392018482"></video>|| ------|
 
 
 ### 5.2. Lectura del EKG con Onda de presi처n venosa central(CVP)
 
 |  *Video*  | *Foto*| *Descripci처n*|
 |:------------:|:---------------:|:---------------:|
-|-----------|![WhatsApp Image 2024-04-20 at 09 10 00 (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/ce3bb910-914d-4a0b-93c4-cf919fbec6e3)| ------|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/27c57372-0a59-4922-be60-afab24a67f2c"></video>|![WhatsApp Image 2024-04-20 at 09 10 00 (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/ce3bb910-914d-4a0b-93c4-cf919fbec6e3)| ------|
 
 ### 5.3. Lectura del EKG con taticardia ventricular a 160 lpm
 
 |  *Video*  | *Foto*| *Descripci처n*|
 |:------------:|:---------------:|:---------------:|
-|-----------|![WhatsApp Image 2024-04-20 at 09 10 00 (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a8c8d1bb-f0d1-4872-8c22-c199b270fa90)| ------|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/fc4e1382-bc11-4b89-9b64-fcff8c6df573"></video>|| ------|
 
 ### 5.4. Lectura del EKG con fibrilaci처n ventricular severa
 
 |  *Video*  | *Foto*| *Descripci처n*|
 |:------------:|:---------------:|:---------------:|
-|-----------|![WhatsApp Image 2024-04-20 at 09 10 00 (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/6f304401-c1e2-424f-8713-9794cf3a638d)| ------|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2d388713-c81f-4b52-b60a-5f07be1ebddc"></video>|![WhatsApp Image 2024-04-20 at 09 10 00 (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a8c8d1bb-f0d1-4872-8c22-c199b270fa90)| ------|
 
-### 5.4. Lectura del EKG con asistolia
+### 5.5. Lectura del EKG con asistolia
 
 |  *Video*  | *Foto*| *Descripci처n*|
 |:------------:|:---------------:|:---------------:|
-|-----------|![WhatsApp Image 2024-04-20 at 09 10 00](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/989f6aa3-c3e0-4de3-aa9d-ce140cd1718b)
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/125b3219-db6d-4dc6-a762-8f24c9937045"></video>|![WhatsApp Image 2024-04-20 at 09 10 00](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/989f6aa3-c3e0-4de3-aa9d-ce140cd1718b)
 | ------|
 
    
