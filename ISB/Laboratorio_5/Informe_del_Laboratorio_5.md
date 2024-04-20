@@ -52,7 +52,7 @@ Siguiendo la guía experimental del BITalino (r)evolution Lab Guide, se procedi�
 
 <div align="center">
   <img src="![Imagen1](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5a6af5a4-3323-4075-9bdd-5105d31df0ed)
-" width="300" alt="Figura 1. Foto de conexión usada">
+" width="300">
 </div>
 
 
