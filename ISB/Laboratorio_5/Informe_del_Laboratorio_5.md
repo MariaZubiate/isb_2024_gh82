@@ -101,7 +101,7 @@ Ejercicio realizado:
 
 
 ### *4.4. Archivo de los datos de la señal ploteada* <a name="id9"></a> 
-En el siguiente linke se puede visualizar los archivos .txt de cada ensayo realizado.
+En el siguiente link se puede visualizar los archivos .txt de cada ensayo realizado.
 [Data_ECG](./Data_ECG)
 
 ### *4.5. Ploteo de la señal en Python* <a name="id10"></a> 
