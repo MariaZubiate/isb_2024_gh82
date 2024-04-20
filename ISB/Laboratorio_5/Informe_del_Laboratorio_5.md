@@ -1,5 +1,4 @@
 
-
 # Laboratorio 5
 ## Integrantes
 - Christian Martin Mucha Huatuco
@@ -77,10 +76,10 @@ Ejercicio realizado:
 | **TIPO** | **DEFINICIÓN** | **VIDEO** |
 |:--------------:|:---------------:|:---------------:|
 | Reposo | Análisis del electrocardiograma mientras el paciente se encuentra en reposo antes de iniciar cualquier actividad física. |  <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3749934a-30a9-4a4d-93c8-4abd15446a87"></video>|  
-| Respiración profunda antes del ejercicio| Interpretación del electrocardiograma mientras el paciente realiza respiraciones profundas antes de comenzar el ejercicio.  |  <video src=""></video> |       
-| Despues del ejercicio |  Evaluación del electrocardiograma inmediatamente después de que el paciente haya terminado la actividad física.  | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/fc5902ee-1275-4d23-a308-8ae1bdd27b88)| 
-|  Respiración profunda después del ejercicio  | Análisis del electrocardiograma mientras el paciente realiza respiraciones profundas después de haber finalizado la actividad física |  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2216a6ef-5142-4160-81ff-2c16fb761911) | 
-| Paro cardiaco | Interpretación del electrocardiograma en el caso de que ocurra un paro cardiaco durante la actividad física |  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2216a6ef-5142-4160-81ff-2c16fb761911)|
+| Respiración profunda antes del ejercicio| Interpretación del electrocardiograma mientras el paciente realiza respiraciones profundas antes de comenzar el ejercicio.  | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/19898561-129a-44d6-9d40-a03e0312c40b"></video> |       
+| Despues del ejercicio |  Evaluación del electrocardiograma inmediatamente después de que el paciente haya terminado la actividad física.  |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e9841319-294c-4599-b204-97e47710a7f9"></video>| 
+|  Respiración profunda después del ejercicio  | Análisis del electrocardiograma mientras el paciente realiza respiraciones profundas después de haber finalizado la actividad física | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/7a17e564-6024-4342-a032-eb8a35acb914"></video>| 
+
 
 
 
@@ -116,14 +115,14 @@ En el siguiente linke se puede visualizar los archivos .txt de cada ensayo reali
 
 ##### 4.6.1. Lectura del EKG en reposo
 
+Se utilizaron los archivos de txt de cada grabación del OpenSignals y se generó una lectura de los datos en Python.
+
 |  *EKG en reposo*  | *Intervalo respectivo*| 
 |:------------:|:---------------:|
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|
 
 
 ##### 4.6.2. Lectura del EKG respiración profunda antes del ejercicio
-
-Se utilizaron los archivos de txt de cada grabación del OpenSignals y se generó una lectura de los datos en Python.
 
 |  *EKG respiración profunda antes del ejercicio*  | *Intervalo respectivo*| 
 |:------------:|:---------------:|
@@ -146,34 +145,35 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 ### 5.1. Lectura del EKG con frecuencia respiratoria Normal
 
-|  *Video*  | *Descripción*| 
-|:------------:|:---------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|------|
+|  *Video*  | *Foto*| *Descripción*|
+|:------------:|:---------------:|:---------------:|
+|-----------|![WhatsApp Image 2024-04-20 at 09 10 00 (4)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1705fe61-c486-48b4-928a-160860d57385)| ------|
 
 
-### 5.1. Lectura del EKG con Onda de presión venosa central(CVP)
+### 5.2. Lectura del EKG con Onda de presión venosa central(CVP)
 
-|  *Video*  | *Descripción*| 
-|:------------:|:---------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|------|
+|  *Video*  | *Foto*| *Descripción*|
+|:------------:|:---------------:|:---------------:|
+|-----------|![WhatsApp Image 2024-04-20 at 09 10 00 (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/ce3bb910-914d-4a0b-93c4-cf919fbec6e3)| ------|
 
 ### 5.3. Lectura del EKG con taticardia ventricular a 160 lpm
 
-|  *Video*  | *Descripción*| 
-|:------------:|:---------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|------|
+|  *Video*  | *Foto*| *Descripción*|
+|:------------:|:---------------:|:---------------:|
+|-----------|![WhatsApp Image 2024-04-20 at 09 10 00 (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a8c8d1bb-f0d1-4872-8c22-c199b270fa90)| ------|
 
 ### 5.4. Lectura del EKG con fibrilación ventricular severa
 
-|  *Video*  | *Descripción*| 
-|:------------:|:---------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|------|
+|  *Video*  | *Foto*| *Descripción*|
+|:------------:|:---------------:|:---------------:|
+|-----------|![WhatsApp Image 2024-04-20 at 09 10 00 (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/6f304401-c1e2-424f-8713-9794cf3a638d)| ------|
 
 ### 5.4. Lectura del EKG con asistolia
 
-|  *Video*  | *Descripción*| 
-|:------------:|:---------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)|------|
+|  *Video*  | *Foto*| *Descripción*|
+|:------------:|:---------------:|:---------------:|
+|-----------|![WhatsApp Image 2024-04-20 at 09 10 00](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/989f6aa3-c3e0-4de3-aa9d-ce140cd1718b)
+| ------|
 
    
 ## *6. Bibliografia* <a name="id12"></a>
