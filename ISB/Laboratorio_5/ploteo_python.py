@@ -58,9 +58,9 @@ for x in [ekg_data_1, ekg_data_2, ekg_data_3, ekg_data_4, ekg_data_5]:
     
         plt.title('Señal EKG después del ejercicio')
     
-    elif x == ekg_data_4
+    elif x == ekg_data_4:
     
-    plt.title('Señal EKG respiración profunda después del ejercicio')
+        plt.title('Señal EKG respiración profunda después del ejercicio')
     
     elif x == ekg_data_5:
     
