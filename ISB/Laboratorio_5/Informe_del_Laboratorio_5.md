@@ -48,10 +48,11 @@ Extraer la información de las señales ECG del software OpenSignals (r)evolutio
 ## *4.Resultados* <a name="id4"></a>
 
 ### *4.1. Fotos de conexión usada* <a name="id5"></a>
-Siguiendo la guia experimental del BITalino (r)evolution Lab Guide, se procedio a hacer la lectura de ECG. Para ellos primero se acondiciono las partes del cuerpo a utilizar y luego se procedio a colocar los electrodos, como se puede observar en la imagen 1. 
+Siguiendo la guía experimental del BITalino (r)evolution Lab Guide, se procedió a realizar la lectura de ECG utilizando la derivación I con los electrodos colocados en las muñecas. Primero, se acondicionaron las partes del cuerpo que se utilizarían para la colocación de electrodos. Luego, siguiendo las instrucciones proporcionadas en la guía, se colocaron los electrodos en las muñecas: el electrodo positivo (rojo) en la muñeca izquierda, el electrodo negativo (negro) en la muñeca derecha y el electrodo de referencia (blanco) en la parte inferior del abdomen, cerca del hueso de la cadera izquierda[1].
 
 <div align="center">
-  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/b1c71f32-25c3-4a37-9769-9ec741d84f95" width="300" alt="Descripción de la imagen">
+  <img src="![Imagen1](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5a6af5a4-3323-4075-9bdd-5105d31df0ed)
+" width="300" alt="Figura 1. Foto de conexión usada">
 </div>
 
 
