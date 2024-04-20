@@ -143,7 +143,7 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira simular la frecuencia cardiaca. Se llevaron a cabo diversas pruebas. Estas incluyeron la visualización de una frecuencia respiratoria normal, la onda de presión venosa central (CVP), taquicardia ventricular a 160 lpm, fibrilación ventricular severa y asistolia[2].
 |  *Señal completa en Python*  | *Descripción*|
-|:------------:|:---------------:|
+|:--------------------:|:---------------:|
 |![Prosim_completo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/f7277f70-44eb-44ef-bb78-a00234346d94)|Como se puede visualizar, en la simulación se presenta de manera explícita 5 etapas durante todo el ritmo cardiaco, evidenciado por los diversos patrones en el gráfico de Python. Las cuales se dividen en los siguientes intervalos de tiempo (en "segundos"): 0-40 s, 40-70 s, 70-100 s, 100-130 s y 130-150 s. Cada una de estas corresponde a cierta complicación cardiaca que se describirá más adelante.|
 
 
