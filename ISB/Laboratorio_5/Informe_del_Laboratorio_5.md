@@ -57,6 +57,7 @@ Despues de colocar los electrodos, se procedio a realizar las siguientes lectura
 | Respiración profunda antes del ejercicio| ----- |    ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/57579b71-3884-4310-a65b-d75a4c717991)|       
 | Despues del ejercicio |  ----- | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/fc5902ee-1275-4d23-a308-8ae1bdd27b88)| 
 |  Respiración profunda después del ejercicio  | ----- |  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2216a6ef-5142-4160-81ff-2c16fb761911) | 
+| Paro cardiaco | ----- ||
 
 
 ##### 4.2.1. Lectura del EKG en reposo
@@ -74,6 +75,8 @@ Despues de colocar los electrodos, se procedio a realizar las siguientes lectura
 ##### 4.2.4. Lectura del EKG respiración profunda después del ejercicio
 
 ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/11e4b0c5-04fe-4bb4-842f-c12f540d4b12)
+
+##### 4.2.5 Lectura del EKG paro cardiaco
 
 ### *4.3. Ploteo de la señal en OpenSignals* <a name="id7"></a> 
 
