@@ -121,3 +121,5 @@ En el siguiente linke se puede visualizar los archivos .txt de cada ensayo reali
 ## *5. Bibliografia* <a name="id11"></a>
 
 [1] PLUX – Wireless Biosignals, "BITalino (r)evolution Lab Guide," Lisbon, Portugal, 2020.
+[1] Facultad de Medicina de la Universidad Complutense, "Electrocardiografia basica. Realizacion e interpretacion de un ECG", Madrid, 2012.
+
