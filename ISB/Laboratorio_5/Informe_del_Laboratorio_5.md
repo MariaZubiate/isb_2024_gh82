@@ -83,31 +83,13 @@ Ejercicio realizado:
 | Despues del ejercicio |  Evaluación del electrocardiograma inmediatamente después de que el paciente haya terminado la actividad física.  |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e9841319-294c-4599-b204-97e47710a7f9"></video>| 
 |  Respiración profunda después del ejercicio  | Análisis del electrocardiograma mientras el paciente realiza respiraciones profundas después de haber finalizado la actividad física | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/7a17e564-6024-4342-a032-eb8a35acb914"></video>| 
 
-
-### *4.3. Resumen y explicación de la señal ploteada* <a name="id8"></a> 
-
-##### 4.3.1. Lectura del EKG en reposo
-
-
-
-##### 4.3.2. Lectura del EKG respiración profunda antes del ejercicio
-
-
-##### 4.3.3. Lectura del EKG después del ejercicio
-
-
-
-##### 4.3.4. Lectura del EKG respiración profunda después del ejercicio
-
-
-
-### *4.4. Archivo de los datos de la señal ploteada* <a name="id9"></a> 
+### *4.3. Archivo de los datos de la señal ploteada* <a name="id7"></a> 
 En el siguiente link se puede visualizar los archivos .txt de cada ensayo realizado.
 [Data_ECG](./Data_ECG)
 
-### *4.5. Ploteo de la señal en Python* <a name="id10"></a> 
+### *4.4. Ploteo de la señal en Python* <a name="id8"></a> 
 
-##### 4.6.1. Lectura del EKG en reposo
+##### 4.4.1. Lectura del EKG en reposo
 
 Se utilizaron los archivos de txt de cada grabación del OpenSignals y se generó una lectura de los datos en Python.
 
@@ -115,32 +97,35 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 |:------------:|:---------------:|:------------:|
 |![Reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/df0c4abd-b7c2-41fe-8231-423f02dd0857)|![Reposo_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9bba41f0-c1fd-496c-a768-3b0fac98eadc)|![Reposo_1ciclo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/eab5c839-71e4-41e1-b5bf-eb5d0e6ae2f5)|
 
-
-
-##### 4.6.2. Lectura del EKG respiración profunda antes del ejercicio
+##### 4.4.2. Lectura del EKG respiración profunda antes del ejercicio
 
 |  *EKG respiración profunda antes del ejercicio*  | *Intervalo respectivo*|  *1 Ciclo*|
 |:------------:|:---------------:|:------------:|
 |![Breath_antes](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/fbaa7fec-e0c9-4f7e-b47c-43e9d3b75b40)|![Breath_antes_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e936df42-acce-4153-87b5-4a47ce3775bd)|![Breath_antes_1ciclo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/317b1d50-1f6e-415b-9508-9204d2e0f99c)|
 
-
-##### 4.6.3. Lectura del EKG después del ejercicio
+##### 4.4.3. Lectura del EKG después del ejercicio
 
 |  *EKG después del ejercicio*  | *Intervalo respectivo*|  *1 Ciclo*|
 |:------------:|:---------------:|:------------:|
 |![training](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/5e705d44-47fb-4b2d-b88e-88b07702fc23)|![training_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/7fc1e564-e253-40df-9e46-5d56cad7feba)|![Training_1ciclo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/d3c9e134-f9b8-4c2a-9e7e-0e05ebc63c8e)|
 
-
-##### 4.6.4. Lectura del EKG respiración profunda después del ejercicio
+##### 4.4.4. Lectura del EKG respiración profunda después del ejercicio
 
 |  *EKG respiración profunda después del ejercicio*  | *Intervalo respectivo*| *1 Ciclo*| 
 |:------------:|:---------------:|:---------------:|
 |![breath_despues](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9998790b-392c-47f9-a133-b51de88130e4)|![breath_despues_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/4dd6282f-b17a-449a-82fd-625be9716081)|![Breath_despues_1ciclo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/c8c2e3e6-5e32-4128-ac64-1433be78dfaf)|
 
+### *4.5. Resumen y explicación de la señal ploteada* <a name="id9"></a> 
 
+##### 4.5.1. Lectura del EKG en reposo
 
+##### 4.5.2. Lectura del EKG respiración profunda antes del ejercicio
+
+##### 4.5.3. Lectura del EKG después del ejercicio
+
+##### 4.5.4. Lectura del EKG respiración profunda después del ejercicio
    
-## *5. Analisis de las señales producidas por el Promsim4* <a name="id11"></a>
+## *5. Analisis de las señales producidas por el Promsim4* <a name="id10"></a>
 
 Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira simular la frecuencia cardiaca. Se llevaron a cabo diversas pruebas. Estas incluyeron la visualización de una frecuencia respiratoria normal, la onda de presión venosa central (CVP), taquicardia ventricular a 160 lpm, fibrilación ventricular severa y asistolia [2].
 |  *Señal completa en Python*  | *Descripción*|
@@ -189,7 +174,7 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 |  *Ploteo Python*  | *Descripción*|
 |![Prosim_etapa5](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1d9d885-4f17-4672-bf54-b576348742a8)|Finalmente, el corazón deja de latir por completo (asistolia), lo que significa ausencia de actividad eléctrica en el corazón. Es uno de los ritmos cardíacos que se presentan en paro cardíaco y requiere intervención médica inmediata para intentar reanimación cardiopulmonar (RCP) y posiblemente el uso de medicamentos y un desfibrilador. Es interesante el hecho de que el ProSim4 puede emitir una señal de asistolia sin casi ningpun ruido, esta precisión es clave durante el desarrollo de equipos de electrocardiografía, tal como lo describe la investigación de Havlík J. & Sušánková M. sobre la precisión de los dispositivos de monitorización de signos vitales [7].|
 
-## *1. Introducción* <a name="id13"></a>   
+## *1. Conclusión* <a name="id11"></a>   
 
 ## *6. Bibliografia* <a name="id12"></a>
 
