@@ -14,9 +14,9 @@
 4. [Resultados](#id4)\
      4.1 [Fotos de conexión usada](#id5)\
      4.2 [Video de señal](#id6)\
-     4.3 [Resumen y explicación de la señal ploteada](#id7)\
-     4.4 [Archivo de los datos de la señal ploteada](#id8)\
-     4.5 [Ploteo de la señal en Python](#id9)
+     4.3 [Archivo de los datos de la señal ploteada](#id7)\
+     4.4 [Ploteo de la señal en Python](#id8)\
+     4.5 [Resumen y explicación de la señal ploteada](#id9)
 5. [Analisis de las señales producidas por el Promsim4](#id10)
 6. [Conclusiones](#id11)
 7. [Bibliografia](#id12)
