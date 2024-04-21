@@ -187,7 +187,7 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/125b3219-db6d-4dc6-a762-8f24c9937045"></video>|![WhatsApp Image 2024-04-20 at 09 10 00](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/989f6aa3-c3e0-4de3-aa9d-ce140cd1718b)
 |  *Ploteo Python*  | *Descripción*|
 |![Prosim_etapa5](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1d9d885-4f17-4672-bf54-b576348742a8)|Finalmente, el corazón deja de latir por completo (asistolia), lo que significa ausencia de actividad eléctrica en el corazón. Es uno de los ritmos cardíacos que se presentan en paro cardíaco y requiere intervención médica inmediata para intentar reanimación cardiopulmonar (RCP) y posiblemente el uso de medicamentos y un desfibrilador. 
-Es interesante el hecho de que el ProSim4 puede emitir una señal de asistolia sin casi ningpun ruido, esta precisión es clave durante el desarrollo de equipos de electrocardiografía, tal como lo describe la investigación de Havlík J. & Sušánková M. sobre la precisión de los dispositivos de monitorización de signos vitales[C5].|
+Es interesante el hecho de que el ProSim4 puede emitir una señal de asistolia sin casi ningpun ruido, esta precisión es clave durante el desarrollo de equipos de electrocardiografía, tal como lo describe la investigación de Havlík J. & Sušánková M. sobre la precisión de los dispositivos de monitorización de signos vitales[7].|
    
 ## *6. Bibliografia* <a name="id12"></a>
 
@@ -197,10 +197,10 @@ Es interesante el hecho de que el ProSim4 puede emitir una señal de asistolia s
 
 [3] V. Randazzo, J. Ferretti, y E. Pasero, "Anytime ECG monitoring through the use of a low-cost, user-friendly, wearable device," Sensors, vol. 21, no. 18, 2021.
 
-[C2] H. Chen, Z. Zhu, C. Zhao, Y. Guo, D. Chen, Y. Wei, y J. Jin, "Central venous pressure measurement is associated with improved outcomes in septic patients: an analysis of the MIMIC-III database," Critical Care, vol. 24, no. 1, p. 674, Dec. 2020, doi: 10.1186/s13054-020-03109-9. Disponible en: https://link.springer.com/article/10.1186/s13054-020-03109-9.
+[4] H. Chen, Z. Zhu, C. Zhao, Y. Guo, D. Chen, Y. Wei, y J. Jin, "Central venous pressure measurement is associated with improved outcomes in septic patients: an analysis of the MIMIC-III database," Critical Care, vol. 24, no. 1, p. 674, Dec. 2020, doi: 10.1186/s13054-020-03109-9. Disponible en: https://link.springer.com/article/10.1186/s13054-020-03109-9.
 
-[4] M. Wasimuddin, K. Elleithy, A. Abuzneid, y M. Faezipour, "Multiclass ECG signal analysis using global average-based 2-D convolutional neural network modeling," Electronics, vol. 10, no. 2, 2021.
+[5] M. Wasimuddin, K. Elleithy, A. Abuzneid, y M. Faezipour, "Multiclass ECG signal analysis using global average-based 2-D convolutional neural network modeling," Electronics, vol. 10, no. 2, 2021.
 
-[5] I. Vasyltsov, C. Bak, y J. Jeong, "Statistical approach for lightweight detection of anomalies in ECG," presentado en la 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2016.
+[6] I. Vasyltsov, C. Bak, y J. Jeong, "Statistical approach for lightweight detection of anomalies in ECG," presentado en la 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2016.
 
-[6] J. Havlík y M. Sušánková, "Comparison of Home Blood Pressure Measurement Devices on Artificial Signals," presentado en el World Congress on Medical Physics and Biomedical Engineering, 2019.
+[7] J. Havlík y M. Sušánková, "Comparison of Home Blood Pressure Measurement Devices on Artificial Signals," presentado en el World Congress on Medical Physics and Biomedical Engineering, 2019.
