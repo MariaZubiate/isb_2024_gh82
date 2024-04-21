@@ -119,7 +119,11 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 ##### 4.5.1. Lectura del EKG en reposo
 
-En el intervalo de 10 segundos se aprecia la presencia de 10 ciclos. Aplicando una regla de 3, se obtiene que la Frecuencia Cardíaca es aproximadamente 60 lpm. Un valor que está dentro del rango del ritmo cardíaco normal (entre 60 y 100 lpm) [2].
+La primera ilustración presenta un electrocardiograma que revela la función cardiaca de un individuo en estado de reposo. La traza del voltaje, que varía con el transcurso del tiempo, muestra una serie de picos y depresiones regulares que son representativos de un patrón de latido cardíaco normal. Dichos picos se alinean con las etapas distintas de un ciclo cardiaco saludable. La definición y regularidad del gráfico son indicativos de un funcionamiento cardíaco adecuado y proveen un registro confiable para fines de evaluación médica.
+
+La segunda gráfica, aunque comparte la modalidad de la primera, se concentra en una ventana temporal más restringida, específicamente entre los 10 y 20 segundos. Se percibe una variabilidad más acentuada en el gráfico. Esta irregularidad podría interpretarse como una respuesta fisiológica momentánea o el resultado de movimientos mínimos por parte del sujeto, aún cuando se encuentra en reposo.
+
+La tercera gráfica amplía un segmento breve del electrocardiograma, enfocándose en el entorno de los 12 segundos. Este nivel de detalle permite un escrutinio más exhaustivo de los eventos cardíacos que puedan considerarse atípicos. Un pico prominente se distingue dentro de este segmento, lo cual puede sugerir una contracción cardiaca inusualmente vigorosa o una respuesta cardíaca transitoria.
 
 ##### 4.5.2. Lectura del EKG respiración profunda antes del ejercicio
 
