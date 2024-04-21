@@ -96,25 +96,32 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 |  *EKG en reposo*  | *Intervalo respectivo* | *1 Ciclo*|
 |:------------:|:---------------:|:------------:|
 |![Reposo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/df0c4abd-b7c2-41fe-8231-423f02dd0857)|![Reposo_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/b03262bd-509d-4733-b70b-183cb8ef3cfc)
-|![Reposo_1ciclo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/eab5c839-71e4-41e1-b5bf-eb5d0e6ae2f5)|
+|![Reposo_1ciclo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/a449f95b-97ab-46c8-bb5b-52b879645117)|
+|
 
 ##### 4.4.2. Lectura del EKG respiración profunda antes del ejercicio
 
 |  *EKG respiración profunda antes del ejercicio*  | *Intervalo respectivo*|  *1 Ciclo*|
 |:------------:|:---------------:|:------------:|
-|![Breath_antes](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/fbaa7fec-e0c9-4f7e-b47c-43e9d3b75b40)|![Breath_antes_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e936df42-acce-4153-87b5-4a47ce3775bd)|![Breath_antes_1ciclo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/317b1d50-1f6e-415b-9508-9204d2e0f99c)|
+|![Breath_antes](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/fbaa7fec-e0c9-4f7e-b47c-43e9d3b75b40)|![Breath_antes_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/6d4d155b-4838-40b3-a110-38309960867e)
+|![Breath_antes_1ciclo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/0427970d-170d-49b5-8d2b-cd65f36b8f3b)
+|
 
 ##### 4.4.3. Lectura del EKG después del ejercicio
 
 |  *EKG después del ejercicio*  | *Intervalo respectivo*|  *1 Ciclo*|
 |:------------:|:---------------:|:------------:|
-|![training](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/5e705d44-47fb-4b2d-b88e-88b07702fc23)|![training_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/7fc1e564-e253-40df-9e46-5d56cad7feba)|![Training_1ciclo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/d3c9e134-f9b8-4c2a-9e7e-0e05ebc63c8e)|
+|![training](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/5e705d44-47fb-4b2d-b88e-88b07702fc23)|![training_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/a0b6411b-b35f-4082-a96b-c3f581cb8481)
+|![Training_1ciclo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/26f1fefb-695c-482b-9255-3dcedff60986)
+|
 
 ##### 4.4.4. Lectura del EKG respiración profunda después del ejercicio
 
 |  *EKG respiración profunda después del ejercicio*  | *Intervalo respectivo*| *1 Ciclo*| 
 |:------------:|:---------------:|:---------------:|
-|![breath_despues](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9998790b-392c-47f9-a133-b51de88130e4)|![breath_despues_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/4dd6282f-b17a-449a-82fd-625be9716081)|![Breath_despues_1ciclo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/c8c2e3e6-5e32-4128-ac64-1433be78dfaf)|
+|![breath_despues](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9998790b-392c-47f9-a133-b51de88130e4)|![breath_despues_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/99c10b91-1a79-4a2e-a516-8ea8e3993de4)
+|![Breath_despues_1ciclo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/3d71d564-a5b1-4078-b60d-d3b099a2f661)
+|
 
 ### *4.5. Resumen y explicación de las señales ploteadas* <a name="id9"></a> 
 
