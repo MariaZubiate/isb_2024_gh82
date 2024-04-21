@@ -115,9 +115,11 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 |:------------:|:---------------:|:---------------:|
 |![breath_despues](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9998790b-392c-47f9-a133-b51de88130e4)|![breath_despues_int](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/4dd6282f-b17a-449a-82fd-625be9716081)|![Breath_despues_1ciclo](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/c8c2e3e6-5e32-4128-ac64-1433be78dfaf)|
 
-### *4.5. Resumen y explicación de la señal ploteada* <a name="id9"></a> 
+### *4.5. Resumen y explicación de las señales ploteadas* <a name="id9"></a> 
 
 ##### 4.5.1. Lectura del EKG en reposo
+
+
 
 ##### 4.5.2. Lectura del EKG respiración profunda antes del ejercicio
 
