@@ -127,6 +127,12 @@ La tercera gráfica amplía un segmento breve del electrocardiograma, enfocándo
 
 ##### 4.5.2. Lectura del EKG respiración profunda antes del ejercicio
 
+En la primera gráfica, tenemos una secuencia de ECG que cubre unos 35 segundos. Durante este tiempo, se nota cómo el patrón de los latidos del corazón cambia, algo que puede estar relacionado con que el sujeto tomó una respiración profunda. Es bien sabido que respirar profundamente puede hacer que el corazón lata más rápido cuando inhalamos y más despacio cuando exhalamos, lo cual es un proceso natural. La gráfica refleja este vaivén con sus altibajos que probablemente coinciden con la respiración del individuo.
+
+La segunda gráfica se centra en una franja de tiempo más breve, específicamente de diez a veinte segundos. En esta sección, el detalle es mayor, permitiendo ver más claramente cómo varía el ritmo cardíaco. Podría ser que esta parte represente cuando la persona está aguantando la respiración y luego la suelta.
+
+Finalmente, la tercera gráfica es un primer plano de un intervalo muy específico, de alrededor de 11.5 a 12.3 segundos. Este nivel de detalle muestra exactamente lo que sucede en un ciclo de respiración o latido del corazón. Se destaca una subida importante en el gráfico que puede ser resultado de cómo la respiración profunda afecta el corazón justo en el momento entre retener el aire y soltarlo.
+
 ##### 4.5.3. Lectura del EKG después del ejercicio
 
 ##### 4.5.4. Lectura del EKG respiración profunda después del ejercicio
