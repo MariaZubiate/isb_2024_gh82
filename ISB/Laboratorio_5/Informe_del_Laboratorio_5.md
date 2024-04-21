@@ -135,6 +135,12 @@ Finalmente, la tercera gráfica es un primer plano de un intervalo muy específi
 
 ##### 4.5.3. Lectura del EKG después del ejercicio
 
+La primera imagen muestra un electrocardiograma tomado durante 30 segundos justo después de que nuestro compañero terminó de hacer ejercicio. Es claro que el corazón late más rápido de lo normal, lo cual es esperado tras la actividad física. Se notan muchos picos seguidos en el gráfico, que son los latidos del corazón, mostrando que está trabajando a un ritmo acelerado para recuperarse del esfuerzo.
+
+La segunda imagen es un acercamiento a una parte del ECG, específicamente desde los 10 a los 20 segundos. Esta nos permite ver con más claridad que el corazón sigue latiendo rápido. La señal del ECG aquí tiene bastantes altibajos, mostrando cómo el corazón está respondiendo justo después de hacer ejercicio.
+
+La tercera imagen nos lleva a una mirada más cercana, enfocándonos en los segundos entre 11.5 y 12.3. Aquí se detalla cómo es un solo latido del corazón en ese momento. Hay un pico muy marcado en el gráfico que suele pasar después de un esfuerzo físico y podría significar que el corazón está empujando con más fuerza la sangre debido al ejercicio reciente.
+
 ##### 4.5.4. Lectura del EKG respiración profunda después del ejercicio
    
 ## *5. Analisis de las señales producidas por el Promsim4* <a name="id10"></a>
