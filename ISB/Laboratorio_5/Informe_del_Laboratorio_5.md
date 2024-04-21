@@ -176,6 +176,10 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 
 ## *6. Conclusiones* <a name="id11"></a>   
 
+1. Las señales de electrocardiograma (ECG) reflejan la actividad eléctrica del corazón, influenciada por el estado fisiológico y movimiento del individuo. Durante las pruebas, la variabilidad de la frecuencia cardíaca demostró ser un indicador eficaz del estrés autonómico en los participantes, particularmente tras realizar ejercicio físico.
+2.La aplicación de Python como lenguaje de programación resultó ser útil para realizar el análisis de datos complejos a partir de la data obtenida en .txt. Tal como se muestran en las imágenes, es posible analizar los episodios cuantitativamente.
+3. La implementación de electrodos de superficie requiere una consideración meticulosa en su ubicación y en su fijación a la piel del individuo. Detalles como constantes desconexiones se obtuvieron en electrodos que se utilizaron en zonas anatómicas angulosas lo que generó ruido y la repetición de la muestra.
+
 ## *7. Bibliografia* <a name="id12"></a>
 
 [1] PLUX – Wireless Biosignals, "BITalino (r)evolution Lab Guide," Lisbon, Portugal, 2020.
