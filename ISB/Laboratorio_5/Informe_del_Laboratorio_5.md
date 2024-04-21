@@ -14,11 +14,11 @@
 4. [Resultados](#id4)\
      4.1 [Fotos de conexión usada](#id5)\
      4.2 [Video de señal](#id6)\
-     4.3 [Resumen y explicación de la señal ploteada](#id8)\
-     4.4 [Archivo de los datos de la señal ploteada](#id9)\
-     4.5 [Ploteo de la señal en Python](#id10)
-5. [Analisis de las señales producidas por el Promsim4](#id11)
-6. [Conclusiones](#id13)
+     4.3 [Resumen y explicación de la señal ploteada](#id7)\
+     4.4 [Archivo de los datos de la señal ploteada](#id8)\
+     4.5 [Ploteo de la señal en Python](#id9)
+5. [Analisis de las señales producidas por el Promsim4](#id10)
+6. [Conclusiones](#id11)
 7. [Bibliografia](#id12)
    
 ## *1. Introducción* <a name="id1"></a>
@@ -174,9 +174,9 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 |  *Ploteo Python*  | *Descripción*|
 |![Prosim_etapa5](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1d9d885-4f17-4672-bf54-b576348742a8)|Finalmente, el corazón deja de latir por completo (asistolia), lo que significa ausencia de actividad eléctrica en el corazón. Es uno de los ritmos cardíacos que se presentan en paro cardíaco y requiere intervención médica inmediata para intentar reanimación cardiopulmonar (RCP) y posiblemente el uso de medicamentos y un desfibrilador. Es interesante el hecho de que el ProSim4 puede emitir una señal de asistolia sin casi ningpun ruido, esta precisión es clave durante el desarrollo de equipos de electrocardiografía, tal como lo describe la investigación de Havlík J. & Sušánková M. sobre la precisión de los dispositivos de monitorización de signos vitales [7].|
 
-## *1. Conclusión* <a name="id11"></a>   
+## *6. Conclusiones* <a name="id11"></a>   
 
-## *6. Bibliografia* <a name="id12"></a>
+## *7. Bibliografia* <a name="id12"></a>
 
 [1] PLUX – Wireless Biosignals, "BITalino (r)evolution Lab Guide," Lisbon, Portugal, 2020.
 
