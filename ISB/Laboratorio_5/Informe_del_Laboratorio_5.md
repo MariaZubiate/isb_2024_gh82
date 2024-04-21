@@ -153,7 +153,7 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/37bd1119-d2b8-4837-9460-908392018482"></video>|![WhatsApp Image 2024-04-20 at 09 10 00 (6)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/16bf3972-1bfc-4751-96e1-aed37c86aab1)
 |  *Ploteo Python*  | *Descripción*|
-|![Prosim_etapa1](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/099ae69d-9aa5-41cb-bad9-d3dd04c5a830)|:--------------:|
+|![Prosim_etapa1](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/099ae69d-9aa5-41cb-bad9-d3dd04c5a830)|En esta etapa inicial, el corazón mantiene un ritmo constante de 80 latidos por minuto, caracterizado como ritmo sinusal normal. Este ritmo sugiere que el nódulo sinoauricular, el marcapasos natural del corazón, opera adecuadamente sin evidencia de estrés o deterioro cardíaco. La importancia de replicar fielmente este ritmo en simulaciones es destacada en investigaciones como las de Randazzo et al. (2021), quienes emplean el ProSim 4 para verificar la autenticidad de las señales de ECG tanto en condiciones normales como patológicas, garantizando así la precisión del simulador para representar el RSN[1].|
 
 
 ### 5.2. Lectura del EKG con Onda de presión venosa central(CVP)
