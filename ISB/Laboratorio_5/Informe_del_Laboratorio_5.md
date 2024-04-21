@@ -153,7 +153,7 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/37bd1119-d2b8-4837-9460-908392018482"></video>|![WhatsApp Image 2024-04-20 at 09 10 00 (6)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/16bf3972-1bfc-4751-96e1-aed37c86aab1)
 |  *Ploteo Python*  | *Descripción*|
-|![Prosim_etapa1](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/099ae69d-9aa5-41cb-bad9-d3dd04c5a830)|En esta etapa inicial, el corazón mantiene un ritmo constante de 80 latidos por minuto, caracterizado como ritmo sinusal normal. Este ritmo sugiere que el nódulo sinoauricular, el marcapasos natural del corazón, opera adecuadamente sin evidencia de estrés o deterioro cardíaco. La importancia de replicar fielmente este ritmo en simulaciones es destacada en investigaciones como las de Randazzo et al. (2021), quienes emplean el ProSim 4 de Fluke para verificar la autenticidad de las señales de ECG tanto en condiciones normales como patológicas, garantizando así la precisión del simulador para representar el RSN[C1].|
+|![Prosim_etapa1](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/099ae69d-9aa5-41cb-bad9-d3dd04c5a830)|En esta etapa inicial, el corazón mantiene un ritmo constante de 80 latidos por minuto, caracterizado como ritmo sinusal normal. Este ritmo sugiere que el nódulo sinoauricular, el marcapasos natural del corazón, opera adecuadamente sin evidencia de estrés o deterioro cardíaco. La importancia de replicar fielmente este ritmo en simulaciones es destacada en investigaciones como las de Randazzo et al. (2021), quienes emplean el ProSim 4 de Fluke para verificar la autenticidad de las señales de ECG tanto en condiciones normales como patológicas, garantizando así la precisión del simulador para representar el RSN[3].|
 
 
 ### 5.2. Lectura del EKG con Onda de presión venosa central(CVP)
@@ -162,7 +162,7 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/27c57372-0a59-4922-be60-afab24a67f2c"></video>|![WhatsApp Image 2024-04-20 at 09 10 01](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a67083b8-1738-411c-ab34-6667bfeb9995)
 |  *Ploteo Python*  | *Descripción*|
-|![Prosim_etapa2](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0c94e45c-0831-4cd9-9931-14a00c65dcb0)|Esta etapa implica medir la presión venosa central, un indicativo de la presión sanguínea en las venas torácicas, que refleja el volumen intravascular y la funcionalidad del lado derecho del corazón. Aunque no se observan arritmias en esta fase, la monitorización de la CVP es crucial para evaluar la capacidad del corazón de manejar el volumen sanguíneo, especialmente bajo condiciones de choque o insuficiencia cardíaca. La capacidad del ProSim 4 de Fluke para simular diversas condiciones cardiovasculares es una función clave en la educación médica y en el desarrollo de equipos médicos, como se evidencia en estudios que validan algoritmos para digitalizar imágenes de ECG utilizando este simulador[2].|
+|![Prosim_etapa2](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0c94e45c-0831-4cd9-9931-14a00c65dcb0)|Consiste en la medición de la presión venosa central, un indicativo de la presión sanguínea en las venas torácicas, que refleja el volumen intravascular y la funcionalidad del lado derecho del corazón. Aunque no se observan arritmias en esta fase, la monitorización de la CVP es crucial para evaluar la capacidad del corazón de manejar el volumen sanguíneo, especialmente bajo condiciones de choque o insuficiencia cardíaca. De acuerdo con el estudio realizado por Chen y colaboradores en 2020, una monitorización precisa y regular de la presión venosa central en individuos con sepsis se correlaciona con una mejora notable en los resultados clínicos, subrayando el valor crítico de este indicador en el tratamiento efectivo de la sepsis[4].
 
 ### 5.3. Lectura del EKG con taquicardia ventricular a 160 lpm
 
@@ -170,7 +170,7 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/fc4e1382-bc11-4b89-9b64-fcff8c6df573"></video>|![WhatsApp Image 2024-04-20 at 09 10 00 (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/ce3bb910-914d-4a0b-93c4-cf919fbec6e3)
 |  *Ploteo Python*  | *Descripción*|
-|![Prosim_etapa3](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/c292c7f2-1af4-47c2-9dd3-420eede14bc7)|En esta fase, el corazón comienza a latir anormalmente rápido, a unos 160 latidos por minuto, en un ritmo originado en los ventrículos. Esta es una arritmia grave que puede ser inestable y puede llevar a una disminución del gasto cardíaco y la perfusión de órganos vitales, incluido el cerebro. Los modelos de redes neuronales convolucionales para el análisis de señales de ECG, como los propuestos por Wasimuddin et al. (2021), demuestran la utilidad del ProSim 4 de Fluke en la simulación de taquicardias para entrenar sistemas de diagnóstico automático[3].|
+|![Prosim_etapa3](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/c292c7f2-1af4-47c2-9dd3-420eede14bc7)|En esta fase, el corazón comienza a latir anormalmente rápido, a unos 160 latidos por minuto, en un ritmo originado en los ventrículos. Esta es una arritmia grave que puede ser inestable y puede llevar a una disminución del gasto cardíaco y la perfusión de órganos vitales, incluido el cerebro. Los modelos de redes neuronales convolucionales para el análisis de señales de ECG, como los propuestos por Wasimuddin et al. (2021), demuestran la utilidad del ProSim 4 de Fluke en la simulación de taquicardias para entrenar sistemas de diagnóstico automático[5].|
 
 ### 5.4. Lectura del EKG con fibrilación ventricular severa
 
@@ -178,7 +178,7 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2d388713-c81f-4b52-b60a-5f07be1ebddc"></video>|![WhatsApp Image 2024-04-20 at 09 10 00 (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a8c8d1bb-f0d1-4872-8c22-c199b270fa90)
 |  *Ploteo Python*  | *Descripción*|
-|![Prosim_etapa4](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9abe390d-c0ce-4d05-98c7-609f2d310670)|Una progresión de la taquicardia ventricular, la fibrilación ventricular es un ritmo cardíaco caótico que resulta en contracciones ventriculares rápidas y desorganizadas. Esta es una condición crítica y es la causa más común de paro cardíaco inmediato. El corazón no puede bombear sangre efectivamente, llevando a un colapso circulatorio. La detección de este tipo de arritmias usando simuladores como el ProSim 4 de Fluke es crucial para el desarrollo de métodos de detección ligeros y efectivos, como los investigados por Vasyltsov et al. (2016)[4].|
+|![Prosim_etapa4](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9abe390d-c0ce-4d05-98c7-609f2d310670)|Una progresión de la taquicardia ventricular, la fibrilación ventricular es un ritmo cardíaco caótico que resulta en contracciones ventriculares rápidas y desorganizadas. Esta es una condición crítica y es la causa más común de paro cardíaco inmediato. El corazón no puede bombear sangre efectivamente, llevando a un colapso circulatorio. La detección de este tipo de arritmias usando simuladores como el ProSim 4 de Fluke es crucial para el desarrollo de métodos de detección ligeros y efectivos, como los investigados por Vasyltsov et al. (2016)[6].|
 
 ### 5.5. Lectura del EKG con asistolía
 
@@ -186,7 +186,8 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/125b3219-db6d-4dc6-a762-8f24c9937045"></video>|![WhatsApp Image 2024-04-20 at 09 10 00](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/989f6aa3-c3e0-4de3-aa9d-ce140cd1718b)
 |  *Ploteo Python*  | *Descripción*|
-|![Prosim_etapa5](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1d9d885-4f17-4672-bf54-b576348742a8)|Finalmente, el corazón deja de latir por completo (asistolia), lo que significa ausencia de actividad eléctrica en el corazón. Es uno de los ritmos cardíacos que se presentan en paro cardíaco y requiere intervención médica inmediata para intentar reanimación cardiopulmonar (RCP) y posiblemente el uso de medicamentos y un desfibrilador. La simulación de asistolia en dispositivos como el ProSim 4 permite a los profesionales médicos practicar la respuesta a estos eventos críticos, como se describe en la investigación sobre la precisión de los dispositivos de monitorización de signos vitales[5].|
+|![Prosim_etapa5](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1d9d885-4f17-4672-bf54-b576348742a8)|Finalmente, el corazón deja de latir por completo (asistolia), lo que significa ausencia de actividad eléctrica en el corazón. Es uno de los ritmos cardíacos que se presentan en paro cardíaco y requiere intervención médica inmediata para intentar reanimación cardiopulmonar (RCP) y posiblemente el uso de medicamentos y un desfibrilador. 
+Es interesante el hecho de que el ProSim4 puede emitir una señal de asistolia sin casi ningpun ruido, esta precisión es clave durante el desarrollo de equipos de electrocardiografía, tal como lo describe la investigación de Havlík J. & Sušánková M. sobre la precisión de los dispositivos de monitorización de signos vitales[C5].|
    
 ## *6. Bibliografia* <a name="id12"></a>
 
@@ -194,3 +195,12 @@ Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira si
 
 [2] ProSim™, "Lectura del EKG con frecuencia respiratoria Normal," Fluke Biomedical, 2024. 
 
+[3] V. Randazzo, J. Ferretti, y E. Pasero, "Anytime ECG monitoring through the use of a low-cost, user-friendly, wearable device," Sensors, vol. 21, no. 18, 2021.
+
+[C2] H. Chen, Z. Zhu, C. Zhao, Y. Guo, D. Chen, Y. Wei, y J. Jin, "Central venous pressure measurement is associated with improved outcomes in septic patients: an analysis of the MIMIC-III database," Critical Care, vol. 24, no. 1, p. 674, Dec. 2020, doi: 10.1186/s13054-020-03109-9. Disponible en: https://link.springer.com/article/10.1186/s13054-020-03109-9.
+
+[4] M. Wasimuddin, K. Elleithy, A. Abuzneid, y M. Faezipour, "Multiclass ECG signal analysis using global average-based 2-D convolutional neural network modeling," Electronics, vol. 10, no. 2, 2021.
+
+[5] I. Vasyltsov, C. Bak, y J. Jeong, "Statistical approach for lightweight detection of anomalies in ECG," presentado en la 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2016.
+
+[6] J. Havlík y M. Sušánková, "Comparison of Home Blood Pressure Measurement Devices on Artificial Signals," presentado en el World Congress on Medical Physics and Biomedical Engineering, 2019.
