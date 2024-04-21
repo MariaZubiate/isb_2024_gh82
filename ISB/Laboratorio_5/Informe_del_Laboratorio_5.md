@@ -152,7 +152,7 @@ En la segunda foto, el enfoque es más estrecho, cubriendo solo 10 segundos de a
 
 La última foto hace un acercamiento mucho mayor, centrándose en un único ciclo de respiración entre los 11.4 y 12.2 segundos. Podemos apreciar con gran claridad cómo afecta un suspiro profundo al corazón. Hay un pico que sobresale que puede ser justo cuando la persona estaba soltando el aire, un momento en que el corazón a veces toma un pequeño descanso después de tener que bombear un poco más rápido.
 
-## *5. Analisis de las señales producidas por el Promsim4* <a name="id10"></a>
+## *5. Análisis de las señales producidas por el Prosim4* <a name="id10"></a>
 
 Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira simular la frecuencia cardiaca. Se llevaron a cabo diversas pruebas. Estas incluyeron la visualización de una frecuencia respiratoria normal, la onda de presión venosa central (CVP), taquicardia ventricular a 160 lpm, fibrilación ventricular severa y asistolia [3].
 |  *Señal completa en Python*  | *Descripción*|
