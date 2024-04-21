@@ -119,7 +119,7 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 ##### 4.5.1. Lectura del EKG en reposo
 
-
+En el intervalo de 10 segundos se aprecia la presencia de 10 ciclos. Aplicando una regla de 3, se obtiene que la Frecuencia Cardíaca es aproximadamente 60 lpm. Un valor que está dentro del rango del ritmo cardíaco normal (entre 60 y 100 lpm) [cita].
 
 ##### 4.5.2. Lectura del EKG respiración profunda antes del ejercicio
 
