@@ -125,6 +125,8 @@ La segunda gráfica, aunque comparte la modalidad de la primera, se concentra en
 
 La tercera gráfica amplía un segmento breve del electrocardiograma, enfocándose en el entorno de los 12 segundos. Este nivel de detalle permite un escrutinio más exhaustivo de los eventos cardíacos que puedan considerarse atípicos. Un pico prominente se distingue dentro de este segmento, lo cual puede sugerir una contracción cardiaca inusualmente vigorosa o una respuesta cardíaca transitoria.
 
+En un intervalo de 10 segundos se aprecia la presencia de 10 ciclos. Aplicando la regla de 3 simple, se obtiene que la frecuencia cardíaca es de 60 lpm. Un valor que está dentro del rango del ritmo cardíaco normal (entre 60 y 100 lpm) [2]
+
 ##### 4.5.2. Lectura del EKG respiración profunda antes del ejercicio
 
 En la primera gráfica, tenemos una secuencia de ECG que cubre unos 35 segundos. Durante este tiempo, se nota cómo el patrón de los latidos del corazón cambia, algo que puede estar relacionado con que el sujeto tomó una respiración profunda. Es bien sabido que respirar profundamente puede hacer que el corazón lata más rápido cuando inhalamos y más despacio cuando exhalamos, lo cual es un proceso natural. La gráfica refleja este vaivén con sus altibajos que probablemente coinciden con la respiración del individuo.
@@ -142,7 +144,13 @@ La segunda imagen es un acercamiento a una parte del ECG, específicamente desde
 La tercera imagen nos lleva a una mirada más cercana, enfocándonos en los segundos entre 11.5 y 12.3. Aquí se detalla cómo es un solo latido del corazón en ese momento. Hay un pico muy marcado en el gráfico que suele pasar después de un esfuerzo físico y podría significar que el corazón está empujando con más fuerza la sangre debido al ejercicio reciente.
 
 ##### 4.5.4. Lectura del EKG respiración profunda después del ejercicio
-   
+
+La primera foto presenta cómo se comporta el corazón cuando se somete a ejercicios de respiración profunda. Durante los 30 segundos que dura la grabación, se ve cómo la línea del ECG sube y baja, lo que seguramente va al ritmo de los respiraciones profundas que está haciendo la persona. Es interesante observar cómo la señal varía, marcando las veces que nuestro compañero toma y suelta aire lentamente.
+
+En la segunda foto, el enfoque es más estrecho, cubriendo solo 10 segundos de actividad cardíaca. Aquí, la señal del ECG parece bailar más, subiendo y bajando con la respiración que aún está controlada por los ejercicios que la persona acababa de hacer. Estos cambios son más evidentes que cuando el corazón está en calma y es justo lo que se esperaría después de respiraciones largas y controladas.
+
+La última foto hace un acercamiento mucho mayor, centrándose en un único ciclo de respiración entre los 11.4 y 12.2 segundos. Podemos apreciar con gran claridad cómo afecta un suspiro profundo al corazón. Hay un pico que sobresale que puede ser justo cuando la persona estaba soltando el aire, un momento en que el corazón a veces toma un pequeño descanso después de tener que bombear un poco más rápido.
+
 ## *5. Analisis de las señales producidas por el Promsim4* <a name="id10"></a>
 
 Se utilizo el Promsim4, un simulador de signos vitales, el cual nos permitira simular la frecuencia cardiaca. Se llevaron a cabo diversas pruebas. Estas incluyeron la visualización de una frecuencia respiratoria normal, la onda de presión venosa central (CVP), taquicardia ventricular a 160 lpm, fibrilación ventricular severa y asistolia [3].
