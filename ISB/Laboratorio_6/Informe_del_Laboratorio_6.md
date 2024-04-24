@@ -45,7 +45,10 @@
 
 | **TIPO** | **DEFINICIÓN** | **VIDEO** |
 |:--------------:|:---------------:|:---------------:|
-| Reposo | Análisis del electrocardiograma mientras el paciente se encuentra en reposo antes de iniciar cualquier actividad física. |  <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3749934a-30a9-4a4d-93c8-4abd15446a87"></video>|  
+| Reposo | Análisis del elencefalograma mientras el paciente se encuentra en reposo antes de iniciar cualquier actividad física. | ------|  
+| Actividad de parpadeo | Análisis del elncefalograma mientras el paciente repetir un ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambas fases durante cinco segundos. | ------|  
+| Después de la actividad de parpadeo | Análisis del elencefalograma del paciente despues de haber pasado un tiempo de descanso de la actividad  | ------|
+| Actividad de lectura | Análisis del elencefalograma mientras el paciente se encuentra  leyendo en voz alta una serie de ejercicios matemáticos| ------| 
 
 ### *4.3. Archivo de los datos de la señal ploteada* <a name="id7"></a> 
 En el siguiente link se puede visualizar los archivos .txt de cada ensayo realizado.
