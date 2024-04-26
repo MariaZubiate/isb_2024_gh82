@@ -1,4 +1,6 @@
 
+
+
 # Laboratorio 6
 ## Integrantes
 - Christian Martin Mucha Huatuco
@@ -53,12 +55,12 @@
 
 ### *4.2. Video de la señal* <a name="id6"></a>
 
-| **TIPO** | **DEFINICIÓN** | **VIDEO** |
-|:--------------:|:---------------:|:---------------:|
-| Reposo | Análisis del elencefalograma mientras el paciente se encuentra en reposo antes de iniciar cualquier actividad. | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/41357d5c-522b-48e1-b125-8d0a8545fcca"></video> |  
+| **TIPO** | **DEFINICIÓN** | **VIDEO** | 
+|:--------------:|:---------------:|:---------------:| 
+| Reposo | Análisis del elencefalograma mientras el paciente se encuentra en reposo antes de iniciar cualquier actividad. | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/41357d5c-522b-48e1-b125-8d0a8545fcca"></video> |
 | Actividad de parpadeo | Análisis del elncefalograma mientras el paciente repetir un ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambas fases durante cinco segundos. |  <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/30d664a2-fdff-4e73-a6b0-2decb3797e09"></video>|  
-| Después de la actividad de parpadeo | Análisis del elencefalograma del paciente despues de haber pasado un tiempo de descanso de la actividad  | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a61bb50b-2d60-4ceb-a69b-df26e2ba07ef"></video>|
-| Actividad de lectura | Análisis del elencefalograma mientras el paciente se encuentra  leyendo en voz alta una serie de ejercicios matemáticos|  <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/69a3a3f0-4388-4d91-8c4b-5dc1ddd9e6e4"></video> | 
+| Después de la actividad de parpadeo | Análisis del elencefalograma del paciente despues de haber pasado un tiempo de descanso de la actividad  | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a61bb50b-2d60-4ceb-a69b-df26e2ba07ef"></video>| 
+| Actividad de lectura | Análisis del elencefalograma mientras el paciente se encuentra  leyendo en voz alta una serie de ejercicios matemáticos|  <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/69a3a3f0-4388-4d91-8c4b-5dc1ddd9e6e4"></video> |
 
 ### *4.3. Archivo de los datos de la señal ploteada* <a name="id7"></a> 
 En el siguiente link se puede visualizar los archivos .txt de cada ensayo realizado.
@@ -112,7 +114,7 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 |  *Video*  | *Foto*|
 |:------------:|:---------------:|
-|<video src=""></video>|---
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2e21654a-956a-4475-9a5d-179a4b67bda9"></video>|---
 |  *Ploteo Python*  | *Descripción*|
 |---|---|
 
@@ -121,7 +123,7 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 |  *Video*  | *Foto*|
 |:------------:|:---------------:|
-|<video src=""></video>|---
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/76c1d055-e03b-4ecc-bd0f-000118714b40"></video>|---
 |  *Ploteo Python*  | *Descripción*|
 |---|---|
 
@@ -129,7 +131,7 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 |  *Video*  | *Foto*|
 |:------------:|:---------------:|
-|<video src=""></video>|---
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e6355baa-eef5-45e3-bbf5-323ff6a1e495"></video>|---
 |  *Ploteo Python*  | *Descripción*|
 |---|---|
 
@@ -137,7 +139,7 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 |  *Video*  | *Foto*|
 |:------------:|:---------------:|
-|<video src=""></video>|---
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3c0022b9-2858-41f0-88e5-42a6a043d169"></video>|---
 |  *Ploteo Python*  | *Descripción*|
 |---|---|
 
