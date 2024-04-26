@@ -113,10 +113,10 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 | **TIPO** | **DEFINICIÓN** | **VIDEO** |
 |:--------------:|:---------------:|:---------------:|
-| Reposo | Análisis del elencefalograma mientras el paciente se encuentra en reposo antes de iniciar cualquier actividad. | <video src=""></video> |  
-| Actividad de parpadeo | Análisis del elncefalograma mientras el paciente repetir un ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambas fases durante cinco segundos. |  <video src=""></video>|  
-| Después de la actividad de parpadeo | Análisis del elencefalograma del paciente despues de haber pasado un tiempo de descanso de la actividad  | <video src=""></video>|
-| Actividad de lectura | Análisis del elencefalograma mientras el paciente se encuentra  leyendo en voz alta una serie de ejercicios matemáticos|  <video src=""></video> | 
+| Reposo | Análisis del elencefalograma mientras el paciente se encuentra en reposo antes de iniciar cualquier actividad. | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/287d7bb9-897e-4eb1-a1dd-8eac82ca8ce3"></video> |  
+| Actividad de parpadeo | Análisis del elncefalograma mientras el paciente repetir un ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambas fases durante cinco segundos. |  <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/bffc28ea-7576-44b0-ae22-a86c52e05e10"></video>|  
+| Después de la actividad de parpadeo | Análisis del elencefalograma del paciente despues de haber pasado un tiempo de descanso de la actividad  | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/475c701d-2b06-477b-9c51-d39e3a2bef85"></video>|
+| Actividad de lectura | Análisis del elencefalograma mientras el paciente se encuentra  leyendo en voz alta una serie de ejercicios matemáticos|  <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/29accba1-7758-432d-ab8c-fab615f9832f"></video> | 
 
 ### *4.7. Archivo de los datos de la señal ploteada* <a name="id12"></a> 
 En el siguiente link se puede visualizar los archivos .txt de cada ensayo realizado.
