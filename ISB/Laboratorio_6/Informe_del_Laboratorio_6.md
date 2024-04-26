@@ -104,5 +104,5 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 ## *5. Conclusiones* <a name="id10"></a>   
 
 
-## *6. Bibliografia* <a name="id11"></a>
+## *6. Bibliografía* <a name="id11"></a>
 
