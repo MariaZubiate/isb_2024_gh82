@@ -1,5 +1,5 @@
 
-# Laboratorio 5
+# Laboratorio 6
 ## Integrantes
 - Christian Martin Mucha Huatuco
 - Maria del Carmen Zubiate Castillo
