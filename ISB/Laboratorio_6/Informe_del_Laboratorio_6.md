@@ -18,12 +18,9 @@
      4.4 [Ploteo de la señal en Python](#id8)\
      4.5 [Resumen y explicación de la señal ploteada](#id9)\
      4.6 [Fotos de conexión usada](#id10)\
-     4.7 [Video de señal](#id11)\
-     4.8 [Archivo de los datos de la señal ploteada](#id12)\
-     4.8 [Ploteo de la señal en Python](#id13)\
-     4.9 [Resumen y explicación de la señal ploteada](#id14)
-6. [Conclusiones](#id15)
-7. [Bibliografia](#id16)
+     4.7 [Analisis de las señales producidad por el ultracortex](#id11)\
+6. [Conclusiones](#id12)
+7. [Bibliografia](#id13)
    
 ## *1. Introducción* <a name="id1"></a>
 
@@ -106,62 +103,46 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 ##### 4.5.4. Lectura del EEG en actividad de lectura
 
 
-### *4.5. Fotos de conexión usada - Caso con  Ultracortex Mark IV EEG Headset *  <a name="id10"></a>
+### *4.6. Fotos de conexión usada - Caso con  Ultracortex Mark IV EEG Headset *  <a name="id10"></a>
 
 
-### *4.6. Video de la señal* <a name="id11"></a>
+ ### 4.7. *Analisis de las señales producidad por el ultracortex* <a name="id11"></a>
+ 
+### *4.7.1. Lectura del EEG en reposo *  
 
-| **TIPO** | **DEFINICIÓN** | **VIDEO** |
-|:--------------:|:---------------:|:---------------:|
-| Reposo | Análisis del elencefalograma mientras el paciente se encuentra en reposo antes de iniciar cualquier actividad. | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/287d7bb9-897e-4eb1-a1dd-8eac82ca8ce3"></video> |  
-| Actividad de parpadeo | Análisis del elncefalograma mientras el paciente repetir un ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambas fases durante cinco segundos. |  <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/bffc28ea-7576-44b0-ae22-a86c52e05e10"></video>|  
-| Después de la actividad de parpadeo | Análisis del elencefalograma del paciente despues de haber pasado un tiempo de descanso de la actividad  | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/475c701d-2b06-477b-9c51-d39e3a2bef85"></video>|
-| Actividad de lectura | Análisis del elencefalograma mientras el paciente se encuentra  leyendo en voz alta una serie de ejercicios matemáticos|  <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/29accba1-7758-432d-ab8c-fab615f9832f"></video> | 
-
-### *4.7. Archivo de los datos de la señal ploteada* <a name="id12"></a> 
-En el siguiente link se puede visualizar los archivos .txt de cada ensayo realizado.
-[Data_ECG](./Data_ECG)
-
-### *4.8. Ploteo de la señal en Python* <a name="id13"></a> 
-
-Se utilizaron los archivos de txt de cada grabación del OpenSignals y se generó una lectura de los datos en Python.
-
-##### 4.8.1. Lectura del EEG en reposo
-
-|  *EEG en reposo*  | *Intervalo respectivo* | *1 Ciclo*|
-|:------------:|:---------------:|:------------:|
-|------------|---------------|------------|
-
-##### 4.8.2. Lectura del EEG en actividad de parpadeo
-
-|  *EEG en actividad de parpadeo*  | *Intervalo respectivo* | *1 Ciclo*|
-|:------------:|:---------------:|:------------:|
-|------------|---------------|------------|
-
-##### 4.8.3. Lectura del EEG después de la actividad de parpadeo
-
-|  *EEG después de la actividad de parpadeo*  | *Intervalo respectivo* | *1 Ciclo*|
-|:------------:|:---------------:|:------------:|
-|------------|---------------|------------|
-
-##### 4.8.4. Lectura del EEG en actividad de lectura
-
-|  *EEG en actividad de lectura*  | *Intervalo respectivo* | *1 Ciclo*|
-|:------------:|:---------------:|:------------:|
-|------------|---------------|------------|
-
-### *4.9. Resumen y explicación de las señales ploteadas* <a name="id14"></a> 
-
-##### 4.9.1. Lectura del EEG en reposo
-
-##### 4.9.2. Lectura del EEG en actividad de parpadeo
-
-##### 4.9.3. Lectura del EEG  después de la actividad de parpadeo
-
-##### 4.9.4. Lectura del EEG en actividad de lectura
-
-## *5. Conclusiones* <a name="id15"></a>   
+|  *Video*  | *Foto*|
+|:------------:|:---------------:|
+|<video src=""></video>|---
+|  *Ploteo Python*  | *Descripción*|
+|---|---|
 
 
-## *6. Bibliografía* <a name="id16"></a>
+### *4.7.2 Lectura del EEG en actividad de parpadeo
+
+|  *Video*  | *Foto*|
+|:------------:|:---------------:|
+|<video src=""></video>|---
+|  *Ploteo Python*  | *Descripción*|
+|---|---|
+
+### *4.7.3. Lectura del EEG  después de la actividad de parpadeo
+
+|  *Video*  | *Foto*|
+|:------------:|:---------------:|
+|<video src=""></video>|---
+|  *Ploteo Python*  | *Descripción*|
+|---|---|
+
+### 4.7.4. Lectura del EEG en actividad de lectura
+
+|  *Video*  | *Foto*|
+|:------------:|:---------------:|
+|<video src=""></video>|---
+|  *Ploteo Python*  | *Descripción*|
+|---|---|
+
+## *5. Conclusiones* <a name="id12"></a>   
+
+
+## *6. Bibliografía* <a name="id13"></a>
 
