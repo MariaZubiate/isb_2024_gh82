@@ -52,6 +52,8 @@
 
 ### *4.1. Fotos de conexión usada - Caso con el Bitalino*  <a name="id5"></a>
 
+Se colocaron tres electrodos en la persona. Dos de ellos se ubicaron en la frente, con una diferencia de distancia entre ellos, mientras que el tercero se colocó en el hueso detrás de la oreja.
+
 
 ### *4.2. Video de la señal* <a name="id6"></a>
 
@@ -105,7 +107,18 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 ##### 4.5.4. Lectura del EEG en actividad de lectura
 
 
-### *4.6. Fotos de conexión usada - Caso con  Ultracortex Mark IV EEG Headset *  <a name="id10"></a>
+### *4.6. Fotos de conexión usada - Caso con  Ultracortex Mark IV EEG Headset*  <a name="id10"></a>
+El Ultracortex es una serie de dispositivos de electroencefalografía (EEG) desarrollados por OpenBCI. Está diseñado para capturar señales cerebrales y facilitar la investigación y la creación de aplicaciones de interfaz cerebro-computadora. El Ultracortex utiliza electrodos no invasivos colocados en el cuero cabelludo para medir la actividad eléctrica del cerebro, lo que permite el control de dispositivos y la recopilación de datos para diversas aplicaciones en neurociencia, medicina y tecnología.
+
+El software de visualización de imágenes del Ultracortex proporciona los datos obtenidos a través de la electroencefalografía (EEG). Nos permitira explorar las señales cerebrales. Con esta herramienta, es posible identificar patrones, correlaciones y cambios en la actividad cerebral.
+
+<p align="center">
+  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/f3a215c4-7eb3-4bcf-b182-0fdb62c124c8" alt="Ultracortex" width="400">
+</p>
+<p align="center">
+  <em>Fuente: OpenBCI. "Mark IV — OpenBCI Headwear"</em>
+</p>
+
 
 
  ### 4.7. *Analisis de las señales producidad por el ultracortex* <a name="id11"></a>
@@ -147,4 +160,5 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 
 ## *6. Bibliografía* <a name="id13"></a>
-
+[1] PLUX – Wireless Biosignals, S.A., "BITalino (r)evolution Lab Guide: Experimental Guides to Meet & Learn Your Biosignals," OD.LB.04.05, Feb. 15, 2021.. Available: http://BITalino.com/.
+[2] OpenBCI. "Mark IV — OpenBCI Headwear", OpenBCI Documentation. Available: https://docs.openbci.com/AddOns/Headwear/MarkIV/. [Accessed: April 27, 2024]
