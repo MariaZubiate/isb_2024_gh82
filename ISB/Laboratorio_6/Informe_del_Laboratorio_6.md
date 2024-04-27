@@ -85,27 +85,27 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 ##### 4.4.1. Lectura del EEG en reposo
 
-|  *EEG en reposo*  | *Intervalo respectivo* | *1 Ciclo*|
-|:------------:|:---------------:|:------------:|
-|------------|---------------|------------|
+|  *EEG en reposo*  | *Intervalo respectivo* |
+|:------------:|:---------------:|
+|------------|---------------|
 
 ##### 4.4.2. Lectura del EEG en actividad de parpadeo
 
 |  *EEG en actividad de parpadeo*  | *Intervalo respectivo* |
-|:------------:|:---------------:|:------------:|
-|------------|---------------|------------|
+|:------------:|:---------------:|
+|------------|---------------|
 
 ##### 4.4.3. Lectura del EEG después de la actividad de parpadeo
 
-|  *EEG después de la actividad de parpadeo*  | *Intervalo respectivo* | *1 Ciclo*|
-|:------------:|:---------------:|:------------:|
-|------------|---------------|------------|
+|  *EEG después de la actividad de parpadeo*  | *Intervalo respectivo* |
+|:------------:|:---------------:|
+|------------|---------------|
 
 ##### 4.4.4. Lectura del EEG en actividad de lectura
 
-|  *EEG en actividad de lectura*  | *Intervalo respectivo* | *1 Ciclo*|
-|:------------:|:---------------:|:------------:|
-|------------|---------------|------------|
+|  *EEG en actividad de lectura*  | *Intervalo respectivo* |
+|:------------:|:---------------:|
+|------------|---------------|
 
 ### *4.5. Resumen y explicación de las señales ploteadas* <a name="id9"></a> 
 
