@@ -91,7 +91,7 @@ Se utilizaron los archivos de txt de cada grabaci√≥n del OpenSignals y se gener√
 
 ##### 4.4.2. Lectura del EEG en actividad de parpadeo
 
-|  *EEG en actividad de parpadeo*  | *Intervalo respectivo* | *1 Ciclo*|
+|  *EEG en actividad de parpadeo*  | *Intervalo respectivo* |
 |:------------:|:---------------:|:------------:|
 |------------|---------------|------------|
 
