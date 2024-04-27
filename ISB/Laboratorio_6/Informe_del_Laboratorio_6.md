@@ -119,13 +119,13 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 
 ### *4.6. Fotos de conexión usada - Caso con  Ultracortex Mark IV EEG Headset*  <a name="id10"></a>
-El Ultracortex es una serie de dispositivos de electroencefalografía (EEG) desarrollados por OpenBCI. Está diseñado para capturar señales cerebrales y facilitar la investigación y la creación de aplicaciones de interfaz cerebro-computadora. El Ultracortex utiliza electrodos no invasivos colocados en el cuero cabelludo para medir la actividad eléctrica del cerebro, lo que permite el control de dispositivos y la recopilación de datos para diversas aplicaciones en neurociencia, medicina y tecnología.
+El Ultracortex es una serie de dispositivos de electroencefalografía (EEG) desarrollados por OpenBCI. Está diseñado para capturar señales cerebrales y facilitar la investigación y la creación de aplicaciones de interfaz cerebro-computadora. El Ultracortex utiliza electrodos no invasivos colocados en el cuero cabelludo para medir la actividad eléctrica del cerebro, lo que permite el control de dispositivos y la recopilación de datos para diversas aplicaciones en neurociencia, medicina y tecnología[2].
 
 
 
 
 
-El software de visualización de imágenes del Ultracortex proporciona los datos obtenidos a través de la electroencefalografía (EEG). Nos permitira explorar las señales cerebrales. Con esta herramienta, es posible identificar patrones, correlaciones y cambios en la actividad cerebral.
+El software de visualización de imágenes del Ultracortex proporciona los datos obtenidos a través de la electroencefalografía (EEG). Nos permitira explorar las señales cerebrales. Con esta herramienta, es posible identificar patrones, correlaciones y cambios en la actividad cerebral[2].
 
 <p align="center">
   <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1f7ea3a4-2e13-4fc6-b815-0b39d2a4ab9a" alt="image" width="400">
