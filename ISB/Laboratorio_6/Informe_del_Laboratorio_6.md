@@ -56,6 +56,8 @@ En esta guía, exploraremos los principios de la EEG, la colocación de electrod
 
 ### *4.1. Fotos de conexión usada - Caso con el Bitalino*  <a name="id5"></a>
 
+Se colocaron tres electrodos en la persona. Dos de ellos se ubicaron en la frente, con una diferencia de distancia entre ellos, mientras que el tercero se colocó en el hueso detrás de la oreja.
+
 |  **IMAGEN REFERENCIAL**  | **FOTO** | 
 |:------------:|:---------------:|
 |  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d57dcfe8-8b8d-48dd-bee5-ead26ace7959)|  ![Sin título](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/9dd999c5-c0ad-40af-a152-59310b4cda61) | 
@@ -64,6 +66,8 @@ En esta guía, exploraremos los principios de la EEG, la colocación de electrod
 
 ### *4.2. Video de la señal* <a name="id6"></a>
 
+ En este inciso se podra visualizar los ensayos que realizamos en el laboratorio.
+ 
 | **TIPO** | **DEFINICIÓN** | **VIDEO** | 
 |:--------------:|:---------------:|:---------------:| 
 | Reposo | Análisis del elencefalograma mientras el paciente se encuentra en reposo antes de iniciar cualquier actividad. | <video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/41357d5c-522b-48e1-b125-8d0a8545fcca"></video> |
@@ -130,6 +134,9 @@ El software de visualización de imágenes del Ultracortex proporciona los datos
   <em>Fuente: OpenBCI. "Mark IV — OpenBCI Headwear"</em>
 </p>
 
+
+Se colocó el Ultracortex como la imagen de referencia, teniendo en cuenta la disposición del sistema de electrodos según la distancia de 10-20. Además, se ajustaron las perillas para asegurar el contacto adecuado con el cuero cabelludo.
+
 |  **IMAGEN REFERENCIAL**  | **FOTO** | 
 |:------------:|:---------------:|
 | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/dc1a8776-fdf2-4a96-8a5b-abbd5f8cb8b3) | ![WhatsApp Image 2024-04-27 at 12 14 16](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5c3ab703-5197-42b2-a6bf-53b9d04affba)| 
@@ -137,6 +144,9 @@ El software de visualización de imágenes del Ultracortex proporciona los datos
 
 
  ### 4.7. *Analisis de las señales producidad por el ultracortex* <a name="id11"></a>
+
+Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análisis en Python de las señales cerebrales, con el fin de observar los cambios que ocurren en ellas.
+
  
 ### *4.7.1. Lectura del EEG en reposo *  
 
