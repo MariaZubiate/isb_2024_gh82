@@ -64,7 +64,7 @@
 
 ### *4.3. Archivo de los datos de la señal ploteada* <a name="id7"></a> 
 En el siguiente link se puede visualizar los archivos .txt de cada ensayo realizado.
-[Data_ECG](./Data_ECG)
+[Data_EEG](./Data_EEG)
 
 ### *4.4. Ploteo de la señal en Python* <a name="id8"></a> 
 
