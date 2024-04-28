@@ -117,6 +117,10 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 ##### 4.5.3. Lectura del EEG  después de la actividad de parpadeo
 
+4.5.3. Lectura del EEG después de la actividad de parpadeo
+1. Señal EEG después del parpadeo (izquierda): La primera gráfica muestra la señal EEG tras una secuencia de parpadeos, revelando una señal más estable con menos picos agudos. Esto podría reflejar una disminución de las distorsiones causadas por los movimientos de los párpados, ofreciendo una visión más clara de la actividad eléctrica cerebral intrínseca. Investigaciones realizadas por Köhler, Stekelenburg y De Baene [9] han analizado las variaciones de las ondas alfa en condiciones de reposo con los ojos cerrados, lo cual es crucial para comprender cómo estas ondas se manifiestan durante la relajación.
+2. Intervalo respectivo (derecha): En el gráfico de un segmento más breve, se observa una regularidad en la señal EEG que contrasta con las grabaciones tomadas durante el parpadeo. La investigación de Hohaia, Saurels y Johnston [10] indica que las ondas alfa en la región occipital del cerebro, que emergen cuando los ojos están cerrados, están influenciadas por la actividad visual latente. Esto corrobora la observación de una actividad alfa consistente y refuerza su asociación con estados de descanso más profundos.
+
 ##### 4.5.4. Lectura del EEG en actividad de lectura
 
 
@@ -198,3 +202,5 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 [6] S. Snipes, E. Meier, S.N. Meissner, H.P. Landolt, R. Huber, "How and when EEG reflects changes in neuronal connectivity due to time awake," IScience, 2023.
 [7] A.K. Maddirala, K.C. Veluvolu, "Eye-blink artifact removal from single channel EEG with k-means and SSA", Scientific Reports, 2021.
 [8] M. Jurczak, M. Kołodziej, A. Majkowski, "Implementation of a convolutional neural network for eye blink artifacts removal from the electroencephalography signal", Frontiers in Neuroscience, 2022.
+[9] M.S. Köhler, J. Stekelenburg, W. De Baene, "Mental Fatigue and its Effects on Alpha Waves: An EEG study," 2023.
+[10] W. Hohaia, B.W. Saurels, A. Johnston, "Occipital alpha-band brain waves when the eyes are closed are shaped by ongoing visual processes," Scientific Reports, 2022.
