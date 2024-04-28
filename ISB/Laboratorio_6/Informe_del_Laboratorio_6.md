@@ -197,7 +197,7 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 
 ## *5. Conclusiones* <a name="id12"></a>   
 
-1. Las variaciones observadas en la actividad cerebral, como los incrementos notados por Nsugbe et al. [1] durante actividades específicas o al solucionar problemas matemáticos, resaltan la versatilidad del cerebro para cumplir con demandas cognitivas y motoras. Los aumentos en frecuencia y amplitud de las ondas beta, identificados por Paszkiel et al. [12] y que normalmente oscilan entre 13 y 30 Hz, indican un estado de alerta y concentración necesarios para tareas de alta demanda cognitiva. Simultáneamente, las ondas theta (4-8 Hz) y delta (1-4 Hz) reflejan procesos mentales asociados con la relajación y la concentración intensa, esenciales para abordar retos intelectuales complejos. Esta capacidad de adaptación de la actividad neuronal no solo demuestra la extraordinaria plasticidad del cerebro, sino que también proporciona una base para el avance de tecnologías como las interfaces cerebro-computadora y los métodos de rehabilitación neurológica.
+1. Las variaciones observadas en la actividad cerebral, como los incrementos notados por Nsugbe et al. [11] durante actividades específicas o al solucionar problemas matemáticos, resaltan la versatilidad del cerebro para cumplir con demandas cognitivas y motoras. Los aumentos en frecuencia y amplitud de las ondas beta, identificados por Paszkiel et al. [12] y que normalmente oscilan entre 13 y 30 Hz, indican un estado de alerta y concentración necesarios para tareas de alta demanda cognitiva. Simultáneamente, las ondas theta (4-8 Hz) y delta (1-4 Hz) reflejan procesos mentales asociados con la relajación y la concentración intensa, esenciales para abordar retos intelectuales complejos. Esta capacidad de adaptación de la actividad neuronal no solo demuestra la extraordinaria plasticidad del cerebro, sino que también proporciona una base para el avance de tecnologías como las interfaces cerebro-computadora y los métodos de rehabilitación neurológica.
 
 2. Por otro lado, el notable incremento en la amplitud de las señales EEG, especialmente en las ondas alfa (8-12 Hz) y beta, tras un período de privación visual, destaca una reactividad incrementada del sistema visual, tal como documentan Adeniyi y Awosika [13] y Snipes et al. [14]. Este fenómeno podría estar relacionado con un ajuste en las frecuencias de dichas ondas, en las que las ondas alfa, comúnmente ligadas a la relajación y al acto de cerrar los ojos, muestran un aumento en su potencia y posiblemente una disminución en su frecuencia en respuesta a la necesidad de procesar de forma intensa los estímulos visuales tras la privación. Esta alteración en frecuencia y amplitud es crucial para entender la plasticidad neural del sistema visual y su habilidad para adaptarse a nuevos entornos sensoriales. Además, esta información abre nuevas vías para el desarrollo de tratamientos de rehabilitación visual que emplean periodos controlados de privación visual para potenciar la capacidad visual en pacientes con deficiencias visuales de leves a moderadas.
 
@@ -210,22 +210,22 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 
 [4] M. Adeniyi, A. Awosika, "Impact of Gender on Post-Exercise Orthostasis Related Changes in EEG Amplitudes," J. Med. Sci, 2023.
 
-[5] S. Snipes, E. Meier, S.N. Meissner, H.P. Landolt, R. Huber, "How and when EEG reflects changes in neuronal connectivity due to time awake," IScience, 2023.
+[5] M. Jurczak, M. Kołodziej, A. Majkowski, "Implementation of a convolutional neural network for eye blink artifacts removal from the electroencephalography signal", Frontiers in Neuroscience, 2022.
 
-[6] A.K. Maddirala, K.C. Veluvolu, "Eye-blink artifact removal from single channel EEG with k-means and SSA", Scientific Reports, 2021.
+[6] M.S. Köhler, J. Stekelenburg, W. De Baene, "Mental Fatigue and its Effects on Alpha Waves: An EEG study," 2023.
 
-[7] M. Jurczak, M. Kołodziej, A. Majkowski, "Implementation of a convolutional neural network for eye blink artifacts removal from the electroencephalography signal", Frontiers in Neuroscience, 2022.
+[7] W. Hohaia, B.W. Saurels, A. Johnston, "Occipital alpha-band brain waves when the eyes are closed are shaped by ongoing visual processes," Scientific Reports, 2022.
 
-[8] M.S. Köhler, J. Stekelenburg, W. De Baene, "Mental Fatigue and its Effects on Alpha Waves: An EEG study," 2023.
+[8] J. Molina, M.Á. Guevara et al., "Cognitive training on the solving of mathematical problems: an EEG study in young men," Actualidades en Psicología, 2021.
 
-[9] W. Hohaia, B.W. Saurels, A. Johnston, "Occipital alpha-band brain waves when the eyes are closed are shaped by ongoing visual processes," Scientific Reports, 2022.
+[9] C. Kim, J. Lee, K.C. Lee, "An empirical approach to analyzing the effects of stress on individual creativity in business problem-solving: emphasis on the electrocardiogram and electroencephalogram," Frontiers in Psychology, 2022.
 
-[10] J. Molina, M.Á. Guevara et al., "Cognitive training on the solving of mathematical problems: an EEG study in young men," Actualidades en Psicología, 2021.
+[10] OpenBCI. "Mark IV — OpenBCI Headwear", OpenBCI Documentation. April 27, 2024
 
-[11] C. Kim, J. Lee, K.C. Lee, "An empirical approach to analyzing the effects of stress on individual creativity in business problem-solving: emphasis on the electrocardiogram and electroencephalogram," Frontiers in Psychology, 2022.
+[11] E. Nsugbe, O.W. Samuel, M.G. Asogbon, G. Li, "A self-learning and adaptive control scheme for phantom prosthesis control using combined neuromuscular and brain-wave bio-signals," Engineering Proceedings, vol. 2, no. 1, 2020.
 
-[12] OpenBCI. "Mark IV — OpenBCI Headwear", OpenBCI Documentation. April 27, 2024
+[12] S. Paszkiel, P. Dobrakowski, A. Łysiak, "The impact of different sounds on stress level in the context of EEG, cardiac measures and subjective stress level: A pilot study," Brain sciences, vol. 10, no. 10, 2020.
 
-[13] E. Nsugbe, O.W. Samuel, M.G. Asogbon, G. Li, "A self-learning and adaptive control scheme for phantom prosthesis control using combined neuromuscular and brain-wave bio-signals," Engineering Proceedings, vol. 2, no. 1, 2020.
+[13] S. Snipes, E. Meier, S.N. Meissner, H.P. Landolt, R. Huber, "How and when EEG reflects changes in neuronal connectivity due to time awake," IScience, 2023.
 
-[14] S. Paszkiel, P. Dobrakowski, A. Łysiak, "The impact of different sounds on stress level in the context of EEG, cardiac measures and subjective stress level: A pilot study," Brain sciences, vol. 10, no. 10, 2020.
+[14] A.K. Maddirala, K.C. Veluvolu, "Eye-blink artifact removal from single channel EEG with k-means and SSA", Scientific Reports, 2021.
