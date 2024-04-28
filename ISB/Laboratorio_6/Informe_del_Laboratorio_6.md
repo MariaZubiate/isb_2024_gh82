@@ -208,7 +208,7 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 
 [3] Grassini et al., "Watching nature videos promotes physiological restoration: evidence from the modulation of alpha waves in electroencephalography," Frontiers in Psychology, 2022.
 
-[4] M. Adeniyi, A. Awosika, "Impact of Gender on Post-Exercise Orthostasis Related Changes in EEG Amplitudes," J. Med. Sci, 2023.
+[4] A.K. Maddirala, K.C. Veluvolu, "Eye-blink artifact removal from single channel EEG with k-means and SSA", Scientific Reports, 2021.
 
 [5] M. Jurczak, M. Kołodziej, A. Majkowski, "Implementation of a convolutional neural network for eye blink artifacts removal from the electroencephalography signal", Frontiers in Neuroscience, 2022.
 
@@ -226,6 +226,6 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 
 [12] S. Paszkiel, P. Dobrakowski, A. Łysiak, "The impact of different sounds on stress level in the context of EEG, cardiac measures and subjective stress level: A pilot study," Brain sciences, vol. 10, no. 10, 2020.
 
-[13] S. Snipes, E. Meier, S.N. Meissner, H.P. Landolt, R. Huber, "How and when EEG reflects changes in neuronal connectivity due to time awake," IScience, 2023.
+[13] M. Adeniyi, A. Awosika, "Impact of Gender on Post-Exercise Orthostasis Related Changes in EEG Amplitudes," J. Med. Sci, 2023.
 
-[14] A.K. Maddirala, K.C. Veluvolu, "Eye-blink artifact removal from single channel EEG with k-means and SSA", Scientific Reports, 2021.
+[14] S. Snipes, E. Meier, S.N. Meissner, H.P. Landolt, R. Huber, "How and when EEG reflects changes in neuronal connectivity due to time awake," IScience, 2023.
