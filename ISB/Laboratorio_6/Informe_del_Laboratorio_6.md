@@ -110,19 +110,21 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 ##### 4.5.2. Lectura del EEG en actividad de parpadeo
 
-4.5.2. Lectura del EEG en actividad de parpadeo
 1. Señal EEG durante el Parpadeo (izquierda): La visualización muestra la señal EEG extendida sobre un largo periodo, donde se hacen evidentes amplitudes variadas. Estas variaciones distintivas suelen corresponder a los artefactos generados por el parpadeo. En el estudio de Maddirala y Veluvolu [7], se explora cómo se pueden confundir estas señales indeseables con la actividad neuronal real y se propone una metodología para discernirlas y eliminarlas de las grabaciones de EEG, enfatizando la necesidad de tal precisión en el análisis de estos datos.
 
 2. EEG durante la actividad del parpadeo en un intervalo (derecha): Este gráfico, enfocado en un tramo de tiempo reducido, detalla los picos específicos que coinciden con los parpadeos individuales. En la investigación realizada por Jurczak, Kołodziej y Majkowski [8], se ofrece una solución automatizada y eficaz para reconocer y depurar los artefactos de parpadeo de las señales EEG, poniendo de manifiesto la importancia de separar con precisión los eventos neurológicos auténticos de las distorsiones ocasionadas por el movimiento de los párpados.
 
 ##### 4.5.3. Lectura del EEG  después de la actividad de parpadeo
 
-4.5.3. Lectura del EEG después de la actividad de parpadeo
 1. Señal EEG después del parpadeo (izquierda): La primera gráfica muestra la señal EEG tras una secuencia de parpadeos, revelando una señal más estable con menos picos agudos. Esto podría reflejar una disminución de las distorsiones causadas por los movimientos de los párpados, ofreciendo una visión más clara de la actividad eléctrica cerebral intrínseca. Investigaciones realizadas por Köhler, Stekelenburg y De Baene [9] han analizado las variaciones de las ondas alfa en condiciones de reposo con los ojos cerrados, lo cual es crucial para comprender cómo estas ondas se manifiestan durante la relajación.
+
 2. Intervalo respectivo (derecha): En el gráfico de un segmento más breve, se observa una regularidad en la señal EEG que contrasta con las grabaciones tomadas durante el parpadeo. La investigación de Hohaia, Saurels y Johnston [10] indica que las ondas alfa en la región occipital del cerebro, que emergen cuando los ojos están cerrados, están influenciadas por la actividad visual latente. Esto corrobora la observación de una actividad alfa consistente y refuerza su asociación con estados de descanso más profundos.
 
 ##### 4.5.4. Lectura del EEG en actividad de lectura
 
+1. Señal EEG durante la resolución de problemas mentalmente (izquierda): La gráfica muestra una señal EEG con notables fluctuaciones de amplitud a lo largo del tiempo, lo que sugiere una actividad cerebral intensa típica de la resolución de problemas complejos. En la investigación de Molina, Guevara y colaboradores [9], se examina la influencia de la resolución de problemas matemáticos en la actividad cortical, especialmente la aparición de ondas beta y gamma. El estudio arroja luz sobre los patrones de activación cerebral asociados con el pensamiento crítico y la concentración.
+
+2. Intervalo respectivo (derecha): Este gráfico captura la actividad EEG en un fragmento de tiempo más breve durante el ejercicio mental. Los picos visibles pueden corresponder a momentos de aguda concentración y procesamiento cognitivo. Según Lee, Kim y Lee [10], el estrés puede incrementar las ondas beta, una observación que cobra relevancia aquí, ya que resolver ejercicios matemáticos mentalmente es una tarea que podría inducir estrés y requiere atención sostenida.
 
 ### *4.6. Fotos de conexión usada - Caso con  Ultracortex Mark IV EEG Headset*  <a name="id10"></a>
 El Ultracortex es una serie de dispositivos de electroencefalografía (EEG) desarrollados por OpenBCI. Está diseñado para capturar señales cerebrales y facilitar la investigación y la creación de aplicaciones de interfaz cerebro-computadora. El Ultracortex utiliza electrodos no invasivos colocados en el cuero cabelludo para medir la actividad eléctrica del cerebro, lo que permite el control de dispositivos y la recopilación de datos para diversas aplicaciones en neurociencia, medicina y tecnología[2].
@@ -200,3 +202,5 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 [8] M. Jurczak, M. Kołodziej, A. Majkowski, "Implementation of a convolutional neural network for eye blink artifacts removal from the electroencephalography signal", Frontiers in Neuroscience, 2022.
 [9] M.S. Köhler, J. Stekelenburg, W. De Baene, "Mental Fatigue and its Effects on Alpha Waves: An EEG study," 2023.
 [10] W. Hohaia, B.W. Saurels, A. Johnston, "Occipital alpha-band brain waves when the eyes are closed are shaped by ongoing visual processes," Scientific Reports, 2022.
+[11] J. Molina, M.Á. Guevara et al., "Cognitive training on the solving of mathematical problems: an EEG study in young men," Actualidades en Psicología, 2021.
+[12] C. Kim, J. Lee, K.C. Lee, "An empirical approach to analyzing the effects of stress on individual creativity in business problem-solving: emphasis on the electrocardiogram and electroencephalogram," Frontiers in Psychology, 2022.
