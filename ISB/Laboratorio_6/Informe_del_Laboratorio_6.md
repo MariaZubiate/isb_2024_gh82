@@ -166,7 +166,7 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 
 |  *Video*  | *Ploteo en python*|
 |:------------:|:---------------:|
-|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2e21654a-956a-4475-9a5d-179a4b67bda9"></video>|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e8e8f418-8ec9-4466-967f-d31d451dc03e)|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2e21654a-956a-4475-9a5d-179a4b67bda9"></video>|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2f8016b8-afa7-4d03-9081-951fd78951e5)|
 
 
 
@@ -175,7 +175,7 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 
 |  *Video*  | *Ploteo en python*|
 |:------------:|:---------------:|
-|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/76c1d055-e03b-4ecc-bd0f-000118714b40"></video>|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/7d31bbc4-de6c-477a-bf57-7d4475372bf3)|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/76c1d055-e03b-4ecc-bd0f-000118714b40"></video>|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/aba2da22-dc34-44a2-af5f-979563d73c82)|
 
 
 
@@ -183,7 +183,7 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 
 |  *Video*  | *Ploteo en python*|
 |:------------:|:---------------:|
-|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e6355baa-eef5-45e3-bbf5-323ff6a1e495"></video>|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/776628a8-e3fb-460d-9443-6cc59bac47c2)|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e6355baa-eef5-45e3-bbf5-323ff6a1e495"></video>|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3ee32f99-8b14-47d6-9560-6607fae01ae7)|
 
 
 
@@ -191,7 +191,7 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 
 |  *Video*  | *Ploteo en python*|
 |:------------:|:---------------:|
-|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3c0022b9-2858-41f0-88e5-42a6a043d169"></video>|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c0dbc0a4-85c3-4ee4-ab14-703c92417ca4)|
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3c0022b9-2858-41f0-88e5-42a6a043d169"></video>|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/167286ed-9f45-45f7-9205-fc8a8300604a)|
 
 
 
