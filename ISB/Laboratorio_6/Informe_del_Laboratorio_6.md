@@ -1,6 +1,3 @@
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/5e7e2ecc-6812-49eb-bf15-945173a069cf)
-
-
 # Laboratorio 6
 ## Integrantes
 - Christian Martin Mucha Huatuco
