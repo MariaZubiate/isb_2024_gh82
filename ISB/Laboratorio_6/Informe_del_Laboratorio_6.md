@@ -87,7 +87,7 @@ Se utilizaron los archivos de txt de cada grabaci√≥n del OpenSignals y se gener√
 
 |  *EEG en reposo*  | *Intervalo respectivo* |
 |:------------:|:---------------:|
-|------------|---------------|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/56fff398-4d85-4a3c-8299-c4aa6f67748f)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/20956416-19a1-4371-a47f-cee8803751ba)|
 
 ##### 4.4.2. Lectura del EEG durante la actividad de parpadeo
 
