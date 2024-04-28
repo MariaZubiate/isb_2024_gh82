@@ -110,6 +110,11 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 ##### 4.5.2. Lectura del EEG en actividad de parpadeo
 
+4.5.2. Lectura del EEG en actividad de parpadeo
+1. Señal EEG durante el Parpadeo (izquierda): La visualización muestra la señal EEG extendida sobre un largo periodo, donde se hacen evidentes amplitudes variadas. Estas variaciones distintivas suelen corresponder a los artefactos generados por el parpadeo. En el estudio de Maddirala y Veluvolu [7], se explora cómo se pueden confundir estas señales indeseables con la actividad neuronal real y se propone una metodología para discernirlas y eliminarlas de las grabaciones de EEG, enfatizando la necesidad de tal precisión en el análisis de estos datos.
+
+2. EEG durante la actividad del parpadeo en un intervalo (derecha): Este gráfico, enfocado en un tramo de tiempo reducido, detalla los picos específicos que coinciden con los parpadeos individuales. En la investigación realizada por Jurczak, Kołodziej y Majkowski [8], se ofrece una solución automatizada y eficaz para reconocer y depurar los artefactos de parpadeo de las señales EEG, poniendo de manifiesto la importancia de separar con precisión los eventos neurológicos auténticos de las distorsiones ocasionadas por el movimiento de los párpados.
+
 ##### 4.5.3. Lectura del EEG  después de la actividad de parpadeo
 
 ##### 4.5.4. Lectura del EEG en actividad de lectura
@@ -191,3 +196,5 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 [4] S. Paszkiel, P. Dobrakowski, A. Łysiak, "The impact of different sounds on stress level in the context of EEG, cardiac measures and subjective stress level: A pilot study," Brain sciences, vol. 10, no. 10, 2020.
 [5] M. Adeniyi, A. Awosika, "Impact of Gender on Post-Exercise Orthostasis Related Changes in EEG Amplitudes," J. Med. Sci, 2023.
 [6] S. Snipes, E. Meier, S.N. Meissner, H.P. Landolt, R. Huber, "How and when EEG reflects changes in neuronal connectivity due to time awake," IScience, 2023.
+[7] A.K. Maddirala, K.C. Veluvolu, "Eye-blink artifact removal from single channel EEG with k-means and SSA", Scientific Reports, 2021.
+[8] M. Jurczak, M. Kołodziej, A. Majkowski, "Implementation of a convolutional neural network for eye blink artifacts removal from the electroencephalography signal", Frontiers in Neuroscience, 2022.
