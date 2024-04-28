@@ -137,7 +137,7 @@ El Ultracortex es una serie de dispositivos de electroencefalografía (EEG) desa
 
 
 
-El software de visualización de imágenes del Ultracortex proporciona los datos obtenidos a través de la electroencefalografía (EEG). Nos permitira explorar las señales cerebrales. Con esta herramienta, es posible identificar patrones, correlaciones y cambios en la actividad cerebral [12].
+El software de visualización de imágenes del Ultracortex proporciona los datos obtenidos a través de la electroencefalografía (EEG). Nos permitira explorar las señales cerebrales. Con esta herramienta, es posible identificar patrones, correlaciones y cambios en la actividad cerebral [10].
 
 <p align="center">
   <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1f7ea3a4-2e13-4fc6-b815-0b39d2a4ab9a" alt="image" width="400">
