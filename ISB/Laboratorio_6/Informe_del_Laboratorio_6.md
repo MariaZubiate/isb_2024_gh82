@@ -105,7 +105,7 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 |  *EEG durante la actividad de resolver problemas mentalmente*  | *Intervalo respectivo* |
 |:------------:|:---------------:|
-|------------|---------------|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/93b99507-5070-4d85-8da5-b8ce671d1f97)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/813aa6ae-a466-4aa5-b89f-0530d5b9d1ea)|
 
 ### *4.5. Resumen y explicación de las señales ploteadas* <a name="id9"></a> 
 
