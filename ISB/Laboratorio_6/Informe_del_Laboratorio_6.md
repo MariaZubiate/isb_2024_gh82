@@ -160,11 +160,14 @@ Se colocó el Ultracortex como la imagen de referencia, teniendo en cuenta la di
 Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análisis en Python de las señales cerebrales, con el fin de observar los cambios que ocurren en ellas.
 
  
+
+ 
 ### *4.7.1. Lectura del EEG en reposo *  
 
 |  *Video*  | *Ploteo en python*|
 |:------------:|:---------------:|
-|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2e21654a-956a-4475-9a5d-179a4b67bda9"></video>|---
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2e21654a-956a-4475-9a5d-179a4b67bda9"></video>|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e8e8f418-8ec9-4466-967f-d31d451dc03e)|
+
 
 
 
@@ -172,21 +175,24 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 
 |  *Video*  | *Ploteo en python*|
 |:------------:|:---------------:|
-|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/76c1d055-e03b-4ecc-bd0f-000118714b40"></video>|---
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/76c1d055-e03b-4ecc-bd0f-000118714b40"></video>|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/7d31bbc4-de6c-477a-bf57-7d4475372bf3)|
+
 
 
 ### *4.7.3. Lectura del EEG  después de la actividad de parpadeo
 
 |  *Video*  | *Ploteo en python*|
 |:------------:|:---------------:|
-|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e6355baa-eef5-45e3-bbf5-323ff6a1e495"></video>|---
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e6355baa-eef5-45e3-bbf5-323ff6a1e495"></video>|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/776628a8-e3fb-460d-9443-6cc59bac47c2)|
+
 
 
 ### 4.7.4. Lectura del EEG en actividad de lectura
 
 |  *Video*  | *Ploteo en python*|
 |:------------:|:---------------:|
-|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3c0022b9-2858-41f0-88e5-42a6a043d169"></video>|---
+|<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3c0022b9-2858-41f0-88e5-42a6a043d169"></video>|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c0dbc0a4-85c3-4ee4-ab14-703c92417ca4)|
+
 
 
 ## *5. Conclusiones* <a name="id12"></a>   
