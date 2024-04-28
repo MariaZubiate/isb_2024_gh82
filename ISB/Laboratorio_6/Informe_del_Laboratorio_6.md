@@ -193,13 +193,19 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3c0022b9-2858-41f0-88e5-42a6a043d169"></video>|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/167286ed-9f45-45f7-9205-fc8a8300604a)|
 
+Lectura del EEG en reposo: Los trazos permanecen estacionarios, apenas desviándose del nivel de base, lo que denota una condición de calma y baja actividad eléctrica en el cerebro, un reflejo esperado en la relajación. Esta estabilidad concuerda con el análisis de Nahmias y Kontson, quienes discutieron cómo la ausencia de interferencias visuales puede servir como indicador de un EEG en estado puro [11].
 
+Lectura del EEG durante la actividad de parpadeo: Las oscilaciones agudas y los picos marcados son típicos de los artefactos introducidos por el parpadeo. Estos resultados se alinean con la investigación de Dabbakuti y Kotte, que se centraron en aislar y remover dichas distorsiones de la señal EEG [12].
+
+Lectura del EEG posterior al parpadeo: La señal se estabiliza post-parpadeo, retornando a patrones similares a los de la quietud. Este retorno a la normalidad refleja los aportes de Intartaglia, Zeitnouni y Lehmann, quienes delinearon cómo restaurar la integridad del EEG tras intervenciones que perturban la señal [13].
+
+Lectura del EEG durante la solución de problemas matemáticos: Los gráficos evidencian un incremento en la actividad cerebral, con variaciones distintas en los canales, probablemente indicando el empleo de ondas beta. Mumtaz, Rasheed e Irfan han estudiado este fenómeno, resaltando la importancia de depurar la señal EEG de ruido para una interpretación precisa durante actividades mentales intensas [14].
 
 ## *5. Conclusiones* <a name="id12"></a>   
 
-1. Las variaciones observadas en la actividad cerebral, como los incrementos notados por Nsugbe et al. [11] durante actividades específicas o al solucionar problemas matemáticos, resaltan la versatilidad del cerebro para cumplir con demandas cognitivas y motoras. Los aumentos en frecuencia y amplitud de las ondas beta, identificados por Paszkiel et al. [12] y que normalmente oscilan entre 13 y 30 Hz, indican un estado de alerta y concentración necesarios para tareas de alta demanda cognitiva. Simultáneamente, las ondas theta (4-8 Hz) y delta (1-4 Hz) reflejan procesos mentales asociados con la relajación y la concentración intensa, esenciales para abordar retos intelectuales complejos. Esta capacidad de adaptación de la actividad neuronal no solo demuestra la extraordinaria plasticidad del cerebro, sino que también proporciona una base para el avance de tecnologías como las interfaces cerebro-computadora y los métodos de rehabilitación neurológica.
+1. Las variaciones observadas en la actividad cerebral, como los incrementos notados por Nsugbe et al. [15] durante actividades específicas o al solucionar problemas matemáticos, resaltan la versatilidad del cerebro para cumplir con demandas cognitivas y motoras. Los aumentos en frecuencia y amplitud de las ondas beta, identificados por Paszkiel et al. [16] y que normalmente oscilan entre 13 y 30 Hz, indican un estado de alerta y concentración necesarios para tareas de alta demanda cognitiva. Simultáneamente, las ondas theta (4-8 Hz) y delta (1-4 Hz) reflejan procesos mentales asociados con la relajación y la concentración intensa, esenciales para abordar retos intelectuales complejos. Esta capacidad de adaptación de la actividad neuronal no solo demuestra la extraordinaria plasticidad del cerebro, sino que también proporciona una base para el avance de tecnologías como las interfaces cerebro-computadora y los métodos de rehabilitación neurológica.
 
-2. Por otro lado, el notable incremento en la amplitud de las señales EEG, especialmente en las ondas alfa (8-12 Hz) y beta, tras un período de privación visual, destaca una reactividad incrementada del sistema visual, tal como documentan Adeniyi y Awosika [13] y Snipes et al. [14]. Este fenómeno podría estar relacionado con un ajuste en las frecuencias de dichas ondas, en las que las ondas alfa, comúnmente ligadas a la relajación y al acto de cerrar los ojos, muestran un aumento en su potencia y posiblemente una disminución en su frecuencia en respuesta a la necesidad de procesar de forma intensa los estímulos visuales tras la privación. Esta alteración en frecuencia y amplitud es crucial para entender la plasticidad neural del sistema visual y su habilidad para adaptarse a nuevos entornos sensoriales. Además, esta información abre nuevas vías para el desarrollo de tratamientos de rehabilitación visual que emplean periodos controlados de privación visual para potenciar la capacidad visual en pacientes con deficiencias visuales de leves a moderadas.
+2. Por otro lado, el notable incremento en la amplitud de las señales EEG, especialmente en las ondas alfa (8-12 Hz) y beta, tras un período de privación visual, destaca una reactividad incrementada del sistema visual, tal como documentan Adeniyi y Awosika [17] y Snipes et al. [18]. Este fenómeno podría estar relacionado con un ajuste en las frecuencias de dichas ondas, en las que las ondas alfa, comúnmente ligadas a la relajación y al acto de cerrar los ojos, muestran un aumento en su potencia y posiblemente una disminución en su frecuencia en respuesta a la necesidad de procesar de forma intensa los estímulos visuales tras la privación. Esta alteración en frecuencia y amplitud es crucial para entender la plasticidad neural del sistema visual y su habilidad para adaptarse a nuevos entornos sensoriales. Además, esta información abre nuevas vías para el desarrollo de tratamientos de rehabilitación visual que emplean periodos controlados de privación visual para potenciar la capacidad visual en pacientes con deficiencias visuales de leves a moderadas.
 
 ## *6. Bibliografía* <a name="id13"></a>
 [1] PLUX – Wireless Biosignals, S.A., "BITalino (r)evolution Lab Guide: Experimental Guides to Meet & Learn Your Biosignals" OD.LB.04.05, Feb. 15, 2021.
@@ -222,10 +228,18 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 
 [10] OpenBCI. "Mark IV — OpenBCI Headwear", OpenBCI Documentation. April 27, 2024
 
-[11] E. Nsugbe, O.W. Samuel, M.G. Asogbon, G. Li, "A self-learning and adaptive control scheme for phantom prosthesis control using combined neuromuscular and brain-wave bio-signals," Engineering Proceedings, vol. 2, no. 1, 2020.
+[11] D. O. Nahmias y K. L. Kontson, "Quantifying signal quality from unimodal and multimodal sources: application to EEG with ocular and motion artifacts," Frontiers in Neuroscience, vol. 15, pp. 566004, 2021.
 
-[12] S. Paszkiel, P. Dobrakowski, A. Łysiak, "The impact of different sounds on stress level in the context of EEG, cardiac measures and subjective stress level: A pilot study," Brain sciences, vol. 10, no. 10, 2020.
+[12] J. R. K. K. Dabbakuti y S. Kotte, "Methods for removal of artifacts from EEG signal: A review," Journal of Physics: Conference Series, vol. 1706, no. 1, 2020.
 
-[13] M. Adeniyi, A. Awosika, "Impact of Gender on Post-Exercise Orthostasis Related Changes in EEG Amplitudes," J. Med. Sci, 2023.
+[13] B. Intartaglia, A. G. Zeitnouni y A. Lehmann, "Recording EEG in cochlear implant users: Guidelines for experimental design and data analysis for optimizing signal quality and minimizing artifacts," Journal of Neuroscience Methods, vol. 369, 2022.
 
-[14] S. Snipes, E. Meier, S.N. Meissner, H.P. Landolt, R. Huber, "How and when EEG reflects changes in neuronal connectivity due to time awake," IScience, 2023.
+[14] W. Mumtaz, S. Rasheed y A. Irfan, "Review of challenges associated with the EEG artifact removal methods," Biomedical Signal Processing and Control, vol. 69, 2021.
+
+[15] E. Nsugbe, O.W. Samuel, M.G. Asogbon, G. Li, "A self-learning and adaptive control scheme for phantom prosthesis control using combined neuromuscular and brain-wave bio-signals," Engineering Proceedings, vol. 2, no. 1, 2020.
+
+[16] S. Paszkiel, P. Dobrakowski, A. Łysiak, "The impact of different sounds on stress level in the context of EEG, cardiac measures and subjective stress level: A pilot study," Brain sciences, vol. 10, no. 10, 2020.
+
+[17] M. Adeniyi, A. Awosika, "Impact of Gender on Post-Exercise Orthostasis Related Changes in EEG Amplitudes," J. Med. Sci, 2023.
+
+[18] S. Snipes, E. Meier, S.N. Meissner, H.P. Landolt, R. Huber, "How and when EEG reflects changes in neuronal connectivity due to time awake," IScience, 2023.
