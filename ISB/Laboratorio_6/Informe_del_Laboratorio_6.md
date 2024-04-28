@@ -1,4 +1,4 @@
-
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/5e7e2ecc-6812-49eb-bf15-945173a069cf)
 
 
 # Laboratorio 6
@@ -85,21 +85,21 @@ Se utilizaron los archivos de txt de cada grabación del OpenSignals y se gener�
 
 ##### 4.4.1. Lectura del EEG en reposo
 
-|  *EEG en reposo*  | *Intervalo respectivo* |
+|  *EEG en reposo*  | *EEG en reposo en un intervalo* |
 |:------------:|:---------------:|
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/56fff398-4d85-4a3c-8299-c4aa6f67748f)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/20956416-19a1-4371-a47f-cee8803751ba)|
 
 ##### 4.4.2. Lectura del EEG durante la actividad de parpadeo
 
-|  *EEG durante la actividad del parpadeo*  | *Intervalo respectivo* |
+|  *EEG durante la actividad del parpadeo*  | *EEG durante la actividad del parpadeo en un intervalo* |
 |:------------:|:---------------:|
-|------------|---------------|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/ba18afa6-7288-4a1e-928f-d3ae9082b063)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/2ac2488c-7f4d-452e-9282-2fe3bc9168da)|
 
 ##### 4.4.3. Lectura del EEG después de la actividad de parpadeo
 
 |  *EEG después de la actividad de parpadeo*  | *Intervalo respectivo* |
 |:------------:|:---------------:|
-|------------|---------------|
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/21052078-6579-4826-ae00-b37fc1c39fa7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/b19c9f58-2387-4698-9830-e6836662552a)|
 
 ##### 4.4.4. Lectura del EEG durante la actividad de resolver problemas mentalmente
 
@@ -183,10 +183,14 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 
 ## *5. Conclusiones* <a name="id12"></a>   
 
-1. Las fluctuaciones en las ondas cerebrales, como los incrementos observados durante movimientos específicos o la resolución de problemas matemáticos, subrayan la capacidad del cerebro para adaptarse a necesidades tanto cognitivas como motoras. Los aumentos en la frecuencia y amplitud de las ondas beta, que suelen variar entre 13 y 30 Hz, son indicativos de un estado de alerta y concentración durante actividades que requieren un alto rendimiento cognitivo. Paralelamente, las ondas theta (4-8 Hz) y delta (1-4 Hz) pueden reflejar procesos mentales relacionados con la relajación y la concentración profunda necesarios para enfrentar desafíos intelectuales complejos. Esta habilidad del cerebro para ajustar su actividad neuronal no solo muestra su notable adaptabilidad, sino que también sienta bases para mejorar tecnologías como interfaces cerebro-computadora y métodos de rehabilitación neurológica.
+1. Las variaciones observadas en la actividad cerebral, como los incrementos notados por Nsugbe et al. [1] durante actividades específicas o al solucionar problemas matemáticos, resaltan la versatilidad del cerebro para cumplir con demandas cognitivas y motoras. Los aumentos en frecuencia y amplitud de las ondas beta, identificados por Paszkiel et al. [2] y que normalmente oscilan entre 13 y 30 Hz, indican un estado de alerta y concentración necesarios para tareas de alta demanda cognitiva. Simultáneamente, las ondas theta (4-8 Hz) y delta (1-4 Hz) reflejan procesos mentales asociados con la relajación y la concentración intensa, esenciales para abordar retos intelectuales complejos. Esta capacidad de adaptación de la actividad neuronal no solo demuestra la extraordinaria plasticidad del cerebro, sino que también proporciona una base para el avance de tecnologías como las interfaces cerebro-computadora y los métodos de rehabilitación neurológica.
 
-2. El marcado aumento en la amplitud de las señales EEG, particularmente en las ondas alfa (8-12 Hz) y beta, después de un periodo de privación visual, señala una mayor reactividad del sistema visual. Este cambio podría estar vinculado a una recalibración de las frecuencias de estas ondas, donde las ondas alfa, usualmente asociadas con la relajación y el acto de cerrar los ojos, exhiben un incremento en la potencia y posiblemente una reducción en la frecuencia como respuesta a la necesidad de procesar intensamente los estímulos visuales después de la privación. Esta modificación en la frecuencia y amplitud es fundamental para comprender la plasticidad neural del sistema visual y su capacidad para adaptarse a nuevos contextos sensoriales. Esta información abre nuevas posibilidades para el desarrollo de tratamientos de rehabilitación visual que utilizan periodos controlados de privación visual para mejorar la capacidad visual en pacientes con deficiencias visuales leves a moderadas.
+2. Por otro lado, el notable incremento en la amplitud de las señales EEG, especialmente en las ondas alfa (8-12 Hz) y beta, tras un período de privación visual, destaca una reactividad incrementada del sistema visual, tal como documentan Adeniyi y Awosika [3] y Snipes et al. [4]. Este fenómeno podría estar relacionado con un ajuste en las frecuencias de dichas ondas, en las que las ondas alfa, comúnmente ligadas a la relajación y al acto de cerrar los ojos, muestran un aumento en su potencia y posiblemente una disminución en su frecuencia en respuesta a la necesidad de procesar de forma intensa los estímulos visuales tras la privación. Esta alteración en frecuencia y amplitud es crucial para entender la plasticidad neural del sistema visual y su habilidad para adaptarse a nuevos entornos sensoriales. Además, esta información abre nuevas vías para el desarrollo de tratamientos de rehabilitación visual que emplean periodos controlados de privación visual para potenciar la capacidad visual en pacientes con deficiencias visuales de leves a moderadas.
 
 ## *6. Bibliografía* <a name="id13"></a>
 [1] PLUX – Wireless Biosignals, S.A., "BITalino (r)evolution Lab Guide: Experimental Guides to Meet & Learn Your Biosignals" OD.LB.04.05, Feb. 15, 2021.
 [2] OpenBCI. "Mark IV — OpenBCI Headwear", OpenBCI Documentation. April 27, 2024
+[3] E. Nsugbe, O.W. Samuel, M.G. Asogbon, G. Li, "A self-learning and adaptive control scheme for phantom prosthesis control using combined neuromuscular and brain-wave bio-signals," Engineering Proceedings, vol. 2, no. 1, 2020.
+[4] S. Paszkiel, P. Dobrakowski, A. Łysiak, "The impact of different sounds on stress level in the context of EEG, cardiac measures and subjective stress level: A pilot study," Brain sciences, vol. 10, no. 10, 2020.
+[5] M. Adeniyi, A. Awosika, "Impact of Gender on Post-Exercise Orthostasis Related Changes in EEG Amplitudes," J. Med. Sci, 2023.
+[6] S. Snipes, E. Meier, S.N. Meissner, H.P. Landolt, R. Huber, "How and when EEG reflects changes in neuronal connectivity due to time awake," IScience, 2023.
