@@ -156,36 +156,32 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
  
 ### *4.7.1. Lectura del EEG en reposo *  
 
-|  *Video*  | *Foto*|
+|  *Video*  | *Ploteo en python*||
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2e21654a-956a-4475-9a5d-179a4b67bda9"></video>|---
-|  *Ploteo Python*  | *Descripción*|
-|---|---|
+
 
 
 ### *4.7.2 Lectura del EEG en actividad de parpadeo
 
-|  *Video*  | *Foto*|
+|  *Video*  | *Ploteo en python*||
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/76c1d055-e03b-4ecc-bd0f-000118714b40"></video>|---
-|  *Ploteo Python*  | *Descripción*|
-|---|---|
+
 
 ### *4.7.3. Lectura del EEG  después de la actividad de parpadeo
 
-|  *Video*  | *Foto*|
+|  *Video*  | *Ploteo en python*||
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e6355baa-eef5-45e3-bbf5-323ff6a1e495"></video>|---
-|  *Ploteo Python*  | *Descripción*|
-|---|---|
+
 
 ### 4.7.4. Lectura del EEG en actividad de lectura
 
-|  *Video*  | *Foto*|
+|  *Video*  | *Ploteo en python*|
 |:------------:|:---------------:|
 |<video src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3c0022b9-2858-41f0-88e5-42a6a043d169"></video>|---
-|  *Ploteo Python*  | *Descripción*|
-|---|---|
+
 
 ## *5. Conclusiones* <a name="id12"></a>   
 
