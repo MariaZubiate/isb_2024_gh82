@@ -89,9 +89,9 @@ Se utilizaron los archivos de txt de cada grabaci√≥n del OpenSignals y se gener√
 |:------------:|:---------------:|
 |------------|---------------|
 
-##### 4.4.2. Lectura del EEG en actividad de parpadeo
+##### 4.4.2. Lectura del EEG durante la actividad de parpadeo
 
-|  *EEG en actividad de parpadeo*  | *Intervalo respectivo* |
+|  *EEG durante la actividad del parpadeo*  | *Intervalo respectivo* |
 |:------------:|:---------------:|
 |------------|---------------|
 
@@ -101,9 +101,9 @@ Se utilizaron los archivos de txt de cada grabaci√≥n del OpenSignals y se gener√
 |:------------:|:---------------:|
 |------------|---------------|
 
-##### 4.4.4. Lectura del EEG en actividad de lectura
+##### 4.4.4. Lectura del EEG durante la actividad de resolver problemas mentalmente
 
-|  *EEG en actividad de lectura*  | *Intervalo respectivo* |
+|  *EEG durante la actividad de resolver problemas mentalmente*  | *Intervalo respectivo* |
 |:------------:|:---------------:|
 |------------|---------------|
 
