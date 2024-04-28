@@ -203,16 +203,29 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 
 ## *6. Bibliografía* <a name="id13"></a>
 [1] PLUX – Wireless Biosignals, S.A., "BITalino (r)evolution Lab Guide: Experimental Guides to Meet & Learn Your Biosignals" OD.LB.04.05, Feb. 15, 2021.
+
 [2] Zhou et al., "Alpha peak activity in resting-state EEG is associated with depressive score," Frontiers in Neuroscience, 2023.
+
 [3] Grassini et al., "Watching nature videos promotes physiological restoration: evidence from the modulation of alpha waves in electroencephalography," Frontiers in Psychology, 2022.
+
 [4] M. Adeniyi, A. Awosika, "Impact of Gender on Post-Exercise Orthostasis Related Changes in EEG Amplitudes," J. Med. Sci, 2023.
+
 [5] S. Snipes, E. Meier, S.N. Meissner, H.P. Landolt, R. Huber, "How and when EEG reflects changes in neuronal connectivity due to time awake," IScience, 2023.
+
 [6] A.K. Maddirala, K.C. Veluvolu, "Eye-blink artifact removal from single channel EEG with k-means and SSA", Scientific Reports, 2021.
+
 [7] M. Jurczak, M. Kołodziej, A. Majkowski, "Implementation of a convolutional neural network for eye blink artifacts removal from the electroencephalography signal", Frontiers in Neuroscience, 2022.
+
 [8] M.S. Köhler, J. Stekelenburg, W. De Baene, "Mental Fatigue and its Effects on Alpha Waves: An EEG study," 2023.
+
 [9] W. Hohaia, B.W. Saurels, A. Johnston, "Occipital alpha-band brain waves when the eyes are closed are shaped by ongoing visual processes," Scientific Reports, 2022.
+
 [10] J. Molina, M.Á. Guevara et al., "Cognitive training on the solving of mathematical problems: an EEG study in young men," Actualidades en Psicología, 2021.
+
 [11] C. Kim, J. Lee, K.C. Lee, "An empirical approach to analyzing the effects of stress on individual creativity in business problem-solving: emphasis on the electrocardiogram and electroencephalogram," Frontiers in Psychology, 2022.
+
 [12] OpenBCI. "Mark IV — OpenBCI Headwear", OpenBCI Documentation. April 27, 2024
+
 [13] E. Nsugbe, O.W. Samuel, M.G. Asogbon, G. Li, "A self-learning and adaptive control scheme for phantom prosthesis control using combined neuromuscular and brain-wave bio-signals," Engineering Proceedings, vol. 2, no. 1, 2020.
+
 [14] S. Paszkiel, P. Dobrakowski, A. Łysiak, "The impact of different sounds on stress level in the context of EEG, cardiac measures and subjective stress level: A pilot study," Brain sciences, vol. 10, no. 10, 2020.
