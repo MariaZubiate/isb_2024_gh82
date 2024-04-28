@@ -124,7 +124,7 @@ Por otro lado, el gráfico de la derecha, al centrarse en un período más breve
 
 2. Intervalo respectivo (derecha): En el gráfico de un segmento más breve, se observa una regularidad en la señal EEG que contrasta con las grabaciones tomadas durante el parpadeo. La investigación de Hohaia, Saurels y Johnston [7] indica que las ondas alfa en la región occipital del cerebro, que emergen cuando los ojos están cerrados, están influenciadas por la actividad visual latente. Esto corrobora la observación de una actividad alfa consistente y refuerza su asociación con estados de descanso más profundos.
 
-##### 4.5.4. Lectura del EEG en actividad de lectura
+##### 4.5.4. Lectura del EEG en actividad de escucha y resolución mental de problemas matemáticos
 
 1. Señal EEG durante la resolución de problemas mentalmente (izquierda): La gráfica muestra una señal EEG con notables fluctuaciones de amplitud a lo largo del tiempo, lo que sugiere una actividad cerebral intensa típica de la resolución de problemas complejos. En la investigación de Molina, Guevara y colaboradores [8], se examina la influencia de la resolución de problemas matemáticos en la actividad cortical, especialmente la aparición de ondas beta y gamma. El estudio arroja luz sobre los patrones de activación cerebral asociados con el pensamiento crítico y la concentración.
 
@@ -187,7 +187,7 @@ Se utilizan los archivos .txt proporcionados por OpenBCI para realizar un análi
 
 
 
-### 4.7.4. Lectura del EEG en actividad de lectura
+### 4.7.4. Lectura del EEG en actividad de escucha y resolución mental de problemas matemáticos
 
 |  *Video*  | *Ploteo en python*|
 |:------------:|:---------------:|
