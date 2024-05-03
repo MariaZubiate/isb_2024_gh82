@@ -15,14 +15,15 @@
 1. [Introducción](#id1)
 2. [Objetivos](#id2)
 3. [Materiales y equipos](#id3)
-4. [Resultados](#id4)\
+4. [Metodologia](#id4)\
      4.1 [Fotos de conexión usada](#id5)\
      4.2 [Video de señal](#id6)\
      4.3 [Ploteo de la señal en OpenSignal](#id7)\
      4.4 [Resumen y explicación de la señal ploteada](#id8)\
      4.5 [Archivo de los datos de la señal ploteada](#id9)\
      4.6 [Ploteo de la señal en Python](#id10)
-5. [Bibliografia](#id11)
+5. [Resultado](#id11)
+6.  [Bibliografia](#id11)
    
 ## *1. Introducción* <a name="id1"></a>
 
@@ -30,7 +31,7 @@
 
 ## *3. Materiales y equipos* <a name="id3"></a>
 
-## *4. Resultados* <a name="id4"></a>
+## *4. Metodologia* <a name="id4"></a>
 
 ### *4.1. Fotos de conexión usada* <a name="id5"></a>
 
