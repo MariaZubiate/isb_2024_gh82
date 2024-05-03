@@ -31,9 +31,11 @@
 ECG:
 - Diseñar 1 filtros IIR, deben elegir si es Bessel, Butterworth, Chebyshev o Eliptico. 
 - Diseñar 1 filtros FIR, elegir 2 métodos de ventana pueden ser: Hanning, Hamming, Bartlett, rectangular o Blackman
+  
 EMG:
 - Eliminar frecuencias altas que correspondan a ruido eléctrico y artefactos de movimiento
 - Aislar la banda de frecuencia de interés que corresponde a la actividad muscular.
+  
 EEG
 - Preprocesar señales EEG para reducir el ruido y extraer características de interés como ondas
 cerebrales específicas.
