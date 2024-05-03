@@ -19,7 +19,7 @@
      4.1 [Generar filtro FIR e IIR para ECG](#id5)\
      4.2 [Generar filtro FIR e IIR para EMG](#id6)\
      4.3 [Generar filtro FIR e IIR para EEG](#id7) 
-5. [Resultado](#id8)\
+5. [Resultados](#id8)\
      5.1 [Resultado de señal filtrada con filtro FIR e IIR para ECG](#id9)\
      5.2 [Resultado de señal filtrada con filtro FIR e IIR para EMG](#id10)\
      5.3 [Resultado de señal filtrada con filtro FIR e IIR para EEG](#id11) 
@@ -41,6 +41,10 @@ EEG
 cerebrales específicas.
 
 ## *3. Materiales y equipos* <a name="id3"></a>
+
+| Cantidad |	Material o equipo |	Uso
+|:------------:|:---------------:|:------------:|
+| 1	| Laptop	| Visualización y procesamiento de las señales ECG con lenguaje de programación
 
 ## *4. Metodologia* <a name="id4"></a>
 
@@ -65,7 +69,7 @@ cerebrales específicas.
 #### 4.3.1. Filtro FIR (Bessel, Butterworth, Chebyshev o Eliptico)
 
 
-## *5. Resultados* <a name="8"></a>
+## *5. Resultados* <a name="id8"></a>
 
 ### *5.1. Resultado de señal filtrada con filtro FIR e IIR para ECG* <a name="id9"></a>
 
