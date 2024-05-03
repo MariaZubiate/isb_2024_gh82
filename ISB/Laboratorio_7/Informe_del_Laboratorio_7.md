@@ -101,3 +101,4 @@ cerebrales específicas.
 
 
 ## *6. Bibliografia* <a name="id12"></a>
+[1] “A-15 Dispositivos y Circuitos Electrónicos II Ingeniería Electrónica Filtros Activos.” Available: https://www.fceia.unr.edu.ar/dce2/Files/Apuntes/FILTROS ACTIVOS - Notas de Clase (v-2019-1).pdf
