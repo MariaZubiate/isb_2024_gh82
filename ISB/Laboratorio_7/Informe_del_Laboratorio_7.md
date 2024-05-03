@@ -3,11 +3,8 @@
 # Laboratorio 7
 ## Integrantes
 - Christian Martin Mucha Huatuco
-
 - Maria del Carmen Zubiate Castillo
-
 - Jossef Caleb Tintaya Salva
-
 - Gianni Atilio Di Trani Grández
 
 # *Tabla de contenidos*
