@@ -17,13 +17,13 @@
 3. [Materiales y equipos](#id3)
 4. [Metodologia](#id4)\
      4.1 [Generar filtro FIR e IIR para ECG](#id5)\
-     4.2 [Video de señal](#id6)\
-     4.3 [Ploteo de la señal en OpenSignal](#id7)\
-     4.4 [Resumen y explicación de la señal ploteada](#id8)\
-     4.5 [Archivo de los datos de la señal ploteada](#id9)\
-     4.6 [Ploteo de la señal en Python](#id10)
-5. [Resultado](#id11)
-6.  [Bibliografia](#id11)
+     4.2 [Generar filtro FIR e IIR para EMG](#id6)\
+     4.3 [Generar filtro FIR e IIR para EEG](#id7)\
+5. [Resultado](#id8)
+     5.1 [Resultado de señal filtrada con filtro FIR e IIR para ECG](#id9)\
+     5.2 [Resultado de señal filtrada con filtro FIR e IIR para EMG](#id10)\
+     5.3 [Resultado de señal filtrada con filtro FIR e IIR para EEG](#id11)\
+7.  [Bibliografia](#id12)
    
 ## *1. Introducción* <a name="id1"></a>
 
