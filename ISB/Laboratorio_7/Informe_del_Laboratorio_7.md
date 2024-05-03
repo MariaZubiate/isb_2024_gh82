@@ -48,7 +48,7 @@ cerebrales específicas.
 
 #### 4.1.1. Filtro IIR (2 métodos de ventana pueden ser: Hanning, Hamming,Bartlett, rectangular o Blackman)
 
-#### 4.1.1. Filtro FIR (elegir si es Bessel, Butterworth, Chebyshev o Eliptico)
+#### 4.1.1. Filtro FIR (Bessel, Butterworth, Chebyshev o Eliptico)
 
 
 ### *4.2. Generar filtro FIR e IIR para EMG* <a name="id6"></a>
