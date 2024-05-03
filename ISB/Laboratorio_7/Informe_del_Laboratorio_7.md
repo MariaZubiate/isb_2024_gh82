@@ -1,6 +1,6 @@
 
 
-# Laboratorio 5
+# Laboratorio 7
 ## Integrantes
 - Christian Martin Mucha Huatuco
 
