@@ -41,7 +41,7 @@ cerebrales específicas.
 
 | Cantidad |	Material o equipo |	Uso
 |:------------:|:---------------:|:------------:|
-| 1	| Laptop	| Visualización y procesamiento de las señales ECG con lenguaje de programación
+| 1	| Laptop	| Visualización y procesamiento de las señales con lenguaje de programación
 
 ## *4. Metodologia* <a name="id4"></a>
 
