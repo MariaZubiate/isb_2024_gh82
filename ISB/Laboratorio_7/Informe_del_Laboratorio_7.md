@@ -18,11 +18,11 @@
 4. [Metodologia](#id4)\
      4.1 [Generar filtro FIR e IIR para ECG](#id5)\
      4.2 [Generar filtro FIR e IIR para EMG](#id6)\
-     4.3 [Generar filtro FIR e IIR para EEG](#id7)\
+     4.3 [Generar filtro FIR e IIR para EEG](#id7) \
 5. [Resultado](#id8)\
      5.1 [Resultado de señal filtrada con filtro FIR e IIR para ECG](#id9)\
      5.2 [Resultado de señal filtrada con filtro FIR e IIR para EMG](#id10)\
-     5.3 [Resultado de señal filtrada con filtro FIR e IIR para EEG](#id11)\
+     5.3 [Resultado de señal filtrada con filtro FIR e IIR para EEG](#id11) \
 7.  [Bibliografia](#id12)
    
 ## *1. Introducción* <a name="id1"></a>
