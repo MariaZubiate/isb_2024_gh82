@@ -16,7 +16,7 @@
 2. [Objetivos](#id2)
 3. [Materiales y equipos](#id3)
 4. [Metodologia](#id4)\
-     4.1 [Fotos de conexión usada](#id5)\
+     4.1 [Generar filtro FIR e IIR para ECG](#id5)\
      4.2 [Video de señal](#id6)\
      4.3 [Ploteo de la señal en OpenSignal](#id7)\
      4.4 [Resumen y explicación de la señal ploteada](#id8)\
@@ -33,32 +33,55 @@
 
 ## *4. Metodologia* <a name="id4"></a>
 
-### *4.1. Fotos de conexión usada* <a name="id5"></a>
+### *4.1. Generar filtro FIR e IIR para ECG* <a name="id5"></a>
 
-### *4.2. Video de la señal* <a name="id6"></a>
+#### 4.1.1. Filtro IIR (2 métodos de ventana pueden ser: Hanning, Hamming,Bartlett, rectangular o Blackman)
 
-##### 4.2.1. Lectura del EKG de la muñeca
+#### 4.1.1. Filtro FIR (elegir si es Bessel, Butterworth, Chebyshev o Eliptico)
 
-##### 4.2.2. Lectura del EKG en reposo
 
-##### 4.2.3. Lectura del EKG respiración profunda antes del ejercicio
+### *4.2. Generar filtro FIR e IIR para EMG* <a name="id6"></a>
 
-##### 4.2.4. Lectura del EKG después del ejercicio
+#### 4.2.1. Filtro IIR (2 métodos de ventana pueden ser:  Hamming,Bartlett o Blackman)
 
-##### 4.2.5. Lectura del EKG respiración profunda después del ejercicio
+#### 4.2.1. Filtro FIR ( Bessel, Butterworth, Chebyshev o Eliptico)
 
-### *4.3. Ploteo de la señal en OpenSignals* <a name="id7"></a> 
 
-### *4.4. Resumen y explicación de la señal ploteada* <a name="id8"></a> 
+### *4.3. Generar filtro FIR e IIR para EEG* <a name="id7"></a>
 
-### *4.5. Archivo de los datos de la señal ploteada* <a name="id9"></a> 
+#### 4.3.1. Filtro IIR (2 métodos de ventana pueden ser: Hanning, Hamming,Bartlett, rectangular o Blackman)
 
-### *4.6. Ploteo de la señal en Python* <a name="id10"></a> 
+#### 4.3.1. Filtro FIR (Bessel, Butterworth, Chebyshev o Eliptico)
 
-##### 4.6.1. Lectura del musculo flexor del pulgar en python
 
-##### 4.6.2. Lectura del musculo bíceps del brazo en python
+## *5. Resultados* <a name="8"></a>
 
-##### 4.6.3. Lectura del musculo gemelo de la pantorrilla en python
-   
-## *5. Bibliografia* <a name="id11"></a>
+### *5.1. Resultado de señal filtrada con filtro FIR e IIR para ECG* <a name="id9"></a>
+
+|  **Campo**  |  **Señal cruda** | **Señal filtrada con IIR** |  **Señal filtrada con FIR** |
+|:------------:|:---------------:|:------------:| :------------:|
+|BASAL |              |             |              |
+|RESPIRACIÓN |              |             |              |
+|POST-EJERCICIO |              |             |              |
+
+
+### *5.2. Resultado de señal filtrada con filtro FIR e IIR para EMG* <a name="id10"></a>
+
+|  **Campo**  | **Señal cruda** | **Señal filtrada con IIR** |  **Señal filtrada con FIR** |
+|:------------:|:---------------:|:------------:| :------------:|
+|DESCANSO |              |             |              |
+|CONTRACCIÓN LEVE |              |             |              |
+|CONTRACCIÓN FUERTE |              |             |              |
+
+### *5.3. Resultado de señal filtrada con filtro FIR e IIR para EEG* <a name="id11"></a>
+
+
+|  **Campo**  | **Señal cruda** | **Señal filtrada con IIR** |  **Señal filtrada con FIR** |
+|:------------:|:---------------:|:------------:| :------------:|
+|VIGILIA |              |             |              |
+|SUEÑO LIGERO |              |             |              |
+|SUEÑO REM|              |             |              |
+
+
+
+## *6. Bibliografia* <a name="id12"></a>
