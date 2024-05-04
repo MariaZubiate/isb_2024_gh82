@@ -41,7 +41,15 @@ Bessel: Se caracterizan por tener una fase casi lineal en la banda de paso, lo q
   <em>Fuente: Dispositivos y Circuitos Electrónicos II</em>
 </p>
 
+En el diseño de filtros FIR, se utilizan diferentes tipos de ventanas para dar forma a la respuesta en frecuencia y controlar los lóbulos laterales
 
+Rectangular: también conocida como ventana Bartlett, es la más simple de todas las ventanas utilizadas en el diseño de filtros FIR. Su respuesta en frecuencia tiene lóbulos laterales altos y una transición abrupta entre la banda de paso y la de paro. Esto la hace menos adecuada para aplicaciones que requieren una alta selectividad en la respuesta del filtro.
+
+Hanning: Proporciona una transición más suave y lóbulos laterales más bajos que la ventana rectangular. Su forma de coseno la hace ideal para aplicaciones donde se necesita una buena supresión de lóbulos laterales y una respuesta en frecuencia más suave.
+
+Hamming: Mejora aún más la supresión de lóbulos laterales con respecto a la ventana Hanning. Tiene una respuesta en frecuencia más ajustada y ofrece una transición más suave entre la banda de paso y la de paro. Esto la hace adecuada para aplicaciones que requieren un mejor rendimiento en la atenuación de frecuencias no deseadas.
+
+Blackman: Ofrece una transición extremadamente suave y lóbulos laterales mínimos debido a su forma compuesta por varios términos coseno. Esto la convierte en una opción excelente para aplicaciones que requieren una alta selectividad y una buena supresión de lóbulos laterales, aunque a costa de una respuesta en frecuencia más ancha.
 
 
 
@@ -130,6 +138,8 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 
 
 [1] Escuela de Ingeniería Electrónica, Universidad Nacional de Rosario, "Notas de Clase Filtros Activos," Dispositivos y Circuitos Electrónicos II, A-15, Edición 2018.1. Available: https://www.fceia.unr.edu.ar/dce2/Files/Apuntes/Notas%20de%20Clase%20Filtros%20Activos.pdf
+
+[2] J. G. Proakis and D. G. Manolakis, "Digital Signal Processing: Principles, Algorithms, and Applications," 3rd ed. Upper Saddle River, NJ, USA: Prentice-Hall International, 1996. Available: https://uvceee.wordpress.com/wp-content/uploads/2016/09/digital_signal_processing_principles_algorithms_and_applications_third_edition.pdf
 
 [1M] 
 J. A. Montalvo-Aguilar, I. Bazán, and A. Ramírez-García, "Evaluation of Filtering Techniques applied to simulated Electroencephalogram signals for Visual Evoked Potential Detection," Nova scientia, vol. 12, no. 25, pp. 1-14, Nov. 2020. Available: https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-07052020000200112
