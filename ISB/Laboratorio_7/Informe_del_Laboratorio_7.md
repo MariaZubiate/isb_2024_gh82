@@ -47,24 +47,30 @@ cerebrales específicas.
 
 ### *4.1. Generar filtro FIR e IIR para ECG* <a name="id5"></a>
 
-#### 4.1.1. Filtro IIR (2 métodos de ventana pueden ser: Hanning, Hamming,Bartlett, rectangular o Blackman)
+#### 4.1.1. Filtro IIR (Bessel, Butterworth, Chebyshev o Eliptico)
 
-#### 4.1.1. Filtro FIR (Bessel, Butterworth, Chebyshev o Eliptico)
+#### 4.1.1. Filtro FIR (2 métodos de ventana pueden ser: Hanning, Hamming,Bartlett, rectangular o Blackman)
 
 
 ### *4.2. Generar filtro FIR e IIR para EMG* <a name="id6"></a>
 
-#### 4.2.1. Filtro IIR (2 métodos de ventana pueden ser:  Hamming,Bartlett o Blackman)
+#### 4.2.1. Filtro IIR (Bessel, Butterworth, Chebyshev o Eliptico)
 
-#### 4.2.1. Filtro FIR ( Bessel, Butterworth, Chebyshev o Eliptico)
+#### 4.2.1. Filtro FIR (2 métodos de ventana pueden ser: Hanning, Hamming,Bartlett, rectangular o Blackman)
 
 
 ### *4.3. Generar filtro FIR e IIR para EEG* <a name="id7"></a>
 
-#### 4.3.1. Filtro IIR (2 métodos de ventana pueden ser: Hanning, Hamming,Bartlett, rectangular o Blackman)
+Debido a que las señales obtenidas en laboratorios anteriores no han sido procesadas, se infiere que estas no están limpias y contienen ruido. Por lo tanto, en este apartado se plantea la generación de un filtro FIR y un filtro IIR con el fin de eliminar este ruido. Para ello, utilizaremos el paper "Performance Analysis of IIR & FIR Windowing Techniques in Electroencephalography Signal Processing" como guía para definir las características de nuestros filtros.
 
-#### 4.3.1. Filtro FIR (Bessel, Butterworth, Chebyshev o Eliptico)
 
+
+#### 4.3.1. Filtro IIR (Bessel, Butterworth, Chebyshev o Eliptico)
+
+
+
+#### 4.3.1. Filtro FIR 
+Los resultados de esta investigación arrojaron que el filtro FIR pasa bajo con ventana Hamming y Hanning demostraron ser opciones favorables para el procesamiento de señales de EEG. En términos de parámetros de rendimiento, ambas técnicas han mostrado una reducción significativa en el Mean Square Error (MSE) y Mean Absolute Error (MAE), lo que indica una mayor precisión en la reconstrucción de la señal original. Específicamente, se observaron valores de MSE de 0.0035 y MAE de 0.0474 para la técnica de ventana Hamming, mientras que para la técnica de ventana Hanning se registraron valores de MSE de 0.0036 y MAE de 0.0478. Lo que indica una mejora capacidad para minimizar los errores de reconstrucción de las señales EEG, respaldando la eliminiación de ruido[1].
 
 ## *5. Resultados* <a name="id8"></a>
 
@@ -98,4 +104,7 @@ cerebrales específicas.
 
 
 ## *6. Bibliografia* <a name="id12"></a>
+
+[1] Anshul, Dipali Bansal, Rashima Mahajan, "Performance Analysis of IIR & FIR Windowing Techniques in Electroencephalography Signal Processing" *International Journal of Innovative Technology and Exploring Engineering (IJITEE)*, vol. 8, no. 10, pp. 3573-3576, Aug. 2019. Available: https://www.researchgate.net/publication/335570147_Performance_Analysis_of_IIR_FIR_Windowing_Techniques_in_Electroencephalography_Signal_Processing
+
 [1] “A-15 Dispositivos y Circuitos Electrónicos II Ingeniería Electrónica Filtros Activos.” Available: https://www.fceia.unr.edu.ar/dce2/Files/Apuntes/FILTROS ACTIVOS - Notas de Clase (v-2019-1).pdf
