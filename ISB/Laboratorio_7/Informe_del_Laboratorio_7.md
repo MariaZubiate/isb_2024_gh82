@@ -1,5 +1,3 @@
-![Captura de pantalla 2024-05-04 170847](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/d333489d-b6a1-434d-a011-0228b219de1e)
-
 # Laboratorio 7
 ## Integrantes
 - Christian Martin Mucha Huatuco
