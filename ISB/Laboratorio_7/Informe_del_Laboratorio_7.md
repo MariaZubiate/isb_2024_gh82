@@ -82,7 +82,7 @@ cerebrales específicas.
 
 ### *4.3. Generar filtro FIR e IIR para EEG* <a name="id7"></a>
 
-Debido a que las señales obtenidas en laboratorios anteriores no han sido procesadas, se infiere que estas no están limpias y contienen ruido. Por lo tanto, en este apartado se plantea la generación de un filtro FIR y un filtro IIR con el fin de eliminar este ruido. Para ello, utilizaremos los papres "Performance Analysis of IIR & FIR Windowing Techniques in Electroencephalography Signal Processing" y "Evaluation of Filtering Techniques applied to simulated Electroencephalogram signals for Visual Evoked Potential Detection" como guía para definir las características de nuestros filtros.
+Debido a que las señales obtenidas en laboratorios anteriores no han sido procesadas, se infiere que estas no están limpias y contienen ruido. Por lo tanto, en este apartado se plantea la generación de un filtro FIR y un filtro IIR con el fin de eliminar este ruido. Para ello, utilizaremos los papres "Performance Analysis of IIR & FIR Windowing Techniques in Electroencephalography Signal Processing" y "Evaluation of Filtering Techniques applied to simulated Electroencephalogram signals for Visual Evoked Potential Detection" como guía para definir las características de nuestros filtros[1M-2M].
 
 
 
