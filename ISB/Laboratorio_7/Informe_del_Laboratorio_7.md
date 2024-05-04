@@ -123,13 +123,12 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 
 ### *5.2. Resultado de señal filtrada con filtro FIR e IIR para EMG* <a name="id10"></a>
 
-|  **Campo**  | **Señal cruda** | **FFT de la señal** | **Señal filtrada con IIR** |  **Señal filtrada con FIR** |
-|:------------:|:---------------:|:------------:| :------------:|:------------:|
-|DESCANSO |![Captura de pantalla 2024-05-04 163706](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/161761df-f746-4a7b-be6a-45a583bf073a)
-|![Captura de pantalla 2024-05-04 165546](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/083e4128-2e7f-45eb-a885-aa00f8c2def3)
-|              |       |
-|CONTRACCIÓN LEVE |              |             |              |       |
-|CONTRACCIÓN FUERTE |              |             |              |      |
+|  **-**  | **Plot de Python** |
+|:------------:|:---------------:|
+|Señal Cruda |![Captura de pantalla 2024-05-04 163706](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/161761df-f746-4a7b-be6a-45a583bf073a)|
+|FFT de la señal |![Captura de pantalla 2024-05-04 165546](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/083e4128-2e7f-45eb-a885-aa00f8c2def3)|
+|Señal filtrada con FIR |              |
+|Señal filtrada con IIR |              |
 
 ### *5.3. Resultado de señal filtrada con filtro FIR e IIR para EEG* <a name="id11"></a>
 
