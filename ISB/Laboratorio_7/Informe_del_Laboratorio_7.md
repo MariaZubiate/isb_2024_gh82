@@ -123,11 +123,11 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 
 ### *5.2. Resultado de señal filtrada con filtro FIR e IIR para EMG* <a name="id10"></a>
 
-|  **Campo**  | **Señal cruda** | **Señal filtrada con IIR** |  **Señal filtrada con FIR** |
-|:------------:|:---------------:|:------------:| :------------:|
-|DESCANSO |              |             |              |
-|CONTRACCIÓN LEVE |              |             |              |
-|CONTRACCIÓN FUERTE |              |             |              |
+|  **Campo**  | **Señal cruda** | **FFT de la señal** | **Señal filtrada con IIR** |  **Señal filtrada con FIR** |
+|:------------:|:---------------:|:------------:| :------------:|:------------:|
+|DESCANSO |              |             |              |       |
+|CONTRACCIÓN LEVE |              |             |              |       |
+|CONTRACCIÓN FUERTE |              |             |              |      |
 
 ### *5.3. Resultado de señal filtrada con filtro FIR e IIR para EEG* <a name="id11"></a>
 
