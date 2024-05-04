@@ -24,7 +24,7 @@
    
 ## *1. Introducción* <a name="id1"></a>
 
-Los filtros IIR existe filtros Butterworth, Chebyshev y Bessel los cuales son tipos de filtros con ventana que se utilizan en el diseño de circuitos electrónicos para filtrar señales. Cada uno de estos filtros tiene características únicas en términos de su respuesta en frecuencia y su comportamiento en el dominio del tiempo.
+Entre los filtros IIR existe filtros Butterworth, Chebyshev y Bessel los cuales son tipos de filtros con ventana que se utilizan en el diseño de circuitos electrónicos para filtrar señales. Cada uno de estos filtros tiene características únicas en términos de su respuesta en frecuencia y su comportamiento en el dominio del tiempo.
 
 Butterworth:Se destacan por su respuesta en frecuencia maxima plana en la banda de paso. Tienen un comportamiento suave en el dominio del tiempo, sin distorsionar la forma de onda de la señal filtrada. Son útiles cuando se requiere una respuesta de frecuencia lo más plana posible dentro de la banda de paso, sin preocuparse demasiado por la transición a la banda de rechazo[1].
 
@@ -82,7 +82,7 @@ cerebrales específicas.
 
 ### *4.3. Generar filtro FIR e IIR para EEG* <a name="id7"></a>
 
-Debido a que las señales obtenidas en laboratorios anteriores no han sido procesadas, se infiere que estas no están limpias y contienen ruido. Por lo tanto, en este apartado se plantea la generación de un filtro FIR y un filtro IIR con el fin de eliminar este ruido. Para ello, utilizaremos el paper "Performance Analysis of IIR & FIR Windowing Techniques in Electroencephalography Signal Processing" como guía para definir las características de nuestros filtros.
+Debido a que las señales obtenidas en laboratorios anteriores no han sido procesadas, se infiere que estas no están limpias y contienen ruido. Por lo tanto, en este apartado se plantea la generación de un filtro FIR y un filtro IIR con el fin de eliminar este ruido. Para ello, utilizaremos los papres "Performance Analysis of IIR & FIR Windowing Techniques in Electroencephalography Signal Processing" y "Evaluation of Filtering Techniques applied to simulated Electroencephalogram signals for Visual Evoked Potential Detection" como guía para definir las características de nuestros filtros.
 
 
 
