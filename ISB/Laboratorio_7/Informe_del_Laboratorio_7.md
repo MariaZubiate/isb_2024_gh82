@@ -123,13 +123,14 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 
 ### *5.2. Resultado de señal filtrada con filtro FIR e IIR para EMG* <a name="id10"></a>
 
-|  **-**  | **Plot de Python** |
+|  **REPOSO**  | **Plot de Python** |
 |:------------:|:---------------:|
 |Señal Cruda |![Captura de pantalla 2024-05-04 163706](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/161761df-f746-4a7b-be6a-45a583bf073a)|
 |FFT de la señal |![Captura de pantalla 2024-05-04 165546](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/083e4128-2e7f-45eb-a885-aa00f8c2def3)|
 |Filtro FIR |![Captura de pantalla 2024-05-04 170847](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/39ed067e-7262-4786-9d1a-5c39e2b28fbb)|
 |Señal filtrada con FIR |![Captura de pantalla 2024-05-04 171503](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/54603528-8512-4696-adf8-cf15c7afce00)|
-|Señal filtrada con IIR |              |
+|Filtro IIR |![Captura de pantalla 2024-05-04 171728](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/46ed04de-db7e-493a-ae73-3396afd64ce5)|
+|Señal filtrada con IIR |![Captura de pantalla 2024-05-04 171907](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/14b06633-c62a-4928-a731-eee2a61daa35)|
 
 ### *5.3. Resultado de señal filtrada con filtro FIR e IIR para EEG* <a name="id11"></a>
 
