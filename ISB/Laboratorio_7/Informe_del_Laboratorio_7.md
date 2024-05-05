@@ -135,21 +135,17 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 |![Captura de pantalla 2024-05-04 172149](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/702ba510-c821-495b-b852-1d73fab1b505)|![Captura de pantalla 2024-05-04 171907](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/14b06633-c62a-4928-a731-eee2a61daa35)|
 
 
-|**Señal Cruda_FLEXIÓN** |**FFT de la señal** |
+|**FLEXIÓN** |**Ploteo en Python** |
 |:------------:|:---------------:|
-|![Captura de pantalla 2024-05-04 172935](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1116ccf-37ba-4d18-b726-19fdd4f948d5)|![Captura de pantalla 2024-05-04 173201](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/5b53f1d6-0f54-4290-a439-f70a0227ed0f)|
-|Filtro FIR |Señal filtrada con FIR|
-|  |   |
-|Filtro IIR |Señal filtrada con IIR|
-|  |  |
+|Señal original|![Captura de pantalla 2024-05-04 172935](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1116ccf-37ba-4d18-b726-19fdd4f948d5)|
+|Señal filtrada con FIR| |
+|Señal filtrada con IIR| |
 
-|**Señal Cruda_FLEXIÓN** |**FFT de la señal** |
+|**CONTRAFUERZA** |**Ploteo en Python** |
 |:------------:|:---------------:|
-|  |  |
-|Filtro FIR |Señal filtrada con FIR|
-|  |   |
-|Filtro IIR |Señal filtrada con IIR|
-|  |  |
+|Señal original|![Captura de pantalla 2024-05-04 172935](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1116ccf-37ba-4d18-b726-19fdd4f948d5)|
+|Señal filtrada con FIR| |
+|Señal filtrada con IIR| |
 
 ### *5.3. Resultado de señal filtrada con filtro FIR e IIR para EEG* <a name="id11"></a>
 
