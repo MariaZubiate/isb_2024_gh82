@@ -175,6 +175,9 @@ EEG: https://colab.research.google.com/drive/1QsstFJvL9y-VUIAPu6UwBHSrlMr2BBmK?u
 
 
 ## *6. Conclusiones* <a name="id12"></a>
+
+En nuestro campo de Ingeniería Biomédica, es necesario aplicar herramientas que garanticen un cierto grado de calidad en las señales biomédicas obtenidas y con potenciales aplicaciones clínicas. En este sentido, los filtros Butterworth y Bessel han sido fundamentales, ya que mantienen una relación señal-ruido óptima y minimizan el error obtenido naturalmente en nuestros experimentos previos, preservando así la calidad de las señales EKG, EMG y EEG en contextos donde la precisión es muy relevante. Por otro lado, los filtros FIR, empleando ventanas de Hamming y Hanning, demostraron ser altamente eficaces en la atenuación del ruido y en la estabilización de la variabilidad de la amplitud, lo que es particularmente valioso para tratar señales EEG, que son inherentemente no estacionarias y requieren un manejo cuidadoso de la amplitud y la fase. Estas características hacen que dichos filtros sean herramientas indispensables en el diagnóstico y monitoreo de patologías neuromusculares, cardiovasculares y neurológicas.
+
 ## *7. Bibliografia* <a name="id13"></a>
 
 [1] Larry H. Escobar s. Facultad de Ingenieria, UNAM, "Diseño de filtros digitales". Available: https://odin.fi-b.unam.mx/labdsp/files/libros/filtros.pdf
