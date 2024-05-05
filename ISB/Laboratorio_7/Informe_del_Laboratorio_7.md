@@ -150,7 +150,7 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 ### *5.3. Resultado de señal filtrada con filtro FIR e IIR para EEG* <a name="id11"></a>
 
 
-|  **Campo**  | **Señal cruda** | **Señal filtrada con IIR(naranja) vs. Señal cruda** |  **Señal filtrada con FIR(naranja) vs. Señal cruda** |
+|  **Campo**  | **Señal cruda** | **Señal filtrada con IIR(naranja) superpuesta sobre la señal cruda** |  **Señal filtrada con FIR(naranja) superpuesta sobre la señal cruda** |
 |:------------:|:---------------:|:------------:| :------------:|
 |REPOSO | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3cdcd4b2-5044-40db-901c-0ffc6681cdd5)|![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6f5ad075-60fc-4ae2-a6d7-2dafbce121af) |      ![Captura de pantalla 2024-05-04 193639](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/abf1fcbf-83d8-42f6-b5f0-001fc2533a52)|
 |FFTS DEL REPOSO |![descarga (4)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/69ad7621-c340-4797-9c4e-3596f8ef7a5b)|  ![descarga (12)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a825d86c-dab1-484f-87f6-4fcc1b52c3a9)|   ![descarga (16)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/56ecde57-3653-4b20-b162-5172dbcfd632)|
