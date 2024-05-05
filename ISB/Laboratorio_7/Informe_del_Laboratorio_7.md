@@ -158,7 +158,7 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 |RESOLUCIÓN MENTAL DE EJERCICIO DE MATEMATICAS|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a92defc5-6f50-4fc3-a07d-b31dae541698)|    ![Captura de pantalla 2024-05-04 191545](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/16d22d1e-289d-4e4d-8390-364724aad936)  |      ![Captura de pantalla 2024-05-04 193831](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f08bb593-3a59-4031-8936-e850d785e95b)|
 
 
-## *6. Bibliografia* <a name="id12"></a>
+## *6. Conclusiones* <a name="id12"></a>
 ## *7. Bibliografia* <a name="id13"></a>
 
 [1] Larry H. Escobar s. Facultad de Ingenieria, UNAM, "Diseño de filtros digitales". Available: https://odin.fi-b.unam.mx/labdsp/files/libros/filtros.pdf
