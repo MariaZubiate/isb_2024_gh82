@@ -85,8 +85,6 @@ cerebrales específicas.
 Para el filtro IIR se utilizó un filtro Butterworth pasa bajas de orden 60 y con una frecuencia de corte de 100 Hz [4].
 Para el filtro FIR se utilizó un filtro Bartlett pasa bajas de orden 10 y con una frecuencia de corte de 60 Hz [5].
 
-Link del Colab: https://colab.research.google.com/drive/1P7SA_MN3xSBSA9lnnu0I1iucMIszg-s2?authuser=1#scrollTo=Q9Pn4nw3vCbr
-
 #### 4.1.1. Filtro FIR (2 métodos de ventana pueden ser: Hanning, Hamming,Bartlett, rectangular o Blackman)
 
 
@@ -170,9 +168,9 @@ En las tablas a continuación, cabe mencionar que al aplicar los respectivos fil
 LINK DE LOS COLAB:
 EMG: https://colab.research.google.com/drive/1ti_yi-_zNqllpjYAXSGMb9ax3SWe152_#scrollTo=wK7PiNENVpNr
 
-ECG: 
+ECG: https://colab.research.google.com/drive/1P7SA_MN3xSBSA9lnnu0I1iucMIszg-s2?authuser=1#scrollTo=Q9Pn4nw3vCbr
 
-EEG:
+EEG: https://colab.research.google.com/drive/1QsstFJvL9y-VUIAPu6UwBHSrlMr2BBmK?usp=sharing#scrollTo=goC7YUKl2S0u
 
 
 ## *6. Conclusiones* <a name="id12"></a>
