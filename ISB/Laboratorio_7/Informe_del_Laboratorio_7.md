@@ -82,8 +82,8 @@ cerebrales específicas.
 ## *4. Metodologia* <a name="id4"></a>
 
 ### *4.1. Generar filtro FIR e IIR para ECG* <a name="id5"></a>
-Se utilizó un filtro Butterworth pasa bajas de orden 60 y con una frecuencia de corte de 100 Hz [4].
-
+Para el filtro IIR se utilizó un filtro Butterworth pasa bajas de orden 60 y con una frecuencia de corte de 100 Hz [4].
+Para el filtro FIR se utilizó un filtro Bartlett pasa bajas de orden 10 y con una frecuencia de corte de 60 Hz [5].
 
 #### 4.1.1. Filtro FIR (2 métodos de ventana pueden ser: Hanning, Hamming,Bartlett, rectangular o Blackman)
 
@@ -176,8 +176,12 @@ En las tablas a continuación, cabe mencionar que al aplicar los respectivos fil
 [3] J. G. Proakis and D. G. Manolakis, "Digital Signal Processing: Principles, Algorithms, and Applications," 3rd ed. Upper Saddle River, NJ, USA: Prentice-Hall International, 1996. Available: https://uvceee.wordpress.com/wp-content/uploads/2016/09/digital_signal_processing_principles_algorithms_and_applications_third_edition.pdf
 
 [4] H. Amhia y A. K. Wadhwani, «Stability and Phase Response Analysis of Optimum Reduced-Order IIR Filter Designs for ECG R-Peak Detection», J Healthc Eng, vol. 2022, p. 9899899, abr. 2022, doi: 10.1155/2022/9899899.
-[5] A. Moreno Sanz, "Procesado avanzado de señal EMG," Trabajo Fin de Grado, Universidad Carlos III de Madrid, Escuela Politécnica Superior, Leganés, Spain, 2017.
-[6] Hemant Kumar Gupta, N. Gupta, M. Shashidhar, and M.A.Himayath Shamshi, “Performance Analysis of Windowing algorithms during Filtering of an Additive White Gaussian Noisy EMG Signal,” 2022 13th International Conference on Computing Communication and Networking Technologies (ICCCNT), Oct. 2022, doi: https://doi.org/10.1109/icccnt54827.2022.9984628.
+
+[5] Sharma, B. (2016). “Analysis of Digital Filters for Noise Removal Using Electrocardiogram Signals” MASTER OF TECHNOLOGY [INTEGRATED] IN ELECTRONICS AND COMMUNICATION ENGINEERING.
+
+[6] A. Moreno Sanz, "Procesado avanzado de señal EMG," Trabajo Fin de Grado, Universidad Carlos III de Madrid, Escuela Politécnica Superior, Leganés, Spain, 2017.
+
+[7] Hemant Kumar Gupta, N. Gupta, M. Shashidhar, and M.A.Himayath Shamshi, “Performance Analysis of Windowing algorithms during Filtering of an Additive White Gaussian Noisy EMG Signal,” 2022 13th International Conference on Computing Communication and Networking Technologies (ICCCNT), Oct. 2022, doi: https://doi.org/10.1109/icccnt54827.2022.9984628.
 #### 4.1.1. Filtro IIR (Bessel, Butterworth, Chebyshev o Eliptico)
 
 [1M] 
