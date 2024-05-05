@@ -93,7 +93,7 @@ Se utilizó un filtro Butterworth pasa bajas de orden 60 y con una frecuencia de
 #### 4.2.1. Filtro IIR (Bessel, Butterworth, Chebyshev o Eliptico)
 
 #### 4.2.1. Filtro FIR (2 métodos de ventana pueden ser: Hanning, Hamming,Bartlett, rectangular o Blackman)
-
+Se realizó un comparación de filtrado de señal EMG con 3 tipos de ventanas: Hamming, Hanning y Rectangular. Para lo cual, se evaluaron 4 parámetros a tener en cuenta en la comparación: relación potencia/potencia media, potencia promedio, relación señal-ruido (SNR) y relación de rechazo EMG. Y como resultado se observó que la ventana Rectangular es más informativa en comparación que las otras 2 ventanas, pues no elimina los picos existentes en la contracción muscular. Es decir, para el autor le resultó que la ventana rectangular es la técnica de ventana más adecuada, ya que brinda mejores parámetros para el análisis de la señal EMG durante cada actividad de movimiento.
 
 ### *4.3. Generar filtro FIR e IIR para EEG* <a name="id7"></a>
 
