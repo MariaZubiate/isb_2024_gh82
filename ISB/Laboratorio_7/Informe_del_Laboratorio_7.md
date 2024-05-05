@@ -188,7 +188,7 @@ EEG:
 
 [5] Sharma, B. (2016). “Analysis of Digital Filters for Noise Removal Using Electrocardiogram Signals” MASTER OF TECHNOLOGY [INTEGRATED] IN ELECTRONICS AND COMMUNICATION ENGINEERING.
 
-[6] A. Moreno Sanz, "Procesado avanzado de señal EMG," Trabajo Fin de Grado, Universidad Carlos III de Madrid, Escuela Politécnica Superior, Leganés, Spain, 2017.
+[6] A. Moreno Sanz, "Procesado avanzado de señal EMG," Trabajo Fin de Grado, Universidad Carlos III de Madrid, Escuela Politécnica Superior, Leganés, Spain, 2017. Available: https://e-archivo.uc3m.es/rest/api/core/bitstreams/73de4212-e068-4610-9dca-4cf450e3fd9e/content
 
 [7] Hemant Kumar Gupta, N. Gupta, M. Shashidhar, and M.A.Himayath Shamshi, “Performance Analysis of Windowing algorithms during Filtering of an Additive White Gaussian Noisy EMG Signal,” 2022 13th International Conference on Computing Communication and Networking Technologies (ICCCNT), Oct. 2022, doi: https://doi.org/10.1109/icccnt54827.2022.9984628.
 
