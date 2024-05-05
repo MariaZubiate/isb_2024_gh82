@@ -149,7 +149,7 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 ### *5.3. Resultado de señal filtrada con filtro FIR e IIR para EEG* <a name="id11"></a>
 
 
-|  **Campo**  | **Señal cruda** | **Señal filtrada con IIR** |  **Señal filtrada con FIR** |
+|  **Campo**  | **Señal cruda** | **Señal filtrada con IIR** |  **Señal filtrada con FIR(Comparativa con la señal cruda)** |
 |:------------:|:---------------:|:------------:| :------------:|
 |REPOSO | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3cdcd4b2-5044-40db-901c-0ffc6681cdd5)|  ![Captura de pantalla 2024-05-04 191146](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6366bd42-c900-4cc7-9cc0-3ec4cf2c6c57) |      ![Captura de pantalla 2024-05-04 193639](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/abf1fcbf-83d8-42f6-b5f0-001fc2533a52)|
 |PARPADEO |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/999f8e54-e518-4279-bcda-4034d63fa96e)|      ![Captura de pantalla 2024-05-04 191406](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8f73a02c-af43-4301-a359-9f91e5aaf772) |    ![Captura de pantalla 2024-05-04 193725](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/7512807c-74a8-4a4f-80a5-9329d18b5d09)  |
