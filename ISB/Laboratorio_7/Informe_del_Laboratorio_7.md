@@ -153,10 +153,13 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 |  **Campo**  | **Señal cruda** | **Señal filtrada con IIR(naranja) vs. Señal cruda** |  **Señal filtrada con FIR(naranja) vs. Señal cruda** |
 |:------------:|:---------------:|:------------:| :------------:|
 |REPOSO | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3cdcd4b2-5044-40db-901c-0ffc6681cdd5)|![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6f5ad075-60fc-4ae2-a6d7-2dafbce121af) |      ![Captura de pantalla 2024-05-04 193639](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/abf1fcbf-83d8-42f6-b5f0-001fc2533a52)|
-|FFTS RESPECTIVOS |![descarga (4)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/69ad7621-c340-4797-9c4e-3596f8ef7a5b)| |     |
+|FFTS REPOSO |![descarga (4)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/69ad7621-c340-4797-9c4e-3596f8ef7a5b)| |     |
 |PARPADEO |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/999f8e54-e518-4279-bcda-4034d63fa96e)|   ![descarga (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f7ba6559-cde9-438a-98b6-c11fce5cb00e) |    ![Captura de pantalla 2024-05-04 193725](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/7512807c-74a8-4a4f-80a5-9329d18b5d09)  |
+|FFTS PARPADEO |![descarga (5)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/579bde96-5db5-47f2-b4e8-d88fe0843fd7)| |     |
 |REPOSO DESPUES DEL PARPADEO|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5eb427eb-cc41-48f1-a77b-a583dc587240)| ![descarga (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/71ecdc73-53bf-4c41-94eb-1b9ed72f1e15) |       ![Captura de pantalla 2024-05-04 193756](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/0bd11465-8ddb-4ca5-b6fd-474247c94244)|
+|FFTS REPOSO DESPUES DEL PARPADEO | ![descarga (6)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8228f968-755c-44a7-9725-532f70311187) | |     |
 |RESOLUCIÓN MENTAL DE EJERCICIO DE MATEMATICAS|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a92defc5-6f50-4fc3-a07d-b31dae541698)|  ![descarga (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/b8d92eeb-bc5e-4147-8b27-49388ff4639a) |      ![Captura de pantalla 2024-05-04 193831](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f08bb593-3a59-4031-8936-e850d785e95b)|
+|FFTS RESOLUCIÓN MENTAL DE EJERCICIO DE MATEMATICAS | ![descarga (7)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/0552020e-a55e-47d9-9b1e-e872b3216ac1)| |     |
 
 
 ## *6. Conclusiones* <a name="id12"></a>
