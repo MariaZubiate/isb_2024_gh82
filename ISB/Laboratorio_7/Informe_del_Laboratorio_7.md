@@ -166,6 +166,7 @@ En las tablas a continuación, cabe mencionar que al aplicar los respectivos fil
 |FFTS DE LA RESOLUCIÓN MENTAL DE EJERCICIO DE MATEMATICAS | ![descarga (7)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/0552020e-a55e-47d9-9b1e-e872b3216ac1)|  ![descarga (15)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/028e1d14-ab7c-4c1c-bf82-8edb3beb8875)| ![descarga (19)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/c19536f5-7fe0-4f67-8dd8-5ee27f3eb90b)|
 
 LINK DE LOS COLAB:
+
 EMG: https://colab.research.google.com/drive/1ti_yi-_zNqllpjYAXSGMb9ax3SWe152_#scrollTo=wK7PiNENVpNr
 
 ECG: https://colab.research.google.com/drive/1P7SA_MN3xSBSA9lnnu0I1iucMIszg-s2?authuser=1#scrollTo=Q9Pn4nw3vCbr
