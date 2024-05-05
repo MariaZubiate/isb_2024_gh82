@@ -153,8 +153,8 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 |:------------:|:---------------:|:------------:| :------------:|
 |REPOSO | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3cdcd4b2-5044-40db-901c-0ffc6681cdd5)|  ![Captura de pantalla 2024-05-04 191146](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6366bd42-c900-4cc7-9cc0-3ec4cf2c6c57) |              |
 |PARPADEO |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/999f8e54-e518-4279-bcda-4034d63fa96e)|      ![Captura de pantalla 2024-05-04 191406](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8f73a02c-af43-4301-a359-9f91e5aaf772) |              |
-|REPOSO DESPUES DEL PARPADEO|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5eb427eb-cc41-48f1-a77b-a583dc587240)|             |              |
-|RESOLUCIÓN MENTAL DE EJERCICIO DE MATEMATICAS|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a92defc5-6f50-4fc3-a07d-b31dae541698)|             |              |
+|REPOSO DESPUES DEL PARPADEO|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5eb427eb-cc41-48f1-a77b-a583dc587240)|   ![Captura de pantalla 2024-05-04 191503](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/593ae21a-0882-46d5-9715-b11c7ca77933)|              |
+|RESOLUCIÓN MENTAL DE EJERCICIO DE MATEMATICAS|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a92defc5-6f50-4fc3-a07d-b31dae541698)|    ![Captura de pantalla 2024-05-04 191545](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/16d22d1e-289d-4e4d-8390-364724aad936)  |              |
 
 
 
