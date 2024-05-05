@@ -85,6 +85,8 @@ cerebrales específicas.
 Para el filtro IIR se utilizó un filtro Butterworth pasa bajas de orden 60 y con una frecuencia de corte de 100 Hz [4].
 Para el filtro FIR se utilizó un filtro Bartlett pasa bajas de orden 10 y con una frecuencia de corte de 60 Hz [5].
 
+Link del Colab: https://colab.research.google.com/drive/1P7SA_MN3xSBSA9lnnu0I1iucMIszg-s2?authuser=1#scrollTo=Q9Pn4nw3vCbr
+
 #### 4.1.1. Filtro FIR (2 métodos de ventana pueden ser: Hanning, Hamming,Bartlett, rectangular o Blackman)
 
 
