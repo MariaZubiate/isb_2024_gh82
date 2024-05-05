@@ -115,9 +115,12 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 
 |  **Campo**  |  **Señal cruda** | **Señal filtrada con IIR** |  **Señal filtrada con FIR** |
 |:------------:|:---------------:|:------------:| :------------:|
-|BASAL |              |             |              |
-|RESPIRACIÓN |              |             |              |
-|POST-EJERCICIO |              |             |              |
+|BASAL |          |           |         |
+|FFTS DEL REPOSO |       |         |         |
+|RESPIRACIÓN |              |             |           |
+|FFTS DEL REPOSO |     |     |     |
+|POST-EJERCICIO |              |           |             |
+|FFTS DEL REPOSO |     |     |     |
 
 
 ### *5.2. Resultado de señal filtrada con filtro FIR e IIR para EMG* <a name="id10"></a>
