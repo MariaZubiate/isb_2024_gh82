@@ -146,8 +146,9 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 |:------------:|:---------------:|
 |Señal original|![Captura de pantalla 2024-05-04 225121](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/b90adc10-e045-42c7-98aa-5fa5b1111199)|
 |FFT de la señal|![Captura de pantalla 2024-05-04 225256](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0ab9aa19-2850-4731-8d84-6080f9511dc7)|
-|Señal filtrada con FIR| |
-|Señal filtrada con IIR| |
+|Señal filtrada con FIR|![Captura de pantalla 2024-05-04 230728](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/fea6a1da-ea1f-43aa-afbf-6136fb5d7855)|
+|Señal filtrada con IIR|![Captura de pantalla 2024-05-04 231009](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/c5dafc10-c211-4c23-b8a5-210222a2c71a)|
+
 
 ### *5.3. Resultado de señal filtrada con filtro FIR e IIR para EEG* <a name="id11"></a>
 
