@@ -125,7 +125,7 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 |FFTS RESPIRACIÓN PROFUNDA POST-EJERCICIO |     |     |     |
 
 ### *5.2. Resultado de señal filtrada con filtro FIR e IIR para EMG* <a name="id10"></a>
-
+Según [], para este tipo de estudio, las frecuencias de interés para señales EMG van entre 20 y 400Hz. Debido a que frecuencias menores a 20 pueden deberse a interferencias generadas por artefactos en movimiento y las frecuencias por encima de 400Hz son a causa de ruidos de alta frecuencias. En este sentido, al hacer la fft de la señal original, se toma en cuenta solo este rango de frecuencias, de lo cual se encuentra un pico a 60Hz, la cual corresponde a la fuente de radiación de la fuente de alimentación local. Es decir, se realizó un filtro rechaza banda (Bandstop) para dicha frecuencia.
 |**Señal Cruda_REPOSO** |**FFT de la señal** |
 |:------------:|:---------------:|
 |![Captura de pantalla 2024-05-04 163706](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/161761df-f746-4a7b-be6a-45a583bf073a)|![Captura de pantalla 2024-05-04 165546](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/083e4128-2e7f-45eb-a885-aa00f8c2def3)|
@@ -139,8 +139,8 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 |:------------:|:---------------:|
 |Señal original|![Captura de pantalla 2024-05-04 172935](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1116ccf-37ba-4d18-b726-19fdd4f948d5)|
 |FFT de la señal|![Captura de pantalla 2024-05-04 173201](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/085fd781-2ce0-4b6f-a08e-b05a43a87e14)|
-|Señal filtrada con FIR| |
-|Señal filtrada con IIR| |
+|Señal filtrada con FIR|![Captura de pantalla 2024-05-04 231425](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/f3a1ea58-4297-4d63-8893-d3d2f16f6e3c)|
+|Señal filtrada con IIR|![Captura de pantalla 2024-05-04 231656](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/35b96c45-1dde-4f22-a448-6d176e61f473)|
 
 |**CONTRAFUERZA** |**Ploteo en Python** |
 |:------------:|:---------------:|
