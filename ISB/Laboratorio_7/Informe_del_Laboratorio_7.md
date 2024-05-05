@@ -115,13 +115,14 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 
 |  **Campo**  |  **Señal cruda** | **Señal filtrada con IIR** |  **Señal filtrada con FIR** |
 |:------------:|:---------------:|:------------:| :------------:|
-|BASAL |          |           |         |
-|FFTS DEL REPOSO |       |         |         |
-|RESPIRACIÓN |              |             |           |
-|FFTS DEL REPOSO |     |     |     |
-|POST-EJERCICIO |              |           |             |
-|FFTS DEL REPOSO |     |     |     |
-
+|BASAL | ![descarga (20)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/81677ad1-ccd6-474e-ac63-8acddc17fd10)|           |         |
+|FFTS EN BASAL |       |         |         |
+|RESPIRACIÓN |  ![descarga (21)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6b3fdf15-fe55-4830-8dbb-57ee7cc6ec86) |             |           |
+|FFTS PARA RESPIRACIÓN |     |     |     |
+|POST-EJERCICIO |   ![descarga (22)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/c54ed6a5-9a23-49a8-8e1f-0956ad76132e)  |           |             |
+|FFTS POST-EJERCICIO |     |     |     |
+|RESPIRACIÓN PROFUNDA POST-EJERCICIO |   ![descarga (23)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a684930a-f559-4256-8099-b2e4764da05a)  |           |             |
+|FFTS RESPIRACIÓN PROFUNDA POST-EJERCICIO |     |     |     |
 
 ### *5.2. Resultado de señal filtrada con filtro FIR e IIR para EMG* <a name="id10"></a>
 
