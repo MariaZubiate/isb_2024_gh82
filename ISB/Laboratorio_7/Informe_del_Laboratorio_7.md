@@ -126,6 +126,7 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 
 ### *5.2. Resultado de señal filtrada con filtro FIR e IIR para EMG* <a name="id10"></a>
 Según [], para este tipo de estudio, las frecuencias de interés para señales EMG van entre 20 y 400Hz. Debido a que frecuencias menores a 20 pueden deberse a interferencias generadas por artefactos en movimiento y las frecuencias por encima de 400Hz son a causa de ruidos de alta frecuencias. En este sentido, al hacer la fft de la señal original, se toma en cuenta solo este rango de frecuencias, de lo cual se encuentra un pico a 60Hz, la cual corresponde a la fuente de radiación de la fuente de alimentación local. Es decir, se realizó un filtro rechaza banda (Bandstop) para dicha frecuencia.
+En las tablas a continuación, cabe mencionar que al aplicar los respectivos filtros, solo se mostraron un intervalo de la señal (original y filtrada) para mostrar de manera más detallada cómo varía la señal original luego del filtrado.
 |**Señal Cruda_REPOSO** |**FFT de la señal** |
 |:------------:|:---------------:|
 |![Captura de pantalla 2024-05-04 163706](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/161761df-f746-4a7b-be6a-45a583bf073a)|![Captura de pantalla 2024-05-04 165546](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/083e4128-2e7f-45eb-a885-aa00f8c2def3)|
