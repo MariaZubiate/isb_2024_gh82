@@ -115,14 +115,14 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 
 |  **Campo**  |  **Señal cruda** | **Señal filtrada con IIR** |  **Señal filtrada con FIR** |
 |:------------:|:---------------:|:------------:| :------------:|
-|BASAL | ![descarga (20)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/81677ad1-ccd6-474e-ac63-8acddc17fd10)|           |         |
-|FFTS EN BASAL |       |         |         |
-|RESPIRACIÓN |  ![descarga (21)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6b3fdf15-fe55-4830-8dbb-57ee7cc6ec86) |             |           |
-|FFTS PARA RESPIRACIÓN |     |     |     |
-|POST-EJERCICIO |   ![descarga (22)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/c54ed6a5-9a23-49a8-8e1f-0956ad76132e)  |           |             |
-|FFTS POST-EJERCICIO |     |     |     |
-|RESPIRACIÓN PROFUNDA POST-EJERCICIO |   ![descarga (23)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a684930a-f559-4256-8099-b2e4764da05a)  |           |             |
-|FFTS RESPIRACIÓN PROFUNDA POST-EJERCICIO |     |     |     |
+|BASAL | ![descarga (20)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/81677ad1-ccd6-474e-ac63-8acddc17fd10)||![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/a10445fb-5b2e-48e9-bc6e-1185174706d2)|
+|FFTS EN BASAL |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/9cb53059-f74e-4523-9aa2-3e66c824a403)|     |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/4a294a32-fbb8-417e-a1ab-4c7bdfb3f18e)|
+|RESPIRACIÓN |  ![descarga (21)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6b3fdf15-fe55-4830-8dbb-57ee7cc6ec86) |             |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/8b61e5b8-698e-482b-9f99-1017c839fbc0)|
+|FFTS PARA RESPIRACIÓN |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/89bfd2ef-aae1-4d4f-aa1c-280494c8a01f)|     |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/9bf3c287-30c1-40fc-b25e-96235d41f7ce)|
+|POST-EJERCICIO |   ![descarga (22)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/c54ed6a5-9a23-49a8-8e1f-0956ad76132e)  |           |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/fda5647a-1f2d-412d-b0ee-8cdfc84e25a2)|
+|FFTS POST-EJERCICIO |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/2917ffb0-fa18-4224-a96a-39ee38a4239f)|     |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/2f7f9a05-da46-4932-a3f9-92691b824c04)|
+|RESPIRACIÓN PROFUNDA POST-EJERCICIO |   ![descarga (23)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a684930a-f559-4256-8099-b2e4764da05a)  |           |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/3d1ab585-5494-4184-a2d1-7a1ccb0098db)|
+|FFTS RESPIRACIÓN PROFUNDA POST-EJERCICIO |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/7d22bcce-7237-4384-9e57-3af6d0e833a0)|     |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/6938c5d2-1982-493f-b682-b69aafee7f2b)|
 
 ### *5.2. Resultado de señal filtrada con filtro FIR e IIR para EMG* <a name="id10"></a>
 Según [], para este tipo de estudio, las frecuencias de interés para señales EMG van entre 20 y 400Hz. Debido a que frecuencias menores a 20 pueden deberse a interferencias generadas por artefactos en movimiento y las frecuencias por encima de 400Hz son a causa de ruidos de alta frecuencias. En este sentido, al hacer la fft de la señal original, se toma en cuenta solo este rango de frecuencias, de lo cual se encuentra un pico a 60Hz, la cual corresponde a la fuente de radiación de la fuente de alimentación local. Es decir, se realizó un filtro rechaza banda (Bandstop) para dicha frecuencia.
