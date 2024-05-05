@@ -55,7 +55,7 @@ Blackman: Ofrece una transición extremadamente suave y lóbulos laterales míni
 
 | Rectangular |	Hanning |	Hamming |	Blackman |
 |:------------:|:---------------:|:------------:| :------------:| 
-| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/bb0ed578-31ee-4bda-997a-19673836aa27) | Laptop| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cbed5a8e-b976-4d46-a45f-4bced38d78e6)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd4dfa46-6dcb-419c-b706-eddd3b31b9ea) | 
+| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/bb0ed578-31ee-4bda-997a-19673836aa27) |  ![Imagen de WhatsApp 2024-05-04 a las 20 40 23_3f812909](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/80df702e-a0b6-466a-bd0b-dbaaf9ad21db)| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cbed5a8e-b976-4d46-a45f-4bced38d78e6)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd4dfa46-6dcb-419c-b706-eddd3b31b9ea) | 
 <p align="center">
   <em>Fuente: Digital Signal Processing. Principles, Algorithms, and Applications</em>
 </p>
