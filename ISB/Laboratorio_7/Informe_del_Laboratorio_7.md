@@ -138,12 +138,14 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 |**FLEXIÓN** |**Ploteo en Python** |
 |:------------:|:---------------:|
 |Señal original|![Captura de pantalla 2024-05-04 172935](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1116ccf-37ba-4d18-b726-19fdd4f948d5)|
+|FFT de la señal|![Captura de pantalla 2024-05-04 173201](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/085fd781-2ce0-4b6f-a08e-b05a43a87e14)|
 |Señal filtrada con FIR| |
 |Señal filtrada con IIR| |
 
 |**CONTRAFUERZA** |**Ploteo en Python** |
 |:------------:|:---------------:|
-|Señal original|![Captura de pantalla 2024-05-04 172935](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1116ccf-37ba-4d18-b726-19fdd4f948d5)|
+|Señal original|![Captura de pantalla 2024-05-04 225121](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/b90adc10-e045-42c7-98aa-5fa5b1111199)|
+|FFT de la señal|![Captura de pantalla 2024-05-04 225256](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0ab9aa19-2850-4731-8d84-6080f9511dc7)|
 |Señal filtrada con FIR| |
 |Señal filtrada con IIR| |
 
