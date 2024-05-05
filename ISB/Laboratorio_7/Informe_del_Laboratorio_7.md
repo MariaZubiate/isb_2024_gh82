@@ -82,8 +82,8 @@ cerebrales específicas.
 ## *4. Metodologia* <a name="id4"></a>
 
 ### *4.1. Generar filtro FIR e IIR para ECG* <a name="id5"></a>
+Se utilizó un filtro Butterworth pasa bajas de orden 60 y con una frecuencia de corte de 100 Hz [4].
 
-#### 4.1.1. Filtro IIR (Bessel, Butterworth, Chebyshev o Eliptico)
 
 #### 4.1.1. Filtro FIR (2 métodos de ventana pueden ser: Hanning, Hamming,Bartlett, rectangular o Blackman)
 
@@ -174,6 +174,9 @@ Se utilizo las caracteristicas sugeridad en el informe: Fc = 12 Hz, paso banda p
 [2] Escuela de Ingeniería Electrónica, Universidad Nacional de Rosario, "Notas de Clase Filtros Activos," Dispositivos y Circuitos Electrónicos II, A-15, Edición 2018.1. Available: https://www.fceia.unr.edu.ar/dce2/Files/Apuntes/Notas%20de%20Clase%20Filtros%20Activos.pdf
 
 [3] J. G. Proakis and D. G. Manolakis, "Digital Signal Processing: Principles, Algorithms, and Applications," 3rd ed. Upper Saddle River, NJ, USA: Prentice-Hall International, 1996. Available: https://uvceee.wordpress.com/wp-content/uploads/2016/09/digital_signal_processing_principles_algorithms_and_applications_third_edition.pdf
+
+[4] H. Amhia y A. K. Wadhwani, «Stability and Phase Response Analysis of Optimum Reduced-Order IIR Filter Designs for ECG R-Peak Detection», J Healthc Eng, vol. 2022, p. 9899899, abr. 2022, doi: 10.1155/2022/9899899.
+#### 4.1.1. Filtro IIR (Bessel, Butterworth, Chebyshev o Eliptico)
 
 [1M] 
 J. A. Montalvo-Aguilar, I. Bazán, and A. Ramírez-García, "Evaluation of Filtering Techniques applied to simulated Electroencephalogram signals for Visual Evoked Potential Detection," Nova scientia, vol. 12, no. 25, pp. 1-14, Nov. 2020. Available: https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-07052020000200112
