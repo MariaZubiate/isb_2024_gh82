@@ -72,6 +72,8 @@ En este caso se usaran los siguientes parametros:
 
 ## *5. Resultados* <a name="id8"></a>
 
+En el siguiente inciso se podrán visualizar los filtros utilizados en los diferentes ensayos realizados en los laboratorios, así como el uso del filtro wavelet para filtrar las señales y realizar un análisis detallado.
+
 ### *5.1. Resultado de señal filtrada con filtro Walete para ECG* <a name="id9"></a>
 
 |  **Campo**  |  **Señal cruda** | **Señal filtrada ** |  
