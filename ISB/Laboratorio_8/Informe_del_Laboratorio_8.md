@@ -47,11 +47,11 @@ Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer característ
 
 ### *4.1. Generar filtro Walete para ECG* <a name="id5"></a>
 
-#### 4.1.1. Filtro Walete
+
 
 ### *4.2. Generar filtro Walete para EMG* <a name="id6"></a>
 
-#### 4.2.1. Filtro Walete 
+
 
 
 ### *4.3. Generar filtro Walete para EEG* <a name="id7"></a>
@@ -64,7 +64,7 @@ En este caso se usaran los siguientes parametros:
 3. Se eliminara los coeficientes D1 y D8, así como el coeficiente de aproximación A8 debido a que contiene componentes de artefactos oculares, segun el artículo.
 
 
-#### 4.3.1. Filtro Walete 
+
 
 
 ## *5. Resultados* <a name="id8"></a>
