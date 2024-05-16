@@ -1,5 +1,5 @@
 
-# Laboratorio 5
+# Laboratorio 8
 ## Integrantes
 - Christian Martin Mucha Huatuco
 - Maria del Carmen Zubiate Castillo
@@ -11,19 +11,27 @@
 1. [Introducción](#id1)
 2. [Objetivos](#id2)
 3. [Materiales y equipos](#id3)
-4. [Resultados](#id4)\
-     4.1 [Fotos de conexión usada](#id5)\
-     4.2 [Video de señal](#id6)\
-     4.3 [Archivo de los datos de la señal ploteada](#id7)\
-     4.4 [Ploteo de la señal en Python](#id8)\
-     4.5 [Resumen y explicación de la señal ploteada](#id9)
-5. [Analisis de las señales producidas por el Promsim4](#id10)
-6. [Conclusiones](#id11)
-7. [Bibliografia](#id12)
+4. [Metodologia](#id4)\
+     4.1 [Generar filtro Walete para ECG](#id5)\
+     4.2 [Generar filtro Walete para EMG](#id6)\
+     4.3 [Generar filtro Walete para EEG](#id7)
+5. [Resultados](#id8)\
+     5.1 [Resultado de señal filtrada con filtro Walete para ECG](#id9)\
+     5.2 [Resultado de señal filtrada con filtro Walete para EMG](#id10)\
+     5.3 [Resultado de señal filtrada con filtro Walete para EEG](#id11)
+7. [Conclusiones](#id12)
+8. [Bibliografia](#id13)
    
 ## *1. Introducción* <a name="id1"></a>
 
-Un filtro Wavelet es una herramienta utilizada en el procesamiento de señales que se basa en la teoría de Wavelet. Las Wavelets son funciones matemáticas que permiten analizar señales en diferentes escalas de tiempo y frecuencia, lo que las hace ideales para detectar cambios locales en una señal. Los filtros Wavelet se utilizan para descomponer una señal en sus componentes de alta y baja frecuencia, lo que facilita el análisis de detalles finos y gruesos por separado. Estos filtros son fundamentales en aplicaciones como la eliminación de ruido, la compresión de datos y la detección de bordes en imágenes. En este laboratorio, exploraremos cómo utilizar los filtros Wavelet para mejorar la calidad de la reconstrucción de señales y optimizar el proceso de análisis de datos.
+Un filtro Wavelet es una herramienta utilizada en el procesamiento de señales que se basa en la teoría de Wavelet. Las Wavelets son funciones matemáticas que permiten analizar señales en diferentes escalas de tiempo y frecuencia, lo que las hace ideales para detectar cambios locales en una señal. Los filtros Wavelet se utilizan para descomponer una señal en sus componentes de alta y baja frecuencia, lo que facilita el análisis de detalles finos y gruesos por separado. Estos filtros son fundamentales en aplicaciones como la eliminación de ruido, la compresión de datos y la detección de bordes en imágenes. En este laboratorio, exploraremos cómo utilizar los filtros Wavelet para mejorar la calidad de la reconstrucción de señales y optimizar el proceso de análisis de datos[1].
+
+<p align="center">
+  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/9faae516-3603-4289-b428-41ea51108c3a" alt="Esquema de la Transformada Wavelet" width="50%">
+</p>
+<p align="center">
+Figura 1. Esquema de la Transformada Wavelet[1]
+</p>
 
 ## *2. Objetivos* <a name="id2"></a>
 
@@ -41,7 +49,7 @@ Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer característ
 
 #### 4.1.1. Filtro Walete
 
-### *4.2. Generar filtro Walete para EMG* <a name="id7"></a>
+### *4.2. Generar filtro Walete para EMG* <a name="id6"></a>
 
 #### 4.2.1. Filtro Walete 
 
@@ -81,7 +89,6 @@ Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer característ
 
 ### *5.3. Resultado de señal filtrada con filtro Walete para EEG* <a name="id11"></a>
 
-
 |  **Campo**  | **Señal cruda** | **Señal filtrada ** |  
 |:------------:|:---------------:|:------------:
 |REPOSO | -------| ---------
@@ -101,3 +108,4 @@ Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer característ
 
 
 ## *7. Bibliografia* <a name="id13"></a>
+[1] Samir Kouro R, Rodrigo Musalem M. "Tutorial introductorio a la Teoróa de Wavelet".2002. Available: http://www2.elo.utfsm.cl/~elo377/documentos/Wavelet.pdf
