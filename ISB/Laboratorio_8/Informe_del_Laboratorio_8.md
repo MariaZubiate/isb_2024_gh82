@@ -65,17 +65,17 @@ Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer característ
 
 ## *4. Metodologia* <a name="id4"></a>
 
-### *4.1. Generar filtro Walete para ECG* <a name="id5"></a>
+### *4.1. Generar filtro Wavelet para ECG* <a name="id5"></a>
 
 
 
-### *4.2. Generar filtro Walete para EMG* <a name="id6"></a>
+### *4.2. Generar filtro Wavelet para EMG* <a name="id6"></a>
 Para realizar el filtrado se tomó en cuenta el artículo "Non-invasive detection of low-level muscle fatigue using surface EMG with wavelet decomposition", de donde se obtuvo la elección de la familia, niveles de descomposición y coeficientes necesarios a utilizar.
 Se usó la función Wavelet Sym8, debido a que con ello obtuvieron un rendimiento superior a comparación de los demás Symmlets. Asimismo, utilizaron 9 niveles de descomposición. Y para el posprocesamiento, debido al bajo contenido de potencia y la presencia de artefactos de baja frecuencia como artefactos de movimiento, se eliminaron los niveles 1, 8 y 9; quedándose solo con los  niveles de la siguiente tabla [1J].
 
 ![Captura de pantalla 2024-05-17 180143](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/4a548785-5ac7-4b82-9574-9db7e11d3f95)
 
-### *4.3. Generar filtro Walete para EEG* <a name="id7"></a>
+### *4.3. Generar filtro Wavelet para EEG* <a name="id7"></a>
 Para la elaboración de este filtro se tomo en cuenta el artículo "Ocular Artifact Removal Method Based on the Wavelet and ICA Transform" Este nos permitio poder escoger la familia, el nivel de descomposición y los coeficientes necesarios para realizar el filtro Wavelet[1M]. 
 
 En este caso se usaran los siguientes parametros:
@@ -83,10 +83,6 @@ En este caso se usaran los siguientes parametros:
 1. Se utilizara el wavelets Symlet por ser casi simétrica, ortogonal y adecuada para la eliminación de artefactos oculares. Por ellos posee una alta correlación con los artefactos de parpadeo, lo que permite una eliminación eficaz de estos artefactos sin afectar significativamente nuestras señales.
 2. El nivel de descomposición sera de 8 lo cual permite descomponer la señal en componentes y aproximados en diferentes escalas de tiempo. Con ello podremos identificar y eliminar artefactos en en bandas de frecuencia que deseamos.Como son los artefactos de parpadeo que se encuentran en la banda de 0.5 a 3.5Hz
 3. Se eliminara los coeficientes D1 y D8, así como el coeficiente de aproximación A8 debido a que contiene componentes de artefactos oculares, segun el artículo.
-
-
-
-
 
 ## *5. Resultados* <a name="id8"></a>
 
