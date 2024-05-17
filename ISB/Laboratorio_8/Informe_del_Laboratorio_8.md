@@ -70,13 +70,10 @@ Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer característ
 
 
 ### *4.2. Generar filtro Walete para EMG* <a name="id6"></a>
-Para realizar el filtrado se tomó en cuenta el artículo "Non-invasive detection of low-level muscle fatigue using surface EMG with wavelet decomposition", de donde se obtuvo la elección de la familia, niveles de descomposición y coeficientes necesarios a utilizar [1J].
-Se usó la función Wavelet Sym8, debido a que con ello obtuvieron un rendimiento superior a comparación de los demás Symmlets. Asimismo, utilizaron 9 niveles de descomposición. Y para el posprocesamiento, debido al bajo contenido de potencia y la presencia de artefactos de baja frecuencia como artefactos de movimiento, se eliminaron los niveles 1, 8 y 9; quedándose solo con los  niveles de la siguiente tabla.
+Para realizar el filtrado se tomó en cuenta el artículo "Non-invasive detection of low-level muscle fatigue using surface EMG with wavelet decomposition", de donde se obtuvo la elección de la familia, niveles de descomposición y coeficientes necesarios a utilizar.
+Se usó la función Wavelet Sym8, debido a que con ello obtuvieron un rendimiento superior a comparación de los demás Symmlets. Asimismo, utilizaron 9 niveles de descomposición. Y para el posprocesamiento, debido al bajo contenido de potencia y la presencia de artefactos de baja frecuencia como artefactos de movimiento, se eliminaron los niveles 1, 8 y 9; quedándose solo con los  niveles de la siguiente tabla [1J].
 
 ![Captura de pantalla 2024-05-17 180143](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/4a548785-5ac7-4b82-9574-9db7e11d3f95)
-
-
-
 
 ### *4.3. Generar filtro Walete para EEG* <a name="id7"></a>
 Para la elaboración de este filtro se tomo en cuenta el artículo "Ocular Artifact Removal Method Based on the Wavelet and ICA Transform" Este nos permitio poder escoger la familia, el nivel de descomposición y los coeficientes necesarios para realizar el filtro Wavelet[1M]. 
@@ -97,7 +94,7 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 
 ### *5.1. Resultado de señal filtrada con filtro Walete para ECG* <a name="id9"></a>
 
-|  **Campo**  |  **Señal cruda** | **Señal filtrada ** |  
+|  **Campo**  |  **Señal cruda** | **Señal filtrada** |  
 |:------------:|:---------------:|:------------:
 |BASAL |![descarga (20)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/81677ad1-ccd6-474e-ac63-8acddc17fd10)| ---------
 |FFTS EN BASAL |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/9cb53059-f74e-4523-9aa2-3e66c824a403)| ---------  
@@ -110,15 +107,14 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 
 ### *5.2. Resultado de señal filtrada con filtro Walete para EMG* <a name="id10"></a>
 
-|  **Campo**  |  **Señal cruda** | **Señal filtrada ** |  
+|  **Campo**  |  **Señal cruda** | **Señal filtrada** |  
 |:------------:|:---------------:|:------------:|
-|REPOSO |![Captura de pantalla 2024-05-17 171040](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/740d8f6a-efc7-43d2-b61e-2f3aa527c28d)|![Captura de pantalla 2024-05-17 171134](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/33b9b5c8-5c57-4a58-8714-629012415493)|
-|FFTS EN REPOSO |![Captura de pantalla 2024-05-17 171214](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/c8338412-4213-4b6e-bfad-ed6b4e6aa802)|![Captura de pantalla 2024-05-17 171303](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/21469270-1eaa-4897-92e5-25717d481c19)|
-|FLEXIÓN |![Captura de pantalla 2024-05-17 172443](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9c8d1fca-d2da-48a3-976f-840a734c5133)|![Captura de pantalla 2024-05-17 172539](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/eb405299-e56b-44ad-bdc0-4e7d7acf40d7)|
-|FFTS PARA FLEXIÓN |![Captura de pantalla 2024-05-17 172822](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/eaaa3aab-0129-4fb3-ab3c-f89595d15bae)|![Captura de pantalla 2024-05-17 172911](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/8a8c27ca-4886-4314-99e9-3e5a31fadfe8)|
-|CONTRAFUERZA |![Captura de pantalla 2024-05-17 173133](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/caacaba1-fcd5-4b93-bfa0-f6f02e38c613)|![Captura de pantalla 2024-05-17 173234](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e877defd-8493-4284-8694-c8556407df13)|
-|FFTS CONTRAFUERZA |![Captura de pantalla 2024-05-17 173312](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/4f56e4f4-d6b1-46bc-b970-fe9f01d7a108)|![Captura de pantalla 2024-05-17 173343](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/567ade13-a90b-43ed-a7aa-a4988df73767)|
-
+|REPOSO |![Captura de pantalla 2024-05-17 180251](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/d06ebc6e-afe8-4a94-8a61-36c8f438cd19)|![Captura de pantalla 2024-05-17 180432](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/651a07f2-b618-40b2-983c-0b8f246a783a)|
+|FFTS EN REPOSO |![Captura de pantalla 2024-05-17 180501](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/69900781-f7cf-459d-b199-62f6001a165d)|![Captura de pantalla 2024-05-17 180525](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/86a6a634-185a-4d10-b6cb-a1fbff9abbae)|
+|FLEXIÓN |![Captura de pantalla 2024-05-17 181030](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/aedb92be-4333-4aa2-8752-c0ddfc640a87)|![Captura de pantalla 2024-05-17 181057](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/b0b50d0c-1ec6-4dc6-a98e-3e4889a5df0d)|
+|FFTS PARA FLEXIÓN |![Captura de pantalla 2024-05-17 180607](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1034de8-01f4-4e40-9892-a3d54941f2a5)|![Captura de pantalla 2024-05-17 180638](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/1cc8424d-7cf0-4d40-8771-4bc4db185843)|
+|CONTRAFUERZA |![Captura de pantalla 2024-05-17 181350](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/3ff9322e-2a95-4af8-a30d-96ba5a5bdb6d)|![Captura de pantalla 2024-05-17 181414](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/00203b3b-cb4f-42b5-ac8b-ac1085828a72)|
+|FFTS CONTRAFUERZA |![Captura de pantalla 2024-05-17 180712](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/843027f0-270c-4385-ae0b-0a82d806fe10)|![Captura de pantalla 2024-05-17 180733](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/90b38afc-d934-4e67-b164-bec727191764)|
 
 ### *5.3. Resultado de señal filtrada con filtro Walete para EEG* <a name="id11"></a>
 
