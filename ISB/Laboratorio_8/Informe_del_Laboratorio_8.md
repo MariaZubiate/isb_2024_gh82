@@ -129,7 +129,9 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 
 
 ## *6. Conclusiones* <a name="id12"></a>
-
+ECG
+EMG
+En nuestro procesado de señales EEG, 
 
 
 ## *7. Bibliografia* <a name="id13"></a>
