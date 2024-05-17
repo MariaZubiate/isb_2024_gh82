@@ -120,15 +120,10 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 
 |  **Campo**  | **Señal cruda** | **Post Filtrado Wavelet** |  
 |:------------:|:---------------:|:------------:
-|REPOSO | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3cdcd4b2-5044-40db-901c-0ffc6681cdd5)|![descarga (24)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a04e136c-3a8d-4368-b2dc-a68b64ae817a)|
-
-|PARPADEO |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/999f8e54-e518-4279-bcda-4034d63fa96e)| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/23028e8f-e64b-4a04-9b00-909c7fed1d34)
-|       |![descarga (5)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/579bde96-5db5-47f2-b4e8-d88fe0843fd7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/65874fb0-4bed-4a5e-9837-12cb504c5e76)
-|REPOSO DESPUES DEL PARPADEO| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5eb427eb-cc41-48f1-a77b-a583dc587240)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/374bb29e-a069-44d6-8583-90f8c728a82c)
-|    | ![descarga (6)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8228f968-755c-44a7-9725-532f70311187) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/62aa61de-f586-4d3a-83c7-bf2038629b40)
-|RESOLUCIÓN MENTAL DE EJERCICIO DE MATEMATICAS|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a92defc5-6f50-4fc3-a07d-b31dae541698)| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/6dee0631-2d53-42b7-924d-2b35c7e27ee6)
-|      | ![descarga (7)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/0552020e-a55e-47d9-9b1e-e872b3216ac1)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/b3b446e4-4987-44cc-abde-72173160bb03)
-
+|REPOSO|![descarga (24)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a04e136c-3a8d-4368-b2dc-a68b64ae817a)|
+|EJERCICIO DE PARPADEO |![descarga (25)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/c0a2690a-9870-414c-b6cf-fd186c5fbd74)|
+|REPOSO LUEGO DEL PARPADEO|![descarga (26)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/aa00bf61-5d85-45ba-a48a-ba1dff3d3152)|
+|RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS |![descarga (27)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a6c35a6c-756f-414f-84e1-bf424f753281)|
 
 
 
