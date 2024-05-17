@@ -108,8 +108,8 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 
 |  **Campo**  |  **Señal cruda** | **Señal filtrada ** |  
 |:------------:|:---------------:|:------------:
-|REPOSO |![Captura de pantalla 2024-05-04 163706](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/161761df-f746-4a7b-be6a-45a583bf073a)| ---------
-|FFTS EN REPOSO |![Captura de pantalla 2024-05-04 165546](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/083e4128-2e7f-45eb-a885-aa00f8c2def3)| ---------  
+|REPOSO |![Captura de pantalla 2024-05-17 171040](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/740d8f6a-efc7-43d2-b61e-2f3aa527c28d)|![Captura de pantalla 2024-05-17 171134](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/33b9b5c8-5c57-4a58-8714-629012415493)|
+|FFTS EN REPOSO |![Captura de pantalla 2024-05-17 171214](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/c8338412-4213-4b6e-bfad-ed6b4e6aa802)|![Captura de pantalla 2024-05-17 171303](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/21469270-1eaa-4897-92e5-25717d481c19)|
 |FLEXIÓN | ![Captura de pantalla 2024-05-04 172935](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1116ccf-37ba-4d18-b726-19fdd4f948d5)| ---------
 |FFTS PARA FLEXIÓN |![Captura de pantalla 2024-05-04 173201](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/085fd781-2ce0-4b6f-a08e-b05a43a87e14)| ---------   
 |CONTRAFUERZA | ![Captura de pantalla 2024-05-04 225121](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/b90adc10-e045-42c7-98aa-5fa5b1111199) | ---------  
