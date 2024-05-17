@@ -110,8 +110,8 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 |:------------:|:---------------:|:------------:
 |REPOSO |![Captura de pantalla 2024-05-17 171040](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/740d8f6a-efc7-43d2-b61e-2f3aa527c28d)|![Captura de pantalla 2024-05-17 171134](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/33b9b5c8-5c57-4a58-8714-629012415493)|
 |FFTS EN REPOSO |![Captura de pantalla 2024-05-17 171214](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/c8338412-4213-4b6e-bfad-ed6b4e6aa802)|![Captura de pantalla 2024-05-17 171303](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/21469270-1eaa-4897-92e5-25717d481c19)|
-|FLEXIÓN | ![Captura de pantalla 2024-05-04 172935](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/e1116ccf-37ba-4d18-b726-19fdd4f948d5)| ---------
-|FFTS PARA FLEXIÓN |![Captura de pantalla 2024-05-04 173201](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/085fd781-2ce0-4b6f-a08e-b05a43a87e14)| ---------   
+|FLEXIÓN |![Captura de pantalla 2024-05-17 172443](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9c8d1fca-d2da-48a3-976f-840a734c5133)|![Captura de pantalla 2024-05-17 172539](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/eb405299-e56b-44ad-bdc0-4e7d7acf40d7)|
+|FFTS PARA FLEXIÓN |![Captura de pantalla 2024-05-17 172822](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/eaaa3aab-0129-4fb3-ab3c-f89595d15bae)|![Captura de pantalla 2024-05-17 172911](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/8a8c27ca-4886-4314-99e9-3e5a31fadfe8)|
 |CONTRAFUERZA | ![Captura de pantalla 2024-05-04 225121](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/b90adc10-e045-42c7-98aa-5fa5b1111199) | ---------  
 |FFTS CONTRAFUERZA |![Captura de pantalla 2024-05-04 225256](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0ab9aa19-2850-4731-8d84-6080f9511dc7) | ---------
 
