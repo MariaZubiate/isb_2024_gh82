@@ -70,6 +70,10 @@ Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer característ
 
 
 ### *4.2. Generar filtro Walete para EMG* <a name="id6"></a>
+Para realizar el filtrado se tomó en cuenta el artículo "Non-invasive detection of low-level muscle fatigue using surface EMG with wavelet decomposition", de donde se obtuvo la elección de la familia, niveles de descomposición y coeficientes necesarios a utilizar [1J].
+Se usó la función Wavelet Sym8, debido a que con ello obtuvieron un rendimiento superior a comparación de los demás Symmlets. Asimismo, utilizaron 9 niveles de descomposición. Y para el posprocesamiento, debido al bajo contenido de potencia y la presencia de artefactos de baja frecuencia como artefactos de movimiento, se eliminaron los niveles 1, 8 y 9; quedándose solo con los  niveles de la siguiente tabla.
+
+![Captura de pantalla 2024-05-17 180143](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/4a548785-5ac7-4b82-9574-9db7e11d3f95)
 
 
 
