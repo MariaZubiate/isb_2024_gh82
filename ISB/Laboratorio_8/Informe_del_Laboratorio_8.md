@@ -123,7 +123,7 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 |RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS |![descarga (27)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a6c35a6c-756f-414f-84e1-bf424f753281)|
 
 
-A continuación se mostrará un ejemplo de la obtención de los niveles obtenidos para una de las señales. En este caso, se tomó como ejemplo la Señal EMG en Contrafuerza:
+A continuación se mostrará un ejemplo de la obtención de los niveles obtenidos para una de las señales. En este caso, se tomó como ejemplo la Señal EMG en Contrafuerza, teniendo en cuenta 9 niveles:
 
 ![Captura de pantalla 2024-05-17 184437](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/c50d7965-c8dd-4bbe-aabb-bd426eea5bee)
 
