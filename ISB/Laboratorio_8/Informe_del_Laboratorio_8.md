@@ -16,9 +16,9 @@
      4.2 [Generar filtro Wavelet para EMG](#id6)\
      4.3 [Generar filtro Wavelet para EEG](#id7)
 5. [Resultados](#id8)\
-     5.1 [Resultado de señal filtrada con filtro Walete para ECG](#id9)\
-     5.2 [Resultado de señal filtrada con filtro Walete para EMG](#id10)\
-     5.3 [Resultado de señal filtrada con filtro Walete para EEG](#id11)
+     5.1 [Resultado de señal filtrada con filtro Wavelet para ECG](#id9)\
+     5.2 [Resultado de señal filtrada con filtro Wavelet para EMG](#id10)\
+     5.3 [Resultado de señal filtrada con filtro Wavelet para EEG](#id11)
 7. [Conclusiones](#id12)
 8. [Bibliografia](#id13)
    
