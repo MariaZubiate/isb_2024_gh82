@@ -34,7 +34,24 @@ Un filtro Wavelet es una herramienta utilizada en el procesamiento de señales q
 Figura 1. Esquema de la Transformada Wavelet[1]
 </p>
 
+Los filtros wavelet pertenecer a diversas familias que se distinguen por sus propiedades matemáticas y aplicaciones específicas. Algunas de ellas son[2]:
 
+1. Vavelets de Haar:
+   Este es el wavelet más simple y primera en ser introducida, se caracteriza por su forma        escalonada, ideal para aplicaciones simples de compresión y procesamiento de señales. Con      propiedades ortogonales y simetricas
+
+2. Wavelets de Daubechies:
+   Estas tienen una longitud de soporte compacta y una alta regularidad. Se denominan             comúnmente como DN, donde N indica el número de coeficientes. Utilizadas en aplicaciones       que requieren una alta precisión en la reconstrucción de la señal.
+
+3. Wavelets de Coiflet:
+   Tiene  buenas propiedades de localización en el dominio del tiempo y frecuencia. Adecuadas     para el análisis multirresolución y aplicaciones de compresión de imagenes.
+
+4. Wavelets de }Symlet:
+   Es una modificacion de las wavelets de Daubechies para mejorar la simetría. Manteniendo las    propiedades de ortogonalidad y longitud de soporte compacta.
+
+5. Wavelets B-Spline:
+   Estas son usadas en gráficos computacionales y procesamiento de imágenes. Ofreciendo una       buena representación suave de la señal.
+
+Los niveles de descomposición en la transfomración wavelet determinan la cantidad de detalle que se puede extraer de una señal. Cada nivel representa una escala diferente de la señal orginal. Cada nivel proporciona una descomposición más detallada de la señal. La señal se analiza en bandas de frecuencia cada vez más bajas, lo que permite visualizar mejor la señal[2].
 
 ## *2. Objetivos* <a name="id2"></a>
 
@@ -124,6 +141,6 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 ## *7. Bibliografia* <a name="id13"></a>
 [1] Samir Kouro R, Rodrigo Musalem M. "Tutorial introductorio a la Teoróa de Wavelet".2002. Available: http://www2.elo.utfsm.cl/~elo377/documentos/Wavelet.pdf
 
-
+[2] Daubechies. "Ten Lectures of Wavelets". 1992. Available: https://jqichina.wordpress.com/wp-content/uploads/2012/02/ten-lectures-of-waveletsefbc88e5b08fe6b3a2e58d81e8aeb2efbc891.pdf
 
 [1M] E. Erkan y Y. Erkan, "Ocular Artifact Removal Method Based on the Wavelet and ICA Transform," Chaos Theory and Applications, vol. 5, no. 2, pp. 111-117, 2023, doi: 10.51537/chaos.1268949. Available: https://dergipark.org.tr/en/download/article-file/3026859
