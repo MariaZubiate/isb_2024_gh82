@@ -118,10 +118,10 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 
 ### *5.3. Resultado de señal filtrada con filtro Walete para EEG* <a name="id11"></a>
 
-|  **Campo**  | **Señal cruda** | **Señal filtrada ** |  
+|  **Campo**  | **Señal cruda** | **Post Filtrado Wavelet** |  
 |:------------:|:---------------:|:------------:
-|REPOSO | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3cdcd4b2-5044-40db-901c-0ffc6681cdd5)| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/0b8830a8-0e1e-47b0-a374-d2087356d02b)
-|      |![descarga (4)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/69ad7621-c340-4797-9c4e-3596f8ef7a5b)| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/f42ceb2b-ce41-4ec9-af23-fbccf4665687)
+|REPOSO | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3cdcd4b2-5044-40db-901c-0ffc6681cdd5)|![descarga (24)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a04e136c-3a8d-4368-b2dc-a68b64ae817a)|
+
 |PARPADEO |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/999f8e54-e518-4279-bcda-4034d63fa96e)| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/23028e8f-e64b-4a04-9b00-909c7fed1d34)
 |       |![descarga (5)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/579bde96-5db5-47f2-b4e8-d88fe0843fd7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/65874fb0-4bed-4a5e-9837-12cb504c5e76)
 |REPOSO DESPUES DEL PARPADEO| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5eb427eb-cc41-48f1-a77b-a583dc587240)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/374bb29e-a069-44d6-8583-90f8c728a82c)
