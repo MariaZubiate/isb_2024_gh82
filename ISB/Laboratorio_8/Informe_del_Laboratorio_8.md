@@ -12,9 +12,9 @@
 2. [Objetivos](#id2)
 3. [Materiales y equipos](#id3)
 4. [Metodologia](#id4)\
-     4.1 [Generar filtro Walete para ECG](#id5)\
-     4.2 [Generar filtro Walete para EMG](#id6)\
-     4.3 [Generar filtro Walete para EEG](#id7)
+     4.1 [Generar filtro Wavelet para ECG](#id5)\
+     4.2 [Generar filtro Wavelet para EMG](#id6)\
+     4.3 [Generar filtro Wavelet para EEG](#id7)
 5. [Resultados](#id8)\
      5.1 [Resultado de señal filtrada con filtro Walete para ECG](#id9)\
      5.2 [Resultado de señal filtrada con filtro Walete para EMG](#id10)\
