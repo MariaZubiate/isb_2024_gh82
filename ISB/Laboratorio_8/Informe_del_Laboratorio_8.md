@@ -66,17 +66,17 @@ Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer característ
 ## *4. Metodologia* <a name="id4"></a>
 
 ### *4.1. Generar filtro Wavelet para ECG* <a name="id5"></a>
-
+Cita [3]
 
 
 ### *4.2. Generar filtro Wavelet para EMG* <a name="id6"></a>
 Para realizar el filtrado se tomó en cuenta el artículo "Non-invasive detection of low-level muscle fatigue using surface EMG with wavelet decomposition", de donde se obtuvo la elección de la familia, niveles de descomposición y coeficientes necesarios a utilizar.
-Se usó la función Wavelet Sym8, debido a que con ello obtuvieron un rendimiento superior a comparación de los demás Symmlets. Asimismo, utilizaron 9 niveles de descomposición. Y para el posprocesamiento, debido al bajo contenido de potencia y la presencia de artefactos de baja frecuencia como artefactos de movimiento, se eliminaron los niveles 1, 8 y 9; quedándose solo con los  niveles de la siguiente tabla [1J].
+Se usó la función Wavelet Sym8, debido a que con ello obtuvieron un rendimiento superior a comparación de los demás Symmlets. Asimismo, utilizaron 9 niveles de descomposición. Y para el posprocesamiento, debido al bajo contenido de potencia y la presencia de artefactos de baja frecuencia como artefactos de movimiento, se eliminaron los niveles 1, 8 y 9; quedándose solo con los  niveles de la siguiente tabla [4].
 
 ![Captura de pantalla 2024-05-17 180143](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/4a548785-5ac7-4b82-9574-9db7e11d3f95)
 
 ### *4.3. Generar filtro Wavelet para EEG* <a name="id7"></a>
-Para la elaboración de este filtro se tomo en cuenta el artículo "Ocular Artifact Removal Method Based on the Wavelet and ICA Transform" Este nos permitio poder escoger la familia, el nivel de descomposición y los coeficientes necesarios para realizar el filtro Wavelet[1M]. 
+Para la elaboración de este filtro se tomo en cuenta el artículo "Ocular Artifact Removal Method Based on the Wavelet and ICA Transform" Este nos permitio poder escoger la familia, el nivel de descomposición y los coeficientes necesarios para realizar el filtro Wavelet[5]. 
 
 En este caso se usaran los siguientes parametros:
 
@@ -135,4 +135,8 @@ En nuestro procesado de señales EEG,
 
 [2] Daubechies. "Ten Lectures of Wavelets". 1992. Available: https://jqichina.wordpress.com/wp-content/uploads/2012/02/ten-lectures-of-waveletsefbc88e5b08fe6b3a2e58d81e8aeb2efbc891.pdf
 
-[1M] E. Erkan y Y. Erkan, "Ocular Artifact Removal Method Based on the Wavelet and ICA Transform," Chaos Theory and Applications, vol. 5, no. 2, pp. 111-117, 2023, doi: 10.51537/chaos.1268949. Available: https://dergipark.org.tr/en/download/article-file/3026859
+[3] 
+
+[4] G. Zhang, E. Morin, Y. Zhang, and S. Ali Etemad, “Non-invasive detection of low-level muscle fatigue using surface EMG with wavelet decomposition,” PubMed, Jul. 2018, doi: https://doi.org/10.1109/embc.2018.8513588.
+‌
+[5] E. Erkan y Y. Erkan, "Ocular Artifact Removal Method Based on the Wavelet and ICA Transform," Chaos Theory and Applications, vol. 5, no. 2, pp. 111-117, 2023, doi: 10.51537/chaos.1268949. Available: https://dergipark.org.tr/en/download/article-file/3026859
