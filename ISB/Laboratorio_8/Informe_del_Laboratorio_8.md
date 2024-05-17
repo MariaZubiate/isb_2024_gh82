@@ -19,6 +19,7 @@
      5.1 [Resultado de señal filtrada con filtro Wavelet para ECG](#id9)\
      5.2 [Resultado de señal filtrada con filtro Wavelet para EMG](#id10)\
      5.3 [Resultado de señal filtrada con filtro Wavelet para EEG](#id11)
+   
 7. [Conclusiones](#id12)
 8. [Bibliografia](#id13)
    
@@ -122,6 +123,8 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 |RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS |![descarga (27)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a6c35a6c-756f-414f-84e1-bf424f753281)|
 
 
+A continuación se mostrará un ejemplo de la obtención de los niveles obtenidos para una de las señales. En este caso, se tomó como ejemplo la Señal EMG en Reposo:
+![Captura de pantalla 2024-05-17 184437](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/c50d7965-c8dd-4bbe-aabb-bd426eea5bee)
 
 
 ## *6. Conclusiones* <a name="id12"></a>
