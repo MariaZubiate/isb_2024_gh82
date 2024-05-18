@@ -99,23 +99,29 @@ Se utilizará un equipo diseñado para el análisis de EMG, que incluye un senso
 
 1.1. MyoWare
 
-
-Figura 1. Myoware Fuente: MyoWare™ Muscle Sensor
+<p align="center">
+  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/87648a32-f51a-4f14-8ef4-fb4b0ab7265e" alt="Myoware Sensor">
+</p>
+<p align="center">Figura 1. Myoware Fuente: MyoWare™ Muscle Sensor</p>
 
 Este sensor está diseñado específicamente para la detección de señales EMG con alta precisión, lo que permite obtener datos fiables y detallados sobre la actividad muscular. Además, el dispositivo es compacto y fácil de usar, lo que minimiza la incomodidad para los participantes durante las pruebas [4]. 
 
 1.2. ESP32-WROOM32
 
-
-Figura 2. ESP32-WROOM-32 Fuente: SUNHokey
+<p align="center">
+  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/65d71517-3802-4521-b68d-7dd3babc229b" alt="ESP32-WROOM-32">
+</p>
+<p align="center">Figura 2. ESP32-WROOM-32 Fuente: SUNHokey</p>
 
 Debido a que el MyoWare no posee un módulo que permita pasar la información mediante una red inalámbrica, decidimos conectar un ESP32, con el fin de poder resolver esta problemática. Este módulo nos permitirá, recepcionar la data leída por el Myoware y enviarla a una computadora. 
 Este componente es ideal, debido a que puede procesar datos en tiempo real, facilitando el análisis [5].
 
 1.3. Batería de Litio 3.7V
 
-
-Figura 1. Batería de Litio Fuente: SUNHokey
+<p align="center">
+  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/79e3374b-42a8-4e1b-9363-ca86c766a668" alt="Batería de Litio">
+</p>
+<p align="center">Figura 3. Batería de Litio Fuente: Amazon</p>
 
 Utilizaremos una batería de litio de 3.7V y 600mAh para la alimentación de nuestros componentes. Elegimos esta batería debido a su capacidad de 600mAh, que es suficiente para mantener nuestro sistema operando durante varias horas. Además, su tamaño compacto la hace ideal para nuestra propuesta, asegurando una integración sin complicaciones y manteniendo el dispositivo ligero y fácil de manejar [6].
 
