@@ -113,6 +113,11 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 |CONTRAFUERZA |![Captura de pantalla 2024-05-17 181350](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/3ff9322e-2a95-4af8-a30d-96ba5a5bdb6d)|![Captura de pantalla 2024-05-17 181414](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/00203b3b-cb4f-42b5-ac8b-ac1085828a72)|
 |FFTS CONTRAFUERZA |![Captura de pantalla 2024-05-17 180712](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/843027f0-270c-4385-ae0b-0a82d806fe10)|![Captura de pantalla 2024-05-17 180733](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/90b38afc-d934-4e67-b164-bec727191764)|
 
+Análisis:
+
+En el caso de Reposo, en el espectro se visualizan 4 picos principales en: cerca a 0Hz, 60Hz, 200Hz y 400Hz. Luego del filtrado, se observa que el pico en 400Hz y las frecuencias por encima de este valor, están atenuadas completamente. Lo mismo que sucede con el pico cercano a 0Hz. De manera similar se presenta para el caso de Flexión; luego del filtrado, el pico de 400Hz se atenúa al igual que las frecuencias por encima de este. En el caso de Contrafuerza, en el espectro de la señal original solo se observa un pico cercano a 0Hz, el cual se ve atenuado casi en su totalidad luego del filtrado. De ello, se puede determinar que con el tipo de Wavelet usado, se logran atenuar las interferencias de altas y bajas frecuencias; esto debido a que según el estudio, recomendaba eliminar los coeficientes de detalle del primer y último nivel; tal como se muestra en la tabla 1 del artículo, donde se presencia que para el método propuesto a usar, solo era conveniente quedarse con los niveles 2-7 que corresponden a frecuencias entre 7.8Hz y 500Hz. Lo cual concuerda con la literatura sobre EMG, ya que las frecuencias principales para analizar oscilan entre el rango de 20Hz-500Hz [].
+
+
 ### *5.3. Resultado de señal filtrada con filtro Wavelet para EEG* <a name="id11"></a>
 
 
