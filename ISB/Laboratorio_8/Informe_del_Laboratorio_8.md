@@ -92,13 +92,13 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 
 |  **Campo**  |  **Señal cruda** | **Señal filtrada** |  
 |:------------:|:---------------:|:------------:
-|BASAL|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/0ecbdc0b-81ce-4433-8f35-cb51b049f907)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/6e087175-54a7-47bf-83bd-1133a7761d7e)
+|BASAL|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/fa676f4a-2e7d-4a25-8e91-a26439469240)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/bfcbfa5d-f0f2-4f98-a2b3-b010797fe6a6)
 |FFTS EN BASAL|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/6fa7fdc3-9c6e-45cd-80dc-913647971f98)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/4f99ab33-920c-451b-804d-072e60b8367e)
-|RESPIRACIÓN|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/76799d56-03e5-4de9-8a2e-f1632c4c5c38)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/8f5eb3c8-8e21-4b5c-b546-69df59cbcf8b)
+|RESPIRACIÓN|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/a2bb01b2-3122-4be2-8d02-9a402836b121)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/c3666485-17c8-4e26-96d9-8772e889b000)
 |FFTS PARA RESPIRACIÓN|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/0f356748-c6de-4126-a2b5-894975c3faf0)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/07b596bb-fdfc-41ca-be10-3083e152d781)
-|POST-EJERCICIO|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/854a1351-8a49-4b4c-864a-e124e921eecc)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/fc2cddf0-bac6-452b-b1f5-f6ef684b44ca)
+|POST-EJERCICIO|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/a0ec22ba-b668-45ea-845b-f1f68ac800b5)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/36dc9c60-53f9-4d32-9b14-9be95a752f43)
 |FFTS POST-EJERCICIO|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/9fb0653b-22bb-4e6b-b5b6-e26fff313096)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/8f2afe92-2027-4984-86c7-7c648a5ee0ef)
-|RESPIRACIÓN PROFUNDA POST-EJERCICIO|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/84f637fc-670d-4fc2-abcc-a3d5922edcd1)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/aa8d0437-3149-429e-a674-a38817d6ab25)
+|RESPIRACIÓN PROFUNDA POST-EJERCICIO|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/18815d7a-ae32-4057-907d-d3f3d0051dd5)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/a0010742-e2e9-47c5-9d7d-fec06cb0d574)
 |FFTS RESPIRACIÓN PROFUNDA POST-EJERCICIO|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/09623992-35e6-45bd-bb43-30ac58db40c3)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/2744d0c0-1065-4da2-a7bb-bbf2bc6d5c60)
 
 
