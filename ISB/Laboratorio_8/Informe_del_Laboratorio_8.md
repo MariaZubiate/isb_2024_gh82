@@ -116,16 +116,50 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 ### *5.3. Resultado de señal filtrada con filtro Wavelet para EEG* <a name="id11"></a>
 
 
-|  **Campo**  |  **Señal cruda** | **Señal filtrada por Wavelet** |  **Descripción** |
+|  **Campo**  |  **Señal cruda** | **Señal filtrada por Wavelet** |
 |:------------:|:---------------:|:------------:|:------------:|
-|REPOSO |![descarga (28)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/9592f000-7a45-45b4-aade-b5280910f64b)| ![descarga (36)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/b46b82ea-223a-4d64-985c-9081820bae87)|Amplitud de señal original: ±1500 mV, amplitud de señal filtrada: ±500 mV, amplitud del ruido eliminado: ±200 mV |
-|FFTS EN REPOSO |![descarga (29)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/51a91047-e409-47a4-9817-d5f3597f2ecb)|![descarga (37)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/e7e7a4e0-361c-4c74-b748-e1d1314507e7)|*FFT señal original: Pico principal en 0 Hz con una magnitud de aproximadamente 2.8e6. La presencia de un pico dominante en 0 Hz indica componentes de muy baja frecuencia, típicamente asociadas con el ruido de corriente continua (DC) o artefactos de baja frecuencia. **FFT Señal Filtrada: Pico principal en 0 Hz con una magnitud reducida a aproximadamente 2.2e6. La reducción del pico en un 21.4% sugiere una atenuación efectiva del ruido de baja frecuencia sin afectar significativamente las componentes de la señal EEG relevante. Los componentes de alta frecuencia (por encima de ~30 Hz) son notablemente atenuados, indicando una reducción efectiva del ruido de alta frecuencia.|
-|EJERCICIO DE PARPADEO |![descarga (30)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f04196af-1997-472b-9672-dd03a5f03878)|![descarga (38)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/87ed8b1c-25cf-4608-8045-70086ae4332c)| Amplitud de señal original: ±600 mV, amplitud de señal filtrada: ±200 mV y amplitud del ruido eliminado: ±75 mV|
-|FFTS PARA EJERCICIO DE PARPADEO | ![descarga (31)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/24c15dc5-354d-420b-ae86-899e6f8a0844)|![descarga (39)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6d0d8cf6-b680-4f6e-bac3-0b2afcb8f969)| *FFT señal original: Pico principal en 0 Hz con una magnitud de aproximadamente 5e5. Picos secundarios menores alrededor de 10 Hz a 20 Hz, posiblemente indicando actividad muscular o artefactos de parpadeo. **FFT señal filtrada: Pico principal en 0 Hz con una magnitud reducida a aproximadamente 4.5e5. La reducción del pico en un 10% muestra que parte del ruido de baja frecuencia ha sido atenuado. Picos secundarios aún presentes aunque atenuados, indicando que el artefacto de parpadeo no se ha eliminado completamente con el filtrado wavelet actual. |
-|REPOSO LUEGO DEL PARPADEO | ![descarga (32)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8d18a2fc-741a-4ffb-aed7-fa59f2253b6d)|![descarga (40)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/e281702e-e1c1-443f-96de-29d205be8a07)| Amplitud de señal original: ±1500 mV, amplitud de señal filtrada: ±500 mV y amplitud del ruido eliminado: ±200 mV|
-|FFTS REPOSO LUEGO DEL PARPADEO |![descarga (33)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/68d62c20-2c7a-4727-b962-6526011b20c2)|![descarga (41)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/98be4b60-e3bd-44f8-a0ef-b476f22974c0)| *FFT señal original: Pico principal en 0 Hz con una magnitud de aproximadamente 1.4e6. Presencia de componentes de frecuencia más alta que sugiere algún nivel por actividad muscular o interferencia externa. **FFT señal filtrada: Pico principal en 0 Hz con una magnitud reducida a aproximadamente 1.2e6. La reducción del pico en un 14.3% indica una atenuación efectiva del ruido de baja frecuencia. Las componentes de alta frecuencia están significativamente atenuadas, lo que sugiere que el filtrado wavelet ha eliminado efectivamente el ruido de alta frecuencia.|
-|RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS |![descarga (34)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/33a8e1fc-f2fa-45d3-937b-8cf5d635eed3)|![descarga (42)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8dabeed1-560a-4d34-8bc2-9a045e46799c)|Amplitud de señal original: ±1500 mV, amplitud de señal filtrada: ±500 mV y amplitud del ruido eliminado: ±200 mV |
-|FFTS RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS | ![descarga (35)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/671b7b3a-96b9-4a96-a20b-9a5bcad03689)|![descarga (43)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a4d9cdd4-f52f-4bd8-8398-5729a00b1de9)| *FFT señal original: Pico principal en 0 Hz con una magnitud de aproximadamente 2.4e6. Otros picos menores presentes, indicando actividad cerebral significativa y posiblemente ruido de alta frecuencia. **FFT señal filtrada: Pico principal en 0 Hz con una magnitud reducida a aproximadamente 2.0e6.La reducción del pico en un 16.7% muestra una atenuación efectiva del ruido de baja frecuencia. Los componentes de alta frecuencia están notablemente reducidos, lo que indica que el filtrado wavelet ha sido efectivo en la eliminación del ruido de alta frecuencia.|
+|REPOSO |![descarga (28)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/9592f000-7a45-45b4-aade-b5280910f64b)| ![descarga (36)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/b46b82ea-223a-4d64-985c-9081820bae87)|
+|FFTS EN REPOSO |![descarga (29)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/51a91047-e409-47a4-9817-d5f3597f2ecb)|![descarga (37)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/e7e7a4e0-361c-4c74-b748-e1d1314507e7)|
+|EJERCICIO DE PARPADEO |![descarga (30)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f04196af-1997-472b-9672-dd03a5f03878)|![descarga (38)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/87ed8b1c-25cf-4608-8045-70086ae4332c)|
+|FFTS PARA EJERCICIO DE PARPADEO | ![descarga (31)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/24c15dc5-354d-420b-ae86-899e6f8a0844)|![descarga (39)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6d0d8cf6-b680-4f6e-bac3-0b2afcb8f969)|
+|REPOSO LUEGO DEL PARPADEO | ![descarga (32)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8d18a2fc-741a-4ffb-aed7-fa59f2253b6d)|![descarga (40)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/e281702e-e1c1-443f-96de-29d205be8a07)| 
+|FFTS REPOSO LUEGO DEL PARPADEO |![descarga (33)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/68d62c20-2c7a-4727-b962-6526011b20c2)|![descarga (41)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/98be4b60-e3bd-44f8-a0ef-b476f22974c0)|
+|RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS |![descarga (34)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/33a8e1fc-f2fa-45d3-937b-8cf5d635eed3)|![descarga (42)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8dabeed1-560a-4d34-8bc2-9a045e46799c)|
+|FFTS RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS | ![descarga (35)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/671b7b3a-96b9-4a96-a20b-9a5bcad03689)|![descarga (43)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a4d9cdd4-f52f-4bd8-8398-5729a00b1de9)| 
+
+## *Descripción: Señal orginal vs Señal filtrada por Wavelet
+
+# *Amplitudes del ejercicio en reposo
+Amplitud de señal original: ±1500 mV, amplitud de señal filtrada: ±500 mV y amplitud del ruido eliminado: ±200 mV.
+
+Análisis de las FFT para el ejercicio en reposo:
+
+*FFT señal original: Pico principal en 0 Hz con una magnitud de aproximadamente 2.8e6. La presencia de un pico dominante en 0 Hz indica componentes de muy baja frecuencia, típicamente asociadas con el ruido de corriente continua (DC) o artefactos de baja frecuencia. 
+**FFT señal filtrada: Pico principal en 0 Hz con una magnitud reducida a aproximadamente 2.2e6. La reducción del pico en un 21.4% sugiere una atenuación efectiva del ruido de baja frecuencia sin afectar significativamente las componentes de la señal EEG relevante. Los componentes de alta frecuencia (por encima de ~30 Hz) son notablemente atenuados, indicando una reducción efectiva del ruido de alta frecuencia.|
+
+# *Amplitudes del ejercicio de parpadeo
+Amplitud de señal original: ±600 mV, amplitud de señal filtrada: ±200 mV y amplitud del ruido eliminado: ±75 mV.
+
+Análisis de las FFT para el ejercicio de parpadeo:
+
+*FFT señal original: Pico principal en 0 Hz con una magnitud de aproximadamente 5e5. Picos secundarios menores alrededor de 10 Hz a 20 Hz, posiblemente indicando actividad muscular o artefactos de parpadeo. 
+**FFT señal filtrada: Pico principal en 0 Hz con una magnitud reducida a aproximadamente 4.5e5. La reducción del pico en un 10% muestra que parte del ruido de baja frecuencia ha sido atenuado. Picos secundarios aún presentes aunque atenuados, indicando que el artefacto de parpadeo no se ha eliminado completamente con el filtrado wavelet actual.
+
+# *Amplitudes del reposo luego del parpadeo
+Amplitud de señal original: ±1500 mV, amplitud de señal filtrada: ±500 mV y amplitud del ruido eliminado: ±200 mV.
+
+Análisis de las FFT del reposo luego del parpadeo:
+
+ *FFT señal original: Pico principal en 0 Hz con una magnitud de aproximadamente 1.4e6. Presencia de componentes de frecuencia más alta que sugiere algún nivel por actividad muscular o interferencia externa. 
+ **FFT señal filtrada: Pico principal en 0 Hz con una magnitud reducida a aproximadamente 1.2e6. La reducción del pico en un 14.3% indica una atenuación efectiva del ruido de baja frecuencia. Las componentes de alta frecuencia están significativamente atenuadas, lo que sugiere que el filtrado wavelet ha eliminado efectivamente el ruido de alta frecuencia.
+
+# *Amplitudes de la resolución mental de problemas matemáticos
+Amplitud de señal original: ±1500 mV, amplitud de señal filtrada: ±500 mV y amplitud del ruido eliminado: ±200 mV.
+
+Análisis de las FFT del reposo luego del parpadeo:
+
+*FFT señal original: Pico principal en 0 Hz con una magnitud de aproximadamente 2.4e6. Otros picos menores presentes, indicando actividad cerebral significativa y posiblemente ruido de alta frecuencia. **FFT señal filtrada: Pico principal en 0 Hz con una magnitud reducida a aproximadamente 2.0e6.La reducción del pico en un 16.7% muestra una atenuación efectiva del ruido de baja frecuencia. Los componentes de alta frecuencia están notablemente reducidos, lo que indica que el filtrado wavelet ha sido efectivo en la eliminación del ruido de alta frecuencia.|
+
 
 
 
