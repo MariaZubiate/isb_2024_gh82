@@ -67,7 +67,7 @@ Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer característ
 ## *4. Metodologia* <a name="id4"></a>
 
 ### *4.1. Generar filtro Wavelet para ECG* <a name="id5"></a>
-La wavelet Daubechies (db4) con un nivel de descomposición de 8 proporciona los resultados más eficientes para la clasificación de señales ECG [3].
+La eliminación de ruido en la señal se realiza en dos etapas utilizando la wavelet Daubechies con cuatro momentos de desvanecimiento (db4) y un nivel de descomposición de ocho. Primero, se aplica una técnica de umbralización suave automática para eliminar el ruido de alta frecuencia. Luego, se elimina el ruido de "Baseline wander" (0.15-0.5 Hz) utilizando un filtro de media móvil y suavizado de datos [3].
 
 ### *4.2. Generar filtro Wavelet para EMG* <a name="id6"></a>
 Para realizar el filtrado se tomó en cuenta el artículo "Non-invasive detection of low-level muscle fatigue using surface EMG with wavelet decomposition", de donde se obtuvo la elección de la familia, niveles de descomposición y coeficientes necesarios a utilizar.
