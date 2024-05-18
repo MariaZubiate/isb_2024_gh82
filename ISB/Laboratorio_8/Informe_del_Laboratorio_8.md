@@ -115,12 +115,19 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 
 ### *5.3. Resultado de señal filtrada con filtro Walete para EEG* <a name="id11"></a>
 
-|  **Campo**  | **Señal cruda** | **Post Filtrado Wavelet** |  
-|:------------:|:---------------:|:------------:
-|REPOSO|![descarga (24)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a04e136c-3a8d-4368-b2dc-a68b64ae817a)|
-|EJERCICIO DE PARPADEO |![descarga (25)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/c0a2690a-9870-414c-b6cf-fd186c5fbd74)|
-|REPOSO LUEGO DEL PARPADEO|![descarga (26)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/aa00bf61-5d85-45ba-a48a-ba1dff3d3152)|
-|RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS |![descarga (27)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a6c35a6c-756f-414f-84e1-bf424f753281)|
+|  **Campo**  |  **Señal cruda** | **Señal filtrada** |  
+|:------------:|:---------------:|:------------:|
+|REPOSO |-------|--------|
+|FFTS EN REPOSO |-------|--------|
+|EJERCICIO DE PARPADEO |-------|--------|
+|FFTS PARA EJERCICIO DE PARPADEO |-------|--------|
+|REPOSO LUEGO DEL PARPADEO |-------|--------|
+|FFTS REPOSO LUEGO DEL PARPADEO |-------|--------|
+|RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS |-------|--------|
+|FFTS RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS |-------|--------|
+
+
+
 
 
 A continuación se mostrará un ejemplo de la obtención de los niveles obtenidos para una de las señales. En este caso, se tomó como ejemplo la Señal EMG en Contrafuerza, teniendo en cuenta 9 niveles:
