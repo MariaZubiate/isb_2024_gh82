@@ -117,14 +117,14 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 
 |  **Campo**  |  **Señal cruda** | **Señal filtrada** |  
 |:------------:|:---------------:|:------------:|
-|REPOSO |-------|--------|
-|FFTS EN REPOSO |-------|--------|
-|EJERCICIO DE PARPADEO |-------|--------|
-|FFTS PARA EJERCICIO DE PARPADEO |-------|--------|
-|REPOSO LUEGO DEL PARPADEO |-------|--------|
-|FFTS REPOSO LUEGO DEL PARPADEO |-------|--------|
-|RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS |-------|--------|
-|FFTS RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS |-------|--------|
+|REPOSO |![descarga (28)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/9592f000-7a45-45b4-aade-b5280910f64b)|------|
+|FFTS EN REPOSO |![descarga (29)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/51a91047-e409-47a4-9817-d5f3597f2ecb)|--------|
+|EJERCICIO DE PARPADEO |![descarga (30)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f04196af-1997-472b-9672-dd03a5f03878)|--------|
+|FFTS PARA EJERCICIO DE PARPADEO | ![descarga (31)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/24c15dc5-354d-420b-ae86-899e6f8a0844)|--------|
+|REPOSO LUEGO DEL PARPADEO | ![descarga (32)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8d18a2fc-741a-4ffb-aed7-fa59f2253b6d)|--------|
+|FFTS REPOSO LUEGO DEL PARPADEO |![descarga (33)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/68d62c20-2c7a-4727-b962-6526011b20c2)|--------|
+|RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS |![descarga (34)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/33a8e1fc-f2fa-45d3-937b-8cf5d635eed3)|--------|
+|FFTS RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS | ![descarga (35)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/671b7b3a-96b9-4a96-a20b-9a5bcad03689)|--------|
 
 
 
