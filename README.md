@@ -81,12 +81,13 @@ Con esta información podremos brindar un análisis del rendimiento de los músc
 
 Para ello nuestro diseño se enfocará en cumplir 3 pilares: 
 
-Ergonómico:
+**Ergonómico:**
 Nuestro equipo será diseñado para ser cómodo y adaptarse perfectamente al cuerpo de los jugadores de tenis de mesa. Utilizaremos materiales ligeros y flexibles que no interfieran con el movimiento natural durante los entrenamientos o competencias.
-Inalámbrico:
+
+**Inalámbrico:**
 La transmisión inalámbrica permitirá recibir datos en tiempo real, facilitando el análisis instantáneo y la toma de decisiones durante las sesiones de entrenamiento.
 
-Fácil uso: 
+**Fácil uso:** 
 Facilidad de uso, asegurando que el equipo sea intuitivo y rápido de configurar. La interfaz de usuario será sencilla y accesible, permitiendo a los usuarios comenzar a capturar y analizar datos EMG con mínima capacitación
 
 
