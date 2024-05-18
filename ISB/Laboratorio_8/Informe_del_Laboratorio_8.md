@@ -139,7 +139,7 @@ ECG
 
 EMG
 
-En el filtrado de señales EEG, para los tres experimentos de reposo, reposo luego del parpadeo y la resolución de problemas matemáticos se logró una reducción significativa del ruido y, además, en las componentes de alta frecuencia, lo que demuestra un filtrado selectivo. En el caso del ejercicio de parpadeo, aún se observan picos lo que nos indica es difícil eliminarla por completo con la metodología propuesta. 
+En el filtrado de señales EEG, para los tres experimentos de reposo, reposo luego del parpadeo y la resolución de problemas matemáticos se logró una reducción significativa del ruido(aproximadamente un 67% respecto a la amplitud máxima) y, además, se mantuvieron las componentes en baja frecuencia cruciales para analizar señales EEG, lo que demuestra un filtrado selectivo. En el caso del ejercicio de parpadeo, aún se observan picos lo que nos indica es difícil eliminarla por completo con la metodología propuesta. Para todos los experimentos se obtuvo un promedio de reducción de entre 10%-21% en la amplitud de los picos de la FFT.
 
 
 
