@@ -101,6 +101,11 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 |RESPIRACIÓN PROFUNDA POST-EJERCICIO|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/18815d7a-ae32-4057-907d-d3f3d0051dd5)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/a0010742-e2e9-47c5-9d7d-fec06cb0d574)
 |FFTS RESPIRACIÓN PROFUNDA POST-EJERCICIO|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/09623992-35e6-45bd-bb43-30ac58db40c3)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/2744d0c0-1065-4da2-a7bb-bbf2bc6d5c60)
 
+Análisis:
+
+Las señales ECG presentadas en diferentes condiciones (reposo, respiración profunda antes del ejercicio, después del ejercicio y respiración profunda post-ejercicio) muestran variaciones significativas antes y después del filtrado. Inicialmente, las señales crudas contienen ruido y fluctuaciones en la línea de base que dificultan la identificación clara de las características del ECG, como las ondas P, QRS y T. Este ruido es especialmente evidente durante la respiración profunda y después del ejercicio, donde la variabilidad de la línea de base aumenta debido a la actividad respiratoria y física.
+
+Después del procesamiento y filtrado, se observa una mejora notable en la calidad de las señales ECG. La técnica de filtrado reduce efectivamente el ruido de alta frecuencia y estabiliza la línea de base en todas las condiciones. En las señales filtradas, las características del ECG se vuelven más visibles y distinguibles, lo que facilita su análisis clínico. La reducción del ruido permite una mejor visualización de las ondas del ECG, aunque la variabilidad debida a la respiración y el ejercicio aún puede estar presente, pero en menor medida.
 
 ### *5.2. Resultado de señal filtrada con filtro Wavelet para EMG* <a name="id10"></a>
 
