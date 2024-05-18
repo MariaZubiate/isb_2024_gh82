@@ -191,4 +191,4 @@ En el filtrado de señales EEG, para los tres experimentos de reposo, reposo lue
 
 [5] E. Erkan y Y. Erkan, "Ocular Artifact Removal Method Based on the Wavelet and ICA Transform," Chaos Theory and Applications, vol. 5, no. 2, pp. 111-117, 2023, doi: 10.51537/chaos.1268949. Available: https://dergipark.org.tr/en/download/article-file/3026859
 
-[6] C. J. De Luca, "The use of surface electromyography in biomechanics", J. Appl. Biomech., vol. 13, no. 2, pp. 135-163, May 1997.
+[6] P. Konrad, The ABC of EMG: A Practical Introduction to Kinesiological Electromyography, Version 1.4, Noraxon INC. USA, 2006, ISBN 0-9771622-1-4.
