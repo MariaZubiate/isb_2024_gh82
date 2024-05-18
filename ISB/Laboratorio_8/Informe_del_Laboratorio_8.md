@@ -115,7 +115,7 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 ### *5.3. Resultado de señal filtrada con filtro Wavelet para EEG* <a name="id11"></a>
 
 |  **Campo**  |  **Señal cruda** | **Señal filtrada por Wavelet** |  **Descripción** |
-|:------------:|:---------------:|:------------:|
+|:------------:|:---------------:|:------------:|:------------:|
 |REPOSO |![descarga (28)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/9592f000-7a45-45b4-aade-b5280910f64b)| ![descarga (36)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/b46b82ea-223a-4d64-985c-9081820bae87)| |
 |FFTS EN REPOSO |![descarga (29)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/51a91047-e409-47a4-9817-d5f3597f2ecb)|![descarga (37)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/e7e7a4e0-361c-4c74-b748-e1d1314507e7)| |
 |EJERCICIO DE PARPADEO |![descarga (30)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f04196af-1997-472b-9672-dd03a5f03878)|![descarga (38)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/87ed8b1c-25cf-4608-8045-70086ae4332c)| |
