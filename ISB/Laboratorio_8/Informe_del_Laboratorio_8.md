@@ -127,9 +127,9 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 |RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS |![descarga (34)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/33a8e1fc-f2fa-45d3-937b-8cf5d635eed3)|![descarga (42)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8dabeed1-560a-4d34-8bc2-9a045e46799c)|
 |FFTS RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS | ![descarga (35)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/671b7b3a-96b9-4a96-a20b-9a5bcad03689)|![descarga (43)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a4d9cdd4-f52f-4bd8-8398-5729a00b1de9)| 
 
-## *Descripción: Señal orginal vs Señal filtrada por Wavelet
+## Descripción: Señal orginal vs Señal filtrada por Wavelet
 
-## *Amplitudes del ejercicio en reposo
+## Amplitudes del ejercicio en reposo
 Amplitud de señal original: ±1500 mV, amplitud de señal filtrada: ±500 mV y amplitud del ruido eliminado: ±200 mV.
 
 ## Análisis de las FFT para el ejercicio en reposo:
@@ -137,23 +137,23 @@ Amplitud de señal original: ±1500 mV, amplitud de señal filtrada: ±500 mV y 
 *FFT señal original: Pico principal en 0 Hz con una magnitud de aproximadamente 2.8e6. La presencia de un pico dominante en 0 Hz indica componentes de muy baja frecuencia, típicamente asociadas con el ruido de corriente continua (DC) o artefactos de baja frecuencia. 
 **FFT señal filtrada: Pico principal en 0 Hz con una magnitud reducida a aproximadamente 2.2e6. La reducción del pico en un 21.4% sugiere una atenuación efectiva del ruido de baja frecuencia sin afectar significativamente las componentes de la señal EEG relevante. Los componentes de alta frecuencia (por encima de ~30 Hz) son notablemente atenuados, indicando una reducción efectiva del ruido de alta frecuencia.|
 
-## *Amplitudes del ejercicio de parpadeo
+## Amplitudes del ejercicio de parpadeo
 Amplitud de señal original: ±600 mV, amplitud de señal filtrada: ±200 mV y amplitud del ruido eliminado: ±75 mV.
 
-##Análisis de las FFT para el ejercicio de parpadeo:
+## Análisis de las FFT para el ejercicio de parpadeo:
 
 *FFT señal original: Pico principal en 0 Hz con una magnitud de aproximadamente 5e5. Picos secundarios menores alrededor de 10 Hz a 20 Hz, posiblemente indicando actividad muscular o artefactos de parpadeo. 
 **FFT señal filtrada: Pico principal en 0 Hz con una magnitud reducida a aproximadamente 4.5e5. La reducción del pico en un 10% muestra que parte del ruido de baja frecuencia ha sido atenuado. Picos secundarios aún presentes aunque atenuados, indicando que el artefacto de parpadeo no se ha eliminado completamente con el filtrado wavelet actual.
 
-## *Amplitudes del reposo luego del parpadeo
+## Amplitudes del reposo luego del parpadeo
 Amplitud de señal original: ±1500 mV, amplitud de señal filtrada: ±500 mV y amplitud del ruido eliminado: ±200 mV.
 
 ## Análisis de las FFT del reposo luego del parpadeo:
 
- *FFT señal original: Pico principal en 0 Hz con una magnitud de aproximadamente 1.4e6. Presencia de componentes de frecuencia más alta que sugiere algún nivel por actividad muscular o interferencia externa. 
- **FFT señal filtrada: Pico principal en 0 Hz con una magnitud reducida a aproximadamente 1.2e6. La reducción del pico en un 14.3% indica una atenuación efectiva del ruido de baja frecuencia. Las componentes de alta frecuencia están significativamente atenuadas, lo que sugiere que el filtrado wavelet ha eliminado efectivamente el ruido de alta frecuencia.
+*FFT señal original: Pico principal en 0 Hz con una magnitud de aproximadamente 1.4e6. Presencia de componentes de frecuencia más alta que sugiere algún nivel por actividad muscular o interferencia externa. 
+**FFT señal filtrada: Pico principal en 0 Hz con una magnitud reducida a aproximadamente 1.2e6. La reducción del pico en un 14.3% indica una atenuación efectiva del ruido de baja frecuencia. Las componentes de alta frecuencia están significativamente atenuadas, lo que sugiere que el filtrado wavelet ha eliminado efectivamente el ruido de alta frecuencia.
 
-## *Amplitudes de la resolución mental de problemas matemáticos
+## Amplitudes de la resolución mental de problemas matemáticos
 Amplitud de señal original: ±1500 mV, amplitud de señal filtrada: ±500 mV y amplitud del ruido eliminado: ±200 mV.
 
 ## Análisis de las FFT del reposo luego del parpadeo:
