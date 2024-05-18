@@ -136,8 +136,10 @@ A continuación se mostrará un ejemplo de la obtención de los niveles obtenido
 
 ## *6. Conclusiones* <a name="id12"></a>
 ECG
+
 EMG
-En el filtrado de señales EEG, se obtuvo una reducción significativa del ruido y además en las componentes de alta frecuencia para el experimento en reposo, lo que demuestra un filtrado selectivo. En el caso del ejercicio de parpadeo, 
+
+En el filtrado de señales EEG, se obtuvo una reducción significativa del ruido y además en las componentes de alta frecuencia para el experimento en reposo, lo que demuestra un filtrado selectivo. En el caso del ejercicio de parpadeo, aún se observan picos lo que nos indica es difícil eliminarla por completo con la metodología propuesta. Y para los dos experimentos de reposo luego del parpadeo y la resolución de problemas matemáticos se lograron eliminar ruidos de alta frecuencia.
 
 
 
