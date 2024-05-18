@@ -67,8 +67,7 @@ Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer característ
 ## *4. Metodologia* <a name="id4"></a>
 
 ### *4.1. Generar filtro Wavelet para ECG* <a name="id5"></a>
-Cita [3]
-
+La wavelet Daubechies (db4) con un nivel de descomposición de 8 proporciona los resultados más eficientes para la clasificación de señales ECG [3].
 
 ### *4.2. Generar filtro Wavelet para EMG* <a name="id6"></a>
 Para realizar el filtrado se tomó en cuenta el artículo "Non-invasive detection of low-level muscle fatigue using surface EMG with wavelet decomposition", de donde se obtuvo la elección de la familia, niveles de descomposición y coeficientes necesarios a utilizar.
@@ -146,7 +145,7 @@ En nuestro procesado de señales EEG,
 
 [2] Daubechies. "Ten Lectures of Wavelets". 1992. Available: https://jqichina.wordpress.com/wp-content/uploads/2012/02/ten-lectures-of-waveletsefbc88e5b08fe6b3a2e58d81e8aeb2efbc891.pdf
 
-[3] 
+[3] Singh, R., Mehta, R., & Rajpal, N. (2018). Efficient wavelet families for ECG classification using neural classifiers. Procedia Computer Science, 132, 11–21. https://doi.org/10.1016/j.procs.2018.05.054
 
 [4] G. Zhang, E. Morin, Y. Zhang, and S. Ali Etemad, “Non-invasive detection of low-level muscle fatigue using surface EMG with wavelet decomposition,” PubMed, Jul. 2018, doi: https://doi.org/10.1109/embc.2018.8513588.
 ‌
