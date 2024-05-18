@@ -101,7 +101,7 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 |RESPIRACIÓN PROFUNDA POST-EJERCICIO|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/18815d7a-ae32-4057-907d-d3f3d0051dd5)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/a0010742-e2e9-47c5-9d7d-fec06cb0d574)
 |FFTS RESPIRACIÓN PROFUNDA POST-EJERCICIO|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/09623992-35e6-45bd-bb43-30ac58db40c3)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/2744d0c0-1065-4da2-a7bb-bbf2bc6d5c60)
 
-Análisis:
+Análisis descriptivo:
 
 Las señales ECG presentadas en diferentes condiciones (reposo, respiración profunda antes del ejercicio, después del ejercicio y respiración profunda post-ejercicio) muestran variaciones significativas antes y después del filtrado. Inicialmente, las señales crudas contienen ruido y fluctuaciones en la línea de base que dificultan la identificación clara de las características del ECG, como las ondas P, QRS y T. Este ruido es especialmente evidente durante la respiración profunda y después del ejercicio, donde la variabilidad de la línea de base aumenta debido a la actividad respiratoria y física.
 
@@ -118,7 +118,7 @@ Después del procesamiento y filtrado, se observa una mejora notable en la calid
 |CONTRAFUERZA |![Captura de pantalla 2024-05-17 181350](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/3ff9322e-2a95-4af8-a30d-96ba5a5bdb6d)|![Captura de pantalla 2024-05-17 181414](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/00203b3b-cb4f-42b5-ac8b-ac1085828a72)|
 |FFTS CONTRAFUERZA |![Captura de pantalla 2024-05-17 180712](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/843027f0-270c-4385-ae0b-0a82d806fe10)|![Captura de pantalla 2024-05-17 180733](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/90b38afc-d934-4e67-b164-bec727191764)|
 
-Análisis:
+Análisis descriptivo:
 
 En el caso de Reposo, en el espectro se visualizan 4 picos principales en: cerca a 0Hz, 60Hz, 200Hz y 400Hz. Luego del filtrado, se observa que el pico en 400Hz y las frecuencias por encima de este valor, están atenuadas completamente. Lo mismo que sucede con el pico cercano a 0Hz. De manera similar se presenta para el caso de Flexión; luego del filtrado, el pico de 400Hz se atenúa al igual que las frecuencias por encima de este. En el caso de Contrafuerza, en el espectro de la señal original solo se observa un pico cercano a 0Hz, el cual se ve atenuado casi en su totalidad luego del filtrado. De ello, se puede determinar que con el tipo de Wavelet usado, se logran atenuar las interferencias de altas y bajas frecuencias; esto debido a que según el estudio, recomendaba eliminar los coeficientes de detalle del primer y último nivel; tal como se muestra en la tabla 1 del artículo, donde se presencia que para el método propuesto a usar, solo era conveniente quedarse con los niveles 2-7 que corresponden a frecuencias entre 7.8Hz y 500Hz. Lo cual concuerda con la literatura sobre EMG, pues según P. Konrad, para los electrodos de susperficie (sEMG), la activación muscular se encuentra típicamente en el rango de 10-500Hz pero principalmente entre 10-250Hz[6].
 
@@ -137,37 +137,11 @@ En el caso de Reposo, en el espectro se visualizan 4 picos principales en: cerca
 |RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS |![descarga (34)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/33a8e1fc-f2fa-45d3-937b-8cf5d635eed3)|![descarga (42)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8dabeed1-560a-4d34-8bc2-9a045e46799c)|
 |FFTS RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS | ![descarga (35)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/671b7b3a-96b9-4a96-a20b-9a5bcad03689)|![descarga (43)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a4d9cdd4-f52f-4bd8-8398-5729a00b1de9)| 
 
-## Descripción: 
+Análisis descriptivo:
 
-## Amplitudes del ejercicio en reposo
-Amplitud de señal original: ±1500 mV, amplitud de señal filtrada: ±500 mV y amplitud del ruido eliminado: ±200 mV.
+Durante el ejercicio en reposo, la señal original presentó una amplitud de ±1500 mV, mientras que la señal filtrada alcanzó ±500 mV y el ruido eliminado fue de ±200 mV. La FFT de la señal original mostró un pico principal en 0 Hz con una magnitud de 2.8e6, sugiriendo la presencia de componentes de muy baja frecuencia típicas de ruido de corriente continua o artefactos de baja frecuencia. Tras aplicar el filtrado, el pico principal se redujo a 2.2e6, lo que implica una disminución del 21.4% y sugiere una atenuación efectiva del ruido de baja frecuencia. Además, las componentes de alta frecuencia por encima de 30 Hz también se atenuaron notablemente, lo que indica una reducción efectiva del ruido de alta frecuencia. En el ejercicio de parpadeo, la señal original tuvo una amplitud de ±600 mV, la señal filtrada de ±200 mV y el ruido eliminado de ±75 mV. La FFT de la señal original mostró un pico principal en 0 Hz con una magnitud de 5e5, y picos secundarios menores entre 10 Hz y 20 Hz, posiblemente debido a actividad muscular o artefactos de parpadeo. Después del filtrado, el pico principal se redujo a 4.5e5, una disminución del 10%, indicando que parte del ruido de baja frecuencia fue atenuado. Sin embargo, los picos secundarios, aunque atenuados, aún estaban presentes, lo que sugiere que el artefacto de parpadeo no se eliminó completamente con el filtrado wavelet actual.
 
-## Análisis de las FFT para el ejercicio en reposo:
-
-En nuestra FFT de la señal original se obtuvo un pico principal en 0 Hz con una magnitud de aproximadamente 2.8e6. La presencia de un pico dominante en 0 Hz indica componentes de muy baja frecuencia, típicamente asociadas con el ruido de corriente continua (DC) o artefactos de baja frecuencia. En la FFT de la señal filtrada se obtuvo un pico principal en 0 Hz con una magnitud reducida a aproximadamente 2.2e6. La reducción del pico en un 21.4% sugiere una atenuación efectiva del ruido de baja frecuencia sin afectar significativamente las componentes de la señal EEG relevante. Los componentes de alta frecuencia (por encima de ~30 Hz) son notablemente atenuados, indicando una reducción efectiva del ruido de alta frecuencia.|
-
-## Amplitudes del ejercicio de parpadeo
-Amplitud de señal original: ±600 mV, amplitud de señal filtrada: ±200 mV y amplitud del ruido eliminado: ±75 mV.
-
-## Análisis de las FFT para el ejercicio de parpadeo:
-
-En nuestra FFT de la señal original se obtuvo un pico principal en 0 Hz con una magnitud de aproximadamente 5e5. Picos secundarios menores alrededor de 10 Hz a 20 Hz, posiblemente indicando actividad muscular o artefactos de parpadeo. En la FFT señal filtrada se obtuvo un pico principal en 0 Hz con una magnitud reducida a aproximadamente 4.5e5. La reducción del pico en un 10% muestra que parte del ruido de baja frecuencia ha sido atenuado. Picos secundarios aún presentes aunque atenuados, indicando que el artefacto de parpadeo no se ha eliminado completamente con el filtrado wavelet actual.
-
-## Amplitudes del reposo luego del parpadeo
-Amplitud de señal original: ±1500 mV, amplitud de señal filtrada: ±500 mV y amplitud del ruido eliminado: ±200 mV.
-
-## Análisis de las FFT del reposo luego del parpadeo:
-
-En nuestra FFT de la señal original se obtuvo un pico principal en 0 Hz con una magnitud de aproximadamente 1.4e6. Presencia de componentes de frecuencia más alta que sugiere algún nivel por actividad muscular o interferencia externa. En la FFT señal filtradase obtuvo un pico principal en 0 Hz con una magnitud reducida a aproximadamente 1.2e6. La reducción del pico en un 14.3% indica una atenuación efectiva del ruido de baja frecuencia. Las componentes de alta frecuencia están significativamente atenuadas, lo que sugiere que el filtrado wavelet ha eliminado efectivamente el ruido de alta frecuencia.
-
-## Amplitudes de la resolución mental de problemas matemáticos
-Amplitud de señal original: ±1500 mV, amplitud de señal filtrada: ±500 mV y amplitud del ruido eliminado: ±200 mV.
-
-## Análisis de las FFT del reposo luego del parpadeo:
-
-En nuestra FFT de la señal original se obtuvo un pico principal en 0 Hz con una magnitud de aproximadamente 2.4e6. Otros picos menores presentes, indicando actividad cerebral significativa y posiblemente ruido de alta frecuencia. En la FFT señal filtrada se obtuvo un pico principal en 0 Hz con una magnitud reducida a aproximadamente 2.0e6.La reducción del pico en un 16.7% muestra una atenuación efectiva del ruido de baja frecuencia. Los componentes de alta frecuencia están notablemente reducidos, lo que indica que el filtrado wavelet ha sido efectivo en la eliminación del ruido de alta frecuencia.|
-
-
+En el reposo luego del parpadeo, la señal original mostró una amplitud de ±1500 mV, la señal filtrada alcanzó ±500 mV y el ruido eliminado fue de ±200 mV. La FFT de la señal original presentó un pico principal en 0 Hz con una magnitud de 1.4e6, junto con componentes de frecuencia más alta, sugiriendo actividad muscular o interferencia externa. Tras el filtrado, el pico principal se redujo a 1.2e6, una disminución del 14.3%, lo que indica una atenuación efectiva del ruido de baja frecuencia. Las componentes de alta frecuencia también se atenuaron significativamente. En la resolución mental de problemas matemáticos, la señal original tuvo una amplitud de ±1500 mV, la señal filtrada de ±500 mV y el ruido eliminado de ±200 mV. La FFT de la señal original mostró un pico principal en 0 Hz con una magnitud de 2.4e6, junto con otros picos menores que indican actividad cerebral significativa y posiblemente ruido de alta frecuencia. Tras el filtrado, el pico principal se redujo a 2.0e6, una disminución del 16.7%, mostrando una atenuación efectiva del ruido de baja frecuencia. El filtrado wavelet también fue efectivo en altas frecuencias para este experimento.
 
 
 A continuación se mostrará un ejemplo de la obtención de los niveles obtenidos para una de las señales. En este caso, se tomó como ejemplo la Señal EMG en Contrafuerza, teniendo en cuenta 9 niveles:
