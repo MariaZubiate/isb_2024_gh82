@@ -144,9 +144,6 @@ Durante el ejercicio en reposo, la señal original presentó una amplitud de ±1
 En el reposo luego del parpadeo, la señal original mostró una amplitud de ±1500 mV, la señal filtrada alcanzó ±500 mV y el ruido eliminado fue de ±200 mV. La FFT de la señal original presentó un pico principal en 0 Hz con una magnitud de 1.4e6, junto con componentes de frecuencia más alta, sugiriendo actividad muscular o interferencia externa. Tras el filtrado, el pico principal se redujo a 1.2e6, una disminución del 14.3%, lo que indica una atenuación efectiva del ruido de baja frecuencia. Las componentes de alta frecuencia también se atenuaron significativamente. En la resolución mental de problemas matemáticos, la señal original tuvo una amplitud de ±1500 mV, la señal filtrada de ±500 mV y el ruido eliminado de ±200 mV. La FFT de la señal original mostró un pico principal en 0 Hz con una magnitud de 2.4e6, junto con otros picos menores que indican actividad cerebral significativa y posiblemente ruido de alta frecuencia. Tras el filtrado, el pico principal se redujo a 2.0e6, una disminución del 16.7%, mostrando una atenuación efectiva del ruido de baja frecuencia. El filtrado wavelet también fue efectivo en altas frecuencias para este experimento.
 
 
-A continuación se mostrará un ejemplo de la obtención de los niveles obtenidos para una de las señales. En este caso, se tomó como ejemplo la Señal EMG en Contrafuerza, teniendo en cuenta 9 niveles:
-
-![Captura de pantalla 2024-05-17 184437](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/c50d7965-c8dd-4bbe-aabb-bd426eea5bee)
 
 
 ## *6. Conclusiones* <a name="id12"></a>
