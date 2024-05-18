@@ -58,119 +58,105 @@
 
 #### Introducción
 
-El Síndrome del Túnel Carpiano (STC) es una afección común que causa síntomas como dolor y entumecimiento en la mano debido a la compresión del nervio mediano. A pesar de la variedad de tratamientos disponibles, la falta de motivación y adherencia de los pacientes a menudo dificulta el éxito de la rehabilitación. Para abordar este desafío, proponemos un enfoque innovador que combina la rehabilitación física con la tecnología de juegos interactivos. Este proyecto utiliza señales electromiográficas (EMG) para controlar un juego de pon, convirtiendo la rehabilitación en una experiencia lúdica y motivadora para los pacientes. Se espera que esta aproximación mejore la adherencia al tratamiento y los resultados de la rehabilitación del STC, ofreciendo una alternativa efectiva y atractiva a las terapias tradicionales.
+El tenis de mesa, es un deporte de raqueta que se caracteriza por la rapidez y precisión de los movimientos. Los jugadores deben ser capaces de ejecutar movimientos rápidos en distancias cortas, de forma repetitiva. El análisis de la activación muscular durante estos movimientos es crucial para poder entender mejor las demandas físicas de este deporte y para optimizar el rendimiento y técnica de los jugadores [1].
+
+La electromiografía (EMG) es una técnica que registra la actividad eléctrica generada por los músculos durante la contracción. En el contexto del tenis de mesa, la EMG puede utilizarse para evaluar la activación de diferentes grupos musculares durante los golpes de drive de derecha (forehand) y de revés (backhand), proporcionando información sobre la coordinación muscular y la eficiencia del movimiento [2]. 
+
+Existen diversos estudios sobre la activación muscular en el tenis de mesa, centrándose principalmente en el golpe forehand. Por ejemplo, investigaciones previas han demostrado que los músculos del pectoral mayor y del deltoides anterior son cruciales para la ejecución de golpes de drive [3]. Sin embargo, existe una brecha en la literatura respecto a la comparación entre los golpes forehand & backhand, y la relativa contribución de los músculos de la extremidad superior en cada tipo de golpe.
+
+Por ello este estudio tiene como objetivo comparar la activación muscular de los músculos de la extremidad superior durante los golpes forehand & backhand en jugadoras de tenis de mesa de nivel universitario, utilizando EMG de superficie (sEMG). Se espera que los hallazgos de este estudio proporcionen una comprensión más profunda de la biomecánica del tenis de mesa y ofrezcan información para mejorar los programas de entrenamiento y prevenir lesiones.
 
 #### Problemática
 
-<div align="center">
-  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e0f0cc89-a3a1-4b54-8dc1-b9770d880adc" alt="Descripción de la imagen">
-</div>
-Fig.1. Sindrome del Tunel Carpiano.
-Fuente:“Síndrome del Túnel Carpiano: causas, síntomas y tratamiento”. Top Doctors. Accedido el 3 de abril de 2024
+Falta de investigación sobre la activación muscular específica durante 2 diferentes tipos de golpes principales en el tenis de mesa: forehand & backhand. 
 
 
-El Síndrome del Túnel Carpiano (STC) es una condición médica que afecta la mano, caracterizada por la compresión del nervio mediano en el túnel del carpo. Esto ocasiona sensaciones de adormecimiento, hormigueo y dolor en la mano, especialmente en los dedos pulgar, índice, medio y anular. Los síntomas suelen empeorar durante la noche y con actividades que implican el uso repetitivo de la mano, como escribir, coser o conducir. En casos más graves, puede haber una pérdida de fuerza muscular en la base del pulgar. Las causas del STC pueden variar, desde factores anatómicos como túneles estrechos de nacimiento hasta condiciones médicas subyacentes como artritis reumatoide, hipotiroidismo o diabetes. El diagnóstico se basa en la evaluación clínica y pruebas como la electromiografía. El tratamiento inicialmente puede implicar medidas conservadoras como la inmovilización y terapia física, pero en casos avanzados, puede ser necesaria la intervención quirúrgica para aliviar la compresión del nervio mediano y restaurar la función de la mano[1].
 
-
-El Síndrome del Túnel Carpiano (STC) es una preocupación significativa de salud pública, con una prevalencia entre la población adulta, según múltiples estudios [3-7]. Los hallazgos muestran una gran disparidad de género, con un predominio de casos en mujeres, siendo hasta el 91%, como se evidencia en el estudio llevado a cabo en el hospital de Trujillo [1]. Asimismo, el mayor número de casos se presenta en personas de entre 40 a 
-60 años de edad [3,7]. De acuerdo con los datos, la incidencia del STC en la población oscila entre el 1% y el 5%, con una proporción de 3 mujeres por cada hombre [7,8]. Además, en Perú, según EsSalud en el 2023, se ha reportado un aumento del 50% en pacientes, siendo las mujeres de 20 a 40 años las más afectadas, posiblemente debido al trabajo remoto y al uso constante de dispositivos electrónicos.
-
-Existen diferentes tratamientos para este síndrome, uno de ellos es el tratamiento conservador basado en fisioterapia, este se enfoca, principalmente, en la realización de movimientos repetitivos, de entre 8 a 12 repeticiones, en la muñeca y dedos[4]. Primero analizaremos cada movimiento y los músculos participantes, al final podremos seleccionar los músculos más trascendentales que merecen nuestro enfoque y ubicación de los electrodos. 
-
-Por tanto, a nivel de la articulación de la muñeca tenemos movimientos tales como: 
-
-## Flexión dorsal(extensión) y flexión palmar 
-
-Los músculos que intervienen durante la flexión son: flexores del antebrazo, palmar mayor, cubital anterior, flexores de los dedos (flexores superficiales y profundos) y abductor del pulgar. 
-Por otro lado, durante la extensión intervienen músculos extensores del brazo: extensor radial largo del carpo, extensor radial corto del carpo, extensor cubital del carpo, extensor común de los dedos y el extensor propio del meñique. Además de los músculos extensores del pulgar: extensor largo del pulgar, extensor corto del pulgar y aductor del pulgar.
-![Captura de pantalla 2024-04-03 074716](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/1455e6d0-adc7-4f98-875b-d40a441238b8)
-
-Fig.2. Movimientos de extensión y flexión palmar en rangos normales.
-
-
-## Abducción y aducción de la muñeca
-Los músculos involucrados en abducción son: extensor radial largo del carpo y extensor radial corto del carpo. Los músculos involucrados en la aducción son: flexor cubital del carpo (también conocido como flexor ulnar del carpo) y el palmar mayor.
-![Captura de pantalla 2024-04-03 075210](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8fab8cf1-5792-4414-a209-ba741596d2a2)
-
-Fig.3. Movimientos de abducción y aducción palmar en rangos normales.
-
-
-## Pronación y supinación palmar
-En este movimiento los músculos involucrados en la pronación son: pronador redondo, pronador cuadrado y braquiorradial. Y para la supinación se necesita la acción del supinador y bíceps braquial.
-![Captura de pantalla 2024-04-03 075222](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/011d5ceb-1ec0-4934-9f0e-d6991bfcd30b)
-Fig.4. Movimientos de pronación y supinación palmar.
-
-Finalmente, a nivel de los dedos tenemos movimientos tales como:
-
-## Flexión y extensión de articulaciones metacarpofalángicas
-Tenemos músculos participantes en la flexión tales como: flexor común superficial de los dedos y flexor común profundo de los dedos. Y los involucrados en la extensión son:  el extensor común de los dedos y el extensor propio del meñique.
-![Captura de pantalla 2024-04-03 075233](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/d83ca5be-5d0d-44cf-aa4d-643c29d12567)
-
-Fig.5. Movimientos de extensión y flexión palmar en rangos normales.
-
-## Flexión y extensión proximal y distal de articulaciones interfalángicas
-Aquí los músculos involucrados en pronación son: pronador redondo, pronador cuadrado y el braquiorradial. Mientras que los músculos involucrados en la supinación son: supinador y el bíceps braquial. 
-![Captura de pantalla 2024-04-03 075312](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/2571e992-ab95-46d4-96be-791f39baae82)
-
-Fig.6. Movimientos de extensión y flexión proximal y distal en articulaciones interfalángicas en rangos normales.
-
-## Abducción y aducción de los dedos
-Aquí los músculos involucrados en abducción son los músculos interóseos dorsales; y en tanto a aducción está presente la acción de los músculos interóseos palmares. 
-Aquí es preciso recalcar que ninguno de estos músculos se encuentra conectado al antebrazo ni pasan por esa región anatómica por lo que no serán contemplados en el análisis posterior.
-![Captura de pantalla 2024-04-03 075351](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/0cbd2200-6fd7-4ea0-8e52-ff84970fe6df)
-
-Fig.7. Abducción y aducción de los dedos en rangos normales.
-
-## Abducción y aducción del pulgar
-En donde intervienen el abductor y aductor del pulgar.
-![Captura de pantalla 2024-04-03 075414](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/e680f23c-0e27-4a18-bde6-e2cbcc02998d)
-
-Fig.8. Abducción y aducción del pulgar con rangos normales.
-
-## Flexión y extensión del pulgar
-En donde intervienen el flexor y extensor del pulgar.
-![Captura de pantalla 2024-04-03 075445](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/394fb083-667a-487c-8010-9c6b234213ba)
-
-Fig.9. Flexión y extensión del pulgar en rangos normales.
-
-Estos ejercicios de rehabilitación son percibidos por gran parte de los pacientes como monótonos y triviales, además, también existen pacientes que empeoran la situación al realizar la terapia por sí mismos; de aquí se ve la necesidad de convertir esta experiencia en algo lúdico y seguro para el paciente.
-
-
-#### Metodología
-...
 
 #### Solución
 
-El proyecto se enfoca en utilizar señales electromiográficas (EMG) para analizar los movimientos musculares, con el objetivo de controlar un juego de pon. Esta tecnología permitirá a los pacientes realizar sus terapias de rehabilitación física de una manera interactiva y motivadora. Al jugar al pon, los pacientes realizarán movimientos que fortalecerán los músculos afectados por el síndrome del túnel carpiano, mientras se divierten y se mantienen comprometidos con su tratamiento de rehabilitación.
+Desarrollo de un equipo para el análisis y comparación de la actividad eléctrica de los músculos de la extremidad superior durante los golpes forehand & backhand en jugadores de tenis de mesa de nivel universitario. Este equipo utilizará electrodos sEMG para registrar y analizar los patrones de activación muscular.
 
-El proyecto consta de 4 fases:
+Con esta información podremos brindar un análisis del rendimiento de los músculos con el fin de que estos datos puedan ser usados para mejorar la técnica y el rendimiento de los jugadores, así como para diseñar programas de entrenamiento más efectivos. 
 
-1. Captura de señales EMG: Se colocan electrodos en los músculos de la mano y la muñeca para detectar las señales electromiográficas (EMG) generadas por la actividad muscular.
+Para ello nuestro diseño se enfocará en cumplir 3 pilares: 
 
-2. Análisis de movimientos: Las señales EMG se procesan para identificar los patrones de activación muscular.
+Ergonómico:
+Nuestro equipo será diseñado para ser cómodo y adaptarse perfectamente al cuerpo de los jugadores de tenis de mesa. Utilizaremos materiales ligeros y flexibles que no interfieran con el movimiento natural durante los entrenamientos o competencias.
+Inalámbrico:
+La transmisión inalámbrica permitirá recibir datos en tiempo real, facilitando el análisis instantáneo y la toma de decisiones durante las sesiones de entrenamiento.
 
-3. Interfaz con el juego de pon: Estos patrones de activación muscular se utilizan como entrada para controlar el movimiento de la barra en el juego de pon.
+Fácil uso: 
+Facilidad de uso, asegurando que el equipo sea intuitivo y rápido de configurar. La interfaz de usuario será sencilla y accesible, permitiendo a los usuarios comenzar a capturar y analizar datos EMG con mínima capacitación
 
-4. Feedback en tiempo real: Durante el juego, los pacientes reciben retroalimentación visual y auditiva sobre su desempeño, lo que les permite ajustar su técnica y mejorar su control muscular.
 
-Con ello conseguiremos que los pacientes realicen movimientos musculares para mover la barra y jugar al pon. Este proceso involucra al paciente en su terapia y fortalece los músculos afectados por el síndrome del túnel carpiano.
-Así al combinar la rehabilitación con un juego interactivo y divertido, se fomenta la motivación y la adherencia al tratamiento, lo que puede mejorar significativamente los resultados de la rehabilitación del túnel carpiano.
+
+
+#### Metodología
+
+1. **Elaboración de equipo de medición:**
+Se utilizará un equipo diseñado para el análisis de EMG, que incluye un sensor MyoWare para medir la actividad muscular y un microcontrolador ESP32 para enviar la información a una computadora, donde será procesada para realizar el análisis.
+
+1.1. MyoWare
+
+
+Figura 1. Myoware Fuente: MyoWare™ Muscle Sensor
+
+Este sensor está diseñado específicamente para la detección de señales EMG con alta precisión, lo que permite obtener datos fiables y detallados sobre la actividad muscular. Además, el dispositivo es compacto y fácil de usar, lo que minimiza la incomodidad para los participantes durante las pruebas [4]. 
+
+1.2. ESP32-WROOM32
+
+
+Figura 2. ESP32-WROOM-32 Fuente: SUNHokey
+
+Debido a que el MyoWare no posee un módulo que permita pasar la información mediante una red inalámbrica, decidimos conectar un ESP32, con el fin de poder resolver esta problemática. Este módulo nos permitirá, recepcionar la data leída por el Myoware y enviarla a una computadora. 
+Este componente es ideal, debido a que puede procesar datos en tiempo real, facilitando el análisis [5].
+
+1.3. Batería de Litio 3.7V
+
+
+Figura 1. Batería de Litio Fuente: SUNHokey
+
+Utilizaremos una batería de litio de 3.7V y 600mAh para la alimentación de nuestros componentes. Elegimos esta batería debido a su capacidad de 600mAh, que es suficiente para mantener nuestro sistema operando durante varias horas. Además, su tamaño compacto la hace ideal para nuestra propuesta, asegurando una integración sin complicaciones y manteniendo el dispositivo ligero y fácil de manejar [6].
+
+**Protocolos de conexión:**
+
+a. Conexión entre el ESP32 y el Myoware
+Se conectará el pin SIG del MyoWare al pin GPIO 34 del ESP32, que funciona como entrada analógica (ADC) de 12 bits para una lectura precisa de señales EMG. El MyoWare se alimentará con 3.3V del ESP32 y compartirá la misma tierra (GND) para una referencia de voltaje estable [4,5].
+
+b. Conexión inalámbrica
+Se programa el ESP32 usando Arduino IDE con la biblioteca BluetoothSerial para leer las señales y enviarlas por Bluetooth. Asimismo, se conecta el ESP32 con una computadora para que posteriormente, mediante un programa de terminal serial, se visualice los datos en tiempo real [5].
+
+
+2. **Elección de participantes:**
+Jugadores de tenis de mesa, con edades comprendidas entre 19 y 24 años y con una experiencia de juego ocasional de 3 meses. Se seleccionaron estos participantes debido a su proximidad y accesibilidad.
+
+
+
+3. **Procedimiento de colocación de equipo de medición:**
+
+
+4. **Obtención de datos:**
+
+Los datos de EMG se recopilarán utilizando un sistema inalámbrico acompañado de electrodos sEMG durante la ejecución de golpes de forehand & backhand. Los participantes realizarán varios ensayos bajo condiciones controladas para asegurar la consistencia de los datos. Cada ensayo será registrado en condiciones similares para minimizar las variaciones externas. Se colocarán los electrodos del MyoWare en los músculos específicos de la extremidad superior, asegurando una correcta adhesión para obtener señales claras y consistentes. El sistema, conformado por el MyoWare y el ESP32, será emparejado con una computadora mediante Bluetooth para la transmisión en tiempo real de los datos recogidos durante los ensayos .
+
+5. **Análisis de datos:**
+Las señales de electromiografía(EMG) se filtrarán y calcularán el valor cuadrático medio (RMS) para evaluar la activación muscular. Se utilizaran pruebas ANOVA y post-hoc para comparar la actividad entre diferentes músculos y entre los tipos de golpes. 
+
 
 
 #### Bibliografia
-[1] “Síndrome del Túnel Carpiano: causas, síntomas y tratamiento”. Top Doctors. [En línea]. Disponible: https://www.topdoctors.es/articulos-medicos/se-te-adormece-la-mano-o-tienes-hormigueos
 
-[2] «EsSalud advierte aumento del 50% de problemas en la muñeca debido al trabajo remoto y al uso constante de la computadora y el celular», Essalud. [En línea]. Disponible en: http://noticias.essalud.gob.pe/?inno-noticia=essalud-advierte-aumento-del-50-de-problemas-en-la-muneca-debido-al-trabajo-remoto-y-al-uso-constante-de-la-computadora-y-el-celular
+[1] Le Mansec, Y., Dorel, S., Hug, F., & Jubeau, M. (2018). Lower limb muscle activity during table tennis strokes. Sports Biomechanics, 17(4), 442-452. Available: https://pubmed.ncbi.nlm.nih.gov/28895466/
 
-[3] M. B. F. Melo, «CARACTERÍSTICAS CLÍNICO-EPIDEMIOLÓGICAS DEL SÍNDROME DEL TÚNEL CARPIANO EN PACIENTES CON TRATAMIENTO QUIRÚRGICO EN EL SERVICIO DE ORTOPEDIA Y TRAUMATOLOGÍA DEL HOSPITAL III YANAHUARA ESSALUD AREQUIPA 2019».
+[2] Maheshwari, A., Pal, S., & Pandey, G. (2023). Electromyographic evaluation of upper extremity muscles during forehand and backhand table tennis drives. Journal of Physical Education and Sport. Available: https://www.researchgate.net/publication/371985721_Electromyographic_evaluation_of_upper_extremity_muscles_during_forehand_and_backhand_table_tennis_drives
 
-[4] Hospital Universitario de Vinalopó, Síndrome del Túnel Carpiano Fisioterapia, https://www.vinaloposalud.com/wp-content/uploads/2020/03/GU%C3%8DA-STC.pdf (accessed Apr. 3, 2024). 
+[3] Tsai, C.-L., Pan, K.-M., Huang, K.-S., Chang, T.-J., Hsueh, Y.-C., Wang, L.-M., & Chang, S.-S. (2010). The surface EMG activity of the upper limb muscles in table tennis forehand drives. International Symposium on Biomechanics in Sports: Conference Proceedings. Available: https://ojs.ub.uni-konstanz.de/cpa/article/view/4448
 
-[5] L. M. V. Espinosa, C. V. Machado, J. B. Soto, y D. G. Augustin, «CARACTERIZACIÓN DEL SÍNDROME DEL TÚNEL DEL CARPO. HOSPITAL ORTOPÉDICO FRUCTUOSO RODRÍGUEZ», vol. 16, n.o 1, 2021.
+[4] A. Advancer Technologies, "Myoware Muscle Sensor User Manual" Myoware Muscle Sensor AT-04-001, 2015. [Online]. Available: www.AdvancerTechnologies.com
 
-[6] D. L. Benavides, «El Síndrome de túnel carpiano diagnóstico y tratamiento: Revisión sistemática Carpal tunnel syndrome diagnosis and treatment: Systematic review», vol. 3, 2023.
 
-[7] J. O. Sevy, R. E. Sina, y M. Varacallo, «Carpal Tunnel Syndrome», en StatPearls, Treasure Island (FL): StatPearls Publishing, 2024. [En línea]. Disponible en: http://www.ncbi.nlm.nih.gov/books/NBK448179/
+[5] Espressif Systems, "ESP32 Series Datasheet" Version 4.5, 2024. [Online]. Available: https://www.espressif.com/documentation/esp32_datasheet_en.pdf.
 
-[8] A. Joshi et al., «Carpal Tunnel Syndrome: Pathophysiology and Comprehensive Guidelines for Clinical Evaluation and Treatment», Cureus, vol. 14, n.o 7, p. e27053, doi: 10.7759/cureus.27053.
+[6] “Amazon.com: Batería recargable de iones de polímero de litio Li Lipo de 3.7V con conector JST de 2 pines de 0.079 in/0.049 in (603040 600mAh 2.0Jst) : Salud y Hogar,” Amazon.com, 2024. https://www.amazon.com/-/es/Bater%C3%ADa-recargable-pol%C3%ADmero-conector-603040/dp/B091FGPP8F (accessed May 08, 2024).
 
