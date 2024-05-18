@@ -56,7 +56,7 @@ Los niveles de descomposición en la transfomración wavelet determinan la canti
 
 ## *2. Objetivos* <a name="id2"></a>
 
-Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer características de interés, con el uso de filtros Walete.
+Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer características de interés, con el uso de filtros Wavelet.
 
 ## *3. Materiales y equipos* <a name="id3"></a>
 
@@ -88,7 +88,7 @@ En este caso se usaran los siguientes parametros:
 
 En el siguiente inciso se podrán visualizar los filtros utilizados en los diferentes ensayos realizados en los laboratorios, así como el uso del filtro wavelet para filtrar las señales y realizar un análisis detallado.
 
-### *5.1. Resultado de señal filtrada con filtro Walete para ECG* <a name="id9"></a>
+### *5.1. Resultado de señal filtrada con filtro Wavelet para ECG* <a name="id9"></a>
 
 |  **Campo**  |  **Señal cruda** | **Señal filtrada** |  
 |:------------:|:---------------:|:------------:
@@ -101,7 +101,7 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 |RESPIRACIÓN PROFUNDA POST-EJERCICIO |![descarga (23)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a684930a-f559-4256-8099-b2e4764da05a)| ---------
 |FFTS RESPIRACIÓN PROFUNDA POST-EJERCICIO |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/7d22bcce-7237-4384-9e57-3af6d0e833a0)| ---------
 
-### *5.2. Resultado de señal filtrada con filtro Walete para EMG* <a name="id10"></a>
+### *5.2. Resultado de señal filtrada con filtro Wavelet para EMG* <a name="id10"></a>
 
 |  **Campo**  |  **Señal cruda** | **Señal filtrada** |  
 |:------------:|:---------------:|:------------:|
@@ -112,7 +112,7 @@ En el siguiente inciso se podrán visualizar los filtros utilizados en los difer
 |CONTRAFUERZA |![Captura de pantalla 2024-05-17 181350](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/3ff9322e-2a95-4af8-a30d-96ba5a5bdb6d)|![Captura de pantalla 2024-05-17 181414](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/00203b3b-cb4f-42b5-ac8b-ac1085828a72)|
 |FFTS CONTRAFUERZA |![Captura de pantalla 2024-05-17 180712](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/843027f0-270c-4385-ae0b-0a82d806fe10)|![Captura de pantalla 2024-05-17 180733](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/90b38afc-d934-4e67-b164-bec727191764)|
 
-### *5.3. Resultado de señal filtrada con filtro Walete para EEG* <a name="id11"></a>
+### *5.3. Resultado de señal filtrada con filtro Wavelet para EEG* <a name="id11"></a>
 
 |  **Campo**  |  **Señal cruda** | **Señal filtrada** |  
 |:------------:|:---------------:|:------------:|
