@@ -46,7 +46,7 @@ Los filtros wavelet pertenecer a diversas familias que se distinguen por sus pro
 3. Wavelets de Coiflet:
    Tiene  buenas propiedades de localización en el dominio del tiempo y frecuencia. Adecuadas     para el análisis multirresolución y aplicaciones de compresión de imagenes.
 
-4. Wavelets de }Symlet:
+4. Wavelets de Symlet:
    Es una modificacion de las wavelets de Daubechies para mejorar la simetría. Manteniendo las    propiedades de ortogonalidad y longitud de soporte compacta.
 
 5. Wavelets B-Spline:
