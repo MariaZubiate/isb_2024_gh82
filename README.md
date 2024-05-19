@@ -195,7 +195,9 @@ A partir de la información recopilada por el dispositivo se realizará el filtr
 Para el análisis de datos, primero se filtra la señal EMG. De forma convencional, las características de señales sEMG se incluyen en una banda de frecuencia inferior a 500 Hz [3]; y de forma específica, la activación muscular se encuentra típicamente en el rango de 10-250 Hz [20]; por lo tanto se aplicará un filtro pasabajos, pasaaltos y/o pasabandas.
 Después, se descompondrá la señal filtrada usando la Transformada Wavelet que es una técnica de análisis de señales no estacionarias (como las señales EMG) que proporciona información tanto en el dominio de la frecuencia como en el dominio del tiempo [21-23]. Gracias a la descomposición Wavelet y una serie de algoritmos y ecuaciones matemáticas, se obtendrá un coeficiente de fatiga como valor de la calidad de la actividad del tejido muscular y así se estimará la fatiga durante el ejercicio [3]. Por último, se utilizarán las pruebas ANOVA para comparar la actividad muscular entre los diferentes músculos utilizados en el estudio como también lo usa el estudio [24] para EMG.
 
-
+| **VIDEO DE PRESENTACIÓN DEL PROYECTO** | 
+|:--------------:| 
+| [![Video](https://img.youtube.com/vi/MEfOAX21q3c/0.jpg)](https://youtu.be/MEfOAX21q3c)|
 
 #### Bibliografia
 [1] Le Mansec, Y., Dorel, S., Hug, F., & Jubeau, M. (2018). Lower limb muscle activity during table tennis strokes. Sports Biomechanics, 17(4), 442-452. Available: https://pubmed.ncbi.nlm.nih.gov/28895466/
