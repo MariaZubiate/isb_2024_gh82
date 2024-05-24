@@ -40,6 +40,8 @@
 ## *4. Metodologia* <a name="id4"></a>
 
 ### *4.1. Filtros para EMG* <a name="id5"></a>
+Usando el artículo "EMG Signal Analysis By Using Various Wavelet And A Comparative Study" como referencia, llevaremos a cabo una comparación de diferentes tipos de wavelets. El objetivo de este estudio es determinar cuál de estos filtros ofrece el mejor rendimiento en la eliminación de ruido de señales EMG. Para este laboratorio, hemos seleccionado tres de los filtros wavelet evaluados en el artículo mencionado, los cuales serán sometidos a un análisis detallado para evaluar su efectividad. [1M]
+Hemos seleccionado tres de los filtros wavelet evaluados en el artículo: Daubechies (db4), Symlets (sym4) y Coiflets (coif5).
 
 
 ### *4.2. Parametros estaticos y temporales para EMG* <a name="id6"></a>
@@ -89,3 +91,4 @@
 
 ## *7. Bibliografia* <a name="id11"></a>
 
+[1M]Saleh Ahmed, Mahboob Qaosar, Dr. Shamim Ahmad. "EMG Signal Analysis By Using Various Wavelet And A Comparative Study." Journal of Multidisciplinary Engineering Science and Technology (JMEST). 2019.
