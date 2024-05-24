@@ -73,16 +73,7 @@
 ### *5.2. Resultado de los parametros estaticos y temporales para EMG* <a name="id9"></a>
 
 
-|  **Campo**  |  **Señal cruda** | **Señal filtrada** |  
-|:------------:|:---------------:|:------------:|
-|REPOSO |------|-------
-|FFTS EN REPOSO |------|-------
-|FLEXIÓN |------|-------
-|FFTS PARA FLEXIÓN |------|-------
-|CONTRAFUERZA |------|-------
-|FFTS CONTRAFUERZA |------|-------
 
-**Análisis descriptivo:**
 
 
 
