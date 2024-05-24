@@ -27,7 +27,9 @@
 
 ## *2. Objetivos* <a name="id2"></a>
 
-Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer características de interés, con el uso de filtros Wavelet.
+1. Eleccion del mejor filtro Wavelet para EMG (SNS, visualización, perdida de información).
+2. Segmentación de la señal.
+3. Extracción de parametros estaticos y temporales de la señal.
 
 ## *3. Materiales y equipos* <a name="id3"></a>
 
