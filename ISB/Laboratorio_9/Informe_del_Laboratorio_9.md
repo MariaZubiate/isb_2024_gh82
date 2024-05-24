@@ -12,16 +12,17 @@
 2. [Objetivos](#id2)
 3. [Materiales y equipos](#id3)
 4. [Metodologia](#id4)\
-     4.1 [Generar filtro Wavelet para ECG](#id5)\
-     4.2 [Generar filtro Wavelet para EMG](#id6)\
-     4.3 [Generar filtro Wavelet para EEG](#id7)
-5. [Resultados](#id8)\
-     5.1 [Resultado de señal filtrada con filtro Wavelet para ECG](#id9)\
-     5.2 [Resultado de señal filtrada con filtro Wavelet para EMG](#id10)\
-     5.3 [Resultado de señal filtrada con filtro Wavelet para EEG](#id11)
+
+     4.1. [Filtros para EMG](#id5)\
+     4.1. [Parametros estaticos y temporales para EMG](#id6)\
+
+6. [Resultados](#id7)\
+     5.1 [Resultado de elección de filtro para EMG](#id8)\
+     5.1 [Resultado de los parametros estaticos y temporales para EMG](#id9)\
+     
    
-7. [Conclusiones](#id12)
-8. [Bibliografia](#id13)
+8. [Conclusiones](#id10)
+9. [Bibliografia](#id11)
    
 ## *1. Introducción* <a name="id1"></a>
 
@@ -38,34 +39,39 @@ Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer característ
 
 ## *4. Metodologia* <a name="id4"></a>
 
-### *4.1. Generar filtro Wavelet para ECG* <a name="id5"></a>
-
-### *4.2. Generar filtro Wavelet para EMG* <a name="id6"></a>
-
-### *4.3. Generar filtro Wavelet para EEG* <a name="id7"></a>
-
-## *5. Resultados* <a name="id8"></a>
+### *4.1. Filtros para EMG* <a name="id5"></a>
 
 
+### *4.2. Parametros estaticos y temporales para EMG* <a name="id6"></a>
 
-### *5.1. Resultado de señal filtrada con filtro Wavelet para ECG* <a name="id9"></a>
+#### *Parametros estaticos*
+##### *4.2.1. Mediana 
+##### *4.2.2. Varianza y desviación estandar 
+##### *4.2.3. Skewness and kurtosis
 
-|  **Campo**  |  **Señal cruda** | **Señal filtrada** |  
-|:------------:|:---------------:|:------------:
-|BASAL|------|-------
-|FFTS EN BASAL|------|-------
-|RESPIRACIÓN|------|-------
-|FFTS PARA RESPIRACIÓN|------|-------
-|POST-EJERCICIO|------|-------
-|FFTS POST-EJERCICIO|------|-------
-|RESPIRACIÓN PROFUNDA POST-EJERCICIO|------|-------
-|FFTS RESPIRACIÓN PROFUNDA POST-EJERCICIO|------|-------
+#### *Parametros temporales*
+##### *4.2.4. Estacionalidad 
+
+## *5. Resultados* <a name="id7"></a>
+
+### *5.1. Resultado de elección de filtro para EMG* <a name="id8"></a>
+
+
+|  **Campo**  |  **Señal cruda** | **Señal filtrada 1** |  **Señal filtrada 2** |  **Señal filtrada 3** | 
+|:------------:|:---------------:|:------------:| :------------:| :------------:|
+|REPOSO |------|-------|-------|-------
+|FFTS EN REPOSO |------|-------|-------|-------
+|FLEXIÓN |------|-------|-------|-------
+|FFTS PARA FLEXIÓN |------|-------|-------|-------
+|CONTRAFUERZA |------|-------|-------|-------
+|FFTS CONTRAFUERZA |------|-------|-------|-------
 
 **Análisis descriptivo:**
 
 
 
-### *5.2. Resultado de señal filtrada con filtro Wavelet para EMG* <a name="id10"></a>
+### *5.2. Resultado de los parametros estaticos y temporales para EMG* <a name="id9"></a>
+
 
 |  **Campo**  |  **Señal cruda** | **Señal filtrada** |  
 |:------------:|:---------------:|:------------:|
@@ -79,20 +85,6 @@ Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer característ
 **Análisis descriptivo:**
 
 
-### *5.3. Resultado de señal filtrada con filtro Wavelet para EEG* <a name="id11"></a>
-
-
-|  **Campo**  |  **Señal cruda** | **Señal filtrada por Wavelet** |
-|:------------:|:---------------:|:------------:|
-|REPOSO |------|-------
-|FFTS EN REPOSO |------|-------
-|EJERCICIO DE PARPADEO |------|-------
-|FFTS PARA EJERCICIO DE PARPADEO | ------|-------
-|REPOSO LUEGO DEL PARPADEO | ------|-------
-|FFTS REPOSO LUEGO DEL PARPADEO |------|-------
-|RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS |------|-------
-|FFTS RESOLUCIÓN MENTAL DE PROBLEMAS MATEMÁTICOS | ------|-------
-
 
 **Análisis descriptivo:**
 
@@ -100,9 +92,9 @@ Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer característ
 
 
 
-## *6. Conclusiones* <a name="id12"></a>
+## *6. Conclusiones* <a name="id10"></a>
 
 
 
-## *7. Bibliografia* <a name="id13"></a>
+## *7. Bibliografia* <a name="id11"></a>
 
