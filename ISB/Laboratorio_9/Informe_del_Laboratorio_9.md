@@ -48,7 +48,13 @@ Hemos seleccionado tres de los filtros wavelet evaluados en el artículo: Daubec
 
 #### *Parametros estaticos*
 ##### *4.2.1. Mediana 
+
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/58bd089d-6d9d-4b84-8e81-7b8ee8c7980f)
+
 ##### *4.2.2. Varianza y desviación estandar 
+
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/65fa30e8-ee5d-40e9-8edc-a8180c363262)
+
 ##### *4.2.3. Skewness and kurtosis
 
 #### *Parametros temporales*
