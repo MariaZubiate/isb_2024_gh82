@@ -46,12 +46,38 @@ La extracción precisa de parámetros de las señales EMG es crucial para el des
 
 ## *4. Metodologia* <a name="id4"></a>
 
+Llevaremos a cabo una comparación de 3 diferentes filtros que encontramos optimos en la busqueda de información que realizamos para la eliminación de ruido en señales EMG. El objetivo de este estudio es determinar cuál de estos filtros ofrece el mejor rendimiento en la eliminación de ruido de señales EMG con visualización de eliminación de ruido y analisis de señal ruido (SNR). 
+
 ### *4.1. Filtros para EMG* <a name="id5"></a>
-En el último laboratorio presentado, utlizamos como referencia el trabajo de G. Zhang et al con la aplicación del filtrado wavelet tipo Symlet 8 con resultados buenos para el filtrado de ruido no óptimos en términos de [falta completar]. Para este trabajo nos guiaremos del artículo "EMG Signal Analysis By Using Various Wavelet And A Comparative Study" por S. Ahmed & S. Mahboob, llevaremos a cabo una comparación de diferentes tipos de wavelets daubechies, symlets y coiflets. [Aquí falta detallar el criterio de elección y aporte de cada tipo de wavelet presentado en el articulo]. El objetivo de este estudio es determinar cuál de estos filtros ofrece el mejor rendimiento en la eliminación de ruido de señales EMG y, sobre todo, la mejor localización de energía. Para este laboratorio, hemos seleccionado tres de los filtros wavelet evaluados en el artículo mencionado, los cuales serán sometidos a un análisis detallado para evaluar su efectividad. [1M]
-Hemos seleccionado tres de los filtros wavelet evaluados en el artículo: Daubechies (db4), Symlets (sym4) y Coiflets (coif5).
+En este inciso haremos una discusión de los 3 filtros a analizar. 
+
+**1.Primer filtro**
+En primera instancia usaremos la referencia ya usada en el trabajo anterior "Detección no invasiva de fatiga muscular de bajo nivel mediante EMG de superficie con descomposición wavelet" donde se determino que el filtro mas eficiente era la función Wavelet Sym8, debido a que con ello obtuvo un rendimiento superior a comparación de los demás Symmlets. Así como, en ello utilizaron 9 niveles de procesamiento, asi como se eliminaron los niveles 1,8 y 9 debido a la presencia de artefactos de baja frecuencia como artefactos de movimientos. quedandose solo con los niveles 2,3,4,5,6 y 7 [4]. 
+Por lo que para nuestro primer filtro realizaremos:
+1.Descomposición de 8 coeficientes.
+2.Eliminación de coeficiente 1,8,9.
+3.Reconstrucción de la señal filtrada. 
 
 
+**2. Segundo filtro**
+
+Para el segundo filtros utilizamos el articulo "Comparative study of wavelet denoising in myoelectric control applications", en el cual se investigó el uso de diferentes wavelets para la mejora de la calidad de la señal miográfica antes de su uso en diseños protésicos. En este estudio, se evaluaron varias funciones wavelet, y se encontró que la wavelet Daubechies (db4) era la más efectiva para la eliminación de ruido en señales EMG. En este articulo se utilizó un análisis de dominio de tiempo y frecuencia para evaluar la relación entre la contracción muscular y la señal, encontrando que durante las contracciones sostenidas, la frecuencia media (MNF) y la frecuencia mediana (MDF) aumentaban con los niveles de fuerza muscular[5].
+Para nuestro segundo filtro, utilizaremos el Daubechies (db4). La implementación de este filtro seguirá este paso:
+
+1. Descomposición de la señal utilizando las funciones wavelet db4.
+2. Aplicación de métodos de umbral para la eliminación de ruido en los coeficientes descompuestos.
+3. Reconstrucción de la señal utilizando los coeficientes modificados.
+
+**3. Tercer filtro**
+
+Para el ultimo filtro usaremos el articulo "Discrete wavelet transform analysis of surface electromyography for the
+fatigue assessment of neck and shoulder muscles",se utilizó la transformada wavelet discreta (DWT) para evaluar la fatiga muscular en el cuello y los hombros bajo condiciones dinámicas repetitivas. Se probaron diez funciones wavelet comunes, y se encontró que la wavelet "Rbio3.1" era la más sensible a los cambios espectrales inducidos por la fatiga en la banda de frecuencia de 12–23 Hz. Se realizo el análisis DWT en datos SEMG recogidos durante 40 minutos de ejercicios repetitivos de brazos y cuello, descomponiendo la señal en siete niveles para analizar el poder en diferentes bandas de frecuencia. 
+
+1. Descomposición de la señal en 7 niveles utilizando Rbio3.1.
+2. Reconstrucción de la señal utilizando los coeficientes de detalle seleccionados.
+   
 ### *4.2. Parametros estaticos y temporales para EMG* <a name="id6"></a>
+
 
 #### *Parametros estaticos*
 ##### *4.2.1. Mediana* 
@@ -134,6 +160,12 @@ La estacionalidad se refiere a patrones repetitivos o ciclos que ocurren a inter
 [2] Akash Kumar Bhoi, Jitendra Singh Tamang, Purnendu Mishra, "Wavelet packet based Denoising of EMG Signal," International Journal of Engineering Research and Development, 2012.
 
 [3]S. Im, S. Rho, "Extraction of parameters from EMG signals for the biofeedback electrical stimulation," in Proceedings of the 2005 IEEE Engineering in Medicine and Biology Society Annual Conference (EMBC), Shanghai, China, Sep. 2005, pp. 2157-2160. DOI: 10.1109/IEMBS.2005.1616926.
+
+[4] G. Zhang, E. Morin, Y. Zhang, and S. Ali Etemad, “Non-invasive detection of low-level muscle fatigue using surface EMG with wavelet decomposition,” PubMed, Jul. 2018, doi: https://doi.org/10.1109/embc.2018.8513588. ‌
+
+[5]
+
+
 
 [1M]Saleh Ahmed, Mahboob Qaosar, Dr. Shamim Ahmad. "EMG Signal Analysis By Using Various Wavelet And A Comparative Study." Journal of Multidisciplinary Engineering Science and Technology (JMEST). 2019.
 [2M] https://github.com/pluxbiosignals/biosignalsnotebooks/blob/master/biosignalsnotebooks_notebooks/Categories/Extract/temporal_statistical_parameters.ipynb
