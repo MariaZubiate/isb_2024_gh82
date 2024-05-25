@@ -63,6 +63,7 @@ Por lo que para nuestro primer filtro realizaremos:
 **2. Segundo filtro**
 
 Para el segundo filtros utilizamos el articulo "Comparative study of wavelet denoising in myoelectric control applications", en el cual se investigó el uso de diferentes wavelets para la mejora de la calidad de la señal miográfica antes de su uso en diseños protésicos. En este estudio, se evaluaron varias funciones wavelet, y se encontró que la wavelet Daubechies (db4) era la más efectiva para la eliminación de ruido en señales EMG. En este articulo se utilizó un análisis de dominio de tiempo y frecuencia para evaluar la relación entre la contracción muscular y la señal, encontrando que durante las contracciones sostenidas, la frecuencia media (MNF) y la frecuencia mediana (MDF) aumentaban con los niveles de fuerza muscular[5].
+
 Para nuestro segundo filtro, utilizaremos el Daubechies (db4). La implementación de este filtro seguirá este paso:
 
 1. Descomposición de la señal utilizando las funciones wavelet db4.
@@ -72,7 +73,9 @@ Para nuestro segundo filtro, utilizaremos el Daubechies (db4). La implementació
 **3. Tercer filtro**
 
 Para el ultimo filtro usaremos el articulo "Discrete wavelet transform analysis of surface electromyography for the
-fatigue assessment of neck and shoulder muscles",se utilizó la transformada wavelet discreta (DWT) para evaluar la fatiga muscular en el cuello y los hombros bajo condiciones dinámicas repetitivas. Se probaron diez funciones wavelet comunes, y se encontró que la wavelet "Rbio3.1" era la más sensible a los cambios espectrales inducidos por la fatiga en la banda de frecuencia de 12–23 Hz. Se realizo el análisis DWT en datos SEMG recogidos durante 40 minutos de ejercicios repetitivos de brazos y cuello, descomponiendo la señal en siete niveles para analizar el poder en diferentes bandas de frecuencia. 
+fatigue assessment of neck and shoulder muscles",se utilizó la transformada wavelet discreta (DWT) para evaluar la fatiga muscular en el cuello y los hombros bajo condiciones dinámicas repetitivas. Se probaron diez funciones wavelet comunes, y se encontró que la wavelet "Rbio3.1" era la más sensible a los cambios espectrales inducidos por la fatiga en la banda de frecuencia de 12–23 Hz. Se realizo el análisis DWT en datos SEMG recogidos durante 40 minutos de ejercicios repetitivos de brazos y cuello, descomponiendo la señal en siete niveles para analizar el poder en diferentes bandas de frecuencia[6]. 
+
+Para el tercer filtro utilizaremos estos pasos:
 
 1. Descomposición de la señal en 7 niveles utilizando Rbio3.1.
 2. Reconstrucción de la señal utilizando los coeficientes de detalle seleccionados.
