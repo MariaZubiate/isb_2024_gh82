@@ -164,6 +164,8 @@ La estacionalidad se refiere a patrones repetitivos o ciclos que ocurren a inter
 |FLEXIÓN|17.15 dB|14.45 dB|3.32 dB
 |CONTRAFUERZA| 16.89 dB|23.22 dB |3.10 dB
 
+En el análisis de SNR comparado, el filtro Sym8 emerge como el mejor filtro en general, debido a su rendimiento consistente en todas las condiciones evaluadas. Muestra una SNR de 6,42 dB en reposo, 17,15 dB en flexión y 16,89 dB en contrafuerza, lo que indica una capacidad superior para reducir el ruido y preservar la señal útil en diversas situaciones. La simetría y ortogonalidad del filtro Sym8 contribuyen a su alta eficiencia en la descomposición y reconstrucción de señales, minimizando la distorsión y el ruido introducido. Aunque el filtro Db4 sobresale en condiciones de contrafuerza con una SNR de 23,22 dB, su desempeño es inferior en reposo y flexión comparado con Sym8, haciendo de Sym8 la opción más equilibrada y eficaz para aplicaciones variadas.
+
 ### *5.2. Resultado de los parametros estaticos y temporales para EMG* <a name="id9"></a>
 
 
