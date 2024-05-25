@@ -171,5 +171,4 @@ La estacionalidad se refiere a patrones repetitivos o ciclos que ocurren a inter
 
 [6] S. K. Chowdhury, A. D. Nimbarte, M. Jaridi, and R. C. Creese, "Discrete wavelet transform analysis of surface electromyography for the fatigue assessment of neck and shoulder muscles," *Journal of Electromyography and Kinesiology*, vol. 23, no. 4, pp. 995-1003, 2013, doi: 10.1016/j.jelekin.2013.05.001.
 
-
-[2M] https://github.com/pluxbiosignals/biosignalsnotebooks/blob/master/biosignalsnotebooks_notebooks/Categories/Extract/temporal_statistical_parameters.ipynb
+[2M] «biosignalsnotebooks/biosignalsnotebooks_notebooks/Categories/Extract/temporal_statistical_parameters.ipynb at master · pluxbiosignals/biosignalsnotebooks», GitHub. [En línea]. Disponible en: https://github.com/pluxbiosignals/biosignalsnotebooks/blob/master/biosignalsnotebooks_notebooks/Categories/Extract/temporal_statistical_parameters.ipynb
