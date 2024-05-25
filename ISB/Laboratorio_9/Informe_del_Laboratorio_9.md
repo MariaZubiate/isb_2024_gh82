@@ -164,6 +164,8 @@ La estacionalidad se refiere a patrones repetitivos o ciclos que ocurren a inter
 
 **Cuadro comparatido de SNR de los filtros**
 
+Se realizo un cuadro comparativo de los valores de SNR de cada filtro, con el fin de poder determinar cual es el mas optimo para nuestras señales EMG.
+
 |  **Filtro**  |  **SNR Sym8** | **SNR Db4** | **SNR Rbio3.1**
 |:------------:|:---------------:|:---------------: |:---------------:
 |REPOSO|6.42 dB |0.64 dB|-0.11 dB
