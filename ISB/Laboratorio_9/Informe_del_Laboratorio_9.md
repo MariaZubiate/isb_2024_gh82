@@ -33,7 +33,7 @@ La extracción precisa de parámetros de las señales EMG es crucial para el des
 
 ## *2. Objetivos* <a name="id2"></a>
 
-1. Eleccion del mejor filtro Wavelet para EMG 
+1. Elección del mejor filtro Wavelet para EMG 
 2. Segmentación de la señal.
 3. Extracción de parametros estaticos y temporales de la señal.
 
