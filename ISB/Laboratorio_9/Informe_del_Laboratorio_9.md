@@ -126,17 +126,35 @@ La estacionalidad se refiere a patrones repetitivos o ciclos que ocurren a inter
 
 ### *5.1. Resultado de elección de filtro para EMG* <a name="id8"></a>
 
+**REPOSO**
 
-|  **Campo**  |  **Señal cruda** | **Señal filtrada 1** |  **Señal filtrada 2** |  **Señal filtrada 3** | 
-|:------------:|:---------------:|:------------:| :------------:| :------------:|
-|REPOSO |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/32f8858d-1fa1-4fef-9ed7-8dc899137700)|-------|-------|-------
-|FFTS EN REPOSO |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/1a840458-47e8-4ec2-8f5a-d8a8ea8a6a6b)|-------|-------|-------
-|FLEXIÓN |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/812b4020-e0f9-44ec-8e51-4cd2b0b78352)|-------|-------|-------
-|FFTS PARA FLEXIÓN |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/0474faf9-a64a-4fb6-adff-2dc206de2b58)|-------|-------|-------
-|CONTRAFUERZA |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/8d101479-e278-4abf-aa59-a3600b3e18d5)|-------|-------|-------
-|FFTS CONTRAFUERZA |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/29f4c9f6-9ee1-462a-a989-e65dfd57c19f)|-------|-------|-------
+|  **Campo**  |  **Señal cruda** | **Coeficientes de eliminación**
+|:------------:|:---------------:|:---------------:
+|Señales |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/efeb5453-7a5e-42ff-ad83-88d90a979384)|---------
+|Señal filtrada 1|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2e1bc986-80fc-4c95-8465-7e7922ffceaa)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/001eb900-b0eb-465c-97e8-fb49c109e53b)
+|Señal filtrada 2|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d0d21558-571e-4aa8-8279-6a2344d19b15)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/550b31ea-3768-4623-9712-98b95cfb59fd)
+|Señal filtrada 3|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1c97c51d-d3a7-4dbd-a551-19423fb09b4d)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/f8d2b850-a74d-480a-aec9-b0b5b2f247ed)
 
-**Análisis descriptivo:**
+**FLEXIÓN**
+|  **Campo**  |  **Señal cruda** | **Coeficientes de eliminación**
+|:------------:|:---------------:|:---------------:
+|Señales |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/0ef37aca-0736-4642-aa60-e14eb6cd1b4b)|---------
+|Señal filtrada 1|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2ae0bfe2-cf6b-4710-bbf4-bb8c59f98694)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/6696bebf-320f-42f5-b8f7-08f3df97f903)
+|Señal filtrada 2|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5b7077ad-a84e-4803-890a-934f55b84d39)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/0a0b39f8-d16a-42c3-95f7-6daceeb66ba5)
+|Señal filtrada 3|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/9acac2d0-e9e6-42e7-8da3-45417fd7f046)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/8e074d24-33b4-41e2-ab18-afa4bbedbe63)
+
+
+
+**CONTRAFUERZA**
+|  **Campo**  |  **Señal cruda** | **Coeficientes de eliminación**
+|:------------:|:---------------:|:---------------:
+|Señales |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2c101981-8c7f-4d34-b5bb-d9b82e55ff3a)|---------
+|Señal filtrada 1|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c6172f33-5cef-4bb0-8710-fca36aa51bc4)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/15193891-7158-4b0a-8389-70610bbdd51e)
+|Señal filtrada 2|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d46c8f39-f03f-4de0-9134-4bbf96d9c3ad)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d085b012-59e4-43ab-9ce6-2e8174d634fe)
+|Señal filtrada 3|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/889ecfe7-46a2-40cb-8d8e-a1d6c9d879d1)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/da043110-0d63-4e94-bada-ab8e4de2d46f)
+
+
+
 
 
 
