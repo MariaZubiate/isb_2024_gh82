@@ -54,7 +54,9 @@ En este inciso haremos una discusión de los 3 filtros a analizar.
 **1.Primer filtro**
 
 En primera instancia usaremos la referencia ya usada en el trabajo anterior "Detección no invasiva de fatiga muscular de bajo nivel mediante EMG de superficie con descomposición wavelet" donde se determino que el filtro mas eficiente era la función Wavelet Sym8, debido a que con ello obtuvo un rendimiento superior a comparación de los demás Symmlets. Así como, en ello utilizaron 9 niveles de procesamiento, asi como se eliminaron los niveles 1,8 y 9 debido a la presencia de artefactos de baja frecuencia como artefactos de movimientos. quedandose solo con los niveles 2,3,4,5,6 y 7 [4]. 
+
 Por lo que para nuestro primer filtro realizaremos:
+
 1.Descomposición de 8 coeficientes.
 2.Eliminación de coeficiente 1,8,9.
 3.Reconstrucción de la señal filtrada. 
