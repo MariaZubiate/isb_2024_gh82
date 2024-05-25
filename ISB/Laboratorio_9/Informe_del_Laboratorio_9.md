@@ -49,17 +49,41 @@ Hemos seleccionado tres de los filtros wavelet evaluados en el artículo: Daubec
 #### *Parametros estaticos*
 ##### *4.2.1. Mediana 
 
-La mediana es el valor que separa a mitad superior e inferior en un conjunto de datos.
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/58bd089d-6d9d-4b84-8e81-7b8ee8c7980f)
-Fuente: Biosignalnotebook-github
-##### *4.2.2. Varianza y desviación estandar 
+La mediana es el valor que separa la mitad superior e inferior en un conjunto de datos ordenados. Es una medida robusta de tendencia central y es menos sensible a los valores atípicos comparado con la media. En la Imagen 1, se puede observar la formula a utilizar.
 
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/65fa30e8-ee5d-40e9-8edc-a8180c363262)
-Fuente: Biosignalnotebook-github
+<p align="center">
+  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/58bd089d-6d9d-4b84-8e81-7b8ee8c7980f" alt="Imagen1">
+</p>
+<p align="center">
+  Imagen1. Fuente: Biosignalnotebook-github
+</p>
+
+##### *4.2.2. Varianza y desviación estandar
+
+Varianza: Mide la dispersión de los datos respecto a la media. Indica cuánto varían los datos en torno a su valor promedio.
+
+Desviación Estándar: Es la raíz cuadrada de la varianza, proporcionando una medida de dispersión en las mismas unidades que los datos originales[2M]. En la Imagen 2, se puede observar la formula a utilizar.
+
+### Imagen2. Fuente: Biosignalnotebook-github
+
+<p align="center">
+  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/65fa30e8-ee5d-40e9-8edc-a8180c363262" alt="Imagen2">
+</p>
+
+<p align="center">
+  Imagen2. Fuente: Biosignalnotebook-github
+</p>
+
 ##### *4.2.3. Skewness and kurtosis
+
+Skewness: Mide la asimetría de la distribución de los datos. Un valor positivo indica que la cola derecha de la distribución es más larga, mientras que un valor negativo indica una cola izquierda más larga[2M].
+
+Kurtosis: Mide la forma de la distribución, especialmente el "apuntalamiento". Una alta kurtosis indica una distribución con picos más pronunciados y colas más gruesas, lo que sugiere la presencia de valores atípicos[2M].
 
 #### *Parametros temporales*
 ##### *4.2.4. Estacionalidad 
+
+La estacionalidad se refiere a patrones repetitivos o ciclos que ocurren a intervalos regulares en una serie temporal. La descomposición estacional permite dividir la serie temporal en componentes de tendencia, estacionalidad y residuo[2M].
 
 ## *5. Resultados* <a name="id7"></a>
 
@@ -99,3 +123,4 @@ Fuente: Biosignalnotebook-github
 ## *7. Bibliografia* <a name="id11"></a>
 
 [1M]Saleh Ahmed, Mahboob Qaosar, Dr. Shamim Ahmad. "EMG Signal Analysis By Using Various Wavelet And A Comparative Study." Journal of Multidisciplinary Engineering Science and Technology (JMEST). 2019.
+[2M] https://github.com/pluxbiosignals/biosignalsnotebooks/blob/master/biosignalsnotebooks_notebooks/Categories/Extract/temporal_statistical_parameters.ipynb
