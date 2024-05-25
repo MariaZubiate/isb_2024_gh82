@@ -34,9 +34,11 @@ La extracción precisa de parámetros de las señales EMG es crucial para el des
 
 ## *2. Objetivos* <a name="id2"></a>
 
-1. Elección del mejor filtro Wavelet para EMG 
-2. Segmentación de la señal.
-3. Extracción de parametros estaticos y temporales de la señal.
+1. Elección del mejor filtro Wavelet para EMG
+   
+3. Segmentación de la señal.
+   
+5. Extracción de parametros estaticos y temporales de la señal.
 
 ## *3. Materiales y equipos* <a name="id3"></a>
 
@@ -58,7 +60,9 @@ En primera instancia usaremos la referencia ya usada en el trabajo anterior "Det
 Por lo que para nuestro primer filtro realizaremos:
 
 1.Descomposición de 8 coeficientes.
+
 2.Eliminación de coeficiente 1,8,9.
+
 3.Reconstrucción de la señal filtrada. 
 
 
@@ -69,8 +73,10 @@ Para el segundo filtros utilizamos el articulo "Comparative study of wavelet den
 Para nuestro segundo filtro, utilizaremos el Daubechies (db4). La implementación de este filtro seguirá este paso:
 
 1. Descomposición de la señal utilizando las funciones wavelet db4.
-2. Aplicación de métodos de umbral para la eliminación de ruido en los coeficientes descompuestos.
-3. Reconstrucción de la señal utilizando los coeficientes modificados.
+   
+3. Aplicación de métodos de umbral para la eliminación de ruido en los coeficientes descompuestos.
+   
+5. Reconstrucción de la señal utilizando los coeficientes modificados.
 
 **3. Tercer filtro**
 
