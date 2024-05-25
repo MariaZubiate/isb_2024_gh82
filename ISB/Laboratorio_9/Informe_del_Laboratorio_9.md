@@ -79,7 +79,7 @@ Skewness: Mide la asimetría de la distribución de los datos. Un valor positivo
 Kurtosis: Mide la forma de la distribución, especialmente el "apuntalamiento". Una alta kurtosis indica una distribución con picos más pronunciados y colas más gruesas, lo que sugiere la presencia de valores atípicos[2M].
 
 #### *Parametros temporales*
-##### *4.2.4. Estacionalidad 
+##### *4.2.4. Estacionalidad* 
 
 La estacionalidad se refiere a patrones repetitivos o ciclos que ocurren a intervalos regulares en una serie temporal. La descomposición estacional permite dividir la serie temporal en componentes de tendencia, estacionalidad y residuo[2M].
 
