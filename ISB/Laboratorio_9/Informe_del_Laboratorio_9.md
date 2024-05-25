@@ -103,8 +103,6 @@ Varianza: Mide la dispersión de los datos respecto a la media. Indica cuánto v
 
 Desviación Estándar: Es la raíz cuadrada de la varianza, proporcionando una medida de dispersión en las mismas unidades que los datos originales[2M]. En la Imagen 2, se puede observar la formula a utilizar.
 
-### Imagen2. Fuente: Biosignalnotebook-github
-
 <p align="center">
   <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/65fa30e8-ee5d-40e9-8edc-a8180c363262" alt="Imagen2">
 </p>
