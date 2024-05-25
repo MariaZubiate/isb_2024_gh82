@@ -25,7 +25,7 @@
 
 ## *2. Objetivos* <a name="id2"></a>
 
-1. Eleccion del mejor filtro Wavelet para EMG (SNS, visualización, perdida de información).
+1. Eleccion del mejor filtro Wavelet para EMG 
 2. Segmentación de la señal.
 3. Extracción de parametros estaticos y temporales de la señal.
 
