@@ -160,8 +160,6 @@ La estacionalidad se refiere a patrones repetitivos o ciclos que ocurren a inter
 |Señal filtrada 3|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/889ecfe7-46a2-40cb-8d8e-a1d6c9d879d1)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/da043110-0d63-4e94-bada-ab8e4de2d46f)
 
 
-
-
 **Cuadro comparatido de SNR de los filtros**
 
 Se realizo un cuadro comparativo de los valores de SNR de cada filtro, con el fin de poder determinar cual es el mas optimo para nuestras señales EMG.
