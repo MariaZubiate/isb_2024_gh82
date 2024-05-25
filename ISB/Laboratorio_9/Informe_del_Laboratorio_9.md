@@ -22,6 +22,14 @@
    
 ## *1. Introducción* <a name="id1"></a>
 
+La electromiografía (EMG) y la velocidad de conducción nerviosa son procedimientos fundamentales en el diagnóstico y seguimiento de patologías que afectan el sistema nervioso periférico en pacientes pediátricos. La Guía de Procedimiento de Electromiografía y Velocidad de Conducción de Nervios Periféricos, elaborada por el Instituto Nacional de Salud del Niño – San Borja, proporciona un marco técnico estandarizado para la realización de estos estudios[1].
+
+**Filtrado de Señales EMG con Transformada Wavelet**
+Las señales EMG obtenidas necesitan ser filtradas para eliminar los ruidos presentes. Una técnica efectiva para esta tarea es el uso de la transformada Wavelet, que permite la eliminación de ruido y partes no deseadas de la señal EMG. Los filtros Wavelet se utilizan con una descomposición de niveles para separar las señales EMG en componentes de diferentes resoluciones. Mediante métodos de umbralización, se evalúa su efectividad en la reducción de ruido. Según el estudio "Wavelet packet based Denoising of EMG Signal", ambos métodos de umbralización (suave y duro) mejoraron significativamente la calidad de las señales EMG, manteniendo la integridad de la señal. Para evaluar el desempeño de estos filtros, se utilizaron medidas estadísticas como la media, desviación estándar y desviación media absoluta, alcanzando valores óptimos[2]. 
+
+**Importancia de la Extracción de Parámetros EMG**
+
+La extracción precisa de parámetros de las señales EMG es crucial para el desarrollo de sistemas inteligentes de biofeedback EMG, utilizados para monitorizar y mejorar la recuperación muscular en pacientes. Los parámetros extraídos, como la media, desviación estándar y desviación media absoluta, proporcionan información importante sobre la actividad muscular, facilitando diagnósticos más precisos y tratamientos personalizados. La investigación ha demostrado que estos parámetros extraídos de las señales EMG son vitales para el diseño de terapias de biofeedback eficientes y personalizadas[3].
 
 ## *2. Objetivos* <a name="id2"></a>
 
@@ -119,6 +127,12 @@ La estacionalidad se refiere a patrones repetitivos o ciclos que ocurren a inter
 
 
 ## *7. Bibliografia* <a name="id11"></a>
+
+[1] Instituto Nacional de Salud del Niño – San Borja. "Guía de Procedimiento de Electromiografía y Velocidad de Conducción de Nervios Periféricos." Fecha: Octubre 2020. Código: GP-001/INSNSB/UAIE/SUAIEPSE – Neurología Pediátrica V01. Página 1-39.
+
+[2] Akash Kumar Bhoi, Jitendra Singh Tamang, Purnendu Mishra, "Wavelet packet based Denoising of EMG Signal," International Journal of Engineering Research and Development, 2012.
+
+[3]S. Im, S. Rho, "Extraction of parameters from EMG signals for the biofeedback electrical stimulation," in Proceedings of the 2005 IEEE Engineering in Medicine and Biology Society Annual Conference (EMBC), Shanghai, China, Sep. 2005, pp. 2157-2160. DOI: 10.1109/IEMBS.2005.1616926.
 
 [1M]Saleh Ahmed, Mahboob Qaosar, Dr. Shamim Ahmad. "EMG Signal Analysis By Using Various Wavelet And A Comparative Study." Journal of Multidisciplinary Engineering Science and Technology (JMEST). 2019.
 [2M] https://github.com/pluxbiosignals/biosignalsnotebooks/blob/master/biosignalsnotebooks_notebooks/Categories/Extract/temporal_statistical_parameters.ipynb
