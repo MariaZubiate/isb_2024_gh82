@@ -129,12 +129,12 @@ La estacionalidad se refiere a patrones repetitivos o ciclos que ocurren a inter
 
 |  **Campo**  |  **Señal cruda** | **Señal filtrada 1** |  **Señal filtrada 2** |  **Señal filtrada 3** | 
 |:------------:|:---------------:|:------------:| :------------:| :------------:|
-|REPOSO |------|-------|-------|-------
-|FFTS EN REPOSO |------|-------|-------|-------
-|FLEXIÓN |------|-------|-------|-------
-|FFTS PARA FLEXIÓN |------|-------|-------|-------
-|CONTRAFUERZA |------|-------|-------|-------
-|FFTS CONTRAFUERZA |------|-------|-------|-------
+|REPOSO |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/32f8858d-1fa1-4fef-9ed7-8dc899137700)|-------|-------|-------
+|FFTS EN REPOSO |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/1a840458-47e8-4ec2-8f5a-d8a8ea8a6a6b)|-------|-------|-------
+|FLEXIÓN |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/812b4020-e0f9-44ec-8e51-4cd2b0b78352)|-------|-------|-------
+|FFTS PARA FLEXIÓN |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/0474faf9-a64a-4fb6-adff-2dc206de2b58)|-------|-------|-------
+|CONTRAFUERZA |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/8d101479-e278-4abf-aa59-a3600b3e18d5)|-------|-------|-------
+|FFTS CONTRAFUERZA |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/29f4c9f6-9ee1-462a-a989-e65dfd57c19f)|-------|-------|-------
 
 **Análisis descriptivo:**
 
