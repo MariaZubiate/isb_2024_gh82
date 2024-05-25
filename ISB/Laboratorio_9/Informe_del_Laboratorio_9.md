@@ -47,7 +47,7 @@ Hemos seleccionado tres de los filtros wavelet evaluados en el artículo: Daubec
 ### *4.2. Parametros estaticos y temporales para EMG* <a name="id6"></a>
 
 #### *Parametros estaticos*
-##### *4.2.1. Mediana 
+##### *4.2.1. Mediana* 
 
 La mediana es el valor que separa la mitad superior e inferior en un conjunto de datos ordenados. Es una medida robusta de tendencia central y es menos sensible a los valores atípicos comparado con la media. En la Imagen 1, se puede observar la formula a utilizar.
 
@@ -58,7 +58,7 @@ La mediana es el valor que separa la mitad superior e inferior en un conjunto de
   Imagen1. Fuente: Biosignalnotebook-github
 </p>
 
-##### *4.2.2. Varianza y desviación estandar
+##### *4.2.2. Varianza y desviación estandar*
 
 Varianza: Mide la dispersión de los datos respecto a la media. Indica cuánto varían los datos en torno a su valor promedio.
 
@@ -74,7 +74,7 @@ Desviación Estándar: Es la raíz cuadrada de la varianza, proporcionando una m
   Imagen2. Fuente: Biosignalnotebook-github
 </p>
 
-##### *4.2.3. Skewness and kurtosis
+##### *4.2.3. Skewness and kurtosis*
 
 Skewness: Mide la asimetría de la distribución de los datos. Un valor positivo indica que la cola derecha de la distribución es más larga, mientras que un valor negativo indica una cola izquierda más larga[2M].
 
