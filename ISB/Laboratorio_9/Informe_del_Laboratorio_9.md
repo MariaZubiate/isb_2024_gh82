@@ -142,7 +142,7 @@ La estacionalidad se refiere a patrones repetitivos o ciclos en una serie tempor
 
 ##### *4.2.5. Relación señal-ruido (SNR)*
 
-La relación señal-ruido es una métrica que clasifica objetivamente la calidad de la adquisición y, como su nombre sugiere, la proporción entre la intensidad de la señal y el ruido no deseado en los datos adquiridos. En la Imagen 3, se puede observar la formula a utilizar [3M].
+El SNR mide la relación entre la potencia de la señal y la potencia del ruido presente en la señal. Un SNR alto indica que la señal es mucho más fuerte que el ruido, mientras que un SNR bajo indica que la señal está dominada por el ruido. En los experimentos de EMG, un buen SNR es crucial para asegurar que las medidas de actividad muscular no están contaminadas por ruido externo. Evaluar el SNR en diferentes condiciones (reposo, sin oposición, con oposición) permite determinar la calidad de las grabaciones y la fiabilidad de los datos obtenidos. Un SNR alto en las lecturas del músculo flexor del pulgar, bíceps del brazo y gemelo de la pantorrilla asegura que los cambios observados en la actividad muscular son reales y no artefactos del ruido. En la Imagen 3, se puede observar la formula a utilizar [3M].
 
 <p align="center">
   <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/6441cf4d-8b51-434a-80e4-a923311d864f" alt="Imagen3">
