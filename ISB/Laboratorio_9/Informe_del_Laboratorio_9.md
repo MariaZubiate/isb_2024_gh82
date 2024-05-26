@@ -13,10 +13,10 @@
 3. [Materiales y equipos](#id3)
 4. [Metodologia](#id4)\
      4.1. [Filtros para EMG](#id5)\
-     4.1. [Parametros estaticos y temporales para EMG](#id6)
+     4.1. [Parametros estáticos y temporales para EMG](#id6)
 6. [Resultados](#id7)\
      5.1 [Resultado de elección de filtro para EMG](#id8)\
-     5.1 [Resultado de los parametros estaticos y temporales para EMG](#id9) 
+     5.1 [Resultado de los parametros estáticos y temporales para EMG](#id9) 
 8. [Conclusiones](#id10)
 9. [Bibliografia](#id11)
    
@@ -38,7 +38,7 @@ La extracción precisa de parámetros de las señales EMG es crucial para el des
    
 3. Segmentación de la señal.
    
-5. Extracción de parametros estaticos y temporales de la señal.
+5. Extracción de parametros estáticos y temporales de la señal.
 
 ## *3. Materiales y equipos* <a name="id3"></a>
 
@@ -88,10 +88,10 @@ Para el tercer filtro utilizaremos estos pasos:
 1. Descomposición de la señal en 7 niveles utilizando Rbio3.1.
 2. Reconstrucción de la señal utilizando los coeficientes de detalle seleccionados.
    
-### *4.2. Parametros estaticos y temporales para EMG* <a name="id6"></a>
+### *4.2. Parametros estáticos y temporales para EMG* <a name="id6"></a>
 
 
-#### *Parametros estaticos*
+#### *Parametros estáticos*
 ##### *4.2.1. Media* 
 
 La media representa el valor promedio de la señal [2M]. En la Imagen 1, se puede observar la formula a utilizar.
@@ -171,7 +171,7 @@ Se realizo un cuadro comparativo de los valores de SNR de cada filtro, con el fi
 
 En el análisis de SNR comparado, el filtro Sym8 emerge como el mejor filtro en general, debido a su rendimiento consistente en todas las condiciones evaluadas. Muestra una SNR de 6,42 dB en reposo, 17,15 dB en flexión y 16,89 dB en contrafuerza, lo que indica una capacidad superior para reducir el ruido y preservar la señal útil en diversas situaciones. La simetría y ortogonalidad del filtro Sym8 contribuyen a su alta eficiencia en la descomposición y reconstrucción de señales, minimizando la distorsión y el ruido introducido. Este filtro es particularmente efectivo en el procesamiento de señales biológicas como las señales EMG, donde la preservación de la integridad de la señal es crucial para un análisis preciso. Además, su capacidad para mantener un alto SNR en múltiples condiciones lo hace especialmente adecuado para aplicaciones en las que se requiere un rendimiento uniforme y confiable. Aunque el filtro Db4 sobresale en condiciones de contrafuerza con una SNR de 23,22 dB, su desempeño es inferior en reposo y flexión comparado con Sym8, haciendo de Sym8 la opción más equilibrada y eficaz para aplicaciones variadas. El filtro Rbio3.1, con SNR de -0,11 dB en reposo, 3,32 dB en flexión y 3,10 dB en contrafuerza, demuestra ser menos eficiente en comparación, resaltando la superioridad del Sym8 en la reducción del ruido y la preservación de la señal en contextos de señales EMG.
 
-### *5.2. Resultado de los parametros estaticos y temporales para EMG* <a name="id9"></a>
+### *5.2. Resultado de los parametros estáticos y temporales para EMG* <a name="id9"></a>
 
 Mediante codigo se hallaron diferentes parametros, los cuales nos permitiran obtener información importante de la señal:
 
