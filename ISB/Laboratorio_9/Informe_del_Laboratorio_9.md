@@ -50,7 +50,7 @@ La extracción precisa de parámetros de las señales EMG es crucial para el des
 
 Llevaremos a cabo una comparación de 3 diferentes filtros que encontramos optimos en la busqueda de información que realizamos para la eliminación de ruido en señales EMG. El objetivo de este estudio es determinar cuál de estos filtros ofrece el mejor rendimiento en la eliminación de ruido de señales EMG con visualización de eliminación de ruido y analisis de señal ruido (SNR). 
 
-*Los tres filtros encontrados en la literatura y candidatos para su aplicación fueron wavelets Symmlets, Daubechies y Bio-ortogonal(RBio3.1), respectivamente.*
+**Los tres filtros encontrados en la literatura y candidatos para su aplicación fueron wavelets Symmlets, Daubechies y Bio-ortogonal(RBio3.1), respectivamente.*
 
 ### *4.1. Filtros para EMG* <a name="id5"></a>
 
