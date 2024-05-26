@@ -97,7 +97,7 @@ Para el tercer filtro utilizaremos estos pasos:
 La media representa el valor promedio de la señal [2M]. En la Imagen 1, se puede observar la formula a utilizar.
 
 <p align="center">
-  <img src=![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/ee08dca9-040c-4900-a031-caaabe5181c5) alt="Imagen1">
+  <img src=https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/ee08dca9-040c-4900-a031-caaabe5181c5 alt="Imagen1">
 </p>
 <p align="center">
   Imagen1. Fuente: Biosignalnotebook-github
