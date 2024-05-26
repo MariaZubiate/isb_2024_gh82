@@ -137,9 +137,21 @@ Desviación Estándar: Es la raíz cuadrada de la varianza, proporcionando una m
 Skewness: Mide la asimetría de la distribución de los datos. Una distribución normal tiene un skewness de 0. Un valor positivo indica que la cola derecha de la distribución es más larga, mientras que un valor negativo indica una cola izquierda más larga [2M].
 
 #### *Parametros temporales*
-##### *4.2.4. Estacionalidad* 
+##### *4.2.4. Estacionalidad*
 
 La estacionalidad se refiere a patrones repetitivos o ciclos que ocurren a intervalos regulares en una serie temporal. La descomposición estacional permite dividir la serie temporal en componentes de tendencia, estacionalidad y residuo [2M].
+
+##### *4.2.5. Relación señal-ruido (SNR)*
+
+La relación señal-ruido es una métrica que clasifica objetivamente la calidad de la adquisición y, como su nombre sugiere, la proporción entre la intensidad de la señal y el ruido no deseado en los datos adquiridos. En la Imagen 3, se puede observar la formula a utilizar [3M].
+
+<p align="center">
+  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/6441cf4d-8b51-434a-80e4-a923311d864f" alt="Imagen3">
+</p>
+
+<p align="center">
+  Imagen3. Fuente: Biosignalnotebook-github
+</p>
 
 ## *5. Resultados* <a name="id7"></a>
 
