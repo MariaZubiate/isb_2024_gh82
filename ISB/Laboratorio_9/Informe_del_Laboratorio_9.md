@@ -118,7 +118,7 @@ La mediana representa el valor central de la señal EMG[2M] y es útil para ente
   Imagen 1. Fuente: Biosignalnotebook-github
 </p>
 
-##### *4.2.2. Varianza y desviación estandar*
+##### *4.2.2. Varianza y desviación estándar*
 
 La desviación estándar, siendo la raíz cuadrada de la varianza, proporciona una medida de dispersión en las mismas unidades que los datos originales. En los experimentos de EMG, estos parámetros ayudan a evaluar la consistencia de la señal y a detectar variaciones significativas en la actividad muscular. Por ejemplo, al comparar la desviación estándar de las señales en reposo y en actividad, se puede determinar la estabilidad y la variabilidad de la contracción muscular[2M]. En la Imagen 2, se puede observar la formula a utilizar.
 
