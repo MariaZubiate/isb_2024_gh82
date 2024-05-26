@@ -154,6 +154,12 @@ La estacionalidad se refiere a patrones repetitivos o ciclos que ocurren a inter
 |Señal filtrada 2|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d0d21558-571e-4aa8-8279-6a2344d19b15)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/550b31ea-3768-4623-9712-98b95cfb59fd)
 |Señal filtrada 3|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1c97c51d-d3a7-4dbd-a551-19423fb09b4d)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/f8d2b850-a74d-480a-aec9-b0b5b2f247ed)
 
+La señal filtrada 1 muestra una reducción significativa del ruido en comparación con la señal original. La línea naranja sigue de cerca la azul, preservando los picos y las características importantes de la señal. Esto indica que el filtro Sym8 es efectivo para mejorar la relación señal-ruido sin comprometer la integridad de la señal EMG.
+
+La señal filtrada 2 muestra una reducción considerable del ruido en comparación con la señal original. Sin embargo, a diferencia del filtro Sym8, la señal filtrada con Db4 no sigue tan de cerca a la señal original, especialmente en los picos. Esto indica que, aunque el filtro Db4 reduce el ruido, puede introducir cierta distorsión y pérdida de detalles en la señal EMG.
+
+La señal filtrada 3 muestra una reducción del ruido, pero con notable distorsión en comparación con la señal original. Los picos en la señal filtrada están más suavizados, y hay discrepancias visibles, especialmente en los extremos de la señal. Esto indica que el filtro Rbio3.1 es menos efectivo en preservar la integridad de la señal original en comparación con los otros filtros analizados.
+
 **FLEXIÓN**
 |  **Campo**  |  **Señal cruda** | **Coeficientes de eliminación**
 |:------------:|:---------------:|:---------------:
