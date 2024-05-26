@@ -86,7 +86,7 @@ Para el segundo filtro, se utilizó la investigación titulada "Comparative stud
 Para el último filtro se utilizó el articulo "Discrete wavelet transform analysis of surface electromyography for the fatigue assessment of neck and shoulder muscles", la cual compararon familias de Wavelet para evaluar la fatiga muscular en el cuello y los hombros bajo condiciones dinámicas repetitivas. Se probaron diez funciones Wavelet comunes, y se encontró que la wavelet "Rbio3.1" era la más sensible a los cambios espectrales inducidos por la fatiga. Para su aplicación, se usaron 7 niveles de descomposición y se eliminaron el coeficiente de aproximación y los coeficientes 5, 6 y 7. [6]. 
 
    
-### *4.2. Parametros estáticos y temporales para EMG* <a name="id6"></a>
+### *4.2. Parámetros estáticos y temporales para EMG* <a name="id6"></a>
 
 #### *Parametros estáticos*
 ##### *4.2.1. Mediana* 
@@ -175,11 +175,7 @@ La señal filtrada con Rbio3.1 muestra una reducción del ruido, pero la señal 
 |Señal filtrada 2 "db4"|![Captura de pantalla 2024-05-25 224143](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/d726c994-c147-4e02-8eee-97407a0e6f63)|
 |Señal filtrada 3 "Rbio3.1"|![Captura de pantalla 2024-05-25 224225](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0b71486e-9b38-43af-a23a-b9e798a476fb)|
 
-La señal filtrada sigue de cerca a la señal original, mostrando una buena reducción del ruido sin distorsionar significativamente las características importantes de la señal EMG. Los picos y valles de la señal EMG original se preservan bien en la señal filtrada, lo que indica que el filtro Sym8 es altamente eficaz en mantener la integridad de la señal mientras reduce el ruido.
-
-La señal filtrada con Db4 sigue de cerca a la señal original, mostrando una excelente reducción del ruido. Los picos y valles de la señal EMG original se preservan bien en la señal filtrada, indicando que el filtro Db4 es muy eficaz en mantener la integridad de la señal mientras reduce el ruido. En este caso, Db4 parece ser más efectivo que Sym8 en la preservación de los detalles de la señal EMG.
-
-La señal filtrada con Rbio3.1 sigue de cerca a la señal original, mostrando una buena reducción del ruido. Sin embargo, la señal filtrada presenta una mayor densidad de puntos naranjas, lo que indica que la señal tiene más ruido residual en comparación con los filtros Sym8 y Db4. A pesar de esto, los picos y valles de la señal original se preservan en gran medida, demostrando que Rbio3.1 es efectivo, aunque menos que Sym8 y Db4, en la reducción de ruido y preservación de la integridad de la señal EMG.
+La señal filtrada con Db4 sigue de cerca a la señal original, mostrando una buena reducción del ruido. Sin embargo, en las secciones de alta amplitud, la señal filtrada presenta mayor densidad de puntos, lo que puede indicar alguna distorsión o alteración leve en la señal. A pesar de esto, el filtro Db4 es efectivo en mantener la forma general de la señal EMG mientras reduce el ruido.
 
 **Cuadro comparativo de SNR de los filtros**
 
@@ -194,7 +190,7 @@ Según [3M] un SNR mayor indica un mejor rendimiento del filtro para señales EM
 
 **Cuadro comparativo de MSE de los filtros**
 
-Según [] el filtro es más optimo cuando el valor MSE es menor.
+Cuanto menor es el valor MSE, el filtro es considerado más optimo [5].
 
 |  **Filtro**  |  **MSE sym8** | **MSE db4** | **MSE Rbio3.1**|
 |:------------:|:---------------:|:---------------:|:------:|
@@ -204,7 +200,7 @@ Según [] el filtro es más optimo cuando el valor MSE es menor.
 
 **Cuadro comparatido de RMS de los filtros**
 
-Según [] el valor RMS es catalogado como uno de los mejores parámetros para analizar la señal EMG ya que refleja mejor el comportamiento del potencial de acción de la unidad motora durante una contracción muscular sostenida. Un menor valor indica que el filtro es más eficiente.
+El valor RMS es catalogado como uno de los mejores parámetros para analizar la señal EMG ya que refleja mejor el comportamiento del potencial de acción de la unidad motora durante una contracción muscular sostenida. Un menor valor indica que el filtro es más eficiente [5].
 
 |  **Filtro**  |  **RMS sym8** | **RMS db4** | **RMS Rbio3.1**|
 |:------------:|:---------------:|:---------------: |:---------------:|
