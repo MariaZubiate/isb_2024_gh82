@@ -115,7 +115,7 @@ La media representa el valor promedio de la señal [2M]. En la Imagen 1, se pued
   <img src=https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/ee08dca9-040c-4900-a031-caaabe5181c5 alt="Imagen1">
 </p>
 <p align="center">
-  Imagen1. Fuente: Biosignalnotebook-github
+  Imagen 1. Fuente: Biosignalnotebook-github
 </p>
 
 ##### *4.2.2. Varianza y desviación estandar*
@@ -129,7 +129,7 @@ Desviación Estándar: Es la raíz cuadrada de la varianza, proporcionando una m
 </p>
 
 <p align="center">
-  Imagen2. Fuente: Biosignalnotebook-github
+  Imagen 2. Fuente: Biosignalnotebook-github
 </p>
 
 ##### *4.2.3. Skewness*
@@ -150,7 +150,7 @@ La relación señal-ruido es una métrica que clasifica objetivamente la calidad
 </p>
 
 <p align="center">
-  Imagen3. Fuente: Biosignalnotebook-github
+  Imagen 3. Fuente: Biosignalnotebook-github
 </p>
 
 ## *5. Resultados* <a name="id7"></a>
