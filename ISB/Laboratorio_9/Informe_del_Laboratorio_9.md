@@ -191,6 +191,7 @@ Según [3M] un SNR mayor indica un mejor rendimiento del filtro para señales EM
 |FLEXIÓN|17.15 dB|14.45 dB|4.75 dB|
 |CONTRAFUERZA| 16.89 dB|23.22 dB |3.10 dB|
 
+En el análisis de SNR comparado, el filtro Sym8 emerge como el mejor filtro en general, debido a su rendimiento consistente en todas las condiciones evaluadas. Muestra una SNR de 6.42 dB en reposo, 17.15 dB en flexión y 16.89 dB en contrafuerza, lo que indica una capacidad superior para reducir el ruido y preservar la señal útil en diversas situaciones. La simetría y ortogonalidad del filtro Sym8 contribuyen a su alta eficiencia en la descomposición y reconstrucción de señales, minimizando la distorsión y el ruido introducido. Este filtro es particularmente efectivo en el procesamiento de señales biológicas como las señales EMG, donde la preservación de la integridad de la señal es crucial para un análisis preciso. Además, su capacidad para mantener un alto SNR en múltiples condiciones lo hace especialmente adecuado para aplicaciones en las que se requiere un rendimiento uniforme y confiable. Aunque el filtro Db4 sobresale en condiciones de contrafuerza con una SNR de 23.22 dB, su desempeño es inferior en reposo y flexión comparado con Sym8, haciendo de Sym8 la opción más equilibrada y eficaz para aplicaciones variadas. El filtro Rbio3.1, con SNR de 0.93 dB en reposo, 4.75 dB en flexión y 3.10 dB en contrafuerza, demuestra ser menos eficiente en comparación, resaltando la superioridad del Sym8 en la reducción del ruido y la preservación de la señal en contextos de señales EMG.
 
 **Cuadro comparativo de MSE de los filtros**
 
@@ -211,8 +212,6 @@ Según [] el valor RMS es catalogado como uno de los mejores parámetros para an
 |REPOSO|2.91|5.67|5.47|
 |FLEXIÓN|11.28|15.39|47.03|
 |CONTRAFUERZA| 16.89|23.22|3.10|
-
-En el análisis de SNR comparado, el filtro Sym8 emerge como el mejor filtro en general, debido a su rendimiento consistente en todas las condiciones evaluadas. Muestra una SNR de 6,42 dB en reposo, 17,15 dB en flexión y 16,89 dB en contrafuerza, lo que indica una capacidad superior para reducir el ruido y preservar la señal útil en diversas situaciones. La simetría y ortogonalidad del filtro Sym8 contribuyen a su alta eficiencia en la descomposición y reconstrucción de señales, minimizando la distorsión y el ruido introducido. Este filtro es particularmente efectivo en el procesamiento de señales biológicas como las señales EMG, donde la preservación de la integridad de la señal es crucial para un análisis preciso. Además, su capacidad para mantener un alto SNR en múltiples condiciones lo hace especialmente adecuado para aplicaciones en las que se requiere un rendimiento uniforme y confiable. Aunque el filtro Db4 sobresale en condiciones de contrafuerza con una SNR de 23,22 dB, su desempeño es inferior en reposo y flexión comparado con Sym8, haciendo de Sym8 la opción más equilibrada y eficaz para aplicaciones variadas. El filtro Rbio3.1, con SNR de -0,11 dB en reposo, 3,32 dB en flexión y 3,10 dB en contrafuerza, demuestra ser menos eficiente en comparación, resaltando la superioridad del Sym8 en la reducción del ruido y la preservación de la señal en contextos de señales EMG.
 
 ### *5.2. Resultado de los parámetros estáticos y temporales para EMG* <a name="id9"></a>
 
