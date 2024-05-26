@@ -229,6 +229,11 @@ Se observa que la media en reposo es cercana a cero (-0.19), mientras que en fle
 
 ## *6. Conclusiones* <a name="id10"></a>
 
+Al analizar los filtros wavelet aplicados a señales EMG, se observa que el filtro Sym8 destaca por su capacidad para reducir el ruido mientras preserva la integridad de la señal. Los valores de relación señal-ruido (SNR) obtenidos fueron 6.42 dB en reposo, 17.15 dB en flexión y 16.89 dB en contrafuerza, lo cual resalta su efectividad en diversas condiciones. Además, los resultados de error cuadrático medio (MSE) y valor cuadrático medio (RMS) apoyan esta conclusión, mostrando que Sym8 es eficiente en descomponer y reconstruir señales EMG con mínima distorsión y ruido introducido.
+
+Por otro lado, el filtro Db4, aunque útil, tiene algunas limitaciones. Este filtro también reduce significativamente el ruido y conserva los picos y valles de la señal EMG, con SNR de 0.64 dB en reposo, 14.45 dB en flexión y 23.22 dB en contrafuerza. Sin embargo, en secciones de alta amplitud, Db4 puede introducir distorsiones, lo cual se refleja en sus valores de MSE y RMS, sugiriendo que aunque es efectivo para reducir el ruido, su capacidad para mantener los detalles finos de la señal no es tan robusta como la del filtro Sym8.
+
+Finalmente, el filtro Rbio3.1 muestra una reducción del ruido, pero su eficiencia es menor comparada con Sym8 y Db4 en la preservación de detalles de la señal EMG. Los valores obtenidos de SNR, MSE y RMS indican una mayor presencia de ruido residual y variabilidad. Esto pone de relieve su menor eficacia, subrayando que Sym8 es superior en contextos donde se requiere alta fidelidad en la señal y una reducción significativa del ruido.
 
 
 ## *7. Bibliografia* <a name="id11"></a>
