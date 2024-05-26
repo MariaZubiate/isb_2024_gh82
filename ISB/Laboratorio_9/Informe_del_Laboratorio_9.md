@@ -229,7 +229,7 @@ Se observa que la media en reposo es cercana a cero (-0.19), mientras que en fle
 
 ## *6. Conclusiones* <a name="id10"></a>
 
-En el primer experimento en condiciones de reposo, el filtro Sym8 mostró una destacada capacidad para reducir el ruido y mantener la integridad de la señal EMG, con un SNR de 6.42 dB. Por otro lado, los filtros Db4 y Rbio3.1 obtuvieron SNR significativamente menores, de 0.64 dB y -0.11 dB, respectivamente. Además, Sym8 tuvo los valores más bajos en el error cuadrático medio (MSE) y el valor cuadrático medio (RMS), demostrando su eficiencia en la gestión de señales EMG en reposo.
+En el primer experimento en condiciones de reposo, el filtro Sym8 mostró una destacada capacidad para reducir el ruido y mantener la integridad de la señal EMG, con un SNR de 6.42 dB. Por otro lado, los filtros Db4 y Rbio3.1 obtuvieron SNR significativamente menores, de 0.64 dB y 0.93 dB, respectivamente. Además, Sym8 tuvo los valores más bajos en el error cuadrático medio (MSE) y el valor cuadrático medio (RMS), demostrando su eficiencia en la gestión de señales EMG en reposo.
 
 En el segundo experimento, que implicaba flexión muscular, Sym8 nuevamente sobresalió con un SNR de 17.15 dB, demostrando su capacidad para mantener la calidad de la señal en condiciones dinámicas. El filtro Db4 también mostró un buen desempeño con un SNR de 14.45 dB, pero presentó mayor variabilidad en las métricas de MSE y RMS, lo que sugiere una posible distorsión en las secciones de alta amplitud de la señal. El filtro Rbio3.1, aunque redujo el ruido, fue menos efectivo con un SNR de 3.32 dB, indicando una mayor presencia de ruido residual.
 
