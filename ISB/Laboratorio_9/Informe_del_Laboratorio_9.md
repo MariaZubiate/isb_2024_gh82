@@ -213,11 +213,19 @@ El valor RMS es catalogado como uno de los mejores parámetros para analizar la 
 |FLEXIÓN|11.28|15.39|47.03|
 |CONTRAFUERZA|75.19|36.30|267.28|
 
+*Análisis de la comparación de los filtros*
+Para el parámetro SNR, tanto para la señal en Reposo como Flexión, el mayor valor SNR se observa con el wavelet "sym8", mientras que para la señal de Contrafuerza, el valor más alto es con la familia "db4".
+
+Para el parámetro MSE, se observa un menor valor con la familia "sym8" para las señales de Reposo y Flexión. Sin embargo, para la señal de Contrafuerza, el mejor filtro, debido al menor valor MSE, es usando la familia db4.
+
+Finalmente, tomando en cuenta el parámetro RMS, para las señales en Reposo y Flexión se obtiene que el mejor filtro es usando la familia "sym8". No obstante, para la señal de Contrafuerza, el menor valor RMS se obtiene con el la familia "db4"
+
+De las 3 comparaciones se puede observa que el filtrado realizado con la familia "Rbio3.1" fue la menos eficiente para el presente estudio. Pero, cabe resaltar, que su eficiencia es casi similar a la del filtro "db4" para señales en Reposo; puesto que los valores de cada parámetro no difieren demasiado. Asimismo, se evidencia que para señales donde el músculo está en Reposo y en Flexión, fue más conveniente utilizar el filtro de la familia "sym8". Pero para señales electromiográficas con amplitudes extremadamente grandes, como las obtenidas cuando el músculo realiza una Contrafuerza, el filtro más eficiente es la correspondiente a la familia "db4".
+
+
 ### *5.2. Resultado de los parámetros estáticos y temporales para EMG* <a name="id9"></a>
 
 Mediante codigo se hallaron diferentes parametros, los cuales nos permitiran obtener información importante de la señal:
-
-
    
 |  **Parametro extraido*  |  **Media** |  **Desviación estandar** |  **Varianza** |  **Skewness**
 |:------------:|:---------------:| :---------------:| :---------------:| :---------------:|
