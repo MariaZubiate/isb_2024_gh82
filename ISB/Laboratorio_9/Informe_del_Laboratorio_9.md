@@ -173,9 +173,15 @@ En el análisis de SNR comparado, el filtro Sym8 emerge como el mejor filtro en 
 
 ### *5.2. Resultado de los parametros estaticos y temporales para EMG* <a name="id9"></a>
 
+Mediante codigo se hallaron diferentes parametros, los cuales nos permitiran obtener información importante de la señal:
 
 
-
+   
+|  **Parametro extraido*  |  **Mediana** |  **Desviación estandar** |  **Varianza**
+|:------------:|:---------------:| :---------------:| :---------------:|
+|REPOSO|-0.19199107348635788  | 5.357137450241598 |28.698921660781043|
+|FLEXIÓN|1.0932361025490807 | 80.4462510415022|  6471.599306632392
+|CONTRAFUERZA| 0.8392194236304191|520.4572344851734| 270875.7329279549|
 
 
 **Análisis descriptivo:**
