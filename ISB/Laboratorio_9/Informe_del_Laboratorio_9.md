@@ -91,7 +91,8 @@ Para el último filtro se utilizó el articulo "Discrete wavelet transform analy
 #### *Parametros estáticos*
 ##### *4.2.1. Mediana* 
 
-La mediana representa el valor central de la señal EMG[9] y es útil para entender el nivel típico de actividad muscular sin verse afectada por valores atípicos extremos. En los experimentos de EMG, como los de lectura del músculo flexor del pulgar, bíceps del brazo y gemelo de la pantorrilla, la mediana permite comparar la actividad muscular en reposo, sin oposición y con oposición. Esto nos ayudará a identificar cambios en la actividad muscular de manera más estable ante la presencia de picos o artefactos en la señal. En la Imagen 1, se puede observar la formula a utilizar.
+La mediana representa el valor promedio de la señal [2M]. 
+La mediana representa el valor central de la señal EMG y es útil para entender el nivel típico de actividad muscular sin verse afectada por valores atípicos extremos. En los experimentos de EMG, como los de lectura del músculo flexor del pulgar, bíceps del brazo y gemelo de la pantorrilla, la mediana permite comparar la actividad muscular en reposo, sin oposición y con oposición. Esto nos ayudará a identificar cambios en la actividad muscular de manera más estable ante la presencia de picos o artefactos en la señal. En la Imagen 1, se puede observar la formula a utilizar.
 
 <p align="center">
   <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/78aab2ca-8c90-4977-ad43-41f39ce31dcb" alt="Imagen1" >
@@ -182,7 +183,7 @@ La señal filtrada con Rbio3.1 sigue de cerca a la señal original, mostrando un
 
 **Cuadro comparativo de SNR de los filtros**
 
-Según [3M] un SNR mayor indica un mejor rendimiento del filtro para señales EMG.
+Según [10] un SNR mayor indica un mejor rendimiento del filtro para señales EMG.
 
 |  **Filtro**  |  **SNR sym8** | **SNR db4** | **SNR Rbio3.1**|
 |:------------:|:---------------:|:---------------: |:---------------:|
@@ -243,6 +244,20 @@ En el segundo experimento, que implicaba flexión muscular, Sym8 nuevamente sobr
 El tercer experimento, realizado bajo condiciones de contrafuerza, confirmó la superioridad del filtro Sym8, con un SNR de 16.89 dB, proporcionando una reducción efectiva del ruido sin comprometer los detalles finos de la señal EMG. El filtro Db4 mostró el SNR más alto en este experimento con 23.22 dB, aunque su rendimiento en términos de MSE y RMS fue menos consistente en comparación con Sym8. El filtro Rbio3.1, con un SNR de 5.88 dB, fue el menos efectivo en estas condiciones, subrayando sus limitaciones en la capacidad de preservación de la señal y reducción de ruido en escenarios de alta actividad muscular.
 
 
+*Código de la Data y comparación de filtro*
+Link: https://colab.research.google.com/drive/1agmIvO38qsR-FpmLJ5eKc_3VQ7aBSIDJ?usp=sharing#scrollTo=LzO0XFOpM8-3
+
+*Código de los parámetros obtenidos del Mejor filtro obtenido*
+Reposo:
+![Captura de pantalla 2024-05-25 235539](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/3cb5b399-7373-4b69-845f-cca2a3e330ef)
+
+Flexión:
+![Captura de pantalla 2024-05-25 235614](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/13fcf34e-5d9b-46fb-9389-e005d65119f9)
+
+Contrafuerza:
+![Captura de pantalla 2024-05-25 235638](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/ae969be1-3b48-40d1-9ed8-cc3ca1066781)
+
+
 ## *7. Bibliografia* <a name="id11"></a>
 
 [1] Instituto Nacional de Salud del Niño – San Borja. "Guía de Procedimiento de Electromiografía y Velocidad de Conducción de Nervios Periféricos.", Fecha: Octubre 2020. Código: GP-001/INSNSB/UAIE/SUAIEPSE – Neurología Pediátrica V01. Página 1-39.
@@ -264,3 +279,5 @@ El tercer experimento, realizado bajo condiciones de contrafuerza, confirmó la 
 [9]"temporal_statistical_parameters". [En línea]. Disponible en: http://notebooks.pluxbiosignals.com/notebooks/Categories/Extract/temporal_statistical_parameters_rev.html
 
 [10] "snr_slow_signals". [En línea]. Disponible en: http://notebooks.pluxbiosignals.com/notebooks/Categories/Pre-Process/snr_slow_signals_rev.html
+
+
