@@ -227,7 +227,11 @@ Mediante codigo se hallaron diferentes parametros, los cuales nos permitiran obt
 
 ## *6. Conclusiones* <a name="id10"></a>
 
+El filtro Sym8 ha demostrado ser el más efectivo para reducir el ruido en señales EMG bajo diferentes condiciones, como reposo, flexión y contrafuerza. Con valores altos de SNR (6.42 dB en reposo, 17.15 dB en flexión y 16.89 dB en contrafuerza), Sym8 mantiene la integridad de la señal original mientras mejora la relación señal-ruido. Su simetría y ortogonalidad minimizan la distorsión durante la descomposición y reconstrucción de la señal, haciéndolo ideal para análisis precisos de la actividad muscular.
 
+El filtro Db4 es eficaz para reducir el ruido, especialmente en condiciones de alta amplitud como en contrafuerza (SNR de 23.22 dB), pero su rendimiento en reposo y flexión es menor comparado con Sym8. Además, puede introducir distorsiones, manifestadas en una mayor densidad de puntos en secciones de alta amplitud. Por lo tanto, Db4 es útil en ciertos contextos, pero no es ideal cuando se necesita preservar los detalles finos de la señal EMG.
+
+El filtro Rbio3.1 mostró un desempeño menor en términos de SNR (-0.11 dB en reposo, 3.32 dB en flexión y 3.10 dB en contrafuerza) comparado con Sym8 y Db4. Sin embargo, es valioso para identificar cambios espectrales relacionados con la actividad muscular y la fatiga en condiciones dinámicas, proporcionando una buena localización en el tiempo-frecuencia. Aunque puede introducir más ruido, sigue siendo útil para análisis detallados en situaciones que requieren alta resolución temporal.
 
 ## *7. Bibliografia* <a name="id11"></a>
 
