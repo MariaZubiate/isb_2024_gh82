@@ -195,7 +195,7 @@ Para comenzar, según el análisis de SNR, el filtro Sym8 emerge como el mejor f
 
 **Cuadro comparativo de MSE de los filtros**
 
-Cuanto menor es el valor MSE, el filtro es considerado más optimo [5].
+Cuanto menor es el valor MSE, el filtro es considerado más optimo [7].
 
 |  **Filtro**  |  **MSE sym8** | **MSE db4** | **MSE Rbio3.1**|
 |:------------:|:---------------:|:---------------:|:------:|
@@ -205,7 +205,7 @@ Cuanto menor es el valor MSE, el filtro es considerado más optimo [5].
 
 **Cuadro comparatido de RMS de los filtros**
 
-El valor RMS es catalogado como uno de los mejores parámetros para analizar la señal EMG ya que refleja mejor el comportamiento del potencial de acción de la unidad motora durante una contracción muscular sostenida. Un menor valor indica que el filtro es más eficiente [5].
+El valor RMS es catalogado como uno de los mejores parámetros para analizar la señal EMG ya que refleja mejor el comportamiento del potencial de acción de la unidad motora durante una contracción muscular sostenida. Un menor valor indica que el filtro es más eficiente [7].
 
 |  **Filtro**  |  **RMS sym8** | **RMS db4** | **RMS Rbio3.1**|
 |:------------:|:---------------:|:---------------: |:---------------:|
