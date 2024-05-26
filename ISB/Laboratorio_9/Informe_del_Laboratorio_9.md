@@ -46,7 +46,7 @@ La extracción precisa de parámetros de las señales EMG es crucial para el des
 |:------------:|:---------------:|:------------:|
 | 1	| Laptop	| Visualización y procesamiento de las señales con lenguaje de programación
 
-## *4. Metodologia* <a name="id4"></a>
+## *4. Metodología* <a name="id4"></a>
 
 Llevaremos a cabo una comparación de 3 diferentes filtros que encontramos optimos en la busqueda de información que realizamos para la eliminación de ruido en señales EMG. El objetivo de este estudio es determinar cuál de estos filtros ofrece el mejor rendimiento en la eliminación de ruido de señales EMG con visualización de eliminación de ruido y analisis de señal ruido (SNR). 
 
@@ -106,7 +106,7 @@ Para el tercer filtro utilizaremos estos pasos:
 ### *4.2. Parametros estáticos y temporales para EMG* <a name="id6"></a>
 
 
-#### *Parametros estáticos*
+#### *Parámetros estáticos*
 ##### *4.2.1. Mediana* 
 
 La mediana representa el valor central de la señal EMG[2M] y es útil para entender el nivel típico de actividad muscular sin verse afectada por valores atípicos extremos. En los experimentos de EMG, como los de lectura del músculo flexor del pulgar, bíceps del brazo y gemelo de la pantorrilla, la mediana permite comparar la actividad muscular en reposo, sin oposición y con oposición. Esto nos ayudará a identificar cambios en la actividad muscular de manera más estable ante la presencia de picos o artefactos en la señal. En la Imagen 1, se puede observar la formula a utilizar.
