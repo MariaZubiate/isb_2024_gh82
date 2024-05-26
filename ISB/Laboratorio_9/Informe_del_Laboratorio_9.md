@@ -107,9 +107,10 @@ Para el tercer filtro utilizaremos estos pasos:
 
 
 #### *Parametros estáticos*
-##### *4.2.1. Media* 
+##### *4.2.1. Mediana* 
 
-La media representa el valor promedio de la señal [2M]. En la Imagen 1, se puede observar la formula a utilizar.
+La mediana representa el valor promedio de la señal [2M]. 
+La mediana representa el valor central de la señal EMG y es útil para entender el nivel típico de actividad muscular sin verse afectada por valores atípicos extremos. En los experimentos de EMG, como los de lectura del músculo flexor del pulgar, bíceps del brazo y gemelo de la pantorrilla, la mediana permite comparar la actividad muscular en reposo, sin oposición y con oposición. Esto nos ayudará a identificar cambios en la actividad muscular de manera más estable ante la presencia de picos o artefactos en la señal. En la Imagen 1, se puede observar la formula a utilizar.
 
 <p align="center">
   <img src=https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/ee08dca9-040c-4900-a031-caaabe5181c5 alt="Imagen1">
@@ -120,9 +121,7 @@ La media representa el valor promedio de la señal [2M]. En la Imagen 1, se pued
 
 ##### *4.2.2. Varianza y desviación estandar*
 
-Varianza: Mide la dispersión de los datos respecto a la media. Indica cuánto varían los datos en torno a su valor promedio.
-
-Desviación Estándar: Es la raíz cuadrada de la varianza, proporcionando una medida de dispersión en las mismas unidades que los datos originales [2M]. En la Imagen 2, se puede observar la formula a utilizar.
+La desviación estándar, siendo la raíz cuadrada de la varianza, proporciona una medida de dispersión en las mismas unidades que los datos originales. En los experimentos de EMG, estos parámetros ayudan a evaluar la consistencia de la señal y a detectar variaciones significativas en la actividad muscular. Por ejemplo, al comparar la desviación estándar de las señales en reposo y en actividad, se puede determinar la estabilidad y la variabilidad de la contracción muscular[2M]. En la Imagen 2, se puede observar la formula a utilizar.
 
 <p align="center">
   <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/65fa30e8-ee5d-40e9-8edc-a8180c363262" alt="Imagen2">
@@ -134,12 +133,12 @@ Desviación Estándar: Es la raíz cuadrada de la varianza, proporcionando una m
 
 ##### *4.2.3. Skewness*
 
-Skewness: Mide la asimetría de la distribución de los datos. Una distribución normal tiene un skewness de 0. Un valor positivo indica que la cola derecha de la distribución es más larga, mientras que un valor negativo indica una cola izquierda más larga [2M].
+Skewness: Mide la asimetría de la distribución de los datos. Una distribución normal tiene un skewness de 0. Un valor positivo indica que la cola derecha de la distribución es más larga, mientras que un valor negativo indica una cola izquierda más larga. En nuestro estudio de señales EMG, este parámetro indicaría la presencia de picos o asimetrías en la señal, lo que nos ayudaría para identificar anomalías o patrones específicos de actividad muscular. Por ejemplo, un skewness positivo en las lecturas del bíceps del brazo durante la actividad con oposición puede sugerir una mayor intensidad de contracción en ciertos momentos[2M].
 
 #### *Parametros temporales*
 ##### *4.2.4. Estacionalidad*
 
-La estacionalidad se refiere a patrones repetitivos o ciclos que ocurren a intervalos regulares en una serie temporal. La descomposición estacional permite dividir la serie temporal en componentes de tendencia, estacionalidad y residuo [2M].
+La estacionalidad se refiere a patrones repetitivos o ciclos en una serie temporal. En los experimentos de EMG, la estacionalidad permite descomponer la señal en componentes de tendencia, estacionalidad y residuo. Esto es útil para analizar la periodicidad y los ciclos de contracción muscular. Por ejemplo, al estudiar la actividad del músculo gemelo de la pantorrilla durante diferentes movimientos, se pueden identificar patrones de activación muscular recurrentes que corresponden a ciclos específicos de movimiento.[2M].
 
 ##### *4.2.5. Relación señal-ruido (SNR)*
 
