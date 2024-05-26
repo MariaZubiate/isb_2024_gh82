@@ -92,12 +92,12 @@ Para el tercer filtro utilizaremos estos pasos:
 
 
 #### *Parametros estaticos*
-##### *4.2.1. Mediana* 
+##### *4.2.1. Media* 
 
-La mediana es el valor que separa la mitad superior e inferior en un conjunto de datos ordenados. Es una medida robusta de tendencia central y es menos sensible a los valores atípicos comparado con la media. En la Imagen 1, se puede observar la formula a utilizar.
+La media representa el valor promedio de la señal [2M]. En la Imagen 1, se puede observar la formula a utilizar.
 
 <p align="center">
-  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/58bd089d-6d9d-4b84-8e81-7b8ee8c7980f" alt="Imagen1">
+  <img src=![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/ee08dca9-040c-4900-a031-caaabe5181c5) alt="Imagen1">
 </p>
 <p align="center">
   Imagen1. Fuente: Biosignalnotebook-github
@@ -107,7 +107,7 @@ La mediana es el valor que separa la mitad superior e inferior en un conjunto de
 
 Varianza: Mide la dispersión de los datos respecto a la media. Indica cuánto varían los datos en torno a su valor promedio.
 
-Desviación Estándar: Es la raíz cuadrada de la varianza, proporcionando una medida de dispersión en las mismas unidades que los datos originales[2M]. En la Imagen 2, se puede observar la formula a utilizar.
+Desviación Estándar: Es la raíz cuadrada de la varianza, proporcionando una medida de dispersión en las mismas unidades que los datos originales [2M]. En la Imagen 2, se puede observar la formula a utilizar.
 
 <p align="center">
   <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/65fa30e8-ee5d-40e9-8edc-a8180c363262" alt="Imagen2">
