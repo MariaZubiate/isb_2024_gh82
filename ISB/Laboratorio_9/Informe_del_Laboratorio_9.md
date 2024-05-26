@@ -225,11 +225,7 @@ Mediante codigo se hallaron diferentes parametros, los cuales nos permitiran obt
 |FLEXIÓN|1.0932361025490807 | 80.4462510415022|  6471.599306632392|-1.6457947782683293
 |CONTRAFUERZA| 0.8392194236304191|520.4572344851734| 270875.7329279549| -0.4936373536410914
 
-
-
-
-
-
+En la comparación de los parámetros extraídos, se observa que la media en reposo es cercana a cero (-0.19), mientras que en flexión (1.09) y contrafuerza (0.84) son positivas, indicando valores superiores a la línea base. La desviación estándar y la varianza aumentan drásticamente de reposo (5.36, 28.70) a flexión (80.45, 6471.60) y a contrafuerza (520.46, 270875.73), reflejando una mayor dispersión de datos. La skewness en reposo es levemente positiva (0.37), indicando una cola larga hacia valores positivos, mientras que en flexión (-1.65) y contrafuerza (-0.49) es negativa, mostrando una cola hacia valores negativos. Esto indica que la condición de reposo presenta menor variabilidad y una distribución más simétrica, mientras que flexión y contrafuerza muestran mayor variabilidad, con flexión teniendo una distribución más sesgada negativamente y contrafuerza la mayor dispersión de datos.
 
 ## *6. Conclusiones* <a name="id10"></a>
 
