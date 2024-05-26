@@ -158,7 +158,7 @@ La señal filtrada 1 muestra una reducción significativa del ruido en comparaci
 
 La señal filtrada 2 muestra una reducción considerable del ruido en comparación con la señal original. Sin embargo, a diferencia del filtro Sym8, la señal filtrada con Db4 no sigue tan de cerca a la señal original, especialmente en los picos. Esto indica que, aunque el filtro Db4 reduce el ruido, puede introducir cierta distorsión y pérdida de detalles en la señal EMG.
 
-La señal filtrada 3 muestra una reducción del ruido, pero con notable distorsión en comparación con la señal original. Los picos en la señal filtrada están más suavizados, y hay discrepancias visibles, especialmente en los extremos de la señal. Esto indica que el filtro Rbio3.1 es menos efectivo en preservar la integridad de la señal original en comparación con los otros filtros analizados.
+La señal filtrada 3 sigue de cerca a la señal original, mostrando una buena reducción del ruido sin distorsionar significativamente los detalles de la señal EMG. Ambos picos y características de la señal original se preservan bien en la señal filtrada, indicando que el filtro Rbio3.1 es efectivo en mantener la integridad de la señal mientras reduce el ruido.
 
 **FLEXIÓN**
 |  **Campo**  |  **Señal cruda** | **Coeficientes de eliminación**
