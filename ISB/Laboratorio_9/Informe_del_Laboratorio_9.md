@@ -184,7 +184,6 @@ Mediante codigo se hallaron diferentes parametros, los cuales nos permitiran obt
 |CONTRAFUERZA| 0.8392194236304191|520.4572344851734| 270875.7329279549|
 
 
-**Análisis descriptivo:**
 
 
 
