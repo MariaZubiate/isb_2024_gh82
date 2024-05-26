@@ -117,11 +117,9 @@ Desviación Estándar: Es la raíz cuadrada de la varianza, proporcionando una m
   Imagen2. Fuente: Biosignalnotebook-github
 </p>
 
-##### *4.2.3. Skewness and kurtosis*
+##### *4.2.3. Skewness*
 
-Skewness: Mide la asimetría de la distribución de los datos. Un valor positivo indica que la cola derecha de la distribución es más larga, mientras que un valor negativo indica una cola izquierda más larga[2M].
-
-Kurtosis: Mide la forma de la distribución, especialmente el "apuntalamiento". Una alta kurtosis indica una distribución con picos más pronunciados y colas más gruesas, lo que sugiere la presencia de valores atípicos[2M].
+Skewness: Mide la asimetría de la distribución de los datos. Un valor positivo indica que la cola derecha de la distribución es más larga, mientras que un valor negativo indica una cola izquierda más larga [2M].
 
 #### *Parametros temporales*
 ##### *4.2.4. Estacionalidad* 
