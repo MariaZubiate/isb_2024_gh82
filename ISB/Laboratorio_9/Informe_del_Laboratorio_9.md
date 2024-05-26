@@ -133,7 +133,7 @@ La desviación estándar, siendo la raíz cuadrada de la varianza, proporciona u
 
 ##### *4.2.3. Skewness*
 
-Skewness: Mide la asimetría de la distribución de los datos. Una distribución normal tiene un skewness de 0. Un valor positivo indica que la cola derecha de la distribución es más larga, mientras que un valor negativo indica una cola izquierda más larga. En nuestro estudio de señales EMG, este parámetro indicaría la presencia de picos o asimetrías en la señal, lo que nos ayudaría para identificar anomalías o patrones específicos de actividad muscular. Por ejemplo, un skewness positivo en las lecturas del bíceps del brazo durante la actividad con oposición puede sugerir una mayor intensidad de contracción en ciertos momentos[2M].
+Mide la asimetría de la distribución de los datos. Una distribución normal tiene un skewness de 0. Un valor positivo indica que la cola derecha de la distribución es más larga, mientras que un valor negativo indica una cola izquierda más larga. En nuestro estudio de señales EMG, este parámetro indicaría la presencia de picos o asimetrías en la señal, lo que nos ayudaría para identificar anomalías o patrones específicos de actividad muscular. Por ejemplo, un skewness positivo en las lecturas del bíceps del brazo durante la actividad con oposición puede sugerir una mayor intensidad de contracción en ciertos momentos[2M].
 
 #### *Parametros temporales*
 ##### *4.2.4. Estacionalidad*
