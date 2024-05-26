@@ -91,7 +91,6 @@ Para el último filtro se utilizó el articulo "Discrete wavelet transform analy
 #### *Parametros estáticos*
 ##### *4.2.1. Mediana* 
 
-La mediana representa el valor promedio de la señal [9]. 
 La mediana representa el valor central de la señal EMG y es útil para entender el nivel típico de actividad muscular sin verse afectada por valores atípicos extremos. En los experimentos de EMG, como los de lectura del músculo flexor del pulgar, bíceps del brazo y gemelo de la pantorrilla, la mediana permite comparar la actividad muscular en reposo, sin oposición y con oposición. Esto nos ayudará a identificar cambios en la actividad muscular de manera más estable ante la presencia de picos o artefactos en la señal. En la Imagen 1, se puede observar la formula a utilizar.
 
 <p align="center">
