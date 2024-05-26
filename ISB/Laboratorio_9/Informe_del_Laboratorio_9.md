@@ -68,7 +68,7 @@ Este wavelet mantiene la ortogonalidad durante las transformaciones, con una rec
 
 En este inciso haremos una discusión de los 3 filtros a analizar. 
 
-**1.Primer filtro: Symlet Wavelet**
+**1.Primer filtro: Symlets Wavelets**
 
 En primera instancia usaremos la referencia ya usada en el trabajo anterior "Detección no invasiva de fatiga muscular de bajo nivel mediante EMG de superficie con descomposición wavelet" donde se determino que el filtro mas eficiente era la función Wavelet Sym8, debido a que con ello obtuvo un rendimiento superior a comparación de los demás Symmlets. Así como, en ello utilizaron 9 niveles de procesamiento, asi como se eliminaron los niveles 1,8 y 9 debido a la presencia de artefactos de baja frecuencia como artefactos de movimientos. quedandose solo con los niveles 2,3,4,5,6 y 7 [4]. 
 
@@ -81,7 +81,7 @@ Por lo que para nuestro primer filtro realizaremos:
 3.Reconstrucción de la señal filtrada. 
 
 
-**2. Segundo filtro: Daubechies WAvelets**
+**2. Segundo filtro: Daubechies Wavelets**
 
 Para el segundo filtros utilizamos el articulo "Comparative study of wavelet denoising in myoelectric control applications", en el cual se investigó el uso de diferentes wavelets para la mejora de la calidad de la señal miográfica antes de su uso en diseños protésicos. En este estudio, se evaluaron varias funciones wavelet, y se encontró que la wavelet Daubechies (db4) era la más efectiva para la eliminación de ruido en señales EMG. En este articulo se utilizó un análisis de dominio de tiempo y frecuencia para evaluar la relación entre la contracción muscular y la señal, encontrando que durante las contracciones sostenidas, la frecuencia media (MNF) y la frecuencia mediana (MDF) aumentaban con los niveles de fuerza muscular [5].
 
