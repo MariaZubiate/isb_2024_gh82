@@ -225,7 +225,7 @@ Mediante codigo se hallaron diferentes parametros, los cuales nos permitiran obt
 |FLEXIÓN|1.0932361025490807 | 80.4462510415022|  6471.599306632392|-1.6457947782683293
 |CONTRAFUERZA| 0.8392194236304191|520.4572344851734| 270875.7329279549| -0.4936373536410914
 
-En la comparación de los parámetros extraídos, se observa que la media en reposo es cercana a cero (-0.19), mientras que en flexión (1.09) y contrafuerza (0.84) son positivas, indicando valores superiores a la línea base. La desviación estándar y la varianza aumentan drásticamente de reposo (5.36, 28.70) a flexión (80.45, 6471.60) y a contrafuerza (520.46, 270875.73), reflejando una mayor dispersión de datos. La skewness en reposo es levemente positiva (0.37), indicando una cola larga hacia valores positivos, mientras que en flexión (-1.65) y contrafuerza (-0.49) es negativa, mostrando una cola hacia valores negativos. Esto indica que la condición de reposo presenta menor variabilidad y una distribución más simétrica, mientras que flexión y contrafuerza muestran mayor variabilidad, con flexión teniendo una distribución más sesgada negativamente y contrafuerza la mayor dispersión de datos.
+Se observa que la media en reposo es cercana a cero (-0.19), mientras que en flexión (1.09) y contrafuerza (0.84) son positivas, indicando valores superiores a la línea base. La desviación estándar y la varianza aumentan drásticamente de reposo (5.36, 28.70) a flexión (80.45, 6471.60) y a contrafuerza (520.46, 270875.73), reflejando una mayor dispersión de datos. La skewness en reposo es levemente positiva (0.37), indicando una cola larga hacia valores positivos, mientras que en flexión (-1.65) y contrafuerza (-0.49) es negativa, mostrando una cola hacia valores negativos. Esto indica que la condición de reposo presenta menor variabilidad y una distribución más simétrica, mientras que flexión y contrafuerza muestran mayor variabilidad, con flexión teniendo una distribución más sesgada negativamente y contrafuerza la mayor dispersión de datos.
 
 ## *6. Conclusiones* <a name="id10"></a>
 
@@ -233,17 +233,17 @@ En la comparación de los parámetros extraídos, se observa que la media en rep
 
 ## *7. Bibliografia* <a name="id11"></a>
 
-[1] Instituto Nacional de Salud del Niño – San Borja. "Guía de Procedimiento de Electromiografía y Velocidad de Conducción de Nervios Periféricos." Fecha: Octubre 2020. Código: GP-001/INSNSB/UAIE/SUAIEPSE – Neurología Pediátrica V01. Página 1-39.
+[1] Instituto Nacional de Salud del Niño – San Borja. "Guía de Procedimiento de Electromiografía y Velocidad de Conducción de Nervios Periféricos.", Fecha: Octubre 2020. Código: GP-001/INSNSB/UAIE/SUAIEPSE – Neurología Pediátrica V01. Página 1-39.
 
-[2] Akash Kumar Bhoi, Jitendra Singh Tamang, Purnendu Mishra, "Wavelet packet based Denoising of EMG Signal," International Journal of Engineering Research and Development, 2012.
+[2] Akash Kumar Bhoi, Jitendra Singh Tamang, Purnendu Mishra, "Wavelet packet based Denoising of EMG Signal", International Journal of Engineering Research and Development, 2012.
 
-[3]S. Im, S. Rho, "Extraction of parameters from EMG signals for the biofeedback electrical stimulation," in Proceedings of the 2005 IEEE Engineering in Medicine and Biology Society Annual Conference (EMBC), Shanghai, China, Sep. 2005, pp. 2157-2160. DOI: 10.1109/IEMBS.2005.1616926.
+[3]S. Im, S. Rho, "Extraction of parameters from EMG signals for the biofeedback electrical stimulation", in Proceedings of the 2005 IEEE Engineering in Medicine and Biology Society Annual Conference (EMBC), Shanghai, China, Sep. 2005, pp. 2157-2160. DOI: 10.1109/IEMBS.2005.1616926.
 
-[4] G. Zhang, E. Morin, Y. Zhang, and S. Ali Etemad, “Non-invasive detection of low-level muscle fatigue using surface EMG with wavelet decomposition,” PubMed, Jul. 2018, doi: https://doi.org/10.1109/embc.2018.8513588. ‌
+[4] G. Zhang, E. Morin, Y. Zhang, and S. Ali Etemad, “Non-invasive detection of low-level muscle fatigue using surface EMG with wavelet decomposition”, PubMed, Jul. 2018, doi: https://doi.org/10.1109/embc.2018.8513588. ‌
 
-[5] T. Sharma and K. Veer, "Comparative study of wavelet denoising in myoelectric control applications," *Journal of Medical Engineering & Technology*, vol. 40, no. 3, pp. 80-86, 2016, doi: 10.3109/03091902.2016.1139200.
+[5] T. Sharma and K. Veer, "Comparative study of wavelet denoising in myoelectric control applications", *Journal of Medical Engineering & Technology*, vol. 40, no. 3, pp. 80-86, 2016, doi: 10.3109/03091902.2016.1139200.
 
-[6] S. K. Chowdhury, A. D. Nimbarte, M. Jaridi, and R. C. Creese, "Discrete wavelet transform analysis of surface electromyography for the fatigue assessment of neck and shoulder muscles," *Journal of Electromyography and Kinesiology*, vol. 23, no. 4, pp. 995-1003, 2013, doi: 10.1016/j.jelekin.2013.05.001.
+[6] S. K. Chowdhury, A. D. Nimbarte, M. Jaridi, and R. C. Creese, "Discrete wavelet transform analysis of surface electromyography for the fatigue assessment of neck and shoulder muscles", *Journal of Electromyography and Kinesiology*, vol. 23, no. 4, pp. 995-1003, 2013, doi: 10.1016/j.jelekin.2013.05.001.
 
 [2M]"temporal_statistical_parameters". [En línea]. Disponible en: http://notebooks.pluxbiosignals.com/notebooks/Categories/Extract/temporal_statistical_parameters_rev.html
 
