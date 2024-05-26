@@ -49,11 +49,19 @@ La extracción precisa de parámetros de las señales EMG es crucial para el des
 ## *4. Metodologia* <a name="id4"></a>
 
 Llevaremos a cabo una comparación de 3 diferentes filtros que encontramos optimos en la busqueda de información que realizamos para la eliminación de ruido en señales EMG. El objetivo de este estudio es determinar cuál de estos filtros ofrece el mejor rendimiento en la eliminación de ruido de señales EMG con visualización de eliminación de ruido y analisis de señal ruido (SNR). 
+Los tres filtros encontrados en la literatura y candidatos para su aplicación fueron wavelets Symmlets, Daubechies y Bio-ortogonal(RBio3.1), respectivamente.
 
 ### *4.1. Filtros para EMG* <a name="id5"></a>
+
+Los wavelets Daubechies son compactamente soportados, lo que significa que son no nulos solo en una región finita del dominio, proporcionando eficiencia computacional en la transformada wavelet de una señal. Una de sus características más destacadas es el alto número de momentos de anulación, lo que les permite capturar detalles finos y eliminar tendencias de baja frecuencia sin perder información crucial. Estas propiedades son esenciales para descomponer señales no estacionarias y con características transitorias, como las señales EMG. En el análisis de señales EMG, los wavelets Daubechies ofrecen una localización precisa en el dominio tiempo-frecuencia, importante para capturar y analizar componentes transitorias, como los potenciales de acción de unidades motoras (MUAPs). Además, la capacidad de estos wavelets para filtrar el ruido de alta frecuencia mientras se preservan las características importantes de la señal mejora la calidad de la descomposición y el análisis de la señal EMG, facilitando una interpretación precisa.
+
+Los wavelets Symlets, al igual que los Daubechies, son compactamente soportados, proporcionando eficiencia en la descomposición de señales. Sin embargo, los Symlets se destacan por tener la menor asimetría posible y una fase casi lineal, lo que minimiza la distorsión de la señal durante la descomposición y la reconstrucción. Esta característica es especialmente importante en nuestro análisis de señales EMG, donde la preservación de la forma de la señal es crítica para el diagnóstico preciso de la actividad muscular y neuromuscular. La capacidad de los Symlets para manejar transitorios con mínima distorsión permite una descomposición precisa de componentes transitorias en las señales EMG, facilitando la identificación y el análisis de los MUAPs. 
+
+El wavelet biortogonal inverso(RBio3.1,  mantiene la ortogonalidad durante las transformaciones, con una reconstrucción precisa de la señal original. Su diseño simétrico evita la distorsión de fase, lo cual es crucial para preservar las características transitorias de la señal EMG. Además, su soporte compacto facilita una buena localización temporal, y su número específico de momentos de anulación le permite filtrar el ruido de eficazmente y resaltar las características significativas de la señal. Este wavelet es especialmente efectivo para señales EMG debido a su capacidad para proporcionar una excelente localización en el dominio tiempo-frecuencia, para identificar rápidamente los cambios relacionados con la actividad muscular y la fatiga. 
+
 En este inciso haremos una discusión de los 3 filtros a analizar. 
 
-**1.Primer filtro**
+**1.Primer filtro: Symlet Wavelet**
 
 En primera instancia usaremos la referencia ya usada en el trabajo anterior "Detección no invasiva de fatiga muscular de bajo nivel mediante EMG de superficie con descomposición wavelet" donde se determino que el filtro mas eficiente era la función Wavelet Sym8, debido a que con ello obtuvo un rendimiento superior a comparación de los demás Symmlets. Así como, en ello utilizaron 9 niveles de procesamiento, asi como se eliminaron los niveles 1,8 y 9 debido a la presencia de artefactos de baja frecuencia como artefactos de movimientos. quedandose solo con los niveles 2,3,4,5,6 y 7 [4]. 
 
@@ -66,7 +74,7 @@ Por lo que para nuestro primer filtro realizaremos:
 3.Reconstrucción de la señal filtrada. 
 
 
-**2. Segundo filtro**
+**2. Segundo filtro: Daubechies WAvelets**
 
 Para el segundo filtros utilizamos el articulo "Comparative study of wavelet denoising in myoelectric control applications", en el cual se investigó el uso de diferentes wavelets para la mejora de la calidad de la señal miográfica antes de su uso en diseños protésicos. En este estudio, se evaluaron varias funciones wavelet, y se encontró que la wavelet Daubechies (db4) era la más efectiva para la eliminación de ruido en señales EMG. En este articulo se utilizó un análisis de dominio de tiempo y frecuencia para evaluar la relación entre la contracción muscular y la señal, encontrando que durante las contracciones sostenidas, la frecuencia media (MNF) y la frecuencia mediana (MDF) aumentaban con los niveles de fuerza muscular [5].
 
@@ -78,7 +86,7 @@ Para nuestro segundo filtro, utilizaremos el Daubechies (db4). La implementació
    
 5. Reconstrucción de la señal utilizando los coeficientes modificados.
 
-**3. Tercer filtro**
+**3. Tercer filtro: Wavelet biortogonal inversa**
 
 Para el ultimo filtro usaremos el articulo "Discrete wavelet transform analysis of surface electromyography for the
 fatigue assessment of neck and shoulder muscles",se utilizó la transformada wavelet discreta (DWT) para evaluar la fatiga muscular en el cuello y los hombros bajo condiciones dinámicas repetitivas. Se probaron diez funciones wavelet comunes, y se encontró que la wavelet "Rbio3.1" era la más sensible a los cambios espectrales inducidos por la fatiga en la banda de frecuencia de 12–23 Hz. Se realizo el análisis DWT en datos SEMG recogidos durante 40 minutos de ejercicios repetitivos de brazos y cuello, descomponiendo la señal en siete niveles para analizar el poder en diferentes bandas de frecuencia [6]. 
