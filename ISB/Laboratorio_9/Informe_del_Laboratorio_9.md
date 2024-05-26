@@ -143,9 +143,9 @@ El SNR mide la relación entre la potencia de la señal y la potencia del ruido 
 |  **Campo**  |  **Señal cruda** |
 |:------------:|:---------------:|
 |Señales |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/efeb5453-7a5e-42ff-ad83-88d90a979384)|
-|Señal filtrada 1|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2e1bc986-80fc-4c95-8465-7e7922ffceaa)|
-|Señal filtrada 2|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d0d21558-571e-4aa8-8279-6a2344d19b15)|
-|Señal filtrada 3|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1c97c51d-d3a7-4dbd-a551-19423fb09b4d)|
+|Señal filtrada 1 "sym8"|![Captura de pantalla 2024-05-25 224358](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/3f43f140-a6c1-4208-932c-0c67ebb7c1c8)|
+|Señal filtrada 2 "db4"|![Captura de pantalla 2024-05-25 224419](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/25946d41-70f3-4721-9251-9c5bd67d117d)|
+|Señal filtrada 3 "Rbio3.1"|![Captura de pantalla 2024-05-25 224439](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/ad56d3a4-5245-430f-832e-f9133ef5439a)|
 
 La señal filtrada con Sym8 muestra una reducción significativa del ruido en comparación con la señal original. La línea naranja sigue de cerca la azul, preservando los picos y las características importantes de la señal. Esto indica que el filtro Sym8 es efectivo para mejorar la relación señal-ruido sin comprometer la integridad de la señal EMG.
 
@@ -171,15 +171,11 @@ La señal filtrada con Rbio3.1 muestra una reducción del ruido, pero la señal 
 |  **Campo**  |  **Señal cruda** |
 |:------------:|:---------------:|
 |Señales |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2c101981-8c7f-4d34-b5bb-d9b82e55ff3a)|
-|Señal filtrada 1|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c6172f33-5cef-4bb0-8710-fca36aa51bc4)|
-|Señal filtrada 2|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d46c8f39-f03f-4de0-9134-4bbf96d9c3ad)|
-|Señal filtrada 3|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/889ecfe7-46a2-40cb-8d8e-a1d6c9d879d1)|
+|Señal filtrada 1 "sym8"|![Captura de pantalla 2024-05-25 224100](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9eb3941d-f553-4335-a1b5-4280378e8dc2)|
+|Señal filtrada 2 "db4"|![Captura de pantalla 2024-05-25 224143](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/d726c994-c147-4e02-8eee-97407a0e6f63)|
+|Señal filtrada 3 "Rbio3.1"|![Captura de pantalla 2024-05-25 224225](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0b71486e-9b38-43af-a23a-b9e798a476fb)|
 
-La señal filtrada con Sym8 sigue de cerca a la señal original, mostrando una buena reducción del ruido sin distorsionar significativamente las características importantes de la señal EMG. Los picos y valles de la señal EMG original se preservan bien en la señal filtrada, lo que indica que el filtro Sym8 es altamente eficaz en mantener la integridad de la señal mientras reduce el ruido.
-
-La señal filtrada con Db4 sigue de cerca a la señal original, mostrando una excelente reducción del ruido. Los picos y valles de la señal EMG original se preservan bien en la señal filtrada, indicando que el filtro Db4 es muy eficaz en mantener la integridad de la señal mientras reduce el ruido. En este caso, Db4 parece ser más efectivo que Sym8 en la preservación de los detalles de la señal EMG.
-
-La señal filtrada con Rbio3.1 sigue de cerca a la señal original, mostrando una buena reducción del ruido. Sin embargo, la señal filtrada presenta una mayor densidad de puntos naranjas, lo que indica que la señal tiene más ruido residual en comparación con los filtros Sym8 y Db4. A pesar de esto, los picos y valles de la señal original se preservan en gran medida, demostrando que Rbio3.1 es efectivo, aunque menos que Sym8 y Db4, en la reducción de ruido y preservación de la integridad de la señal EMG.
+La señal filtrada con Db4 sigue de cerca a la señal original, mostrando una buena reducción del ruido. Sin embargo, en las secciones de alta amplitud, la señal filtrada presenta mayor densidad de puntos, lo que puede indicar alguna distorsión o alteración leve en la señal. A pesar de esto, el filtro Db4 es efectivo en mantener la forma general de la señal EMG mientras reduce el ruido.
 
 **Cuadro comparativo de SNR de los filtros**
 
@@ -189,9 +185,8 @@ Según [3M] un SNR mayor indica un mejor rendimiento del filtro para señales EM
 |:------------:|:---------------:|:---------------: |:---------------:|
 |REPOSO|6.42 dB |0.64 dB|0.93 dB|
 |FLEXIÓN|17.15 dB|14.45 dB|4.75 dB|
-|CONTRAFUERZA| 16.89 dB|23.22 dB |3.10 dB|
+|CONTRAFUERZA| 16.89 dB|23.22 dB |5.88 dB|
 
-En el análisis de SNR comparado, el filtro Sym8 emerge como el mejor filtro en general, debido a su rendimiento consistente en todas las condiciones evaluadas. Muestra una SNR de 6.42 dB en reposo, 17.15 dB en flexión y 16.89 dB en contrafuerza, lo que indica una capacidad superior para reducir el ruido y preservar la señal útil en diversas situaciones. La simetría y ortogonalidad del filtro Sym8 contribuyen a su alta eficiencia en la descomposición y reconstrucción de señales, minimizando la distorsión y el ruido introducido. Este filtro es particularmente efectivo en el procesamiento de señales biológicas como las señales EMG, donde la preservación de la integridad de la señal es crucial para un análisis preciso. Además, su capacidad para mantener un alto SNR en múltiples condiciones lo hace especialmente adecuado para aplicaciones en las que se requiere un rendimiento uniforme y confiable. Aunque el filtro Db4 sobresale en condiciones de contrafuerza con una SNR de 23.22 dB, su desempeño es inferior en reposo y flexión comparado con Sym8, haciendo de Sym8 la opción más equilibrada y eficaz para aplicaciones variadas. El filtro Rbio3.1, con SNR de 0.93 dB en reposo, 4.75 dB en flexión y 3.10 dB en contrafuerza, demuestra ser menos eficiente en comparación, resaltando la superioridad del Sym8 en la reducción del ruido y la preservación de la señal en contextos de señales EMG.
 
 **Cuadro comparativo de MSE de los filtros**
 
@@ -201,7 +196,7 @@ Según [] el filtro es más optimo cuando el valor MSE es menor.
 |:------------:|:---------------:|:---------------:|:------:|
 |REPOSO|8.48|32.09|29.97|
 |FLEXIÓN|127.14|236.92|2211.81|
-|CONTRAFUERZA| 16.89|23.22|3.10|
+|CONTRAFUERZA|5653.79|13.17|71437.80|
 
 **Cuadro comparatido de RMS de los filtros**
 
@@ -211,7 +206,9 @@ Según [] el valor RMS es catalogado como uno de los mejores parámetros para an
 |:------------:|:---------------:|:---------------: |:---------------:|
 |REPOSO|2.91|5.67|5.47|
 |FLEXIÓN|11.28|15.39|47.03|
-|CONTRAFUERZA| 16.89|23.22|3.10|
+|CONTRAFUERZA|75.19|36.30|267.28|
+
+Para comenzar, según el análisis de SNR, el filtro Sym8 emerge como el mejor filtro en general, debido a su rendimiento consistente en todas las condiciones evaluadas. Muestra una SNR de 6,42 dB en reposo, 17,15 dB en flexión y 16,89 dB en contrafuerza, lo que indica una capacidad superior para reducir el ruido y preservar la señal útil en diversas situaciones. La simetría y ortogonalidad del filtro Sym8 contribuyen a su alta eficiencia en la descomposición y reconstrucción de señales, minimizando la distorsión y el ruido introducido. Este filtro es particularmente efectivo en el procesamiento de señales biológicas como las señales EMG, donde la preservación de la integridad de la señal es crucial para un análisis preciso. Además, su capacidad para mantener un alto SNR en múltiples condiciones lo hace especialmente adecuado para aplicaciones en las que se requiere un rendimiento uniforme y confiable. Aunque el filtro Db4 sobresale en condiciones de contrafuerza con una SNR de 23,22 dB, su desempeño es inferior en reposo y flexión comparado con Sym8, haciendo de Sym8 la opción más equilibrada y eficaz para aplicaciones variadas. El filtro Rbio3.1, con SNR de -0,11 dB en reposo, 3,32 dB en flexión y 3,10 dB en contrafuerza, demuestra ser menos eficiente en comparación, resaltando la superioridad del Sym8 en la reducción del ruido y la preservación de la señal en contextos de señales EMG.
 
 ### *5.2. Resultado de los parámetros estáticos y temporales para EMG* <a name="id9"></a>
 
