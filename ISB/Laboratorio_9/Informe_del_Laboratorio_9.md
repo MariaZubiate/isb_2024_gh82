@@ -119,7 +119,7 @@ Desviación Estándar: Es la raíz cuadrada de la varianza, proporcionando una m
 
 ##### *4.2.3. Skewness*
 
-Skewness: Mide la asimetría de la distribución de los datos. Un valor positivo indica que la cola derecha de la distribución es más larga, mientras que un valor negativo indica una cola izquierda más larga [2M].
+Skewness: Mide la asimetría de la distribución de los datos. Una distribución normal tiene un skewness de 0. Un valor positivo indica que la cola derecha de la distribución es más larga, mientras que un valor negativo indica una cola izquierda más larga [2M].
 
 #### *Parametros temporales*
 ##### *4.2.4. Estacionalidad* 
