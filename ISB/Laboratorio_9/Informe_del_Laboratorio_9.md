@@ -165,11 +165,11 @@ El SNR mide la relación entre la potencia de la señal y la potencia del ruido 
 |Señal filtrada 2|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d0d21558-571e-4aa8-8279-6a2344d19b15)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/550b31ea-3768-4623-9712-98b95cfb59fd)
 |Señal filtrada 3|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1c97c51d-d3a7-4dbd-a551-19423fb09b4d)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/f8d2b850-a74d-480a-aec9-b0b5b2f247ed)
 
-La señal filtrada 1 muestra una reducción significativa del ruido en comparación con la señal original. La línea naranja sigue de cerca la azul, preservando los picos y las características importantes de la señal. Esto indica que el filtro Sym8 es efectivo para mejorar la relación señal-ruido sin comprometer la integridad de la señal EMG.
+La señal filtrada con Sym8 muestra una reducción significativa del ruido en comparación con la señal original. La línea naranja sigue de cerca la azul, preservando los picos y las características importantes de la señal. Esto indica que el filtro Sym8 es efectivo para mejorar la relación señal-ruido sin comprometer la integridad de la señal EMG.
 
-La señal filtrada 2 muestra una reducción considerable del ruido en comparación con la señal original. Sin embargo, a diferencia del filtro Sym8, la señal filtrada con Db4 no sigue tan de cerca a la señal original, especialmente en los picos. Esto indica que, aunque el filtro Db4 reduce el ruido, puede introducir cierta distorsión y pérdida de detalles en la señal EMG.
+La señal filtrada con Db4 muestra una reducción considerable del ruido en comparación con la señal original. Sin embargo, a diferencia del filtro Sym8, la señal filtrada con Db4 no sigue tan de cerca a la señal original, especialmente en los picos. Esto indica que, aunque el filtro Db4 reduce el ruido, puede introducir cierta distorsión y pérdida de detalles en la señal EMG.
 
-La señal filtrada 3 sigue de cerca a la señal original, mostrando una buena reducción del ruido sin distorsionar significativamente los detalles de la señal EMG. Ambos picos y características de la señal original se preservan bien en la señal filtrada, indicando que el filtro Rbio3.1 es efectivo en mantener la integridad de la señal mientras reduce el ruido.
+La señal filtrada con Rbio3.1 sigue de cerca a la señal original, mostrando una buena reducción del ruido sin distorsionar significativamente los detalles de la señal EMG. Ambos picos y características de la señal original se preservan bien en la señal filtrada, indicando que el filtro Rbio3.1 es efectivo en mantener la integridad de la señal mientras reduce el ruido.
 
 **FLEXIÓN**
 |  **Campo**  |  **Señal cruda** | **Coeficientes de eliminación**
@@ -179,7 +179,11 @@ La señal filtrada 3 sigue de cerca a la señal original, mostrando una buena re
 |Señal filtrada 2|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5b7077ad-a84e-4803-890a-934f55b84d39)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/0a0b39f8-d16a-42c3-95f7-6daceeb66ba5)
 |Señal filtrada 3|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/9acac2d0-e9e6-42e7-8da3-45417fd7f046)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/8e074d24-33b4-41e2-ab18-afa4bbedbe63)
 
+La señal filtrada con Sym8 muestra una excelente correspondencia con la señal original, indicando una reducción significativa del ruido sin distorsionar la señal. Los picos y las características de la señal original se preservan bien en la señal filtrada, lo que demuestra la efectividad del filtro Sym8 para mantener la integridad de la señal EMG mientras reduce el ruido.
 
+La señal filtrada con Db4 sigue de cerca a la señal original, mostrando una buena reducción del ruido. Los picos y valles de la señal EMG original se preservan bien en la señal filtrada, indicando que el filtro Db4 es eficaz en mantener la integridad de la señal mientras reduce el ruido. Sin embargo, al comparar con el filtro Sym8, Db4 no es tan efectivo en la preservación de los detalles finos de la señal EMG.
+
+La señal filtrada con Rbio3.1 muestra una reducción del ruido, pero la señal filtrada parece más ruidosa en comparación con los otros filtros, como Sym8 y Db4. La línea naranja tiene una mayor dispersión alrededor de la línea azul, lo que indica que el filtro Rbio3.1 no es tan efectivo en la reducción de ruido y preservación de la señal EMG como los otros filtros evaluados.
 
 **CONTRAFUERZA**
 |  **Campo**  |  **Señal cruda** | **Coeficientes de eliminación**
@@ -189,6 +193,7 @@ La señal filtrada 3 sigue de cerca a la señal original, mostrando una buena re
 |Señal filtrada 2|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d46c8f39-f03f-4de0-9134-4bbf96d9c3ad)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d085b012-59e4-43ab-9ce6-2e8174d634fe)
 |Señal filtrada 3|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/889ecfe7-46a2-40cb-8d8e-a1d6c9d879d1)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/da043110-0d63-4e94-bada-ab8e4de2d46f)
 
+La señal filtrada con Db4 sigue de cerca a la señal original, mostrando una buena reducción del ruido. Sin embargo, en las secciones de alta amplitud, la señal filtrada presenta mayor densidad de puntos, lo que puede indicar alguna distorsión o alteración leve en la señal. A pesar de esto, el filtro Db4 es efectivo en mantener la forma general de la señal EMG mientras reduce el ruido.
 
 **Cuadro comparatido de SNR de los filtros**
 
