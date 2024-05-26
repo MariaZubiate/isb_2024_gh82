@@ -248,13 +248,17 @@ El tercer experimento, realizado bajo condiciones de contrafuerza, confirmó la 
 Link: https://colab.research.google.com/drive/1agmIvO38qsR-FpmLJ5eKc_3VQ7aBSIDJ?usp=sharing#scrollTo=LzO0XFOpM8-3
 
 *Código de los parámetros obtenidos del Mejor filtro obtenido*
+
 Reposo:
+
 ![Captura de pantalla 2024-05-25 235539](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/3cb5b399-7373-4b69-845f-cca2a3e330ef)
 
 Flexión:
+
 ![Captura de pantalla 2024-05-25 235614](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/13fcf34e-5d9b-46fb-9389-e005d65119f9)
 
 Contrafuerza:
+
 ![Captura de pantalla 2024-05-25 235638](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/ae969be1-3b48-40d1-9ed8-cc3ca1066781)
 
 
