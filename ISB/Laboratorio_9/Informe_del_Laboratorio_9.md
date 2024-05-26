@@ -175,7 +175,11 @@ La señal filtrada con Rbio3.1 muestra una reducción del ruido, pero la señal 
 |Señal filtrada 2|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d46c8f39-f03f-4de0-9134-4bbf96d9c3ad)|
 |Señal filtrada 3|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/889ecfe7-46a2-40cb-8d8e-a1d6c9d879d1)|
 
-La señal filtrada con Db4 sigue de cerca a la señal original, mostrando una buena reducción del ruido. Sin embargo, en las secciones de alta amplitud, la señal filtrada presenta mayor densidad de puntos, lo que puede indicar alguna distorsión o alteración leve en la señal. A pesar de esto, el filtro Db4 es efectivo en mantener la forma general de la señal EMG mientras reduce el ruido.
+La señal filtrada con Sym8 sigue de cerca a la señal original, mostrando una buena reducción del ruido sin distorsionar significativamente las características importantes de la señal EMG. Los picos y valles de la señal EMG original se preservan bien en la señal filtrada, lo que indica que el filtro Sym8 es altamente eficaz en mantener la integridad de la señal mientras reduce el ruido.
+
+La señal filtrada con Db4 sigue de cerca a la señal original, mostrando una excelente reducción del ruido. Los picos y valles de la señal EMG original se preservan bien en la señal filtrada, indicando que el filtro Db4 es muy eficaz en mantener la integridad de la señal mientras reduce el ruido. En este caso, Db4 parece ser más efectivo que Sym8 en la preservación de los detalles de la señal EMG.
+
+La señal filtrada con Rbio3.1 sigue de cerca a la señal original, mostrando una buena reducción del ruido. Sin embargo, la señal filtrada presenta una mayor densidad de puntos naranjas, lo que indica que la señal tiene más ruido residual en comparación con los filtros Sym8 y Db4. A pesar de esto, los picos y valles de la señal original se preservan en gran medida, demostrando que Rbio3.1 es efectivo, aunque menos que Sym8 y Db4, en la reducción de ruido y preservación de la integridad de la señal EMG.
 
 **Cuadro comparativo de SNR de los filtros**
 
