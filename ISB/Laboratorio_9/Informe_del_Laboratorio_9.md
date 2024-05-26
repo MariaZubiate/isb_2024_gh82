@@ -179,7 +179,7 @@ La señal filtrada con Db4 sigue de cerca a la señal original, mostrando una bu
 
 **Cuadro comparativo de SNR de los filtros**
 
-Según [] un SNR mayor indica un mejor rendimiento del filtro para señales EMG.
+Según [3M] un SNR mayor indica un mejor rendimiento del filtro para señales EMG.
 
 |  **Filtro**  |  **SNR sym8** | **SNR db4** | **SNR Rbio3.1**|
 |:------------:|:---------------:|:---------------: |:---------------:|
