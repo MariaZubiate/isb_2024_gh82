@@ -13,10 +13,10 @@
 3. [Materiales y equipos](#id3)
 4. [Metodologia](#id4)\
      4.1. [Filtros para EMG](#id5)\
-     4.1. [Parametros estáticos y temporales para EMG](#id6)
+     4.2. [Parametros estáticos y temporales para EMG](#id6)
 6. [Resultados](#id7)\
      5.1 [Resultado de elección de filtro para EMG](#id8)\
-     5.1 [Resultado de los parametros estáticos y temporales para EMG](#id9) 
+     5.2 [Resultado de los parametros estáticos y temporales para EMG](#id9) 
 8. [Conclusiones](#id10)
 9. [Bibliografia](#id11)
    
