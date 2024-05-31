@@ -55,10 +55,7 @@ Una vez obtenida las 3 señales filtradas, se analizaron 3 parámetros: relació
 
 ### *4.1. Filtros para EMG* <a name="id5"></a>
 
-Como se mencionó anteriormente, los filtros evaluados corresponden a las familias: Daubechies, Symmlet y Biortogonal. Para lo cual, a continuación se presenta una breve descripción de cada una de ellas.
-
-
-En el apartado siguiente, se describe el tipo de filtro Wavelet ganador de cada estudio; así como las indicaciones que consideraron para su aplicación en la señal
+Aquí se describe el tipo de filtro Wavelet ganador de cada estudio; así como las indicaciones que consideraron para su aplicación en la señal
 
 **1.Primer filtro: De la familia Symlets**
 
