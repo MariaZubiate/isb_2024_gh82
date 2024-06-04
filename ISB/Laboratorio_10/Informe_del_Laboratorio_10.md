@@ -13,10 +13,10 @@
 3. [Materiales y equipos](#id3)
 4. [Metodologia](#id4)\
      4.1 [Generar filtro para ECG](#id5)\
-     4.2 [Obtener caracteristicas de ECG](#id6)\
+     4.2 [Obtener caracteristicas de ECG](#id6)
 6. [Resultados](#id7)\
      5.1 [Resultado de señal filtrada con filtro Wavelet para ECG](#id8)\
-     5.2 [Resultado de caracteristicas de ECG](#id9)\
+     5.2 [Resultado de caracteristicas de ECG](#id9)
 8. [Conclusiones](#id10)
 9. [Bibliografia](#id11)
    
@@ -25,7 +25,9 @@
 
 ## *2. Objetivos* <a name="id2"></a>
 
-Preprocesar señales EEG para reducir el ruido y extraer características de interés, con el uso de filtros Wavelet.
+1. Elección del mejor filtro Wavelet para EMG
+2. Segmentación de la señal.
+3. Extracción de parámetros estáticos y temporales de la señal.
 
 ## *3. Materiales y equipos* <a name="id3"></a>
 
