@@ -57,5 +57,5 @@ El ECG posee 12 derivadas, las cuales permiten visualizar el corazón desde dife
 ## *6. Conclusiones* <a name="id10"></a>
 
 
-[1] PLUX – Bioseñales inalámbricas, "BITalino (r)evolution Lab Guide", Lisboa, Portugal, 2020.
 ## *7. Bibliografia* <a name="id11"></a>
+[1] PLUX – Bioseñales inalámbricas, "BITalino (r)evolution Lab Guide", Lisboa, Portugal, 2020.
