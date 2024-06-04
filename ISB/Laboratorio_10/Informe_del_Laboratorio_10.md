@@ -1,5 +1,5 @@
 
-# Laboratorio 8
+# Laboratorio 9
 ## Integrantes
 - Christian Martin Mucha Huatuco
 - Maria del Carmen Zubiate Castillo
@@ -12,51 +12,20 @@
 2. [Objetivos](#id2)
 3. [Materiales y equipos](#id3)
 4. [Metodologia](#id4)\
-     4.1 [Generar filtro Wavelet para ECG](#id5)\
-     4.2 [Generar filtro Wavelet para EMG](#id6)\
-     4.3 [Generar filtro Wavelet para EEG](#id7)
-5. [Resultados](#id8)\
-     5.1 [Resultado de señal filtrada con filtro Wavelet para ECG](#id9)\
-     5.2 [Resultado de señal filtrada con filtro Wavelet para EMG](#id10)\
-     5.3 [Resultado de señal filtrada con filtro Wavelet para EEG](#id11)
-   
-7. [Conclusiones](#id12)
-8. [Bibliografia](#id13)
+     4.1 [Generar filtro para ECG](#id5)\
+     4.2 [Obtener caracteristicas de ECG](#id6)\
+6. [Resultados](#id7)\
+     5.1 [Resultado de señal filtrada con filtro Wavelet para ECG](#id8)\
+     5.2 [Resultado de caracteristicas de ECG](#id9)\
+8. [Conclusiones](#id10)
+9. [Bibliografia](#id11)
    
 ## *1. Introducción* <a name="id1"></a>
 
-Un filtro Wavelet es una herramienta utilizada en el procesamiento de señales que se basa en la teoría de Wavelet. Las Wavelets son funciones matemáticas que permiten analizar señales en diferentes escalas de tiempo y frecuencia, lo que las hace ideales para detectar cambios locales en una señal. Los filtros Wavelet se utilizan para descomponer una señal en sus componentes de alta y baja frecuencia, lo que facilita el análisis de detalles finos y gruesos por separado. Estos filtros son fundamentales en aplicaciones como la eliminación de ruido, la compresión de datos y la detección de bordes en imágenes. En este laboratorio, exploraremos cómo utilizar los filtros Wavelet para mejorar la calidad de la reconstrucción de señales y optimizar el proceso de análisis de datos[1].
-
-
-<p align="center">
-  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/9faae516-3603-4289-b428-41ea51108c3a" alt="Esquema de la Transformada Wavelet" width="50%">
-</p>
-<p align="center">
-Figura 1. Esquema de la Transformada Wavelet[1]
-</p>
-
-Los filtros wavelet pertenecer a diversas familias que se distinguen por sus propiedades matemáticas y aplicaciones específicas. Algunas de ellas son[2]:
-
-1. Vavelets de Haar:
-   Este es el wavelet más simple y primera en ser introducida, se caracteriza por su forma        escalonada, ideal para aplicaciones simples de compresión y procesamiento de señales. Con      propiedades ortogonales y simetricas
-
-2. Wavelets de Daubechies:
-   Estas tienen una longitud de soporte compacta y una alta regularidad. Se denominan             comúnmente como DN, donde N indica el número de coeficientes. Utilizadas en aplicaciones       que requieren una alta precisión en la reconstrucción de la señal.
-
-3. Wavelets de Coiflet:
-   Tiene  buenas propiedades de localización en el dominio del tiempo y frecuencia. Adecuadas     para el análisis multirresolución y aplicaciones de compresión de imagenes.
-
-4. Wavelets de Symlet:
-   Es una modificacion de las wavelets de Daubechies para mejorar la simetría. Manteniendo las    propiedades de ortogonalidad y longitud de soporte compacta.
-
-5. Wavelets B-Spline:
-   Estas son usadas en gráficos computacionales y procesamiento de imágenes. Ofreciendo una       buena representación suave de la señal.
-
-Los niveles de descomposición en la transfomración wavelet determinan la cantidad de detalle que se puede extraer de una señal. Cada nivel representa una escala diferente de la señal orginal. Cada nivel proporciona una descomposición más detallada de la señal. La señal se analiza en bandas de frecuencia cada vez más bajas, lo que permite visualizar mejor la señal[2].
 
 ## *2. Objetivos* <a name="id2"></a>
 
-Preprocesar señales EEG, EMG y ECG para reducir el ruido y extraer características de interés, con el uso de filtros Wavelet.
+Preprocesar señales EEG para reducir el ruido y extraer características de interés, con el uso de filtros Wavelet.
 
 ## *3. Materiales y equipos* <a name="id3"></a>
 
