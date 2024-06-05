@@ -29,6 +29,7 @@ El ECG posee 12 derivadas, las cuales permiten visualizar el corazón desde dife
 
 Luego de que las señales ECG sean leídas, se procederá a eliminar el ruido y los artefactos que interfieren en la señal. Para ello, se utilizan filtros que se encargan de reducir el ruido y proporcionar una lectura de señal más limpia. Entre estos filtros, los filtros Wavelet son especialmente eficaces y se dividen en varias familias: Daubechies (db), Symlet (sym), Coiflet (coif), Biorthogonal (bior) y Reverse Biorthogonal (rbio), cada una con características particulares. Las wavelets Daubechies son conocidas por su compacidad y ortogonalidad, mientras que las Symlet son una versión más simétrica de las Daubechies. Las Coiflet son útiles para analizar señales con variaciones lentas, y las Biorthogonal permiten una reconstrucción perfecta de las señales utilizando diferentes filtros para análisis y síntesis. Las Reverse Biorthogonal, similares a las Biorthogonal pero con filtros invertidos, también permiten una reconstrucción precisa. Estas características hacen que los filtros Wavelet sean muy eficaces para la eliminación de ruido en las señales ECG, mejorando significativamente la precisión y la calidad del análisis de estas señales[2].
 
+La variabilidad de la frecuencia cardíaca (HRV) es una medida de las fluctuaciones en los intervalos entre latidos consecutivos del corazón, conocida como intervalos RR. Este análisis es fundamental para evaluar la actividad del sistema nervioso autónomo y el estado de salud cardiovascular. Los picos de la onda R en los electrocardiogramas (ECG) son cruciales para identificar estos intervalos RR. Mediante algoritmos como el de Pan-Tompkins, se pueden detectar con precisión los picos R, lo que permite calcular los intervalos entre latidos y realizar un análisis detallado de HRV [3]. 
 
 ## *2. Objetivos* <a name="id2"></a>
 
@@ -62,10 +63,12 @@ Luego de que las señales ECG sean leídas, se procederá a eliminar el ruido y 
 
 
 ## *7. Bibliografia* <a name="id11"></a>
+
 [1] PLUX – Bioseñales inalámbricas, "BITalino (r)evolution Lab Guide", Lisboa, Portugal, 2020.
+
 [2] Singh, R., Mehta, R., & Rajpal, N. (2018). Efficient wavelet families for ECG classification using neural classifiers. Procedia Computer Science. https://doi.org/10.1016/j.procs.2018.05.054&#8203 
 
-
+[3] S. Sieciński, P. S. Kostka y E. J. Tkacz, "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers. 2020. doi: 10.3390/s20164522.
 
 
 
