@@ -26,6 +26,10 @@ El electrocardiograma (ECG) es una herramienta de diagnóstico utilizada para me
 La señal ECG contiene diferentes componentes, entre ellos esta la onda P, el complejo QRS y la onda T; los cuales representan la despolarización auricular, despolarización ventricular y repolarización ventricular, respectivamente.
 El ECG posee 12 derivadas, las cuales permiten visualizar el corazón desde diferentes ángulos. Estas derivaciones se pueden utilizar para detectar attirmias y transtornos cardíacos. Entre las derivaciones tenemos: derivaciones bipolares(I,II,III), derivaciones unipolares(aVR, aVL,aVF) y derivaciones precordiales(V1-V6)[1].
 
+
+Luego de que las señales ECG sean leídas, se procederá a eliminar el ruido y los artefactos que interfieren en la señal. Para ello, se utilizan filtros que se encargan de reducir el ruido y proporcionar una lectura de señal más limpia. Entre estos filtros, los filtros Wavelet son especialmente eficaces y se dividen en varias familias: Daubechies (db), Symlet (sym), Coiflet (coif), Biorthogonal (bior) y Reverse Biorthogonal (rbio), cada una con características particulares. Las wavelets Daubechies son conocidas por su compacidad y ortogonalidad, mientras que las Symlet son una versión más simétrica de las Daubechies. Las Coiflet son útiles para analizar señales con variaciones lentas, y las Biorthogonal permiten una reconstrucción perfecta de las señales utilizando diferentes filtros para análisis y síntesis. Las Reverse Biorthogonal, similares a las Biorthogonal pero con filtros invertidos, también permiten una reconstrucción precisa. Estas características hacen que los filtros Wavelet sean muy eficaces para la eliminación de ruido en las señales ECG, mejorando significativamente la precisión y la calidad del análisis de estas señales[2].
+
+
 ## *2. Objetivos* <a name="id2"></a>
 
 1. Elección del mejor filtro Wavelet para ECG
@@ -59,3 +63,10 @@ El ECG posee 12 derivadas, las cuales permiten visualizar el corazón desde dife
 
 ## *7. Bibliografia* <a name="id11"></a>
 [1] PLUX – Bioseñales inalámbricas, "BITalino (r)evolution Lab Guide", Lisboa, Portugal, 2020.
+[2] Singh, R., Mehta, R., & Rajpal, N. (2018). Efficient wavelet families for ECG classification using neural classifiers. Procedia Computer Science. https://doi.org/10.1016/j.procs.2018.05.054&#8203 
+
+
+
+
+
+
