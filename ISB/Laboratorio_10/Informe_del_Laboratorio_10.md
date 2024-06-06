@@ -45,6 +45,8 @@ La variabilidad de la frecuencia cardíaca (HRV) es una medida de las fluctuacio
 
 ## *4. Metodologia* <a name="id4"></a>
 
+Para la elaboración de este laboratorio, emplearemos la metodología descrita en el artículo "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers". Primero, filtraremos nuestra señal ECG para eliminar ruido y artefactos utilizando un filtro mediano de quinto orden y la Descomposición Empírica del Modo (EMD) para las grabaciones específicas. Posteriormente, realizaremos un análisis de la Variabilidad de la Frecuencia Cardíaca (HRV) en el dominio del tiempo y de la frecuencia, utilizando la Toolbox Cardiovascular de PhysioNet. Este análisis nos permitirá comparar los parámetros obtenidos con los resultados generados mediante los códigos disponibles en el repositorio de GitHub Biosignalsnotebook,con el fin de comparar los resultados obtenidos por los dos medios [3].
+
 ### *4.1. Generar filtro  para ECG* <a name="id5"></a>
 
 
@@ -68,7 +70,7 @@ La variabilidad de la frecuencia cardíaca (HRV) es una medida de las fluctuacio
 
 [2] Singh, R., Mehta, R., & Rajpal, N. (2018). Efficient wavelet families for ECG classification using neural classifiers. Procedia Computer Science. https://doi.org/10.1016/j.procs.2018.05.054&#8203 
 
-[3] S. Sieciński, P. S. Kostka y E. J. Tkacz, "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers. 2020. doi: 10.3390/s20164522.
+[3] S. Sieciński, P. S. Kostka y E. J. Tkacz, "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers. 2020. doi: 10.3390/s20164522.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7472094/
 
 
 
