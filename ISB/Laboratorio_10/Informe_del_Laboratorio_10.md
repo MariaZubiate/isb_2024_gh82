@@ -86,7 +86,7 @@ En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferent
 | |	SEÑAL ORIGINAL |	SEÑAL FILTRADA|
 |:------------:|:---------------:|:------------:|
 |En reposo|![Captura de pantalla 2024-06-07 112731](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/4b8b303e-1b09-443f-8b03-85b77a9949eb)|![Captura de pantalla 2024-06-07 112810](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/a0ef7532-9bc6-4756-a8e9-53361926e750)|
-|Respiración profunda antes del ejercicio|![Captura de pantalla 2024-06-07 122000](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/8bef66ab-6ad2-44b0-9e2b-ef1f6a9d9db4)|![Captura de pantalla 2024-06-07 122054](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/66c43cc1-aa4d-4990-bfa9-a8b1c2f6dc24)
+|Respiración profunda antes del ejercicio|![Captura de pantalla 2024-06-07 122611](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/eb439e27-4316-4766-b815-538ecadb723c)|![Captura de pantalla 2024-06-07 122632](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9b204dbb-a046-40fa-a898-cecba7c15ce1)|
 |Después del ejercicio| | |
 |Respiración profunda después del ejercicio| | |
 
