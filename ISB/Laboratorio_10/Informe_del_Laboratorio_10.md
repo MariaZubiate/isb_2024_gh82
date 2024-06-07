@@ -11,14 +11,14 @@
 1. [Introducción](#id1)
 2. [Objetivos](#id2)
 3. [Materiales y equipos](#id3)
-4. [Metodologia](#id4)\
+4. [Metodología](#id4)\
      4.1 [Generar filtro para ECG](#id5)\
-     4.2 [Obtener caracteristicas de ECG](#id6)
+     4.2 [Obtener características de ECG](#id6)
 6. [Resultados](#id7)\
      5.1 [Resultado de señal filtrada](#id8)\
-     5.2 [Resultado de caracteristicas de ECG](#id9)
+     5.2 [Resultado de características de ECG](#id9)
 8. [Conclusiones](#id10)
-9. [Bibliografia](#id11)
+9. [Bibliografía](#id11)
    
 ## *1. Introducción* <a name="id1"></a>
 
@@ -45,7 +45,7 @@ La variabilidad de la frecuencia cardíaca (HRV, por sus siglas en inglés) es u
 |:------------:|:---------------:|:------------:|
 | 1	| Laptop	| Visualización y procesamiento de las señales con lenguaje de programación
 
-## *4. Metodologia* <a name="id4"></a>
+## *4. Metodología* <a name="id4"></a>
 
 En este laboratorio, nos enfocaremos en la detección de los picos R en señales de electrocardiograma (ECG) y en el análisis de la variabilidad de la frecuencia cardíaca (HRV). Para ello usaremos de guia el articulo "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers"[3].
 
@@ -71,7 +71,7 @@ Para identificar las ondas R de nuestra señal, se utilizará el algoritmo de Pa
 
 - Análisis de Correlación y Umbralización: Finalmente, se aplica un análisis de correlación para determinar la semejanza entre la señal procesada y un modelo de onda R. Finalmente, se reconocen como picos R aquellos que superan estos umbrales, marcando así los puntos en la señal original.
 
-**4.2.2. Obtener el HRV(variabilidad de la frecuencia cardíaca)**
+**4.2.2. Obtener el HRV (variabilidad de la frecuencia cardiaca)**
 
 El análisis de HRV se realizará en los dominios del tiempo y la frecuencia. Para nuestro análisis en el dominio del tiempo, se considerarán índices como el intervalo medio entre latidos (AVNN), la desviación estándar de los intervalos NN (SDNN), la raíz cuadrada de la media de las diferencias sucesivas de los intervalos NN (RMSSD) y la proporción de intervalos NN adyacentes que difieren más de 50 ms (pNN50); estos índices proporcionan información sobre la variabilidad y estabilidad de los intervalos entre latidos. En el dominio de la frecuencia, se calculará la potencia de las bandas de frecuencia muy baja (VLF), baja (LF) y alta (HF), y se determinará la relación LF/HF. Estos valores permitirán comprender el estado cardiovascular del paciente. Los valores de VLF, LF y HF representan diferentes componentes del espectro de frecuencia de la HRV. VLF está relacionada con la termorregulación, LF se asocia con la actividad simpática y parasimpática, y HF está vinculada con la actividad parasimpática y la respiración. La relación LF/HF evalúa el balance entre las influencias simpáticas y parasimpáticas sobre el corazón[3].
 
@@ -91,7 +91,7 @@ Como se explicó anteriormente, el presente filtrado corresponde a un filtro pas
 |Respiración profunda después del ejercicio|![Captura de pantalla 2024-06-07 123521](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/5d7a063d-d68a-472f-8c9c-5472158313d6)|![Captura de pantalla 2024-06-07 123547](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/6c0d5f5b-3cbc-421b-b551-30f410ed631c)|
 
 
-### *5.2. Resultado de caracteristicas de ECG* <a name="id9"></a>
+### *5.2. Resultado de características de ECG* <a name="id9"></a>
 
 **5.2.1.Resultados de los picos R**
 
@@ -110,7 +110,7 @@ Luego de seguir los pasos del algoritmo Pan-Tompkins aplicado en el artículo [4
 
 Se comparará los resultados obtenidos mediante códigos del repertorio Biosignalsnotebook[5] y los resultados del articulo "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers" [3]. Con el fin de validar nuestros valores y analizar los resultados de las pruebas que realizamos. Cabe mencionar que en el artículo se tomaron muestras que duraron 260 min, que incluyeron diversas actividades que se le pidió a cada paciente como respiración normal por 2 min, sostener la respiración por 30 s, respiración normal por 30 s, respiración en posición supina por 10 min y así recurrentemente hasta alcanzar el tiempo establecido. Es decir, el artículo analizó la data de diversas actividades en conjunto; no como las medidas que se tomaron en nuestro laboratorio para cada actividad.
 
-| INDICE DE HVR  |	EN REPOSO |RESPIRACIÓN PROFUNDA ANTES DEL EJERCICIO|BURPEES|RESPIRACIÓN PROFUNDA DESPUÉS DEL EJERCICIO||RESULTADOS DEL ARTÍCULO BASE|
+| ÍNDICE DE HVR  |	EN REPOSO |RESPIRACIÓN PROFUNDA ANTES DEL EJERCICIO|BURPEES|RESPIRACIÓN PROFUNDA DESPUÉS DEL EJERCICIO||RESULTADOS DEL ARTÍCULO BASE|
 |:------------:|:---------------:|:------------:|:-------:|:-----:|:--:|:--:|
 |AVNN [ms]|963.20|813.82|713.59|830.31||954.90
 |SDNN [ms]|60.36|71.99|41.76|90.68||84.18|
@@ -133,7 +133,7 @@ Para nuestro experimento, se obtuvieron valores de 0 para los parámetros VLF y 
 ## *6. Conclusiones* <a name="id10"></a>
 
 
-## *7. Bibliografia* <a name="id11"></a>
+## *7. Bibliografía* <a name="id11"></a>
 
 [1] PLUX – Bioseñales inalámbricas, "BITalino (r)evolution Lab Guide", Lisboa, Portugal, 2020.
 
