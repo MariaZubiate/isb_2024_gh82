@@ -47,7 +47,7 @@ La variabilidad de la frecuencia cardíaca (HRV) es una medida de las fluctuacio
 
 En este laboratorio, nos enfocaremos en la detección de los picos R en señales de electrocardiograma (ECG) y en el análisis de la variabilidad de la frecuencia cardíaca (HRV).
 
-### *4.1. Generar filtro  para ECG* <a name="id5"></a>
+### *4.1. Generar filtro* <a name="id5"></a>
 
 Emplearemos un filtro pasa banda que consiste en un filtro pasa bajo seguido de un filtro pasa alto para eliminar el ruido y las interferencias. Este filtro recursivo de tiempo real, diseñado con coeficientes enteros, tiene polos situados para cancelar ceros en el círculo unitario del plano z. Para nuestro diseño, tomamos como referencia el artículo "A Real-Time QRS Detection Algorithm"[4] y el codigo proporcionado en clase.
 
@@ -56,23 +56,21 @@ Emplearemos un filtro pasa banda que consiste en un filtro pasa bajo seguido de 
 
 4.2.1. Obtener los picos R
 
-Para identificar las ondas R de nuestr señal, se utilizó el algoritmo de Pan-Tompkins, que incluye varios pasos: aplicar un filtro pasabanda,diferenciación, cuadratura de muestras, suavizado con un filtro de media móvil, y análisis de correlación y umbralización. Los umbrales necesarios para detectar los picos se determinaron a partir de los valores máximos y promedios de los picos identificados durante la fase de entrenamiento. Finalmente, se reconocieron como picos R aquellos que superaban estos umbrales, marcando así los puntos en la señal original [4].
+Para identificar las ondas R de nuestr señal, se utilizó el algoritmo de Pan-Tompkins, que incluye varios pasos: aplicar un filtro pasabanda,diferenciación, cuadratura de muestras, suavizado con un filtro de media móvil, y análisis de correlación y umbralización. Los umbrales necesarios para detectar los picos se determinaron a partir de los valores máximos y promedios de los picos identificados durante la fase de entrenamiento. Finalmente, se reconocieron como picos R aquellos que superaban estos umbrales, marcando así los puntos en la señal original [3].
 
-1. Filtro pasabanda
+**Filtro Pasabanda:** Se aplicó un filtro pasabanda para eliminar el ruido de alta frecuencia y las variaciones lentas en la línea de base, manteniendo únicamente las frecuencias relevantes para la señal ECG, típicamente en el rango de 5-15 Hz.
 
-2. Diferenciación
+**Diferenciación:** Esta etapa realza las pendientes de la señal ECG, facilitando la identificación de las ondas R. La diferenciación resalta los cambios rápidos en la señal, que corresponden a los picos R.
 
-3. Cuadratura de muestras
+**Cuadratura de Muestras:** Se cuadran las muestras para amplificar las diferencias entre los picos R y las otras partes de la señal. Esta etapa asegura que las características de los picos R sean más prominentes.
 
-4. Suavizado con un filtro de medida móvil
+**Suavizado con Filtro de Media Móvil:** Un filtro de media móvil se utiliza para suavizar la señal diferenciada y cuadrada, lo que ayuda a reducir el ruido y a hacer más evidentes los picos R. Este filtro promedia un conjunto de valores de la señal para generar cada punto suavizado.
 
-5. Análisis de correlación
-
-6. Umbralización
-
+**Análisis de Correlación y Umbralización:** Finalmente, se aplica un análisis de correlación para determinar la semejanza entre la señal procesada y un modelo de onda R. Los umbrales necesarios para detectar los picos R se establecen basándose en los valores máximos y promedio de los picos identificados durante una fase de entrenamiento. Se reconocen como picos R aquellos que superan estos umbrales, marcando así los puntos en la señal original.
 
 4.2.2. Obtener el RHV(variabilidad de la frecuencia cardíaca)
 
+Se utilizara la siguiente metodología, guindonos del articulo "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers":Se realizara un análisis de HRV nuestras señales. 
      
 ## *5. Resultados* <a name="id7"></a>
 
