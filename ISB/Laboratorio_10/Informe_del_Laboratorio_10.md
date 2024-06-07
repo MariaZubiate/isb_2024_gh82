@@ -49,10 +49,20 @@ En este laboratorio, nos enfocaremos en la detección de los picos R en señales
 
 ### *4.1. Generar filtro  para ECG* <a name="id5"></a>
 
-Emplearemos un filtro pasa bajo para reducir el ruido en nuestra señal. Este filtro recursivo de tiempo real, diseñado con coeficientes enteros, tiene polos situados para cancelar ceros en el círculo unitario del plano z. Para nuestro diseño, tomamos como referencia el artículo "A Real-Time QRS Detection Algorithm".
+Emplearemos un filtro pasa banda que consiste en un filtro pasa bajo seguido de un filtro pasa alto para eliminar el ruido y las interferencias. Este filtro recursivo de tiempo real, diseñado con coeficientes enteros, tiene polos situados para cancelar ceros en el círculo unitario del plano z. Para nuestro diseño, tomamos como referencia el artículo "A Real-Time QRS Detection Algorithm"[4] y el codigo proporcionado en clase.
+
 
 ### *4.2.Obtener caracteristicas de ECG* <a name="id6"></a>
 
+4.2.1. Obtener los picos R
+
+Se identifico los picos en nuestra señal utilizando la función **find_peaks** con un criterio de distancia mínima entre picos. Los umbrales para la detección de picos se establecen basándose en los valores máximos y medios de los picos detectados en la fase de entrenamiento. Al finalizar, los picos R se identificaron como aquellos que superan los umbrales, marcando los puntos correspondientes en la señal original [4].
+
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c9c33ec6-1ebb-4785-84cb-1127934b47b3)
+
+4.2.2. Obtener el RHV(variabilidad de la frecuencia cardíaca)
+
+     
 ## *5. Resultados* <a name="id7"></a>
 
 
