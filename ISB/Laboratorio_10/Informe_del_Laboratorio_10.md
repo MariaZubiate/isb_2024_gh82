@@ -88,7 +88,7 @@ En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferent
 |En reposo|![Captura de pantalla 2024-06-07 112731](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/4b8b303e-1b09-443f-8b03-85b77a9949eb)|![Captura de pantalla 2024-06-07 112810](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/a0ef7532-9bc6-4756-a8e9-53361926e750)|
 |Respiración profunda antes del ejercicio|![Captura de pantalla 2024-06-07 122611](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/eb439e27-4316-4766-b815-538ecadb723c)|![Captura de pantalla 2024-06-07 122632](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9b204dbb-a046-40fa-a898-cecba7c15ce1)|
 |Burpees|![Captura de pantalla 2024-06-07 122844](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/ba7cf9b4-23b9-4125-a214-bb450da9916d)|![Captura de pantalla 2024-06-07 122911](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/50423663-564e-4329-b48a-14f19be624fa)|
-|Respiración profunda después del ejercicio| | |
+|Respiración profunda después del ejercicio|![Captura de pantalla 2024-06-07 123521](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/5d7a063d-d68a-472f-8c9c-5472158313d6)|![Captura de pantalla 2024-06-07 123547](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/6c0d5f5b-3cbc-421b-b551-30f410ed631c)|
 
 
 ### *5.2. Resultado de caracteristicas de ECG* <a name="id9"></a>
@@ -100,7 +100,9 @@ En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferent
 |En reposo|![Captura de pantalla 2024-06-07 113139](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0fdd4098-67d5-44f1-b1ac-db7637391842)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/f48fac12-a3df-474a-933a-1540b03ca517)|
 |Respiración profunda antes del ejercicio|![Captura de pantalla 2024-06-07 122128](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0a352195-8e02-47a0-89ca-0974403a431d)|![Captura de pantalla 2024-06-07 122153](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/26e846d2-63ac-4dc9-b763-5e428c67c355)|
 |Burpees|![Captura de pantalla 2024-06-07 122945](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/1c819994-5360-4eb7-87ef-6488bbbfade0)|![Captura de pantalla 2024-06-07 123014](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/cfd1d72b-e0de-43d1-8181-a4a70bb1a385)|
-|Respiración profunda después del ejercicio| | |
+|Respiración profunda después del ejercicio|![Captura de pantalla 2024-06-07 123625](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/c4318088-94e1-4e59-bec1-13ced3f5eae0)|![Captura de pantalla 2024-06-07 123647](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/9c313fae-fc11-40be-9d41-47354f30bbd0)|
+
+
 
 **5.2.2. Cuadro comparativo de resultados de los índices HRV**
 
@@ -108,13 +110,13 @@ Se comparara los resultados obtenidos mediante codigos del repertorio Biosignals
 
 | INDICE DE HVR  |	EN REPOSO |RESPIRACIÓN PROFUNDA ANTES DEL EJERCICIO|BURPEES|RESPIRACIÓN PROFUNDA DESPUÉS DEL EJERCICIO|
 |:------------:|:---------------:|:------------:|:-------:|:-----:|
-|AVNN [ms]|963.20|813.82|713.59||
-|SDNN [ms]|60.36|71.99|41.76||
-|RMSSD [ms]|74.61|46.34|47.89||
-|pNN50 [%]|16.33|34.09|40.00||
+|AVNN [ms]|963.20|813.82|713.59|830.31|
+|SDNN [ms]|60.36|71.99|41.76|90.68|
+|RMSSD [ms]|74.61|46.34|47.89|55.50|
+|pNN50 [%]|16.33|34.09|40.00|28.57|
 |VLF[ms^2]|0.00|0.00|0.00|0.00|
 |LF[ms^2]|0.00|0.00|0.00|0.00|
-|HF[ms^2]|146.52|1947.00|142.00||
+|HF[ms^2]|146.52|1947.00|142.00|0.00|
 |LF/HF|0.00|0.00|0.00|0.00|
 
 
