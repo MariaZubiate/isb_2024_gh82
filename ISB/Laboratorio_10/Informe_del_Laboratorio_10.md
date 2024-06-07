@@ -124,7 +124,9 @@ Se comparará los resultados obtenidos mediante códigos del repertorio Biosigna
 ### DISCUSIÓN
 
 .....
+
 Para nuestro experimento, se obtuvieron valores de 0 para los parámetros VLF y LF; lo cual según [] es porque la cantidad el periodo de la señal obtenida es muy corta. En nuestro caso, solo se grabaron episodios comprendidos entre 40-50 segundos; con lo cual se obtuvieron alrededor de 50 intervalos RR a lo largo de toda la señal. Un factor muy clave para la caracterización del análisis en dominio en frecuencia, ya que con solo esta cantidad no es posible obtener suficiente información para calcular adecuadamente las bandas VLF y LF. A diferencia del artículo, donde sí se obtuvieron resultados satisfactorios porque la señal grabada duró 260 min.
+
 .....
 
 
