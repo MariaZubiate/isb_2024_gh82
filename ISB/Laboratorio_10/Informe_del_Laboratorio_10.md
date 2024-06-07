@@ -47,7 +47,7 @@ La variabilidad de la frecuencia cardíaca (HRV) es un indicador clave de la sal
 
 ## *4. Metodologia* <a name="id4"></a>
 
-En este laboratorio, nos enfocaremos en la detección de los picos R en señales de electrocardiograma (ECG) y en el análisis de la variabilidad de la frecuencia cardíaca (HRV).
+En este laboratorio, nos enfocaremos en la detección de los picos R en señales de electrocardiograma (ECG) y en el análisis de la variabilidad de la frecuencia cardíaca (HRV). Para ello usaremos de guia el articulo "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers"[3].
 
 ### *4.1. Generar filtro* <a name="id5"></a>
 
