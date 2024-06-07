@@ -51,29 +51,30 @@ En este laboratorio, nos enfocaremos en la detección de los picos R en señales
 
 ### *4.1. Generar filtro* <a name="id5"></a>
 
-Emplearemos un filtro pasa banda que consiste en un filtro pasa bajo seguido de un filtro pasa alto para eliminar el ruido y las interferencias. Este filtro recursivo de tiempo real, diseñado con coeficientes enteros, tiene polos situados para cancelar ceros en el círculo unitario del plano z. Para nuestro diseño, tomamos como referencia el artículo "A Real-Time QRS Detection Algorithm"[4] y el codigo proporcionado en clase.
+En este inciso emplearemos un filtro pasa banda que consiste en un filtro pasa bajo seguido de un filtro pasa alto para eliminar el ruido y las interferencias. Este filtro recursivo de tiempo real, diseñado con coeficientes enteros, tiene polos situados para cancelar ceros en el círculo unitario del plano z. Para nuestro diseño, tomamos como referencia el artículo "A Real-Time QRS Detection Algorithm"[4] y el codigo proporcionado en clase.
+El filtro pasa banda estara compuesto por un filtro pasa bajo y un filtro pasa alto en cascada. Esto nos permitira reducir el ruido y  la interferencia electrica de 60 Hz. El filtro pasa bajo es de segundo orden, con una frecuencia de 11Hz; mientras que el filtro pasa alto tiene una frecuencia de corte de 5Hz. Esta combinación nos permite tener un filtro pasa banda de 5-15Hz[4].
 
 
 ### *4.2.Obtener caracteristicas de ECG* <a name="id6"></a>
 
 **4.2.1. Obtener los picos R**
 
-Para identificar las ondas R de nuestr señal, se utilizó el algoritmo de Pan-Tompkins, que incluye varios pasos: aplicar un filtro pasabanda,diferenciación, cuadratura de muestras, suavizado con un filtro de media móvil, y análisis de correlación y umbralización. Los umbrales necesarios para detectar los picos se determinaron a partir de los valores máximos y promedios de los picos identificados durante la fase de entrenamiento. Finalmente, se reconocieron como picos R aquellos que superaban estos umbrales, marcando así los puntos en la señal original [3].
+Para identificar las ondas R de nuestra señal, se utilizara el algoritmo de Pan-Tompkins, que incluye varios pasos: aplicar un filtro pasabanda,diferenciación, cuadratura de muestras, suavizado con un filtro de media móvil, y análisis de correlación y umbralización. Los umbrales necesarios para detectar los picos se obtendra del articulo, estos fueron hallados a partir de los valores máximos y promedios de los picos identificados durante su fase de entrenamiento. Finalmente, se reconoceran como picos R aquellos que superan estos umbrales, marcando así los puntos en la señal original [3].
 
-- Filtro Pasabanda: Se aplicó un filtro pasabanda para eliminar el ruido de alta frecuencia y las variaciones lentas en la línea de base, manteniendo únicamente las frecuencias relevantes para la señal ECG, típicamente en el rango de 5-15 Hz.
+- Filtro Pasabanda: Se aplicó un filtro pasabanda para eliminar el ruido de alta frecuencia y las variaciones lentas en la línea de base, manteniendo únicamente las frecuencias relevantes para la señal ECG, típicamente en el rango de 5-15 Hz. Este paso se realiza en un inciso anterior.
 
-- Diferenciación: Esta etapa realza las pendientes de la señal ECG, facilitando la identificación de las ondas R. La diferenciación resalta los cambios rápidos en la señal, que corresponden a los picos R.
+- Diferenciación: Esta etapa realkza las pendientes de la señal ECG, facilitando la identificación de las ondas R. La diferenciación resalta los cambios rápidos en la señal, que corresponden a los picos R.
 
 - Cuadratura de Muestras: Se cuadran las muestras para amplificar las diferencias entre los picos R y las otras partes de la señal. Esta etapa asegura que las características de los picos R sean más prominentes.
 
 - Suavizado con Filtro de Media Móvil: Un filtro de media móvil se utiliza para suavizar la señal diferenciada y cuadrada, lo que ayuda a reducir el ruido y a hacer más evidentes los picos R. Este filtro promedia un conjunto de valores de la señal para generar cada punto suavizado.
 
-- Análisis de Correlación y Umbralización: Finalmente, se aplica un análisis de correlación para determinar la semejanza entre la señal procesada y un modelo de onda R. Los umbrales necesarios para detectar los picos R se establecen basándose en los valores máximos y promedio de los picos identificados durante una fase de entrenamiento. Se reconocen como picos R aquellos que superan estos umbrales, marcando así los puntos en la señal original.
+- Análisis de Correlación y Umbralización: Finalmente, se aplica un análisis de correlación para determinar la semejanza entre la señal procesada y un modelo de onda R. Se reconocen como picos R aquellos que superan estos umbrales, marcando así los puntos en la señal original.
 
 **4.2.2. Obtener el RHV(variabilidad de la frecuencia cardíaca)**
 
 El análisis de HRV se realizará en los dominios del tiempo y la frecuencia. Para nuestro analisis análisis en el dominio del tiempo, se considerarán índices como el intervalo medio entre latidos (AVNN), la desviación estándar de los intervalos NN (SDNN), la raíz cuadrada de la media de las diferencias sucesivas de los intervalos NN (RMSSD) y la proporción de intervalos NN adyacentes que difieren más de 50 ms (pNN50). En el dominio de la frecuencia, se calculará la potencia de las bandas de frecuencia muy baja (VLF), baja (LF) y alta (HF), y se determinará la relación LF/HF. 
-Estos valores nos permitiran comprender el estado cardiovascular del paciente. Los índices en el dominio del tiempo, como AVNN, SDNN, RMSSD y pNN50, proporcionan información sobre la variabilidad y estabilidad de los intervalos entre latidos.  
+Estos valores nos permitiran comprender el estado cardiovascular del paciente. Los índices en el dominio del tiempo,  proporcionan información sobre la variabilidad y estabilidad de los intervalos entre latidos.  
 En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferentes componentes del espectro de frecuencia de la HRV. VLF está relacionada con la termorregulación, LF se asocia con la actividad simpática y parasimpática, y HF está vinculada con la actividad parasimpática y la respiración. La relación  (LF/HF) evalúa el balance entre las influencias simpáticas y parasimpáticas sobre el corazón[3].
 
 
@@ -89,7 +90,7 @@ En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferent
 
 **5.2.2. Cuadro comparativo de resultados de los índices HRV**
 
-Se comparara los resultados obtenidos mediante codigos del repertorio Biosignalsnotebook[5] y los resultados que nos del articulo "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers"[3]. Con el fin de validar que nuestros valores se asemenjen.
+Se comparara los resultados obtenidos mediante codigos del repertorio Biosignalsnotebook[5] y los resultados del articulo "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers"[3]. Con el fin de validar que nuestros valores y analizar nuestros resultados de las pruebas que realizamos. 
 
 | INDICE DE HVR  |	RESULTADOS DEL ARTICULO |	RESULTADO OBTENIDOS
 |:------------:|:---------------:|:------------:|
