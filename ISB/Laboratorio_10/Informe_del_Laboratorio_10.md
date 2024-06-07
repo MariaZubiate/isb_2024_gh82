@@ -58,15 +58,15 @@ Emplearemos un filtro pasa banda que consiste en un filtro pasa bajo seguido de 
 
 Para identificar las ondas R de nuestr señal, se utilizó el algoritmo de Pan-Tompkins, que incluye varios pasos: aplicar un filtro pasabanda,diferenciación, cuadratura de muestras, suavizado con un filtro de media móvil, y análisis de correlación y umbralización. Los umbrales necesarios para detectar los picos se determinaron a partir de los valores máximos y promedios de los picos identificados durante la fase de entrenamiento. Finalmente, se reconocieron como picos R aquellos que superaban estos umbrales, marcando así los puntos en la señal original [3].
 
-     Filtro Pasabanda: Se aplicó un filtro pasabanda para eliminar el ruido de alta frecuencia y las variaciones lentas en la línea de base, manteniendo únicamente las frecuencias relevantes para la señal ECG, típicamente en el rango de 5-15 Hz.
+- Filtro Pasabanda: Se aplicó un filtro pasabanda para eliminar el ruido de alta frecuencia y las variaciones lentas en la línea de base, manteniendo únicamente las frecuencias relevantes para la señal ECG, típicamente en el rango de 5-15 Hz.
 
-     Diferenciación: Esta etapa realza las pendientes de la señal ECG, facilitando la identificación de las ondas R. La diferenciación resalta los cambios rápidos en la señal, que corresponden a los picos R.
+- Diferenciación: Esta etapa realza las pendientes de la señal ECG, facilitando la identificación de las ondas R. La diferenciación resalta los cambios rápidos en la señal, que corresponden a los picos R.
 
-     Cuadratura de Muestras: Se cuadran las muestras para amplificar las diferencias entre los picos R y las otras partes de la señal. Esta etapa asegura que las características de los picos R sean más prominentes.
+- Cuadratura de Muestras: Se cuadran las muestras para amplificar las diferencias entre los picos R y las otras partes de la señal. Esta etapa asegura que las características de los picos R sean más prominentes.
 
-     Suavizado con Filtro de Media Móvil: Un filtro de media móvil se utiliza para suavizar la señal diferenciada y cuadrada, lo que ayuda a reducir el ruido y a hacer más evidentes los picos R. Este filtro promedia un conjunto de valores de la señal para generar cada punto suavizado.
+- Suavizado con Filtro de Media Móvil: Un filtro de media móvil se utiliza para suavizar la señal diferenciada y cuadrada, lo que ayuda a reducir el ruido y a hacer más evidentes los picos R. Este filtro promedia un conjunto de valores de la señal para generar cada punto suavizado.
 
-     Análisis de Correlación y Umbralización: Finalmente, se aplica un análisis de correlación para determinar la semejanza entre la señal procesada y un modelo de onda R. Los umbrales necesarios para detectar los picos R se establecen basándose en los valores máximos y promedio de los picos identificados durante una fase de entrenamiento. Se reconocen como picos R aquellos que superan estos umbrales, marcando así los puntos en la señal original.
+- Análisis de Correlación y Umbralización: Finalmente, se aplica un análisis de correlación para determinar la semejanza entre la señal procesada y un modelo de onda R. Los umbrales necesarios para detectar los picos R se establecen basándose en los valores máximos y promedio de los picos identificados durante una fase de entrenamiento. Se reconocen como picos R aquellos que superan estos umbrales, marcando así los puntos en la señal original.
 
 **4.2.2. Obtener el RHV(variabilidad de la frecuencia cardíaca)**
 
