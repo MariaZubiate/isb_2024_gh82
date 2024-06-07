@@ -45,10 +45,11 @@ La variabilidad de la frecuencia cardíaca (HRV) es una medida de las fluctuacio
 
 ## *4. Metodologia* <a name="id4"></a>
 
-Para la elaboración de este laboratorio, emplearemos la metodología descrita en el artículo "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers". Primero, filtraremos nuestra señal ECG para eliminar ruido y artefactos utilizando un filtro mediano de quinto orden y la Descomposición Empírica del Modo (EMD) para las grabaciones específicas. Posteriormente, realizaremos un análisis de la Variabilidad de la Frecuencia Cardíaca (HRV) en el dominio del tiempo y de la frecuencia, utilizando la Toolbox Cardiovascular de PhysioNet. Este análisis nos permitirá comparar los parámetros obtenidos con los resultados generados mediante los códigos disponibles en el repositorio de GitHub Biosignalsnotebook,con el fin de comparar los resultados obtenidos por los dos medios [3].
+En este laboratorio, nos enfocaremos en la detección de los picos R en señales de electrocardiograma (ECG) y en el análisis de la variabilidad de la frecuencia cardíaca (HRV).
 
 ### *4.1. Generar filtro  para ECG* <a name="id5"></a>
 
+Emplearemos un filtro pasa bajo para reducir el ruido en nuestra señal. Este filtro recursivo de tiempo real, diseñado con coeficientes enteros, tiene polos situados para cancelar ceros en el círculo unitario del plano z. Para nuestro diseño, tomamos como referencia el artículo "A Real-Time QRS Detection Algorithm".
 
 ### *4.2.Obtener caracteristicas de ECG* <a name="id6"></a>
 
@@ -72,6 +73,7 @@ Para la elaboración de este laboratorio, emplearemos la metodología descrita e
 
 [3] S. Sieciński, P. S. Kostka y E. J. Tkacz, "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers. 2020. doi: 10.3390/s20164522.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7472094/
 
+[4] J. Pan and W. J. Tompkins, "A Real-Time QRS Detection Algorithm". IEEE Transactions on Biomedical Engineering. 1985, doi: 10.1109/TBME.1985.325532.
 
 
 
