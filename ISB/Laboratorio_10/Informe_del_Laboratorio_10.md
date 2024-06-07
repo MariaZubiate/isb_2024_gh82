@@ -87,7 +87,7 @@ En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferent
 
 **5.2.2. Cuadro comparativo de resultados de los índices HRV**
 
-Se comparara los resultados obtenidos mediante codigos del repertorio Biosignalsnotebook y los resultados que nos del articulo "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers"[3]. Con el fin de validar que nuestros valores se asemenjen.
+Se comparara los resultados obtenidos mediante codigos del repertorio Biosignalsnotebook[5] y los resultados que nos del articulo "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers"[3]. Con el fin de validar que nuestros valores se asemenjen.
 
 | INDICE DE HVR  |	RESULTADOS DEL ARTICULO |	RESULTADO OBTENIDOS
 |:------------:|:---------------:|:------------:|
@@ -115,5 +115,5 @@ Se comparara los resultados obtenidos mediante codigos del repertorio Biosignals
 
 [4] J. Pan and W. J. Tompkins, "A Real-Time QRS Detection Algorithm". IEEE Transactions on Biomedical Engineering. 1985, doi: 10.1109/TBME.1985.325532.
 
-
+[5] "Indices de HRV". [En línea]. Disponible en:
 
