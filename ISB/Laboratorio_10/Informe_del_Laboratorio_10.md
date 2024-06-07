@@ -56,7 +56,19 @@ Emplearemos un filtro pasa banda que consiste en un filtro pasa bajo seguido de 
 
 4.2.1. Obtener los picos R
 
-Se identifico los picos en nuestra señal utilizando la función **find_peaks** con un criterio de distancia mínima entre picos. Los umbrales para la detección de picos se establecen basándose en los valores máximos y medios de los picos detectados en la fase de entrenamiento. Al finalizar, los picos R se identificaron como aquellos que superan los umbrales, marcando los puntos correspondientes en la señal original [4].
+Para identificar las ondas R de nuestr señal, se utilizó el algoritmo de Pan-Tompkins, que incluye varios pasos: aplicar un filtro pasabanda,diferenciación, cuadratura de muestras, suavizado con un filtro de media móvil, y análisis de correlación y umbralización. Los umbrales necesarios para detectar los picos se determinaron a partir de los valores máximos y promedios de los picos identificados durante la fase de entrenamiento. Finalmente, se reconocieron como picos R aquellos que superaban estos umbrales, marcando así los puntos en la señal original [4].
+
+1. Filtro pasabanda
+
+2. Diferenciación
+
+3. Cuadratura de muestras
+
+4. Suavizado con un filtro de medida móvil
+
+5. Análisis de correlación
+
+6. Umbralización
 
 ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c9c33ec6-1ebb-4785-84cb-1127934b47b3)
 
