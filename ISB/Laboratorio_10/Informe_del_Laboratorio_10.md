@@ -86,7 +86,7 @@ En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferent
 | |	SEÑAL ORIGINAL |	SEÑAL FILTRADA|
 |:------------:|:---------------:|:------------:|
 |En reposo|![Captura de pantalla 2024-06-07 112731](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/4b8b303e-1b09-443f-8b03-85b77a9949eb)|![Captura de pantalla 2024-06-07 112810](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/a0ef7532-9bc6-4756-a8e9-53361926e750)|
-|Respiración profunda antes del ejercicio| | |
+|Respiración profunda antes del ejercicio|![Captura de pantalla 2024-06-07 122000](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/8bef66ab-6ad2-44b0-9e2b-ef1f6a9d9db4)|![Captura de pantalla 2024-06-07 122054](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/66c43cc1-aa4d-4990-bfa9-a8b1c2f6dc24)
 |Después del ejercicio| | |
 |Respiración profunda después del ejercicio| | |
 
@@ -97,8 +97,8 @@ En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferent
 
 | |	SEÑALIZACIÓN DE UMBRALES | IDENTIFICACIÓN DE PICOS RR|
 |:------------:|:---------------:|:------------:|
-|En reposo|![Captura de pantalla 2024-06-07 113139](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0fdd4098-67d5-44f1-b1ac-db7637391842)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/f48fac12-a3df-474a-933a-1540b03ca517)| |
-|Respiración profunda antes del ejercicio| | |
+|En reposo|![Captura de pantalla 2024-06-07 113139](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0fdd4098-67d5-44f1-b1ac-db7637391842)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/f48fac12-a3df-474a-933a-1540b03ca517)|
+|Respiración profunda antes del ejercicio|![Captura de pantalla 2024-06-07 122128](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0a352195-8e02-47a0-89ca-0974403a431d)|![Captura de pantalla 2024-06-07 122153](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/26e846d2-63ac-4dc9-b763-5e428c67c355)|
 |Después del ejercicio| | |
 |Respiración profunda después del ejercicio| | |
 
@@ -106,17 +106,16 @@ En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferent
 
 Se comparara los resultados obtenidos mediante codigos del repertorio Biosignalsnotebook[5] y los resultados del articulo "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers"[3]. Con el fin de validar que nuestros valores y analizar nuestros resultados de las pruebas que realizamos. 
 
-| INDICE DE HVR  |	EN REPOSO |	RESPIRACIÓN PROFUNDA_ANTES DEL EJERCICIO|
-|:------------:|:---------------:|:------------:|
-|AVNN [ms]|963,20||
-|SDNN [ms]|60,36||
-|RMSSD [ms]|74,61||
-|pNN50 [%]|16,33||
-|VLF[ms^2]|0.00||
-|LF[ms^2]|0.00||
-|HF[ms^2]|146,52||
-|LF/HF|1,2659 (0,8454)||
-
+| INDICE DE HVR  |	EN REPOSO |RESPIRACIÓN PROFUNDA_ANTES DEL EJERCICIO|DESPUÉS DEL EJERCICIO|
+|:------------:|:---------------:|:------------:|:-------:|
+|AVNN [ms]|963,20|813.82||
+|SDNN [ms]|60,36|71.99||
+|RMSSD [ms]|74,61|46.34||
+|pNN50 [%]|16,33|34.09||
+|VLF[ms^2]|0.00|0.00||
+|LF[ms^2]|0.00|0.00||
+|HF[ms^2]|146,52||1947.00||
+|LF/HF|0.00|0.00||
 
 
 ## *6. Conclusiones* <a name="id10"></a>
