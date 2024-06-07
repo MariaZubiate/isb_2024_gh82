@@ -72,7 +72,7 @@ Para identificar las ondas R de nuestr señal, se utilizó el algoritmo de Pan-T
 
 El análisis de HRV se realizará en los dominios del tiempo y la frecuencia. Para nuestro analisis análisis en el dominio del tiempo, se considerarán índices como el intervalo medio entre latidos (AVNN), la desviación estándar de los intervalos NN (SDNN), la raíz cuadrada de la media de las diferencias sucesivas de los intervalos NN (RMSSD) y la proporción de intervalos NN adyacentes que difieren más de 50 ms (pNN50). En el dominio de la frecuencia, se calculará la potencia de las bandas de frecuencia muy baja (VLF), baja (LF) y alta (HF), y se determinará la relación LF/HF. 
 Estos valores nos permitiran comprender el estado cardiovascular del paciente. Los índices en el dominio del tiempo, como AVNN, SDNN, RMSSD y pNN50, proporcionan información sobre la variabilidad y estabilidad de los intervalos entre latidos.  
-En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferentes componentes del espectro de frecuencia de la HRV. VLF está relacionada con la termorregulación, LF se asocia con la actividad simpática y parasimpática, y HF está vinculada con la actividad parasimpática y la respiración. La relación LF/HF evalúa el balance entre las influencias simpáticas y parasimpáticas sobre el corazón[3].
+En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferentes componentes del espectro de frecuencia de la HRV. VLF está relacionada con la termorregulación, LF se asocia con la actividad simpática y parasimpática, y HF está vinculada con la actividad parasimpática y la respiración. La relación  (LF/HF) evalúa el balance entre las influencias simpáticas y parasimpáticas sobre el corazón[3].
 
 
 ## *5. Resultados* <a name="id7"></a>
@@ -82,6 +82,24 @@ En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferent
 
 
 ### *5.2. Resultado de caracteristicas de ECG* <a name="id9"></a>
+
+**5.2.1.**
+
+**5.2.2. Cuadro comparativo de resultados de los índices HRV**
+
+Se comparara los resultados obtenidos mediante codigos del repertorio Biosignalsnotebook y los resultados que nos del articulo "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers"[3]. Con el fin de validar que nuestros valores se asemenjen.
+
+| INDICE DE HVR  |	RESULTADOS DEL ARTICULO |	RESULTADO OBTENIDOS
+|:------------:|:---------------:|:------------:|
+|AVNN [ms]|954,90 (113,36)||
+|SDNN [ms]|84,18 (33,41)||
+|RMSSD [ms]|75,84 (41,16)||
+|pNN50|0,30 (0,19)||
+|VLF[ms^2]|1860,90 (1369,11)||
+|BF[ms^2]|2570,18 (2251,61)||
+|AF[ms^2]|2774,35 (2378,19)||
+|BF/HF|1,2659 (0,8454)||
+
 
 
 ## *6. Conclusiones* <a name="id10"></a>
