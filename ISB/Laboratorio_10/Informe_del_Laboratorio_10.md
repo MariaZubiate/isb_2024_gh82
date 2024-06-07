@@ -52,7 +52,7 @@ En este laboratorio, nos enfocaremos en la detección de los picos R en señales
 ### *4.1. Generar filtro* <a name="id5"></a>
 
 En este inciso emplearemos un filtro pasa banda que consiste en un filtro pasa bajo seguido de un filtro pasa alto para eliminar el ruido y las interferencias. Este filtro recursivo de tiempo real, diseñado con coeficientes enteros, tiene polos situados para cancelar ceros en el círculo unitario del plano z. Para nuestro diseño, tomamos como referencia el artículo "A Real-Time QRS Detection Algorithm"[4] y el codigo proporcionado en clase.
-El filtro pasa banda estara compuesto por un filtro pasa bajo y un filtro pasa alto en cascada. Esto nos permitira reducir el ruido y  la interferencia electrica de 60 Hz. El filtro pasa bajo es de segundo orden, con una frecuencia de 11Hz; mientras que el filtro pasa alto tiene una frecuencia de corte de 5Hz. Esta combinación nos permite tener un filtro pasa banda de 5-15Hz[4].
+El filtro pasa banda estara compuesto por un filtro pasa bajo y un filtro pasa alto en cascada. Esto nos permitirá reducir el ruido y  la interferencia electrica de 60 Hz. El filtro pasa bajo es de segundo orden, con una frecuencia de corte de 11 Hz; mientras que el filtro pasa alto tiene una frecuencia de corte de 5 Hz. Esta combinación nos permite tener un filtro pasa banda de 5-12Hz [4].
 
 
 ### *4.2.Obtener características de ECG* <a name="id6"></a>
