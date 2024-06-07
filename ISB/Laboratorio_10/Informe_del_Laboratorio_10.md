@@ -61,7 +61,7 @@ El filtro pasa banda estara compuesto por un filtro pasa bajo y un filtro pasa a
 
 Para identificar las ondas R de nuestra señal, se utilizara el algoritmo de Pan-Tompkins, que incluye varios pasos: aplicar un filtro pasabanda,diferenciación, cuadratura de muestras, suavizado con un filtro de media móvil, y análisis de correlación y umbralización. Los umbrales necesarios para detectar los picos se obtendra del articulo, estos fueron hallados a partir de los valores máximos y promedios de los picos identificados durante su fase de entrenamiento. Finalmente, se reconoceran como picos R aquellos que superan estos umbrales, marcando así los puntos en la señal original [3].
 
-- Filtro Pasabanda: Se aplicó un filtro pasabanda para eliminar el ruido de alta frecuencia y las variaciones lentas en la línea de base, manteniendo únicamente las frecuencias relevantes para la señal ECG, típicamente en el rango de 5-15 Hz. Este paso se realiza en un inciso anterior.
+- Filtro Pasabanda: Se aplicó un filtro pasabanda para eliminar el ruido de alta frecuencia y las variaciones lentas en la línea de base, manteniendo únicamente las frecuencias relevantes para la señal ECG. En este caso, la banda deseable para mazimixar la energía del complejo QRS se encuentra típicamente en el rango de 5-15 Hz; sin embargo, el artículo utilizó el rango 5-12 Hz. [4]
 
 - Diferenciación: Esta etapa realkza las pendientes de la señal ECG, facilitando la identificación de las ondas R. La diferenciación resalta los cambios rápidos en la señal, que corresponden a los picos R.
 
@@ -83,10 +83,20 @@ En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferent
 
 ### *5.1. Resultado de la señal filtrada* <a name="id8"></a>
 
+| |	SEÑAL ORIGINAL |	SEÑAL FILTRADA|
+|:------------:|:---------------:|:------------:|
+|En reposo|![Captura de pantalla 2024-06-07 112731](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/4b8b303e-1b09-443f-8b03-85b77a9949eb)|![Captura de pantalla 2024-06-07 112810](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/a0ef7532-9bc6-4756-a8e9-53361926e750)|
+| | | |
+
 
 ### *5.2. Resultado de caracteristicas de ECG* <a name="id9"></a>
 
 **5.2.1.Resultados de los picos R**
+
+| |	SEÑALIZACIÓN DE UMBRALES | IDENTIFICACIÓN DE PICOS RR|
+|:------------:|:---------------:|:------------:|
+|En reposo|![Captura de pantalla 2024-06-07 113139](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0fdd4098-67d5-44f1-b1ac-db7637391842)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/f48fac12-a3df-474a-933a-1540b03ca517)| |
+| | | |
 
 **5.2.2. Cuadro comparativo de resultados de los índices HRV**
 
