@@ -70,7 +70,6 @@ Para identificar las ondas R de nuestr señal, se utilizó el algoritmo de Pan-T
 
 6. Umbralización
 
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c9c33ec6-1ebb-4785-84cb-1127934b47b3)
 
 4.2.2. Obtener el RHV(variabilidad de la frecuencia cardíaca)
 
