@@ -78,12 +78,12 @@ En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferent
 ## *5. Resultados* <a name="id7"></a>
 
 
-### *5.1. Resultado de señal filtrada* <a name="id8"></a>
+### *5.1. Resultado de la señal filtrada* <a name="id8"></a>
 
 
 ### *5.2. Resultado de caracteristicas de ECG* <a name="id9"></a>
 
-**5.2.1.**
+**5.2.1.Resultados de los picos R**
 
 **5.2.2. Cuadro comparativo de resultados de los índices HRV**
 
