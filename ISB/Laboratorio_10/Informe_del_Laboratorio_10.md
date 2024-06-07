@@ -106,16 +106,16 @@ En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferent
 
 Se comparara los resultados obtenidos mediante codigos del repertorio Biosignalsnotebook[5] y los resultados del articulo "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers"[3]. Con el fin de validar que nuestros valores y analizar nuestros resultados de las pruebas que realizamos. 
 
-| INDICE DE HVR  |	EN REPOSO |RESPIRACIÓN PROFUNDA_ANTES DEL EJERCICIO|DESPUÉS DEL EJERCICIO|
-|:------------:|:---------------:|:------------:|:-------:|
-|AVNN [ms]|963.20|813.82|713.59|
-|SDNN [ms]|60.36|71.99|41.76|
-|RMSSD [ms]|74.61|46.34|47.89|
-|pNN50 [%]|16.33|34.09|40.00|
-|VLF[ms^2]|0.00|0.00|0.00|
-|LF[ms^2]|0.00|0.00|0.00|
-|HF[ms^2]|146.52||1947.00|142.00|
-|LF/HF|0.00|0.00||
+| INDICE DE HVR  |	EN REPOSO |RESPIRACIÓN PROFUNDA ANTES DEL EJERCICIO|BURPEES|RESPIRACIÓN PROFUNDA DESPUÉS DEL EJERCICIO|
+|:------------:|:---------------:|:------------:|:-------:|:-----:|
+|AVNN [ms]|963.20|813.82|713.59||
+|SDNN [ms]|60.36|71.99|41.76||
+|RMSSD [ms]|74.61|46.34|47.89||
+|pNN50 [%]|16.33|34.09|40.00||
+|VLF[ms^2]|0.00|0.00|0.00|0.00|
+|LF[ms^2]|0.00|0.00|0.00|0.00|
+|HF[ms^2]|146.52|1947.00|142.00||
+|LF/HF|0.00|0.00|0.00|0.00|
 
 
 ## *6. Conclusiones* <a name="id10"></a>
