@@ -86,7 +86,9 @@ En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferent
 | |	SEÑAL ORIGINAL |	SEÑAL FILTRADA|
 |:------------:|:---------------:|:------------:|
 |En reposo|![Captura de pantalla 2024-06-07 112731](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/4b8b303e-1b09-443f-8b03-85b77a9949eb)|![Captura de pantalla 2024-06-07 112810](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/a0ef7532-9bc6-4756-a8e9-53361926e750)|
-| | | |
+|Respiración profunda antes del ejercicio| | |
+|Después del ejercicio| | |
+|Respiración profunda después del ejercicio| | |
 
 
 ### *5.2. Resultado de caracteristicas de ECG* <a name="id9"></a>
@@ -96,22 +98,24 @@ En el dominio de la frecuencia, los valores de VLF, LF y HF representan diferent
 | |	SEÑALIZACIÓN DE UMBRALES | IDENTIFICACIÓN DE PICOS RR|
 |:------------:|:---------------:|:------------:|
 |En reposo|![Captura de pantalla 2024-06-07 113139](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0fdd4098-67d5-44f1-b1ac-db7637391842)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/f48fac12-a3df-474a-933a-1540b03ca517)| |
-| | | |
+|Respiración profunda antes del ejercicio| | |
+|Después del ejercicio| | |
+|Respiración profunda después del ejercicio| | |
 
 **5.2.2. Cuadro comparativo de resultados de los índices HRV**
 
 Se comparara los resultados obtenidos mediante codigos del repertorio Biosignalsnotebook[5] y los resultados del articulo "Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers"[3]. Con el fin de validar que nuestros valores y analizar nuestros resultados de las pruebas que realizamos. 
 
-| INDICE DE HVR  |	RESULTADOS DEL ARTICULO |	RESULTADO OBTENIDOS
+| INDICE DE HVR  |	EN REPOSO |	RESPIRACIÓN PROFUNDA_ANTES DEL EJERCICIO|
 |:------------:|:---------------:|:------------:|
-|AVNN [ms]|954,90 (113,36)||
-|SDNN [ms]|84,18 (33,41)||
-|RMSSD [ms]|75,84 (41,16)||
-|pNN50|0,30 (0,19)||
-|VLF[ms^2]|1860,90 (1369,11)||
-|BF[ms^2]|2570,18 (2251,61)||
-|AF[ms^2]|2774,35 (2378,19)||
-|BF/HF|1,2659 (0,8454)||
+|AVNN [ms]|963,20||
+|SDNN [ms]|60,36||
+|RMSSD [ms]|74,61||
+|pNN50 [%]|16,33||
+|VLF[ms^2]|0.00||
+|LF[ms^2]|0.00||
+|HF[ms^2]|146,52||
+|LF/HF|1,2659 (0,8454)||
 
 
 
