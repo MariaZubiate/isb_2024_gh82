@@ -123,7 +123,8 @@ Se comparará los resultados obtenidos mediante códigos del repertorio Biosigna
 
 ### DISCUSIÓN
 
-En nuestro análisis de los índices de variabilidad de la frecuencia cardíaca (HRV), identificamos variaciones significativas bajo diferentes condiciones experimentales, reflejando los cambios fisiológicos subyacentes. El AVNN, que es el intervalo medio entre latidos, es mayor en reposo (963.20 ms) y disminuye durante el ejercicio intenso (713.59 ms) debido a la activación simpática, recuperándose parcialmente después de la respiración profunda post-ejercicio (830.31 ms). Estos hallazgos están en línea con estudios recientes que demuestran que el ejercicio intenso activa el sistema nervioso simpático, reduciendo el intervalo entre latidos, mientras que la recuperación post-ejercicio favorece la activación parasimpática y la recuperación del AVNN [1].
+En nuestro análisis de los índices de variabilidad de la frecuencia cardíaca (HRV), identificamos variaciones significativas bajo diferentes condiciones experimentales, reflejando los cambios fisiológicos subyacentes. 
+El intervalo medio entre latidos(AVNN), es mayor en reposo (963.20 ms) y disminuye durante el ejercicio intenso (713.59 ms), recuperándose parcialmente después de la respiración profunda post-ejercicio (830.31 ms). Estos hallazgos están en línea con el estudio de  recientes que demuestran que el ejercicio activa el sistema nervioso simpático, reduciendo el intervalo entre latidos, mientras que la recuperación post-ejercicio favorece la activación parasimpática y la recuperación del AVNN [1].
 
 La desviación estándar de los intervalos NN (SDNN) muestra una mayor variabilidad en condiciones de recuperación (90.68 ms) y menor durante el ejercicio (41.76 ms), lo que indica fluctuaciones de ritmo más estables en reposo. Investigaciones recientes destacan que la SDNN es un marcador robusto de la variabilidad total de la frecuencia cardíaca y se asocia con una mejor capacidad de recuperación autónoma post-ejercicio [2].
 
@@ -136,6 +137,8 @@ Los valores de VLF y LF son nulos debido a la corta duración de los registros (
 La banda HF muestra un incremento significativo durante la respiración profunda antes del ejercicio (1947.00 ms²) y disminuye a cero post-ejercicio, destacando la fluctuación en la actividad parasimpática. Estudios recientes confirman que la banda HF es un marcador fiable de la actividad parasimpática y su variabilidad durante el ejercicio y la recuperación proporciona información valiosa sobre la modulación vagal [6].
 
 La relación LF/HF es nula en nuestro experimento, subrayando nuevamente la necesidad de registros más prolongados para obtener una evaluación completa de la HRV. La relación LF/HF es ampliamente utilizada para evaluar el balance simpático-vagal, pero estudios recientes recomiendan cautela en su interpretación, especialmente en registros de corta duración [7].
+
+
 ## *6. Conclusiones* <a name="id10"></a>
 
 En este laboratorio, hemos explorado técnicas avanzadas para el procesamiento y análisis de señales electrocardiográficas (ECG), con un enfoque particular en el filtrado y la extracción de características clave. Se logró un filtrado efectivo de la señal ECG mediante la implementación de un filtro pasabanda compuesto por un filtro pasa bajo y un filtro pasa alto en cascada. Esta combinación permitió eliminar el ruido y las interferencias, conservando las frecuencias relevantes de la señal ECG y mejorando la calidad para el análisis posterior.
