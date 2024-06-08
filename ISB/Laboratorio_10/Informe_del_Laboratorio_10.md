@@ -135,6 +135,7 @@ Los valores de VLF y LF son nulos para nuestros tiempos de registro empleados (4
 
 Según Scott M., Kenneth G & Glen D., la banda de alta frecuencia (HF) es afectada por la intensidad del ejercicio y la duración de los registros. Los datos muestran que en reposo, HF es 146.52 ms², notablemente inferior a los 2774.35 ms² del artículo base. Durante la respiración profunda antes del ejercicio, HF se incrementa a 1947.00 ms², indicando una activación parasimpática considerable aunque menor que la referencia. En el ejercicio intenso (Burpees), HF disminuye a 142.00 ms², reflejando una reducción en la actividad parasimpática. Después del ejercicio, HF cae a 0.00 ms², sugiriendo una recuperación parasimpática inadecuada o problemas metodológicos. Este comportamiento coincide con la literatura, que señala una disminución de la HRV durante el ejercicio debido al predominio simpático y una recuperación más lenta tras ejercicios intensos, subrayando la necesidad de registros más largos para evaluar adecuadamente la dinámica de HF y la recuperación parasimpática[12].
 
+En el índice LF/HF en nuestro experimento, observamos que todos los valores resultaron en cero. De acuerdo a Shaffer F., Meehan Z. & Zerr C. se sugiere que la duración de los registros (40-50 segundos) fue insuficiente para capturar variaciones significativas en las bandas de frecuencia LF y HF. Los componentes de baja frecuencia (LF) y alta frecuencia (HF) no fueron detectados adecuadamente[10].
 
 
 
