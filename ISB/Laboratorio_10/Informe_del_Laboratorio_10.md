@@ -124,7 +124,7 @@ Se comparará los resultados obtenidos mediante códigos del repertorio Biosigna
 ### DISCUSIÓN
 
 En nuestro análisis de los índices de variabilidad de la frecuencia cardíaca (HRV), identificamos variaciones significativas bajo diferentes condiciones experimentales, reflejando los cambios fisiológicos subyacentes. 
-El intervalo medio entre latidos(AVNN), es mayor en reposo (963.20 ms) y disminuye durante el ejercicio intenso (713.59 ms), recuperándose parcialmente después de la respiración profunda post-ejercicio (830.31 ms). Estos hallazgos están en línea con el estudio de  recientes que demuestran que el ejercicio activa el sistema nervioso simpático, reduciendo el intervalo entre latidos, mientras que la recuperación post-ejercicio favorece la activación parasimpática y la recuperación del AVNN [1].
+El intervalo medio entre latidos(AVNN), es mayor en reposo (963.20 ms) y disminuye durante el ejercicio intenso (713.59 ms), recuperándose parcialmente después de la respiración profunda post-ejercicio (830.31 ms). Estos hallazgos están en línea con el estudio de  García G. et al que nos dice que el intervalo medio entre latidos (AVNN) es mayor en reposo y disminuye durante el ejercicio intenso debido a la activación del sistema nervioso simpático. Posteriormente, el AVNN se recupera parcialmente después del ejercicio gracias a la reactivación parasimpática. Esto coincide con la observación de que el AVNN se reduce durante el ejercicio intenso y se recupera parcialmente después de la respiración profunda post-ejercicio [1].
 
 La desviación estándar de los intervalos NN (SDNN) muestra una mayor variabilidad en condiciones de recuperación (90.68 ms) y menor durante el ejercicio (41.76 ms), lo que indica fluctuaciones de ritmo más estables en reposo. Investigaciones recientes destacan que la SDNN es un marcador robusto de la variabilidad total de la frecuencia cardíaca y se asocia con una mejor capacidad de recuperación autónoma post-ejercicio [2].
 
@@ -160,3 +160,5 @@ Al comparar nuestros resultados con los del artículo base, se observó una dife
 [5] "Indices de HRV". [En línea]. Disponible en:
 
 [6] J. A. J. Heathers, “Everything Hertz: methodological issues in short-term frequency-domain HRV”, Front Physiol, vol. 5, p. 177, may 2014, doi: 10.3389/fphys.2014.00177.
+
+[7] G. L. Garcia, L. G. G. Porto, C. J. G. da Cruz, and G. E. Molina, "Can resting heart rate explain the heart rate and parasympathetic responses during rest, exercise, and recovery?," PLOS ONE, vol. 17, no. 12, p. e0277848, Dec. 2022. [Online]. https://doi.org/10.1371/journal.pone.0277848
