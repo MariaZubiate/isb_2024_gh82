@@ -133,6 +133,9 @@ Para nuestro experimento, se obtuvieron valores de 0 para los parámetros VLF y 
 
 ## *6. Conclusiones* <a name="id10"></a>
 
+En este laboratorio, hemos explorado técnicas avanzadas para el procesamiento y análisis de señales electrocardiográficas (ECG), con un enfoque particular en el filtrado y la extracción de características clave. Se logró un filtrado efectivo de la señal ECG mediante la implementación de un filtro pasabanda compuesto por un filtro pasa bajo y un filtro pasa alto en cascada. Esta combinación permitió eliminar el ruido y las interferencias, conservando las frecuencias relevantes de la señal ECG y mejorando la calidad para el análisis posterior.
+
+La aplicación del algoritmo de Pan-Tompkins fue exitosa en la identificación precisa de los picos R en la señal ECG. Este proceso involucró etapas de diferenciación, cuadratura y suavizado, lo que facilitó la detección de los picos R, esenciales para el análisis de la variabilidad de la frecuencia cardíaca (HRV). El análisis de HRV en los dominios del tiempo y la frecuencia proporcionó información valiosa sobre la salud cardiovascular y la función autonómica de los sujetos. Sin embargo, la duración limitada de nuestros registros (40-50 segundos) afectó la capacidad de calcular adecuadamente los parámetros de frecuencia, especialmente las bandas VLF y LF. Esto destaca la importancia de contar con registros más prolongados para un análisis completo y preciso.
 
 ## *7. Bibliografía* <a name="id11"></a>
 
