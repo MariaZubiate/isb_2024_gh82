@@ -133,9 +133,9 @@ El pNN50 es significativamente alto durante la respiración profunda antes del e
 
 Los valores de VLF y LF son nulos para nuestros tiempos de registro empleados (40-50 segundos). De acuerdo a Shaffer F., Meehan Z. & Zerr C. los registros de corta duración, como los de menos de 5 minutos, no son suficientes para obtener mediciones precisas de VLF y LF, ya que estas bandas requieren períodos de registro más largos para reflejar adecuadamente los componentes de la regulación autónoma. Los registros más prolongados, como los de 5 minutos o más, proporcionan resultados más robustos y confiables para estas bandas de frecuencia [10].
 
-La banda HF muestra un incremento significativo durante la respiración profunda antes del ejercicio (1947.00 ms²) y disminuye a cero post-ejercicio, destacando la fluctuación en la actividad parasimpática. Estudios recientes confirman que la banda HF es un marcador fiable de la actividad parasimpática y su variabilidad durante el ejercicio y la recuperación proporciona información valiosa sobre la modulación vagal [11].
+Según Scott M., Kenneth G & Glen D., la banda de alta frecuencia (HF) es afectada por la intensidad del ejercicio y la duración de los registros. Los datos muestran que en reposo, HF es 146.52 ms², notablemente inferior a los 2774.35 ms² del artículo base. Durante la respiración profunda antes del ejercicio, HF se incrementa a 1947.00 ms², indicando una activación parasimpática considerable aunque menor que la referencia. En el ejercicio intenso (Burpees), HF disminuye a 142.00 ms², reflejando una reducción en la actividad parasimpática. Después del ejercicio, HF cae a 0.00 ms², sugiriendo una recuperación parasimpática inadecuada o problemas metodológicos. Este comportamiento coincide con la literatura, que señala una disminución de la HRV durante el ejercicio debido al predominio simpático y una recuperación más lenta tras ejercicios intensos, subrayando la necesidad de registros más largos para evaluar adecuadamente la dinámica de HF y la recuperación parasimpática[12].
 
-La relación LF/HF es nula en nuestro experimento, subrayando nuevamente la necesidad de registros más prolongados para obtener una evaluación completa de la HRV. La relación LF/HF es ampliamente utilizada para evaluar el balance simpático-vagal, pero estudios recientes recomiendan cautela en su interpretación, especialmente en registros de corta duración.
+
 
 
 ## *6. Conclusiones* <a name="id10"></a>
@@ -169,4 +169,6 @@ Al comparar nuestros resultados con los del artículo base, se observó una dife
 [10] S. Shaffer, M. Meehan, and J. M. Steinhubl, "A Critical Review of Ultra-Short-Term Heart Rate Variability Norms Research," Frontiers in Neuroscience, vol. 14, p. 594880, Sep. 2020. [Online]. Available: https://doi.org/10.3389/fnins.2020.594880
 
 [11] J. A. J. Heathers, “Everything Hertz: methodological issues in short-term frequency-domain HRV”, Front Physiol, vol. 5, p. 177, may 2014, doi: 10.3389/fphys.2014.00177.
+
+[12] K. S. Graham, G. M. Davis, and B. G. Lambert, "Cardiac Autonomic Responses during Exercise and Post-exercise Recovery Using Heart Rate Variability and Systolic Time Intervals," Frontiers in Physiology, vol. 8, p. 301, 2017. [Online]. Available: https://doi.org/10.3389/fphys.2017.00301 
 
