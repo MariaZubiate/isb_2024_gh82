@@ -130,10 +130,7 @@ Los valores de VLF y LF son nulos debido a la corta duración de los registros (
 La banda HF muestra un incremento significativo durante la respiración profunda antes del ejercicio (1947.00 ms²) y disminuye a cero post-ejercicio, destacando la fluctuación en la actividad parasimpática [6]. La relación LF/HF es nula en nuestro experimento, nuevamente subrayando la necesidad de registros más prolongados para obtener una evaluación completa de la HRV [7]. Este análisis detalla cómo diferentes condiciones fisiológicas afectan los parámetros de HRV y subraya la importancia de la duración adecuada de los registros para análisis precisos en señales biomédicas.
 .....
 
-Para nuestro experimento, se obtuvieron valores de 0 para los parámetros VLF y LF; lo cual según [] es porque la cantidad el periodo de la señal obtenida es muy corta. En nuestro caso, solo se grabaron episodios comprendidos entre 40-50 segundos; con lo cual se obtuvieron alrededor de 50 intervalos RR a lo largo de toda la señal. Un factor muy clave para la caracterización del análisis en dominio en frecuencia, ya que con solo esta cantidad no es posible obtener suficiente información para calcular adecuadamente las bandas VLF y LF. A diferencia del artículo, donde sí se obtuvieron resultados satisfactorios porque la señal grabada duró 260 min.
-
-.....
-
+Para nuestro experimento, se obtuvieron valores de 0 para los parámetros VLF y LF; lo cual según [6] es porque la cantidad el periodo de la señal obtenida es muy corta. En nuestro caso, solo se grabaron episodios comprendidos entre 40-50 segundos; con lo cual se obtuvieron alrededor de 50 intervalos RR a lo largo de toda la señal. Un factor muy clave para la caracterización del análisis en dominio en frecuencia, ya que con solo esta cantidad no es posible obtener suficiente información para calcular adecuadamente las bandas VLF y LF. A diferencia del artículo, donde sí se obtuvieron resultados satisfactorios porque la señal grabada duró 260 min.
 
 ## *6. Conclusiones* <a name="id10"></a>
 
@@ -150,3 +147,4 @@ Para nuestro experimento, se obtuvieron valores de 0 para los parámetros VLF y 
 
 [5] "Indices de HRV". [En línea]. Disponible en:
 
+[6] J. A. J. Heathers, “Everything Hertz: methodological issues in short-term frequency-domain HRV”, Front Physiol, vol. 5, p. 177, may 2014, doi: 10.3389/fphys.2014.00177.
