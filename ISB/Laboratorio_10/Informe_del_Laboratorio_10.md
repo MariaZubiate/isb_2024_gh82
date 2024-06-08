@@ -123,8 +123,6 @@ Se comparará los resultados obtenidos mediante códigos del repertorio Biosigna
 
 ### DISCUSIÓN
 
-En nuestro análisis de los índices de variabilidad de la frecuencia cardíaca (HRV), identificamos variaciones significativas bajo diferentes condiciones experimentales, reflejando los cambios fisiológicos subyacentes. 
-
 El intervalo medio entre latidos(AVNN), es mayor en reposo (963.20 ms) y disminuye durante el ejercicio intenso (713.59 ms), recuperándose parcialmente después de la respiración profunda post-ejercicio (830.31 ms). Estos hallazgos están en línea con el estudio de  García G. et al. que nos dice que el intervalo medio entre latidos (AVNN) es mayor en reposo y disminuye durante el ejercicio intenso debido a la activación del sistema nervioso simpático. El AVNN se recupera parcialmente después del ejercicio gracias a la reactivación parasimpática. Esto coincide con lo obtenido en donde el AVNN se redujo durante el ejercicio intenso y se recupera parcialmente después de la respiración profunda post-ejercicio[7].
 
 La desviación estándar de los intervalos NN (SDNN) muestra una mayor variabilidad en condiciones de recuperación (90.68 ms) y menor durante el ejercicio (41.76 ms). Lo obtenido se alinea a los resultados evaluados en el estudio de El-Malahi O. et al. en donde se obtuvo que la SDNN es significativamente mayor durante los períodos de recuperación post-ejercicio y menor durante el ejercicio, reflejando fluctuaciones de ritmo más estables en reposo. Además, se destaca que la SDNN es un marcador robusto de la variabilidad total de la frecuencia cardíaca y está asociada con una mejor capacidad de recuperación autónoma post-ejercicio[8]. 
