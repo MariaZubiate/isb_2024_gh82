@@ -127,7 +127,7 @@ El intervalo medio entre latidos(AVNN), es mayor en reposo (963.20 ms) y disminu
 
 La desviación estándar de los intervalos NN (SDNN) muestra una mayor variabilidad en condiciones de recuperación (90.68 ms) y menor durante el ejercicio (41.76 ms). Lo obtenido se alinea a los resultados evaluados en el estudio de El-Malahi O. et al. en donde se obtuvo que la SDNN es significativamente mayor durante los períodos de recuperación post-ejercicio y menor durante el ejercicio, reflejando fluctuaciones de ritmo más estables en reposo. Además, se destaca que la SDNN es un marcador robusto de la variabilidad total de la frecuencia cardíaca y está asociada con una mejor capacidad de recuperación autónoma post-ejercicio[8]. 
 
-La RMSSD, una medida de la variabilidad a corto plazo, es mayor en reposo (74.61 ms) y disminuye con la respiración profunda y el ejercicio, reflejando la respuesta del sistema nervioso autónomo. Los estudios han demostrado que la RMSSD es sensible a los cambios en la actividad vagal, disminuyendo significativamente durante el estrés fisiológico y aumentando durante períodos de descanso [3].
+La RMSSD, una medida de la variabilidad a corto plazo, es mayor en reposo (74.61 ms) y disminuye con la respiración profunda y el ejercicio. Según lo presentado por M. You et al., durante una sesión de respiración lenta (SPB) se observa un aumento significativo en la RMSSD en todas las condiciones en comparación con la condición de control, confirmando su sensibilidad a los cambios en la actividad vagal. Estudios recientes han demostrado que la RMSSD disminuye significativamente durante el estrés fisiológico y aumenta durante períodos de descanso, lo que respaldó su uso como un marcador fiable de la variabilidad de la frecuencia cardíaca y su relación con la regulación autónoma[9]"
 
 El pNN50, que mide la proporción de intervalos sucesivos que difieren en más de 50 ms, es significativamente alto durante la respiración profunda antes del ejercicio (34.09%), sugiriendo una mayor influencia parasimpática. Investigaciones recientes indican que el pNN50 es un buen indicador de la actividad parasimpática y su aumento durante la respiración profunda es consistente con una mayor activación vagal [4].
 
@@ -163,4 +163,8 @@ Al comparar nuestros resultados con los del artículo base, se observó una dife
 [7] G. L. Garcia, L. G. G. Porto, C. J. G. da Cruz, and G. E. Molina, "Can resting heart rate explain the heart rate and parasympathetic responses during rest, exercise, and recovery?," PLOS ONE, vol. 17, no. 12, p. e0277848, Dec. 2022. [Online]. https://doi.org/10.1371/journal.pone.0277848
 
 [8] O. El-Malahi, D. Mohajeri, R. Mincu, A. Bäuerle, K. Rothenaicher, R. Knuschke, C. Rammos, T. Rassaf, and J. Lortz, "Beneficial impacts of physical activity on heart rate variability: A systematic review and meta-analysis," PLOS ONE, vol. 19, no. 4, p. e0299793, Apr. 2024. [Online]. Available: https://doi.org/10.1371/journal.pone.0299793
+
+[9] M. You, S. Laborde, N. Zammit, M. Iskra, U. Borges, and F. Dosseville, "Single Slow-Paced Breathing Session at Six Cycles per Minute: Investigation of Dose-Response Relationship on Cardiac Vagal Activity," Int. J. Environ. Res. Public Health, vol. 18, no. 23, p. 12478, Nov. 2021. [Online]. Available: https://doi.org/10.3390/ijerph182312478
+
+
 
