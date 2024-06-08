@@ -166,5 +166,5 @@ Al comparar nuestros resultados con los del artículo base, se observó una dife
 
 [9] M. You, S. Laborde, N. Zammit, M. Iskra, U. Borges, and F. Dosseville, "Single Slow-Paced Breathing Session at Six Cycles per Minute: Investigation of Dose-Response Relationship on Cardiac Vagal Activity," Int. J. Environ. Res. Public Health, vol. 18, no. 23, p. 12478, Nov. 2021. [Online]. Available: https://doi.org/10.3390/ijerph182312478
 
-
+[10] M. K. Jensen, S. S. Andersen, C. H. Liboriussen, S. Kristensen, and M. Jochumsen, "Modulating Heart Rate Variability through Deep Breathing Exercises and Transcutaneous Auricular Vagus Nerve Stimulation: A Study in Healthy Participants and in Patients with Rheumatoid Arthritis or Systemic Lupus Erythematosus," Sensors, vol. 22, no. 20, p. 7884, Oct. 2022. [Online]. Available: https://doi.org/10.3390/s22207884
 
