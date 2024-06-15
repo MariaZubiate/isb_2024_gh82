@@ -36,38 +36,41 @@
 
 ## *4. Metodología* <a name="id4"></a>
 
-### *4.1. Generar filtro* <a name="id5"></a>
+### *4.1.Filtrado* <a name="id5"></a>
+
+**4.1.1. Filtrado pasa banda**
 
 
-### *4.2.Obtener características de ECG* <a name="id6"></a>
-
-**4.2.1. Obtener los picos R**
+**4.1.2. ICA**
 
 
-**4.2.2. Obtener el HRV (variabilidad de la frecuencia cardiaca)**
+### *4.2.Procesamiento (normalización y alineamiento de la señal)* <a name="id6"></a>
 
 
-## *5. Resultados* <a name="id7"></a>
+### *4.3.Extracción de caractaristicas* <a name="id7"></a>
+
+## *5. Resultados* <a name="id8"></a>
 
 
-### *5.1. Resultado de la señal filtrada* <a name="id8"></a>
+### *5.1. Resultado del filtrado* <a name="id9"></a>
+
+**5.1.1. Resultados del filtrado pasa banda**
 
 
-
-### *5.2. Resultado de características de ECG* <a name="id9"></a>
-
-**5.2.1.Resultados de los picos R**
+**5.1.2. Resultado del ICA**
 
 
+### *5.2. Resultado del procesamiento * <a name="id10"></a>
 
-**5.2.2. Cuadro comparativo de resultados de los índices HRV**
+
+### *5.3. Resultado de la extracción de caracteristicas* <a name="id11"></a>
 
 
 ### DISCUSIÓN
 
 
 
-## *6. Conclusiones* <a name="id10"></a>
+## *6. Conclusiones* <a name="id12"></a>
 
 
-## *7. Bibliografía* <a name="id11"></a>
+## *7. Bibliografía* <a name="id13"></a>
