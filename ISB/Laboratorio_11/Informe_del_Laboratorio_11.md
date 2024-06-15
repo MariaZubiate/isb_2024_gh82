@@ -29,8 +29,6 @@
 
 ## *2. Objetivos* <a name="id2"></a>
 
-Claro, aquí tienes los objetivos con una línea de texto cada uno:
-
 1. Aislar frecuencias de interés y eliminar ruido en la señal EEG.
 3. Normalizar los datos EEG para un análisis consistente.
 4. Extraer y analizar características en bandas de frecuencia específicas.
