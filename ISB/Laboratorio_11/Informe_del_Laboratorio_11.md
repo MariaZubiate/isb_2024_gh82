@@ -86,4 +86,5 @@ Para la elaboración de este laboratorio se utilizara un repositorio de señales
 ## *8. Bibliografía* <a name="id14"></a>
 
 [1] PLUX – Wireless Biosignals, SA, "BITalino (r)evolution Lab Guide: Guías experimentales para conocer y aprender sus bioseñales" 15 de febrero de 2021.
-[2] N. Naseer y K.-S. Hong, "fNIRS-based brain-computer interfaces: a review," Frontiers in Human Neuroscience, vol. 9, art. 3, pp. 1-10, Jan. 2015, doi: 10.3389/fnhum.2015.00003.
+
+[2] N. Naseer y K.-S. Hong, "fNIRS-based brain-computer interfaces: a review," Frontiers in Human Neuroscience, vol. 9, art. 3, pp. 1-10, Jan. 2015, doi: 10.3389/fnhum.2015.00003. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4309034/#B70
