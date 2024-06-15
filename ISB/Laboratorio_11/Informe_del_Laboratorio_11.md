@@ -13,11 +13,11 @@
 3. [Materiales y equipos](#id3)
 4. [Metodología](#id4)\
      4.1 [Filtrado](#id5)\
-     4.2 [Procesamiento (normalización y alineamiento de la señal)](#id6)
+     4.2 [Procesamiento (normalización y alineamiento de la señal)](#id6)\
      4.3 [Extracción de características)](#id7)
 6. [Resultados](#id8)\
      5.1 [Resultados del filtrado pasa banda](#id9)\
-     5.2 [Resultado del procesamiento](#id10)
+     5.2 [Resultado del procesamiento](#id10)\
      5.3 [Resultado de la extracción de características](#id11)
 8. [Conclusiones](#id12)
 9. [Bibliografía](#id13)
