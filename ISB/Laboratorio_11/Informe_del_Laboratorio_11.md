@@ -27,6 +27,10 @@
 
 La electroencefalografía (EEG) es una técnica no invasiva utilizada para medir la actividad eléctrica del cerebro. Esta actividad es generada por la comunicación entre millas de millones de neuronas a través de sinapsis, lo que resulta en cambios en el voltaje a través de la membrana celular. Las señales EEG pueden proporcionar información valiosa sobre la función cerebral, reflejando diferentes procesos cognitivos, estados emocionales y trastornos neurológicos. El cerebro humano consta de regiones distintas, cada una responsable de funciones diferentes como el control motor, el procesamiento sensorial, la memoria y la cognición. Los electrodos EEG se colocan en el cuero cabelludo de acuerdo con el sistema internacional 10-20, permitiendo a los investigadores monitorear la actividad de áreas específicas del cerebro. Estas señales se caracterizan por diferentes bandas de frecuencia, como las ondas gamma, beta, alfa, theta y delta, cada una asociada con estados cerebrales específicos. La EEG se utiliza en diagnósticos médicos para condiciones como la epilepsia y los trastornos del sueño, así como en interfaces cerebro-computadora (BCI) para permitir la comunicación en individuos con discapacidades motoras severas como lesiones de la médula espinal[1].
 
+**Técnicas de Filtrado para EEG**
+
+En la adquisición y procesamiento de señales EEG, es fundamental aplicar técnicas de filtrado para eliminar ruidos y artefactos que pueden distorsionar los datos. Una de las técnicas más comunes es el filtrado pasabanda, que se utiliza para eliminar ruidos en bandas de frecuencia específicas, como el latido del corazón (1-1.5 Hz) y la respiración (0.2-0.5 Hz), permitiendo así una limpieza efectiva de la señal cerebral sin afectar su contenido relevante. Además, se emplean filtros adaptativos, que ajustan sus parámetros en tiempo real para minimizar el impacto del ruido, siendo especialmente útiles cuando las frecuencias del ruido y la señal de interés se superponen. Estas técnicas son esenciales para garantizar la calidad y precisión de los datos EEG, facilitando su uso en aplicaciones como las interfaces cerebro-computadora (BCI)[2].
+
 ## *2. Objetivos* <a name="id2"></a>
 
 1. Aislar frecuencias de interés y eliminar ruido en la señal EEG.
@@ -40,6 +44,8 @@ La electroencefalografía (EEG) es una técnica no invasiva utilizada para medir
 | 1	| Laptop	| Visualización y procesamiento de las señales con lenguaje de programación
 
 ## *4. Metodología* <a name="id4"></a>
+
+Para la elaboración de este laboratorio se utilizara un repositorio de señales EEG de la pagina de PhysioNet. Este es un estudio sobre "EEG During Mental Arithmetic Tasks". Esta base de datos EEGMAT contiene grabaciones de EEG de sujetos antes y durante la realización de tareas de aritmética mental, utilizando ICA para eliminar artefactos. Incluye registros de 24 sujetos con buen rendimiento y 12 con bajo rendimiento
 
 ### *4.1.Filtrado* <a name="id5"></a>
 
@@ -80,3 +86,4 @@ La electroencefalografía (EEG) es una técnica no invasiva utilizada para medir
 ## *8. Bibliografía* <a name="id14"></a>
 
 [1] PLUX – Wireless Biosignals, SA, "BITalino (r)evolution Lab Guide: Guías experimentales para conocer y aprender sus bioseñales" 15 de febrero de 2021.
+[2] N. Naseer y K.-S. Hong, "fNIRS-based brain-computer interfaces: a review," Frontiers in Human Neuroscience, vol. 9, art. 3, pp. 1-10, Jan. 2015, doi: 10.3389/fnhum.2015.00003.
