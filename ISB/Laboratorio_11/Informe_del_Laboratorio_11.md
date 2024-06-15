@@ -15,12 +15,13 @@
      4.1 [Filtrado](#id5)\
      4.2 [Procesamiento (normalización y alineamiento de la señal)](#id6)\
      4.3 [Extracción de características)](#id7)
-6. [Resultados](#id8)\
+5. [Resultados](#id8)\
      5.1 [Resultados del filtrado pasa banda](#id9)\
      5.2 [Resultado del procesamiento](#id10)\
      5.3 [Resultado de la extracción de características](#id11)
-8. [Conclusiones](#id12)
-9. [Bibliografía](#id13)
+6. [Discusión](#id12)
+7. [Conclusiones](#id12)
+8. [Bibliografía](#id13)
    
 ## *1. Introducción* <a name="id1"></a>
 
@@ -68,11 +69,10 @@
 ### *5.3. Resultado de la extracción de caracteristicas* <a name="id11"></a>
 
 
-### DISCUSIÓN
+
+## *6. Discusión* <a name="id12"></a>
+
+## *7. Conclusiones* <a name="id13"></a>
 
 
-
-## *6. Conclusiones* <a name="id12"></a>
-
-
-## *7. Bibliografía* <a name="id13"></a>
+## *8. Bibliografía* <a name="id14"></a>
