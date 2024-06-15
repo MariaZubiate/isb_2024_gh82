@@ -12,13 +12,15 @@
 2. [Objetivos](#id2)
 3. [Materiales y equipos](#id3)
 4. [Metodología](#id4)\
-     4.1 [Generar filtro para ECG](#id5)\
-     4.2 [Obtener características de ECG](#id6)
-6. [Resultados](#id7)\
-     5.1 [Resultado de señal filtrada](#id8)\
-     5.2 [Resultado de características de ECG](#id9)
-8. [Conclusiones](#id10)
-9. [Bibliografía](#id11)
+     4.1 [Filtrado](#id5)\
+     4.2 [Procesamiento (normalización y alineamiento de la señal)](#id6)
+     4.3 [Extracción de características)](#id7)
+6. [Resultados](#id8)\
+     5.1 [Resultados del filtrado pasa banda](#id9)\
+     5.2 [Resultado del procesamiento](#id10)
+     5.3 [Resultado de la extracción de características](#id11)
+8. [Conclusiones](#id12)
+9. [Bibliografía](#id13)
    
 ## *1. Introducción* <a name="id1"></a>
 
@@ -60,7 +62,7 @@
 **5.1.2. Resultado del ICA**
 
 
-### *5.2. Resultado del procesamiento * <a name="id10"></a>
+### *5.2. Resultado del procesamiento* <a name="id10"></a>
 
 
 ### *5.3. Resultado de la extracción de caracteristicas* <a name="id11"></a>
