@@ -29,7 +29,7 @@ La electroencefalografía (EEG) es una técnica no invasiva utilizada para medir
 
 **Técnicas de Filtrado para EEG**
 
-En la adquisición y procesamiento de señales EEG, es fundamental aplicar técnicas de filtrado para eliminar ruidos y artefactos que pueden distorsionar los datos. Una de las técnicas más comunes es el filtrado pasabanda, que se utiliza para eliminar ruidos en bandas de frecuencia específicas, como el latido del corazón (1-1.5 Hz) y la respiración (0.2-0.5 Hz), permitiendo así una limpieza efectiva de la señal cerebral sin afectar su contenido relevante. Además, se emplean filtros adaptativos, que ajustan sus parámetros en tiempo real para minimizar el impacto del ruido, siendo especialmente útiles cuando las frecuencias del ruido y la señal de interés se superponen. Estas técnicas son esenciales para garantizar la calidad y precisión de los datos EEG, facilitando su uso en aplicaciones como las interfaces cerebro-computadora (BCI)[2].
+La filtración de señales EEG es crucial para obtener datos precisos y fiables. Este proceso elimina artefactos como interferencias de línea eléctrica, movimientos musculares y parpadeos oculares, los cuales pueden distorsionar el análisis. Dos métodos de filtrado comunes son el filtro Butterworth de paso de banda de 4º orden y la transformada wavelet estacionaria (SWT). El filtro Butterworth es efectivo pero puede perder información original de la señal. En contraste, la SWT es más eficaz en mantener la integridad de la señal mientras elimina el ruido. Comparando ambos métodos, la SWT demuestra una superioridad en la preservación de la calidad del EEG, según los parámetros de error cuadrático medio (MSE) y relación señal a ruido de pico (PSNR).[2].
 
 ## *2. Objetivos* <a name="id2"></a>
 
@@ -51,6 +51,8 @@ Para la elaboración de este laboratorio se utilizara un repositorio de señales
 
 **4.1.1. Filtrado pasa banda**
 
+se utiliza un filtro Butterworth de paso de banda para filtrar señales EEG. Este filtro es diseñado utilizando las frecuencias de borde de la banda de paso y la banda de detención, normalizadas según la frecuencia de muestreo (fs). El filtro Butterworth se elige debido a su respuesta lineal en la banda de paso, lo que es crucial para mantener la integridad de la señal EEG. Se implementa un filtro de cuarto orden, similar al utilizado en el artículo "Butterworth Bandpass and Stationary Wavelet Transform Filter Comparison for
+Electroencephalography Signal"[2].
 
 **4.1.2. ICA**
 
@@ -87,4 +89,5 @@ Para la elaboración de este laboratorio se utilizara un repositorio de señales
 
 [1] PLUX – Wireless Biosignals, SA, "BITalino (r)evolution Lab Guide: Guías experimentales para conocer y aprender sus bioseñales" 15 de febrero de 2021.
 
-[2] N. Naseer y K.-S. Hong, "fNIRS-based brain-computer interfaces: a review," Frontiers in Human Neuroscience, vol. 9, art. 3, pp. 1-10, Jan. 2015, doi: 10.3389/fnhum.2015.00003. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4309034/#B70
+[2] S. S. Daud y R. Sudirman, "Butterworth Bandpass and Stationary Wavelet Transform Filter Comparison for Electroencephalography Signal," 2015 6th International Conference on Intelligent Systems, Modelling and Simulation, 2015, pp. 123-126, doi: 10.1109/ISMS.2015.29.
+
