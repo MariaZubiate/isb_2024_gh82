@@ -62,7 +62,6 @@ Electroencephalography Signal"[2].
 
 se empleará el artículo "A comparison of independent component analysis algorithms and measures to discriminate between EEG and artifact components" como base para aplicar el Análisis de Componentes Independientes (ICA) a las señales obtenidas mediante el ultracortex. El objetivo es utilizar esta técnica para separar y distinguir eficazmente entre los distintos estados y eventos registrados [3]. Se utilizo el codigo dado en el labotario para realizar el análisis de componentes independientes. 
 
-[Codigo guia ](./ISB/Laboratorio_11/codigos/muscle_ica-guia.pdf)
 
 ### *4.2.Procesamiento (normalización y alineamiento de la señal)* <a name="id6"></a>
 
@@ -80,7 +79,27 @@ se empleará el artículo "A comparison of independent component analysis algori
 **5.1.2. Resultado del ICA**
 
 
+**-Parpadeo**
+
+*Ajuste de componentes independientes (ICA) en los datos de EEG.
+
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/153b1b0a-0b85-48de-990b-9dc610f910ee)
+
+Para determinar los componentes que deberían eliminarse, necesitamos analizar cada componente en la imagen siguiendo los criterios mencionados[3]:
+
+1. Pendiente positiva del espectro de potencia entre 7 y 75 Hz.
+
+2. Foco periférico o dipolos/multipolos en la topografía.
+
+3. Baja suavidad espacial, es decir, un único punto focal en la topografía.
+
+4. Curso temporal con apariencia de EMG, picos grandes y a intervalos regulares.
+
+El análisis visual de los componentes ICA muestra que los componentes ICA000, ICA001, ICA002, ICA003, ICA004, ICA006, ICA007, ICA008, ICA009, ICA010, ICA012 e ICA014 parecen relativamente limpios, sin picos grandes o irregularidades significativas que sugieran artefactos musculares. Sin embargo, los componentes ICA005, ICA011 e ICA013 presentan picos y ruido característicos de artefactos musculares, lo que los identifica como posibles candidatos para su eliminación.
+
+
 ### *5.2. Resultado del procesamiento* <a name="id10"></a>
+
 
 
 ### *5.3. Resultado de la extracción de caracteristicas* <a name="id11"></a>
