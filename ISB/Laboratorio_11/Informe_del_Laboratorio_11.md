@@ -31,6 +31,10 @@ La electroencefalografía (EEG) es una técnica no invasiva utilizada para medir
 
 La filtración de señales EEG es crucial para obtener datos precisos y fiables. Este proceso elimina artefactos como interferencias de línea eléctrica, movimientos musculares y parpadeos oculares, los cuales pueden distorsionar el análisis. Dos métodos de filtrado comunes son el filtro Butterworth de paso de banda de 4º orden y la transformada wavelet estacionaria (SWT). El filtro Butterworth es efectivo pero puede perder información original de la señal. En contraste, la SWT es más eficaz en mantener la integridad de la señal mientras elimina el ruido. Comparando ambos métodos, la SWT demuestra una superioridad en la preservación de la calidad del EEG, según los parámetros de error cuadrático medio (MSE) y relación señal a ruido de pico (PSNR).[2].
 
+**Alaisis de componentes Independientes(ICA)**
+
+El Análisis de Componentes Independientes (ICA) en el EEG sirve para separar y discriminar las señales neuronales de los artefactos no deseados presentes en las mediciones. En el EEG, las señales cerebrales pueden verse contaminadas por diversos artefactos, como movimientos oculares, musculares o interferencias ambientales. El ICA utiliza propiedades estadísticas de las señales para descomponer la mezcla observada en componentes independientes, cada uno representando una fuente subyacente. Esto permite identificar y separar las señales cerebrales de estos artefactos, facilitando así un análisis más preciso de la actividad neuronal y mejorando la interpretación de los datos obtenidos en estudios de EEG [3].
+
 ## *2. Objetivos* <a name="id2"></a>
 
 1. Aislar frecuencias de interés y eliminar ruido en la señal EEG.
@@ -91,3 +95,4 @@ Electroencephalography Signal"[2].
 
 [2] S. S. Daud y R. Sudirman, "Butterworth Bandpass and Stationary Wavelet Transform Filter Comparison for Electroencephalography Signal," 2015 6th International Conference on Intelligent Systems, Modelling and Simulation, 2015, pp. 123-126, doi: 10.1109/ISMS.2015.29.
 
+[3] Dhani Dharmaprani, Hoang K. Nguyen, Trent W. Lewis, Dylan DeLosAngeles, John O. Willoughby, and Kenneth J. Pope. A comparison of independent component analysis algorithms and measures to discriminate between EEG and artifact components. In 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 825–828. Orlando, FL, USA, 2016. IEEE. doi:10.1109/EMBC.2016.7590828
