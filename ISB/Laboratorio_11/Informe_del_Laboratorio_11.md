@@ -49,14 +49,13 @@ El Análisis de Componentes Independientes (ICA) en el EEG sirve para separar y 
 
 ## *4. Metodología* <a name="id4"></a>
 
-Para la elaboración de este laboratorio, se utilizarán las señales obtenidas mediante el ultracortex. En él se analizarán diferentes escenarios: estado basal, parpadeo y resolución de ejercicio.
+El artículo describe el conjunto de datos EEGMMIDB, que consiste en más de 1500 registros de EEG obtenidos de 109 voluntarios. Cada sujeto realizó 14 sesiones experimentales que incluyen períodos de reposo con los ojos abiertos y cerrados, así como tareas motoras y de imaginación. Estas tareas implicaron movimientos simples como abrir y cerrar el puño, así como complejas como imaginar dichos movimientos. Los datos están disponibles en formato EDF+ con anotaciones que indican los momentos de inicio de cada tarea específica. Estos datos seran utilizados para realizar un analisis de las señales EEG que se producen al momento de hacer una actividad[4]. 
 
 ### *4.1.Filtrado* <a name="id5"></a>
 
 **4.1.1. Filtrado pasa banda**
 
-se utiliza un filtro Butterworth de paso de banda para filtrar señales EEG. Este filtro es diseñado utilizando las frecuencias de borde de la banda de paso y la banda de detención, normalizadas según la frecuencia de muestreo (fs). El filtro Butterworth se elige debido a su respuesta lineal en la banda de paso, lo que es crucial para mantener la integridad de la señal EEG. Se implementa un filtro de cuarto orden, similar al utilizado en el artículo "Butterworth Bandpass and Stationary Wavelet Transform Filter Comparison for
-Electroencephalography Signal"[2].
+En primera instania se utiliza un filtro Butterworth de paso de banda para filtrar las señales. Este filtro esta diseñado utilizando las frecuencias de borde de la banda de paso y la banda de detención, normalizadas según la frecuencia de muestreo (fs). El filtro Butterworth se elige debido a su respuesta lineal en la banda de paso, lo que es crucial para mantener la integridad de la señal EEG. Se implementa un filtro de cuarto orden, similar al utilizado en el artículo "Butterworth Bandpass and Stationary Wavelet Transform Filter Comparison for Electroencephalography Signal"[2].
 
 **4.1.2. ICA**
 
@@ -118,3 +117,5 @@ El análisis visual de los componentes ICA muestra que los componentes ICA000, I
 [2] S. S. Daud y R. Sudirman, "Butterworth Bandpass and Stationary Wavelet Transform Filter Comparison for Electroencephalography Signal," 2015 6th International Conference on Intelligent Systems, Modelling and Simulation, 2015, pp. 123-126, doi: 10.1109/ISMS.2015.29.
 
 [3] Dhani Dharmaprani, Hoang K. Nguyen, Trent W. Lewis, Dylan DeLosAngeles, John O. Willoughby, and Kenneth J. Pope. A comparison of independent component analysis algorithms and measures to discriminate between EEG and artifact components. In 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 825–828. Orlando, FL, USA, 2016. IEEE. doi:10.1109/EMBC.2016.7590828
+
+[4] G. Schalk, D. J. McFarland, T. Hinterberger, N. Birbaumer, and J. R. Wolpaw, "BCI2000: A general-purpose brain-computer interface (BCI) system," in IEEE Transactions on Biomedical Engineering. 2004. https://physionet.org/content/eegmmidb/1.0.0/S001/#files-panel
