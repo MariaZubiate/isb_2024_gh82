@@ -62,7 +62,7 @@ Electroencephalography Signal"[2].
 
 se empleará el artículo "A comparison of independent component analysis algorithms and measures to discriminate between EEG and artifact components" como base para aplicar el Análisis de Componentes Independientes (ICA) a las señales obtenidas mediante el ultracortex. El objetivo es utilizar esta técnica para separar y distinguir eficazmente entre los distintos estados y eventos registrados [3]. Se utilizo el codigo dado en el labotario para realizar el análisis de componentes independientes. 
 
-[Codigo guia pdf](./musculo_ica-guia)
+[Codigo guia pdf](./[musculo_ica-guia](https://github.com/MariaZubiate/isb_2024_gh82/blob/main/ISB/Laboratorio_11/codigos/muscle_ica%20-%20guia.pdf))
 ### *4.2.Procesamiento (normalización y alineamiento de la señal)* <a name="id6"></a>
 
 
