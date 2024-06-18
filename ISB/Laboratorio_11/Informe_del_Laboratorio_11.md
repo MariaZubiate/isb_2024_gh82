@@ -49,7 +49,7 @@ El Análisis de Componentes Independientes (ICA) en el EEG sirve para separar y 
 
 ## *4. Metodología* <a name="id4"></a>
 
-Para la elaboración de este laboratorio se utilizara un repositorio de señales EEG de la pagina de PhysioNet. Este es un estudio sobre "EEG During Mental Arithmetic Tasks". Esta base de datos EEGMAT contiene grabaciones de EEG de sujetos antes y durante la realización de tareas de aritmética mental, utilizando ICA para eliminar artefactos. Incluye registros de 24 sujetos con buen rendimiento y 12 con bajo rendimiento
+Para la elaboración de este laboratorio, se utilizarán las señales obtenidas mediante el ultracortex. En él se analizarán diferentes escenarios: estado basal, parpadeo y resolución de ejercicio.
 
 ### *4.1.Filtrado* <a name="id5"></a>
 
@@ -59,6 +59,8 @@ se utiliza un filtro Butterworth de paso de banda para filtrar señales EEG. Est
 Electroencephalography Signal"[2].
 
 **4.1.2. ICA**
+
+se empleará el artículo "A comparison of independent component analysis algorithms and measures to discriminate between EEG and artifact components" como base para aplicar el Análisis de Componentes Independientes (ICA) a las señales obtenidas mediante el ultracortex. El objetivo es utilizar esta técnica para separar y distinguir eficazmente entre los distintos estados y eventos registrados [3].
 
 
 ### *4.2.Procesamiento (normalización y alineamiento de la señal)* <a name="id6"></a>
