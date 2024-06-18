@@ -78,24 +78,13 @@ se empleará el artículo "A comparison of independent component analysis algori
 **5.1.2. Resultado del ICA**
 
 
-**-Parpadeo**
+**A. LINEA BASE OJOS CERRADOS**
 
-*Ajuste de componentes independientes (ICA) en los datos de EEG.
+**B. LINEA BASE OJOS ABIERTOS**
 
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/153b1b0a-0b85-48de-990b-9dc610f910ee)
+**C. ABRIR Y CERRAR PUÑO**
 
-Para determinar los componentes que deberían eliminarse, necesitamos analizar cada componente en la imagen siguiendo los criterios mencionados[3]:
-
-1. Pendiente positiva del espectro de potencia entre 7 y 75 Hz.
-
-2. Foco periférico o dipolos/multipolos en la topografía.
-
-3. Baja suavidad espacial, es decir, un único punto focal en la topografía.
-
-4. Curso temporal con apariencia de EMG, picos grandes y a intervalos regulares.
-
-El análisis visual de los componentes ICA muestra que los componentes ICA000, ICA001, ICA002, ICA003, ICA004, ICA006, ICA007, ICA008, ICA009, ICA010, ICA012 e ICA014 parecen relativamente limpios, sin picos grandes o irregularidades significativas que sugieran artefactos musculares. Sin embargo, los componentes ICA005, ICA011 e ICA013 presentan picos y ruido característicos de artefactos musculares, lo que los identifica como posibles candidatos para su eliminación.
-
+**D. IMAGINAR ABRIR Y CERRAR PUÑO**
 
 ### *5.2. Resultado del procesamiento* <a name="id10"></a>
 
