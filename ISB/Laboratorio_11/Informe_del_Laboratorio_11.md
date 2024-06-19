@@ -76,8 +76,8 @@ se empleará el artículo "A comparison of independent component analysis algori
 
 Diagrama de bode del filtro pasa banda
 
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/344dd5d8-67a9-4579-8459-ae538ff2d0af)
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/2cfbcf1b-59aa-4f84-aa9d-13310124b988)
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/1f951510-2678-4815-8abd-47d29f2ad8c7)
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/215439cd-d20a-4731-b5c9-5bd515908c59)
 
 **5.1.2. Resultado del ICA**
 
