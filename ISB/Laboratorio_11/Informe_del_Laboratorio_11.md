@@ -55,7 +55,7 @@ El artículo describe el conjunto de datos EEGMMIDB, que consiste en más de 150
 
 **4.1.1. Filtrado pasa banda**
 
-En primera instania se utiliza un filtro Butterworth de paso de banda para filtrar las señales. Este filtro esta diseñado utilizando las frecuencias de borde de la banda de paso y la banda de detención, normalizadas según la frecuencia de muestreo (fs). El filtro Butterworth se elige debido a su respuesta lineal en la banda de paso, lo que es crucial para mantener la integridad de la señal EEG. Se implementa un filtro de cuarto orden, similar al utilizado en el artículo "Butterworth Bandpass and Stationary Wavelet Transform Filter Comparison for Electroencephalography Signal"[2].
+En primera instania se utiliza un filtro Butterworth de paso de banda para filtrar las señales. Este filtro esta diseñado utilizando las frecuencias de borde de la banda de paso y la banda de detención, normalizadas según la frecuencia de muestreo (fs). El filtro Butterworth se elige debido a su respuesta lineal en la banda de paso, lo que es crucial para mantener la integridad de la señal EEG. Se implementa un filtro Butterworth de cuarto orden con frecuencia de corte mayor de 30 Hz, similar al utilizado en el artículo "Butterworth Bandpass and Stationary Wavelet Transform Filter Comparison for Electroencephalography Signal"[2]. La frecuencia de corte menor es 1 Hz debido a ICA es sensible a las fluctuaciones de baja frecuencia y, por lo tanto, requiere que los datos sean filtrados con un filtro pasa altas antes de ajustarse.
 
 **4.1.2. ICA**
 
