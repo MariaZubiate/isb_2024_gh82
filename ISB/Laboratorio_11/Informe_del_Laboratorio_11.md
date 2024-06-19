@@ -113,4 +113,4 @@ Diagrama de bode del filtro pasa banda
 
 [4] G. Schalk, D. J. McFarland, T. Hinterberger, N. Birbaumer, and J. R. Wolpaw, "BCI2000: A general-purpose brain-computer interface (BCI) system," in IEEE Transactions on Biomedical Engineering. 2004. https://physionet.org/content/eegmmidb/1.0.0/S001/#files-panel
 
-[5]
+[5] "mne.preprocessing.ICA — Documentación de MNE 1.7.0", MNE Tools, 2024. [En línea]. Disponible: https://mne.tools/stable/generated/mne.preprocessing.ICA.html.
