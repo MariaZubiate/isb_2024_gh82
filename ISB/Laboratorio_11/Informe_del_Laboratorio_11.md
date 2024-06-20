@@ -137,10 +137,13 @@ Se la función plot_properties() de MNE para graficar el espectro de potencia de
 
 |	||
 |:------------:| :------------:|
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/267e6a92-f048-4f77-9d2b-6e8fe3a8d6cd)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5c4cf5f0-af74-48b6-ac26-f1c79c53d56f)
-|La imagen muestra un espectro con un mínimo en torno a los 10 Hz y un aumento en la potencia alrededor de los 25 Hz, lo que sugiere una pendiente positiva típica de artefacto muscular| El topomap muestra un foco periférico, probablemente alrededor de los músculos temporales cerca de las orejas. Esto es indicativo de artefacto muscular
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c4431fd6-91e7-4809-a1b3-51a860a67e7f)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/b942c136-60f9-4b1d-8f30-c68508b00bd7)
-|El curso temporal muestra picos grandes y frecuentes, lo que es característico de señales EMG y sugiere la presencia de artefacto muscular|La imagen muestra un espectro con un mínimo en torno a los 10 Hz y un aumento en la potencia alrededor de los 25 Hz, lo que sugiere una pendiente positiva típica de artefacto muscular.
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/91228821-e266-4e7f-b3d2-69e27ee254e8)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1f34482e-48ea-42c6-8de5-f8eb446ab6a8)
+|||
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/bcc007d0-b0d2-46a3-b0d3-b7862c6794ce)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c151088e-d158-4215-bb0b-4d83d1e9ed8b)
+|||
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5d718156-fbd6-4981-9845-9ec0374dcda7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2f8f1462-a13d-43f5-8e43-6ab7dc9b3903)
+|||
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2c552601-9e65-4ff7-9852-becedf2e3375)||
 
 
 **Grafico de puntuación**
