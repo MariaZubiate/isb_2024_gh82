@@ -144,7 +144,7 @@ Se la función plot_properties() de MNE para graficar el espectro de potencia de
 ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5d718156-fbd6-4981-9845-9ec0374dcda7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2f8f1462-a13d-43f5-8e43-6ab7dc9b3903)
 |||
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2c552601-9e65-4ff7-9852-becedf2e3375)||
-
+|||
 
 **Grafico de puntuación**
 
