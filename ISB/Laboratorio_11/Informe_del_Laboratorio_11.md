@@ -85,7 +85,7 @@ Diagrama de bode del filtro pasa banda
 
 Señales filtradas: 
 
-| ABRIR Y CERRAR PUÑO |	IMAGINAR ABRIR Y CERRAR PUÑO |	
+| IMAGINAR ABRIR Y CERRAR PUÑO |	 ABRIR Y CERRAR PUÑO |	
 |:------------:|:---------------:|
 | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/04252801-1b4b-47e0-ab40-e90112506c4a) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/99dac4df-42aa-482a-bd33-d5fe9398c2df)
 |  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/f52bed75-12b6-4b7a-8344-43617d2ca802) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/af963584-8c9f-445f-874f-2eed2558ff65)
