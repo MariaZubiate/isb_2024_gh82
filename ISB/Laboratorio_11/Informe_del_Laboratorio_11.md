@@ -49,7 +49,7 @@ El Análisis de Componentes Independientes (ICA) en el EEG sirve para separar y 
 
 ## *4. Metodología* <a name="id4"></a>
 
-El artículo describe el conjunto de datos EEGMMIDB, que consiste en más de 1500 registros de EEG obtenidos de 109 voluntarios. Cada sujeto realizó 14 sesiones experimentales que incluyen períodos de reposo con los ojos abiertos y cerrados, así como tareas motoras y de imaginación. Estas tareas implicaron movimientos simples como abrir y cerrar el puño, así como complejas como imaginar dichos movimientos. Los datos están disponibles en formato EDF+ con anotaciones que indican los momentos de inicio de cada tarea específica. Estos este laboratorio utilizaremos los datos donde el paciente ** cierra y abre el puño ** y donde **imagina cerra y abrir el puño** para realizar un analisis de las señales EEG que se producen al momento de hacer una actividad [4]. 
+El artículo describe el conjunto de datos EEGMMIDB, que consiste en más de 1500 registros de EEG obtenidos de 109 voluntarios. Cada sujeto realizó 14 sesiones experimentales que incluyen períodos de reposo con los ojos abiertos y cerrados, así como tareas motoras y de imaginación. Estas tareas implicaron movimientos simples como abrir y cerrar el puño, así como complejas como imaginar dichos movimientos. Los datos están disponibles en formato EDF+ con anotaciones que indican los momentos de inicio de cada tarea específica. Estos este laboratorio utilizaremos los datos donde de UN pacientes para realizar un analisis de las señales EEG que se producen al momento de hacer una actividad [4]. 
 
 ### *4.1.Filtrado* <a name="id5"></a>
 
@@ -61,6 +61,18 @@ En primera instania se utiliza un filtro Butterworth de paso de banda para filtr
 
 se empleará el artículo "A comparison of independent component analysis algorithms and measures to discriminate between EEG and artifact components" como base para aplicar el Análisis de Componentes Independientes (ICA) a las señales obtenidas mediante el ultracortex. El objetivo es utilizar esta técnica para separar y distinguir eficazmente entre los distintos estados y eventos registrados [3]. Se utilizo el codigo dado en el labotario para realizar el análisis de componentes independientes. 
 
+**Protocolo experimental**
+
+Este consistió en registrar señales EEG de 64 canales utilizando el sistema BCI2000 mientras los sujetos participaban en diversas tareas motoras e imaginarias. Cada sujeto completó un total de 14 carreras experimentales distribuidas de la siguiente manera:
+
+1. Dos carreras de referencia de un minuto cada una, una con los ojos abiertos y otra con los ojos cerrados.
+2. Tres carreras de dos minutos para cada una de las siguientes cuatro tareas:
+   - Tarea 1: Realizar movimientos de apertura y cierre de puño izquierdo o derecho en respuesta a estímulos visuales.
+   - Tarea 2: Imaginar movimientos de apertura y cierre de puño izquierdo o derecho en respuesta a estímulos visuales.
+   - Tarea 3: Realizar movimientos de apertura y cierre simultáneos de ambos puños o ambos pies en respuesta a estímulos visuales.
+   - Tarea 4: Imaginar movimientos de apertura y cierre simultáneos de ambos puños o ambos pies en respuesta a estímulos visuales.
+
+Estas tareas fueron repetidas en secuencia, generando un total de 14 carreras experimentales por sujeto. Los datos EEG fueron registrados a una frecuencia de muestreo de 160 muestras por segundo y están disponibles en formato EDF+. Cada carrera experimental está etiquetada con anotaciones que indican los estados de reposo y los inicios de los movimientos reales o imaginarios, codificados como T0, T1 y T2 respectivamente, según las especificaciones del protocolo[4].
 
 ### *4.2.Procesamiento (normalización y alineamiento de la señal)* <a name="id6"></a>
 
@@ -85,13 +97,13 @@ Diagrama de bode del filtro pasa banda
 
 Señales filtradas: 
 
-| IMAGINAR ABRIR Y CERRAR PUÑO |	 ABRIR Y CERRAR PUÑO |	
-|:------------:|:---------------:|
-| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/04252801-1b4b-47e0-ab40-e90112506c4a) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/99dac4df-42aa-482a-bd33-d5fe9398c2df)
-|  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/f52bed75-12b6-4b7a-8344-43617d2ca802) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/af963584-8c9f-445f-874f-2eed2558ff65)
-| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1665c11f-27a6-4b71-9580-b61b9f74fa8a)  | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/9ee11b2b-002a-435d-83d8-c671746fcaec)
-| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/28ba8bca-8a5f-43f3-9fe9-554d6e017db3) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d10270e7-0cd1-487a-a64a-59db3f4a5731)
-|  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/40c10c78-b53b-4e16-a5b8-cb422e3b75b8) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/0cc4de86-a63d-4565-be5d-59c874c2dfe4)
+| SUJETO 3 	||
+|:------------:| :------------:|
+ | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/99dac4df-42aa-482a-bd33-d5fe9398c2df)| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/af963584-8c9f-445f-874f-2eed2558ff65)|
+ ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/9ee11b2b-002a-435d-83d8-c671746fcaec)| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d10270e7-0cd1-487a-a64a-59db3f4a5731)
+  | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/0cc4de86-a63d-4565-be5d-59c874c2dfe4) |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e231f269-57d6-4f76-b6df-80c15ba61dcc)
+  | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c28473aa-4813-4624-8773-dae2d675d3ee) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/fc4d1d97-486b-4e3f-a7ae-a7bbb9da63bd)
+| ...... |.....
 
 
 Los resultados obtenidos con el filtro Butterworth de paso de banda de cuarto orden demuestran una mejora significativa en la calidad de las señales EEG. Al aplicar frecuencias de corte de 1 Hz y 30 Hz, el filtro logra reducir el ruido de baja y alta frecuencia. La señal filtrada mostró una disminución notable en los artefactos indeseados, lo que facilita una interpretación más precisa y fiable de los datos EEG. 
@@ -99,10 +111,33 @@ Los resultados obtenidos con el filtro Butterworth de paso de banda de cuarto or
 
 **5.1.2. Resultado del ICA**
 
+ Luego del primer filtrado, se realizo el analisis de ICA.
 
-**A. ABRIR Y CERRAR PUÑO**
+ 1. Usando el codigo 
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/8f5ea681-e378-4948-9a7d-7a089d143bb1)
 
-**B. IMAGINAR ABRIR Y CERRAR PUÑO**
+**señales EEG procesadas**
+
+<div align="center">
+<img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c236a647-c460-4a0a-9aea-e35f9e69e38d" width="400">
+</div>
+
+Podemos visualizar una serie de señales EEG procesadas a través de un filtro ICA (Análisis de Componentes Independientes). Cada fila (ICA000, ICA001, etc.) representa una de las componentes independientes extraídas de las señales EEG originales.
+
+Los diferentes colores (azul, naranja y verde) indican segmentos de tiempo distintos en la grabación de EEG. Los segmentos están etiquetados como T0, T1 y T2:
+
+T0 (azul): Segmentos iniciales o de base.
+T1 (naranja): Segmentos intermedios o de algún evento particular.
+T2 (verde): Segmentos finales o posteriores a un evento.
+
+**Espectro de Pontencia**
+
+Se la función plot_properties() de MNE para graficar el espectro de potencia de cada componente. Busca un mínimo alrededor de 10 Hz y un pico alrededor de 25 Hz.
+
+|	||
+|:------------:| :------------:|
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/267e6a92-f048-4f77-9d2b-6e8fe3a8d6cd)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5c4cf5f0-af74-48b6-ac26-f1c79c53d56f)
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c4431fd6-91e7-4809-a1b3-51a860a67e7f)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/b942c136-60f9-4b1d-8f30-c68508b00bd7)
 
 ### *5.2. Resultado del procesamiento* <a name="id10"></a>
 
