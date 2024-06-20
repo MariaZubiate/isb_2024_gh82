@@ -137,7 +137,19 @@ Se la función plot_properties() de MNE para graficar el espectro de potencia de
 |	||
 |:------------:| :------------:|
 ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/267e6a92-f048-4f77-9d2b-6e8fe3a8d6cd)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5c4cf5f0-af74-48b6-ac26-f1c79c53d56f)
+|La imagen muestra un espectro con un mínimo en torno a los 10 Hz y un aumento en la potencia alrededor de los 25 Hz, lo que sugiere una pendiente positiva típica de artefacto muscular| El topomap muestra un foco periférico, probablemente alrededor de los músculos temporales cerca de las orejas. Esto es indicativo de artefacto muscular
 ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c4431fd6-91e7-4809-a1b3-51a860a67e7f)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/b942c136-60f9-4b1d-8f30-c68508b00bd7)
+|El curso temporal muestra picos grandes y frecuentes, lo que es característico de señales EMG y sugiere la presencia de artefacto muscular|La imagen muestra un espectro con un mínimo en torno a los 10 Hz y un aumento en la potencia alrededor de los 25 Hz, lo que sugiere una pendiente positiva típica de artefacto muscular.
+
+
+**Grafico de puntuación**
+
+Se realizo un gráfico de puntuaciones de componentes ICA (Análisis de Componentes Independientes) para identificar artefactos musculares en señales EEG. Este gráfico se ha generado mediante un análisis ICA aplicado los datos.
+
+
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c3f1cafa-822d-477b-adb9-bc59f52e5092)
+
+
 
 ### *5.2. Resultado del procesamiento* <a name="id10"></a>
 
