@@ -150,6 +150,7 @@ Se realizo un gráfico de puntuaciones de componentes ICA (Análisis de Componen
 ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c3f1cafa-822d-477b-adb9-bc59f52e5092)
 
 
+En la imagen, los componentes ICA numerados 5, 10, 12, 13 y 14 son destacados en rojo, lo que indica que han sido identificados automáticamente como artefactos musculares. Las barras rojas muestran que estos componentes tienen puntuaciones significativamente más altas en comparación con otros componentes, lo que sugiere una fuerte correlación con la actividad muscular no deseada. 
 
 ### *5.2. Resultado del procesamiento* <a name="id10"></a>
 
