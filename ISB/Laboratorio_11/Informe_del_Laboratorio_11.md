@@ -49,7 +49,7 @@ El Análisis de Componentes Independientes (ICA) en el EEG sirve para separar y 
 
 ## *4. Metodología* <a name="id4"></a>
 
-El artículo describe el conjunto de datos EEGMMIDB, que consiste en más de 1500 registros de EEG obtenidos de 109 voluntarios. Cada sujeto realizó 14 sesiones experimentales que incluyen períodos de reposo con los ojos abiertos y cerrados, así como tareas motoras y de imaginación. Estas tareas implicaron movimientos simples como abrir y cerrar el puño, así como complejas como imaginar dichos movimientos. Los datos están disponibles en formato EDF+ con anotaciones que indican los momentos de inicio de cada tarea específica. Estos datos seran utilizados para realizar un analisis de las señales EEG que se producen al momento de hacer una actividad [4]. 
+El artículo describe el conjunto de datos EEGMMIDB, que consiste en más de 1500 registros de EEG obtenidos de 109 voluntarios. Cada sujeto realizó 14 sesiones experimentales que incluyen períodos de reposo con los ojos abiertos y cerrados, así como tareas motoras y de imaginación. Estas tareas implicaron movimientos simples como abrir y cerrar el puño, así como complejas como imaginar dichos movimientos. Los datos están disponibles en formato EDF+ con anotaciones que indican los momentos de inicio de cada tarea específica. Estos este laboratorio utilizaremos los datos donde el paciente ** cierra y abre el puño ** y donde **imagina cerra y abrir el puño** para realizar un analisis de las señales EEG que se producen al momento de hacer una actividad [4]. 
 
 ### *4.1.Filtrado* <a name="id5"></a>
 
@@ -80,8 +80,10 @@ Diagrama de bode del filtro pasa banda
 
 | Función de tranferencia |	Angulos |	
 |:------------:|:---------------:|
-| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/b02491c6-fc65-4e16-9117-415ee349f0c0)	| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/a7bc6866-7246-4530-97e5-d732bedcb6c7)
+| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/6f617896-65f0-4bbb-8a76-3473804f7427) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/0d2fc9a3-111f-4bd5-a2cd-e977ff637dec)
 
+
+Señal filtrada: 
 
 
 
