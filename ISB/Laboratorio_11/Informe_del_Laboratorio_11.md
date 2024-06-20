@@ -113,7 +113,8 @@ Los resultados obtenidos con el filtro Butterworth de paso de banda de cuarto or
 
  Luego del primer filtrado, se realizo el analisis de ICA.
 
- 1. Usando el codigo 
+ 1. Usando el codigo
+     
 ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/8f5ea681-e378-4948-9a7d-7a089d143bb1)
 
 **señales EEG procesadas**
@@ -146,9 +147,9 @@ Se la función plot_properties() de MNE para graficar el espectro de potencia de
 
 Se realizo un gráfico de puntuaciones de componentes ICA (Análisis de Componentes Independientes) para identificar artefactos musculares en señales EEG. Este gráfico se ha generado mediante un análisis ICA aplicado los datos.
 
-
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c3f1cafa-822d-477b-adb9-bc59f52e5092)
-
+<div align="center">
+<img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c3f1cafa-822d-477b-adb9-bc59f52e5092">
+</div>
 
 En la imagen, los componentes ICA numerados 5, 10, 12, 13 y 14 son destacados en rojo, lo que indica que han sido identificados automáticamente como artefactos musculares. Las barras rojas muestran que estos componentes tienen puntuaciones significativamente más altas en comparación con otros componentes, lo que sugiere una fuerte correlación con la actividad muscular no deseada. 
 
