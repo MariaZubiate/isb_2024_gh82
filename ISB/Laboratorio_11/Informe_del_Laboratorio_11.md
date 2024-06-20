@@ -83,10 +83,15 @@ Diagrama de bode del filtro pasa banda
 | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/6f617896-65f0-4bbb-8a76-3473804f7427) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/0d2fc9a3-111f-4bd5-a2cd-e977ff637dec)
 
 
-Señal filtrada: 
+Señales filtradas: 
 
-
-
+| ABRIR Y CERRAR PUÑO |	IMAGINAR ABRIR Y CERRAR PUÑO |	
+|:------------:|:---------------:|
+| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/04252801-1b4b-47e0-ab40-e90112506c4a) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/99dac4df-42aa-482a-bd33-d5fe9398c2df)
+|  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/f52bed75-12b6-4b7a-8344-43617d2ca802) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/af963584-8c9f-445f-874f-2eed2558ff65)
+| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1665c11f-27a6-4b71-9580-b61b9f74fa8a)  | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/9ee11b2b-002a-435d-83d8-c671746fcaec)
+| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/28ba8bca-8a5f-43f3-9fe9-554d6e017db3) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d10270e7-0cd1-487a-a64a-59db3f4a5731)
+|  ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/40c10c78-b53b-4e16-a5b8-cb422e3b75b8) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/0cc4de86-a63d-4565-be5d-59c874c2dfe4)
 
 
 Los resultados obtenidos con el filtro Butterworth de paso de banda de cuarto orden demuestran una mejora significativa en la calidad de las señales EEG. Al aplicar frecuencias de corte de 1 Hz y 30 Hz, el filtro logra reducir el ruido de baja y alta frecuencia. La señal filtrada mostró una disminución notable en los artefactos indeseados, lo que facilita una interpretación más precisa y fiable de los datos EEG. 
@@ -95,13 +100,9 @@ Los resultados obtenidos con el filtro Butterworth de paso de banda de cuarto or
 **5.1.2. Resultado del ICA**
 
 
-**A. LINEA BASE OJOS CERRADOS**
+**A. ABRIR Y CERRAR PUÑO**
 
-**B. LINEA BASE OJOS ABIERTOS**
-
-**C. ABRIR Y CERRAR PUÑO**
-
-**D. IMAGINAR ABRIR Y CERRAR PUÑO**
+**B. IMAGINAR ABRIR Y CERRAR PUÑO**
 
 ### *5.2. Resultado del procesamiento* <a name="id10"></a>
 
