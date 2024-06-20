@@ -74,10 +74,21 @@ se empleará el artículo "A comparison of independent component analysis algori
 
 **5.1.1. Resultados del filtrado pasa banda**
 
+A continuación, se presenta el diagrama de Bode del filtro pasa banda. Este diagrama ilustra la respuesta en frecuencia del filtro, mostrando la atenuación de las frecuencias fuera de la banda de paso y la ganancia en la banda de paso, lo que permite evaluar la eficacia del filtro en la eliminación de ruidos no deseados.
+
 Diagrama de bode del filtro pasa banda
 
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/b02491c6-fc65-4e16-9117-415ee349f0c0)
-![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/a7bc6866-7246-4530-97e5-d732bedcb6c7)
+| Función de tranferencia |	Angulos |	
+|:------------:|:---------------:|
+| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/b02491c6-fc65-4e16-9117-415ee349f0c0)	| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/a7bc6866-7246-4530-97e5-d732bedcb6c7)
+
+
+
+
+
+
+Los resultados obtenidos con el filtro Butterworth de paso de banda de cuarto orden demuestran una mejora significativa en la calidad de las señales EEG. Al aplicar frecuencias de corte de 1 Hz y 30 Hz, el filtro logra reducir el ruido de baja y alta frecuencia. La señal filtrada mostró una disminución notable en los artefactos indeseados, lo que facilita una interpretación más precisa y fiable de los datos EEG. 
+
 
 **5.1.2. Resultado del ICA**
 
