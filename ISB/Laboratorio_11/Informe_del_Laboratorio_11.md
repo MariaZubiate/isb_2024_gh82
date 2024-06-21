@@ -194,6 +194,6 @@ En la imagen, los componentes ICA numerados 5, 10, 12, 13 y 14 son destacados en
 
 [3] Dhani Dharmaprani, Hoang K. Nguyen, Trent W. Lewis, Dylan DeLosAngeles, John O. Willoughby, and Kenneth J. Pope. A comparison of independent component analysis algorithms and measures to discriminate between EEG and artifact components. In 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 825–828. Orlando, FL, USA, 2016. IEEE. doi:10.1109/EMBC.2016.7590828
 
-[4] G. Schalk, D. J. McFarland, T. Hinterberger, N. Birbaumer, and J. R. Wolpaw, "BCI2000: A general-purpose brain-computer interface (BCI) system," in IEEE Transactions on Biomedical Engineering. 2004. https://physionet.org/content/eegmmidb/1.0.0/S001/#files-panel
+[4] Nabasmita Phukan, Nayan M. Kakoty, Nipun Gupta, y Neelanjana Baruah, "EEG-Based Hand Movement Recognition: Feature Domain and Level of Decomposition," *Advances in Industrial Machines and Mechanisms*, Lecture Notes in Mechanical Engineering, pp. 311-320, 2021, doi: 10.1007/978-981-16-1769-0.
 
 [5] "mne.preprocessing.ICA — Documentación de MNE 1.7.0", MNE Tools, 2024. [En línea]. Disponible: https://mne.tools/stable/generated/mne.preprocessing.ICA.html.
