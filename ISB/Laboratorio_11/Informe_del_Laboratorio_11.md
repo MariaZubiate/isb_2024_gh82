@@ -228,6 +228,11 @@ El canal Cz, situado en la línea media del cerebro y responsable de la integrac
 
 ## *7. Conclusiones* <a name="id13"></a>
 
+1. La combinación del filtro Butterworth de paso de banda y el análisis de componentes independientes (ICA) mejoró significativamente la calidad de las señales EEG, eliminando eficazmente artefactos de baja y alta frecuencia y separando señales neuronales de artefactos musculares.
+
+2. Tanto el análisis visual de espectros de potencia y mapas topográficos como el análisis automatizado con la función plot_properties() de MNE fueron efectivos para identificar componentes con artefactos musculares, demostrando la robustez del enfoque combinado.
+
+3. Las posiciones de los electrodos C3, C4 y Cz son críticas para el análisis de la actividad motora. Los valores obtenidos indicaron variabilidad y frecuencias características de la actividad motora en C3 y C4, mientras que Cz mostró un rol integrador, validando su uso en estudios de EEG enfocados en movimientos voluntarios de manos. 
 
 ## *8. Bibliografía* <a name="id14"></a>
 
