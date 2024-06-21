@@ -123,7 +123,7 @@ Los resultados obtenidos con el filtro Butterworth de paso de banda de cuarto or
 <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c236a647-c460-4a0a-9aea-e35f9e69e38d" width="400">
 </div>
 
-Podemos visualizar una serie de señales EEG procesadas a través de un filtro ICA (Análisis de Componentes Independientes). Cada fila (ICA000, ICA001, etc.) representa una de las componentes independientes extraídas de las señales EEG originales.
+Podemos visualizar una serie de señales EEG procesadas a través de un filtro ICA (Análisis de Componentes Independientes). Cada fila (ICA000, ICA001, etc.) representa una de las componentes independientes extraídas de las señales EEG originales[4].
 
 Los diferentes colores (azul, naranja y verde) indican segmentos de tiempo distintos en la grabación de EEG. Los segmentos están etiquetados como T0, T1 y T2:
 
@@ -145,6 +145,16 @@ Se la función plot_properties() de MNE para graficar el espectro de potencia de
 |las componentes ICA009 e ICA010, ICA009 presenta un espectro de potencia con una pendiente relativamente plana y un topomap con distribución difusa, sin un foco claro, lo que sugiere que no es un artefacto muscular. En contraste, ICA010 muestra un espectro de potencia con una pendiente más pronunciada y positiva en el rango de 7 a 75 Hz, y el topomap presenta focos periféricos bien definidos, lo que es indicativo de un artefacto muscular.|las componentes ICA011 e ICA012, ICA011 presenta un espectro de potencia con una pendiente relativamente plana y un topomap con distribución difusa, sin un foco claro, lo que sugiere que no es un artefacto muscular. Por otro lado, ICA012 muestra un espectro de potencia con una ligera pendiente positiva en el rango de 7 a 75 Hz, y su topomap presenta un foco periférico bien definido, lo que es indicativo de un artefacto muscular. |
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2c552601-9e65-4ff7-9852-becedf2e3375)||
 | las componentes ICA013 e ICA014, ICA013 presenta un espectro de potencia con una pendiente positiva pronunciada en el rango de 7 a 75 Hz y un topomap con un foco periférico bien definido, lo que es indicativo de un artefacto muscular. Además, la señal del tiempo parece tener características que podrían ser asociadas con artefactos musculares. Por otro lado, ICA014 muestra un espectro de potencia con una pendiente relativamente plana y un topomap con distribución más difusa y menos focalizada, lo que sugiere que esta señal es más probablemente neural que un artefacto muscular. ||
+
+
+
+Basado en la evaluación de las imágenes de las componentes ICA proporcionadas y los criterios para identificar artefactos musculares (pendiente positiva del espectro de potencia entre 7 y 75 Hz, foco periférico o dipolo en el topomap, y un solo foco en el topomap), las siguientes componentes son las que más probablemente contienen artefactos musculares:
+
+ICA008: Pendiente positiva en el espectro de potencia y un topomap con un foco periférico claro y bien definido.
+ICA012: Ligera pendiente positiva en el espectro de potencia y un topomap con un foco periférico bien definido.
+ICA013: Pendiente positiva pronunciada en el espectro de potencia y un topomap con un foco periférico bien definido.
+
+
 
 **Grafico de puntuación**
 
