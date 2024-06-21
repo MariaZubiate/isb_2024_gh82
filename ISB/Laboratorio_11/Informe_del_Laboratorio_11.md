@@ -81,7 +81,6 @@ Estas tareas fueron repetidas en secuencia, generando un total de 14 carreras ex
 
 ## *5. Resultados* <a name="id8"></a>
 
-
 ### *5.1. Resultado del filtrado* <a name="id9"></a>
 
 **5.1.1. Resultados del filtrado pasa banda**
@@ -138,27 +137,35 @@ Se la función plot_properties() de MNE para graficar el espectro de potencia de
 |	||
 |:------------:| :------------:|
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/91228821-e266-4e7f-b3d2-69e27ee254e8)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/1f34482e-48ea-42c6-8de5-f8eb446ab6a8)
-| las componentes ICA001 e ICA002 según los criterios de artefactos musculares, ICA001 muestra una pendiente de espectro de potencia bastante plana y un mapa topográfico difuso sin un foco periférico claro, lo que sugiere que es una señal neural. En contraste, ICA002 presenta un mapa topográfico con una concentración periférica más clara y focalizada, aunque la pendiente del espectro de potencia no muestra una pendiente positiva típica de los artefactos musculares. |las componentes ICA003 e ICA004, ICA003 presenta un espectro de potencia con una pendiente más pronunciada y positiva entre 7 y 75 Hz, lo cual es indicativo de un artefacto muscular. Además, el mapa topográfico muestra un foco periférico claro, concentrado en una región específica, lo cual respalda aún más la presencia de artefacto muscular. Por otro lado, ICA004 muestra un espectro de potencia sin una pendiente positiva clara y un topomap con una distribución más difusa y menos focalizada, lo cual sugiere que esta señal es más probablemente neural que un artefacto muscular. Por lo tanto, ICA003 es más probable que contenga un artefacto muscular|
+| ICA001 e ICA002 según los criterios de artefactos musculares, ICA001 muestra una pendiente de espectro de potencia bastante plana y un mapa topográfico difuso sin un foco periférico claro, lo que sugiere que es una señal neural.  ICA002 presenta un mapa topográfico con una concentración periférica más clara y focalizada, aunque la pendiente del espectro de potencia no muestra una pendiente positiva típica de los artefactos musculares. | ICA003 presenta un espectro de potencia con una pendiente más pronunciada y positiva entre 7 y 75 Hz, lo cual es indicativo de un artefacto muscular. Además, el mapa topográfico muestra un foco periférico claro, concentrado en una región específica, lo cual respalda aún más la presencia de artefacto muscular. ICA004 muestra un espectro de potencia sin una pendiente positiva clara y un topomap con una distribución más difusa y menos focalizada, lo cual sugiere que esta señal es más probablemente neural que un artefacto muscular.|
 ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/bcc007d0-b0d2-46a3-b0d3-b7862c6794ce)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c151088e-d158-4215-bb0b-4d83d1e9ed8b)
-|las componentes ICA005 e ICA006, ICA005 muestra un espectro de potencia con una pendiente bastante plana sin una clara tendencia positiva en el rango de 7 a 75 Hz. El mapa topográfico muestra una distribución más difusa, con focos tanto en la parte superior como inferior, sugiriendo que no es un artefacto muscular. En cambio, ICA006 presenta un espectro de potencia con una ligera pendiente positiva en el rango mencionado, y el topomap muestra un foco periférico claro, concentrado en una región específica, lo que es indicativo de un artefacto muscular.|las componentes ICA007 e ICA008, ICA007 presenta un espectro de potencia con una pendiente relativamente plana y un topomap con una distribución difusa, sin un foco claro, lo que sugiere que no es un artefacto muscular. Por otro lado, ICA008 muestra un espectro de potencia con una ligera pendiente positiva en el rango de 7 a 75 Hz, y su topomap presenta un foco periférico claro y bien definido, lo que es indicativo de un artefacto muscular|
+| ICA005 muestra un espectro de potencia con una pendiente bastante plana sin una clara tendencia positiva en el rango de 7 a 75 Hz. El mapa topográfico muestra una distribución más difusa, con focos tanto en la parte superior como inferior, sugiriendo que no es un artefacto muscular.  ICA006 presenta un espectro de potencia con una ligera pendiente positiva en el rango, y el topomap muestra un foco periférico claro, concentrado en una región específica, lo que es indicativo de un artefacto muscular.|ICA007 presenta un espectro de potencia con una pendiente relativamente plana y un topomap con una distribución difusa, sin un foco claro, lo que sugiere que no es un artefacto muscular. ICA008 muestra un espectro de potencia con una ligera pendiente positiva en el rango de 7 a 75 Hz, y su topomap presenta un foco periférico claro y bien definido, lo que es indicativo de un artefacto muscular|
 ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5d718156-fbd6-4981-9845-9ec0374dcda7)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2f8f1462-a13d-43f5-8e43-6ab7dc9b3903)
 |las componentes ICA009 e ICA010, ICA009 presenta un espectro de potencia con una pendiente relativamente plana y un topomap con distribución difusa, sin un foco claro, lo que sugiere que no es un artefacto muscular. En contraste, ICA010 muestra un espectro de potencia con una pendiente más pronunciada y positiva en el rango de 7 a 75 Hz, y el topomap presenta focos periféricos bien definidos, lo que es indicativo de un artefacto muscular.|las componentes ICA011 e ICA012, ICA011 presenta un espectro de potencia con una pendiente relativamente plana y un topomap con distribución difusa, sin un foco claro, lo que sugiere que no es un artefacto muscular. Por otro lado, ICA012 muestra un espectro de potencia con una ligera pendiente positiva en el rango de 7 a 75 Hz, y su topomap presenta un foco periférico bien definido, lo que es indicativo de un artefacto muscular. |
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/2c552601-9e65-4ff7-9852-becedf2e3375)||
-| las componentes ICA013 e ICA014, ICA013 presenta un espectro de potencia con una pendiente positiva pronunciada en el rango de 7 a 75 Hz y un topomap con un foco periférico bien definido, lo que es indicativo de un artefacto muscular. Además, la señal del tiempo parece tener características que podrían ser asociadas con artefactos musculares. Por otro lado, ICA014 muestra un espectro de potencia con una pendiente relativamente plana y un topomap con distribución más difusa y menos focalizada, lo que sugiere que esta señal es más probablemente neural que un artefacto muscular. ||
+| ICA013 presenta un espectro de potencia con una pendiente positiva pronunciada en el rango de 7 a 75 Hz y un topomap con un foco periférico bien definido, lo que es indicativo de un artefacto muscular.  ICA014 muestra un espectro de potencia con una pendiente relativamente plana y un topomap con distribución más difusa y menos focalizada, lo que sugiere que esta señal es más probablemente neural ||
 
 
 
 Basado en la evaluación de las imágenes de las componentes ICA proporcionadas y los criterios para identificar artefactos musculares (pendiente positiva del espectro de potencia entre 7 y 75 Hz, foco periférico o dipolo en el topomap, y un solo foco en el topomap), las siguientes componentes son las que más probablemente contienen artefactos musculares:
 
+ICA002: Pendiente del espectro de potencia que sugiere un artefacto y un foco periférico claro en el topomap.
+
+ICA006: Ligera pendiente positiva en el espectro de potencia y un foco periférico definido en el topomap.
+
 ICA008: Pendiente positiva en el espectro de potencia y un topomap con un foco periférico claro y bien definido.
+
+ICA010: Pendiente pronunciada y positiva en el espectro de potencia, con focos periféricos bien definidos en el topomap.
+
 ICA012: Ligera pendiente positiva en el espectro de potencia y un topomap con un foco periférico bien definido.
+
 ICA013: Pendiente positiva pronunciada en el espectro de potencia y un topomap con un foco periférico bien definido.
 
 
 
 **Grafico de puntuación**
 
-Se realizo un gráfico de puntuaciones de componentes ICA (Análisis de Componentes Independientes) para identificar artefactos musculares en señales EEG. Este gráfico se ha generado mediante un análisis ICA aplicado los datos.
+Para verificar nuestro analisis utilizamos el función ica.plot_properties, la cual nos ayuda a determinar los indices a eliminar. Para ello se ploteo un grafico de puntuaciones de componentes ICA (Análisis de Componentes Independientes) para identificar artefactos musculares en señales EEG. Este gráfico se ha generado mediante un análisis ICA aplicado los datos.
 
 <div align="center">
 <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c3f1cafa-822d-477b-adb9-bc59f52e5092">
