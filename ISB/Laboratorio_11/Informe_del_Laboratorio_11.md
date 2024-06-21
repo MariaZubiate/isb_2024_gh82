@@ -178,7 +178,7 @@ En la imagen, los componentes ICA numerados 5, 10, 12, 13 y 14 son destacados en
 
 
 ### *5.3. Resultado de la extracción de caracteristicas* <a name="id11"></a>
-En el análisis de la actividad relacionada con la mano se utilizó el aporte de N. Phukan et al. en donde precisa que los canales de interés son C3, C4 y Cz por estar vinculados directamente al homúnculo cerebral.
+En el análisis de la actividad relacionada con las manos se utilizó el aporte de N. Phukan et al. en donde precisa que los canales de interés son C3, C4 y Cz por estar vinculados directamente al homúnculo motor de manos y la corteza motora primaria encargada de movimientos voluntarios[6].
 | Canal |	C3 |
 |:------------:|:------------:|
 | Máximo	|  1.5232365518739694	|
