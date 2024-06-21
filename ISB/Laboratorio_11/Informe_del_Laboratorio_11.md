@@ -178,8 +178,32 @@ En la imagen, los componentes ICA numerados 5, 10, 12, 13 y 14 son destacados en
 
 
 ### *5.3. Resultado de la extracción de caracteristicas* <a name="id11"></a>
-|:------------:| :------------:|
-|            C3                 |
+| Canal |	C3 |
+|:------------:|:------------:|
+| Máximo	|  1.5232365518739694	|
+| Mínimo	|  -1.7543912551681735	|
+| Media	|   0.3322426985152739	|
+| Desviación estándar	|  1.0631447965669578	|
+| RMS	|  1.141217150550538	|
+| Mean frequency	|  -0.047903054301829937	|
+
+| Canal |	C4 |
+|:------------:|:------------:|
+| Máximo	|  1.5021025816294638	|
+| Mínimo	|  -2.06969073837055	|
+| Media	|   0.2280079804519226	|
+| Desviación estándar	|  1.1520882614314636	|
+| RMS	|  1.1896725429052837	|
+| Mean frequency	|  -0.061155495019231745	|
+
+| Canal |	Cz |
+|:------------:|:------------:|
+| Máximo	|  1.0233866554464879	|
+| Mínimo	|  -1.5071597642609091	|
+| Media	|  -0.11510753094814496	|
+| Desviación estándar	|  0.6983921315162741	|
+| RMS	|  0.7335852973172718	|
+| Mean frequency	|  0.7335852973172718	|
 
 
 ## *6. Discusión* <a name="id12"></a>
