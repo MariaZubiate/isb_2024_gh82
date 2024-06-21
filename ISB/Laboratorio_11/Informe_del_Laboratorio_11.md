@@ -178,7 +178,8 @@ En la imagen, los componentes ICA numerados 5, 10, 12, 13 y 14 son destacados en
 
 
 ### *5.3. Resultado de la extracción de caracteristicas* <a name="id11"></a>
-
+|:------------:| :------------:|
+|            C3                 |
 
 
 ## *6. Discusión* <a name="id12"></a>
