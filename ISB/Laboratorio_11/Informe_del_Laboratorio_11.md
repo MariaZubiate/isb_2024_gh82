@@ -208,9 +208,22 @@ En el análisis de la actividad relacionada con las manos se utilizó el aporte 
 
 
 ## *6. Discusión* <a name="id12"></a>
+
 Para el filtrado de Señales EEG
+
 El filtrado Butterworth de paso de banda mostró una atenuación efectiva de las frecuencias fuera de la banda de paso. El análisis del diagrama de Bode reveló una reducción del ruido de baja frecuencia en un 85% y del ruido de alta frecuencia en un 90%. Específicamente, las señales filtradas presentaron una disminución del ruido ocular de baja frecuencia y de la actividad muscular de alta frecuencia, mejorando la relación señal-ruido (SNR) de manera notable.
 
+Aanálisis de componentes independientes (ICA) 
+
+Se utilizó para separar señales neuronales de artefactos en las mediciones de EEG, evaluando las componentes resultantes mediante dos modalidades de elección: visual y por software. En la modalidad visual, se observaron los espectros de potencia y los mapas topográficos de cada componente ICA, identificando artefactos musculares mediante criterios como la pendiente positiva del espectro de potencia entre 7 y 75 Hz y la presencia de un foco periférico en el topomap, destacándose las componentes ICA002, ICA006, ICA008, ICA010, ICA012 e ICA013. La modalidad por software utilizó la función plot_properties() de MNE para generar un gráfico de puntuaciones de componentes ICA, donde las componentes ICA005, ICA010, ICA012, ICA013 e ICA014 fueron identificadas automáticamente como artefactos musculares debido a sus altas puntuaciones en comparación con otras componentes. 
+
+Características extraídas centradas en los canales C3, C4 y Cz
+
+El canal C3, situado sobre el hemisferio izquierdo del cerebro, muestra valores que indican una considerable variabilidad en la señal, reflejada en la desviación estándar y el RMS. La media cercana a cero sugiere una señal equilibrada, y la frecuencia media negativa implica que la mayoría de la actividad está concentrada en frecuencias más bajas, lo cual es consistente con la actividad motora.
+
+El canal C4, situado sobre el hemisferio derecho del cerebro, presenta características similares a C3 pero con una mayor desviación estándar y RMS, indicando una variabilidad ligeramente mayor en la señal. La media más cercana a cero y la frecuencia media negativa refuerzan la actividad predominante en frecuencias bajas, correspondiente a la actividad motora.
+
+El canal Cz, situado en la línea media del cerebro y responsable de la integración de la actividad motora de ambos hemisferios, muestra una menor variabilidad en la señal en comparación con C3 y C4. La media negativa y la frecuencia media positiva sugieren una diferente distribución de frecuencias, posiblemente reflejando la naturaleza integradora de Cz.
 
 
 ## *7. Conclusiones* <a name="id13"></a>
