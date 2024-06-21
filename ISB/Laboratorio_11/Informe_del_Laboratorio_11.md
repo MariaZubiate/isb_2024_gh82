@@ -175,6 +175,9 @@ En la imagen, los componentes ICA numerados 5, 10, 12, 13 y 14 son destacados en
 
 ### *5.2. Resultado del procesamiento* <a name="id10"></a>
 
+La data fue normalizada antes de la extracción de características para homogenizar la información. La frecuencia de muestreo ya se encontraba en 100 Hz. 
+![Captura de pantalla 2024-06-21 083431](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/3c4b3ae2-74ec-4c86-8a6b-3033e5263e26)
+
 
 
 ### *5.3. Resultado de la extracción de caracteristicas* <a name="id11"></a>
