@@ -211,7 +211,7 @@ En el análisis de la actividad relacionada con las manos se utilizó el aporte 
 
 Para el filtrado de Señales EEG
 
-El filtrado Butterworth de paso de banda mostró una atenuación efectiva de las frecuencias fuera de la banda de paso. El análisis del diagrama de Bode reveló una reducción del ruido de baja frecuencia en un 85% y del ruido de alta frecuencia en un 90%. Específicamente, las señales filtradas presentaron una disminución del ruido ocular de baja frecuencia y de la actividad muscular de alta frecuencia, mejorando la relación señal-ruido (SNR) de manera notable.
+El filtrado Butterworth de paso de banda mostró una atenuación efectiva de las frecuencias fuera de la banda de paso. El análisis del diagrama de Bode reveló una reducción del ruido de baja frecuencia  y del ruido de alta frecuencia. Específicamente, las señales filtradas presentaron una disminución del ruido ocular de baja frecuencia y de la actividad muscular de alta frecuencia, mejorando la relación señal-ruido (SNR) de manera notable.
 
 Aanálisis de componentes independientes (ICA) 
 
