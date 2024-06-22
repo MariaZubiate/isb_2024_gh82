@@ -4,8 +4,6 @@
 
 LINK : https://studio.edgeimpulse.com/public/431195/live
 
-CODIGO:
-
 #### 1.1. SEÑAL EMG - REPOSO
 
 | IMAGENES DE INTERVALOS EN TIEMPO |||
@@ -30,7 +28,6 @@ CODIGO:
 
 LINK : https://studio.edgeimpulse.com/public/431484/live
 
-CODIGO: 
 #### 2.1. SEÑAL EEG - REPOSO
 
 | IMAGENES DE INTERVALOS EN TIEMPO |||
@@ -56,7 +53,6 @@ CODIGO:
 
 LINK : https://studio.edgeimpulse.com/public/431485/live
 
-CODIGO: 
 #### 3.1. SEÑAL ECG - REPOSO
 
 | IMAGENES DE INTERVALOS EN TIEMPO |||
