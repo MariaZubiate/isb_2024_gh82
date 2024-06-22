@@ -12,8 +12,7 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 |  ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 |  PANTORRILLA CONTRAFUERZA | ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a9fef20d-6d0e-4a09-a9c8-04653ea50630)|
-| VENTANAS APLICADAS
-(Intervalos de 14 seg) | SEÑAL OBTENIDA|	
+| VENTANAS APLICADAS (Intervalos de 14 seg) | SEÑAL OBTENIDA|	
 | W0 |  ![descarga (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/7921acfd-f00b-475c-8d42-0bbaf0074684)|
 | W1 |  ![descarga (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/2097e3c7-46d0-450b-b7fe-ba8d37dc03c4)|
 | W2 |   ![descarga (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/be677bbf-435c-45fb-8f0f-f4ab5a3f50fb)|
@@ -24,7 +23,7 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 | ACTIVIDAD 2 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 | PULGAR CONTRAFUERZA |  ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/409f2f56-4302-442c-9bcf-3229e4438cb6)|
-| VENTANAS APLICADAS(Int. de 13 seg) | SEÑAL OBTENIDA|	
+| VENTANAS APLICADAS (Intervalos de 13 seg) | SEÑAL OBTENIDA|	
 | W0 | ![descarga (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8c92215d-9dff-419d-b2b0-7e6becb9e749)|
 | W1 | ![descarga (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6337de08-0756-49f9-9140-2e29ebfb006b)|
 | W2 | ![descarga (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f5deaccd-4ba4-4c81-ace6-79e5cdef628a)|
@@ -37,7 +36,7 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 | ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 | PARPADEO | ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/53118fdc-cc2b-4ba3-940d-25f261528db5)|
-| VENTANAS APLICADAS(Int. de 7 seg) | SEÑAL OBTENIDA|	
+| VENTANAS APLICADAS (Intervalos de 7 seg) | SEÑAL OBTENIDA|	
 | W0 |![descarga (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/5940eb6e-06b9-4057-8f2c-5a0c488ae98d)|
 | W1 | ![descarga (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/891aa710-5d0c-48f3-9e1c-5bd708cb437c)|
 | W2 | ![descarga (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/ce4e5cf4-232c-49f1-8240-9b53e95c8d81)|
@@ -53,7 +52,7 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 | ACTIVIDAD 2 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 | PREGUNTAS MATEMÁTICAS| ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8ba81bc7-8a90-437f-bf68-63d3b8999e90)|
-| VENTANAS APLICADAS(Int. de 10 seg) | SEÑAL OBTENIDA|	
+| VENTANAS APLICADAS (Intervalos de 10 seg) | SEÑAL OBTENIDA|	
 | W0 |![descarga (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/1e7e3166-9b35-4ba8-ac8a-6c32c012f861)|
 | W1 |![descarga (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/87606bfd-e4b1-482e-8812-97d96475ebaf)|
 | W2 | ![descarga (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/26341dec-d06e-44ea-891b-7ddb70d88088)|
@@ -69,7 +68,7 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 | ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 | DEEP BREATH BEFORE EXCERCISE |  ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/0d4d88ab-39b4-4851-b58b-05c9862ca585)|
-| VENTANAS APLICADAS(Int. de 7 seg) | SEÑAL OBTENIDA|	
+| VENTANAS APLICADAS (Intervalos de 7 seg) | SEÑAL OBTENIDA|	
 | W0 | ![descarga (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/270a9bfe-b0e4-4cb5-991f-3907a3a12a52)|
 | W1 | ![descarga (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/401991e6-c985-4ede-8b2b-8237963ee261)|
 | W2 | ![descarga (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/67b5584e-d904-4ff8-9ee1-5d8e8f07304a)|
@@ -84,7 +83,7 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 | ACTIVIDAD 2 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 | BURPEES |  ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f33b1743-6beb-4184-aac6-ca1530b409e4)|
-| VENTANAS APLICADAS(Int. de 6 seg) | SEÑAL OBTENIDA|	
+| VENTANAS APLICADAS (Intervalos de 6 seg) | SEÑAL OBTENIDA|	
 | W0 | ![descarga (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/fc527993-6ffa-44a5-ba97-81a45047730d)|
 | W1 | ![descarga (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/563ffc45-9ddb-4d74-a356-8bdc03f2c66d)|
 | W2 | ![descarga (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a41ed278-aadb-4faf-bac6-f5ec3bc3b5b0)|
