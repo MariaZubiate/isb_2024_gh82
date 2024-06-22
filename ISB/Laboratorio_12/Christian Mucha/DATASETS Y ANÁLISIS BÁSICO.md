@@ -6,7 +6,7 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 
 #  EMG
 
-##########################################################################################################
+#######################################################################################################
 |  ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 |  PANTORRILLA CONTRAFUERZA | ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a9fef20d-6d0e-4a09-a9c8-04653ea50630)|
@@ -18,7 +18,7 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 | W2 |   ![descarga (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/be677bbf-435c-45fb-8f0f-f4ab5a3f50fb)|
 | W3 |  ![descarga (4)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/3aa2ef49-abcc-4b93-b782-b61c952c51c3)|
 
-#########################################################################################################
+####################################################################################################
 
 | ACTIVIDAD 2 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
