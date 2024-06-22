@@ -62,13 +62,13 @@ CODIGO:
 | IMAGENES DE INTERVALOS EN TIEMPO |||
 |:----------------:|:----------------:|:----------------:|
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/8744387a-1001-4d9c-bb44-f230bf4e025c)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a00c8150-0a8a-4ecc-bfdd-210f5bf12da5)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3834432c-80ce-4bcf-9b05-341a846a8113)
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/6d625b91-82f9-4201-9895-5d938cb63c76)| | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/d0fb50cf-7181-4007-a654-7fb30453086b) | 
-|....|...|...
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/6d625b91-82f9-4201-9895-5d938cb63c76)| 
 
 
 #### 3.2. SEÑAL EeG - DEEP BREATH
 
 | IMAGENES DE INTERVALOS EN TIEMPO |||
 |:----------------:|:----------------:|:----------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/ebaae7da-f37f-47b1-9044-e0cfb1f4dbc3)| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/18dfe512-9945-4da7-a5ff-f781550cb144)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a8e8e9c1-000f-4869-bc64-e486704dfc42)
+|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/ebaae7da-f37f-47b1-9044-e0cfb1f4dbc3)| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/18dfe512-9945-4da7-a5ff-f781550cb144)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/340ca880-84d6-4b7a-80ee-66a35060a24d)
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/a8e8e9c1-000f-4869-bc64-e486704dfc42)||
 |....|...|...
