@@ -10,3 +10,9 @@ Para EEG: https://colab.research.google.com/drive/1D3-hiRTKH809N2Ns8q8vIwy0AUcaV
 
 
 Link del Edge Impulse:
+
+Para ECG: 
+
+Para EMG: 
+
+Para EEG: https://studio.edgeimpulse.com/studio/431554/acquisition/training?page=1
