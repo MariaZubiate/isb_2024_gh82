@@ -12,7 +12,6 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 |  ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 |  PANTORRILLA CONTRAFUERZA | ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a9fef20d-6d0e-4a09-a9c8-04653ea50630)|
-
 | VENTANAS APLICADAS | SEÑAL OBTENIDA|	
 |:------------:|:---------------:|
 | W0 |  ![descarga (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/7921acfd-f00b-475c-8d42-0bbaf0074684)|
@@ -25,7 +24,6 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 | ACTIVIDAD 2 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 | PULGAR CONTRAFUERZA |  ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/409f2f56-4302-442c-9bcf-3229e4438cb6)|
-
 | VENTANAS APLICADAS | SEÑAL OBTENIDA|	
 |:------------:|:---------------:|
 | W0 | ![descarga (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8c92215d-9dff-419d-b2b0-7e6becb9e749)|
