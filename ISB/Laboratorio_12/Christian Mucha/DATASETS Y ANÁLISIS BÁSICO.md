@@ -4,9 +4,11 @@ Url del proyecto público: https://studio.edgeimpulse.com/public/431194/live
 
 Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDWntiAury-DaqERws?usp=sharing
 
+
+
 #  EMG
 
-#######################################################################################################
+
 |  ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 |  PANTORRILLA CONTRAFUERZA | ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a9fef20d-6d0e-4a09-a9c8-04653ea50630)|
@@ -32,6 +34,7 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 | W3 | ![descarga (4)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/99fdd1ea-1ccc-4b00-86a1-ed9c95fd6506)|
 
 
+
 #  EEG
 
 | ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
@@ -49,12 +52,28 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 | W6 |![descarga (7)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8a2aae81-ff20-4401-8c41-023e53364418)|
 | W7 |![descarga (8)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/d6f8b149-0660-478a-8357-39b9b68f48d8)|
 
+####################################################################################################
+
 
 | ACTIVIDAD 2 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
-| PREGUNTAS MATEMÁTICAS|   |
+| PREGUNTAS MATEMÁTICAS| ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8ba81bc7-8a90-437f-bf68-63d3b8999e90)|
+
+
+| VENTANAS APLICADAS | SEÑAL OBTENIDA|	
+|:------------:|:---------------:|
+| W0 |![descarga (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/1e7e3166-9b35-4ba8-ac8a-6c32c012f861)|
+| W1 |![descarga (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/87606bfd-e4b1-482e-8812-97d96475ebaf)|
+| W2 | ![descarga (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/26341dec-d06e-44ea-891b-7ddb70d88088)|
+| W3 |![descarga (4)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/d7427ca3-6262-461f-bb1d-5a508aab37ce)|
+| W4 |![descarga (5)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/c9c85f0b-f4cf-4db0-969b-f9a8be54984a)|
+| W5 |![descarga (6)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6bf6acde-c0f3-4a47-ac73-c757342328af)|
+
+
 
 #  ECG
+
+
 | ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 | DEEP BREATH BEFORE EXCERCISE |   |
