@@ -6,7 +6,7 @@ Link: https://studio.edgeimpulse.com/public/431541/live
 
 | Bíceps Contrafuerza | Pulgar Contrafuerza | Pulgar Flexión |
 |:----------------:|:----------------:|:----------------:|
-| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/efd9b0a4-cf06-4270-9e8b-70ffbee49458) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/280a8cc1-445c-4f80-889b-532e50108cb5) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/01df0f4c-f90d-44d3-9e30-117b5c5a378c) |
+| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/062bf174-9709-4517-9f8c-428e51832d15) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/280a8cc1-445c-4f80-889b-532e50108cb5) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/efd9b0a4-cf06-4270-9e8b-70ffbee49458) |
 
 ## 2. SEÑALES ECG 
 
