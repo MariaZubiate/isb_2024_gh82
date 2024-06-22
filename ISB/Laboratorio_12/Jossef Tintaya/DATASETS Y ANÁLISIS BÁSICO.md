@@ -12,11 +12,11 @@ Para EEG: https://colab.research.google.com/drive/1D3-hiRTKH809N2Ns8q8vIwy0AUcaV
 
 Link del Edge Impulse:
 
-Para EMG: https://studio.edgeimpulse.com/studio/431496
+Para EMG: https://studio.edgeimpulse.com/public/431496/live
 
-Para EEG: https://studio.edgeimpulse.com/studio/431554
+Para EEG: https://studio.edgeimpulse.com/public/431554/live
 
-Para ECG: https://studio.edgeimpulse.com/studio/431490
+Para ECG: https://studio.edgeimpulse.com/public/431490/live
 
 
 
