@@ -93,13 +93,16 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 
 | ACTIVIDAD 2 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
-| BURPEES |   |
+| BURPEES |  ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f33b1743-6beb-4184-aac6-ca1530b409e4)|
 
 | VENTANAS APLICADAS | SEÑAL OBTENIDA|	
 |:------------:|:---------------:|
-| W0 |  |
-| W1 |  |
-| W2 |   |
-| W3 |  |
-| W4 |  |
-| W5 |  |
+| W0 | ![descarga (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/fc527993-6ffa-44a5-ba97-81a45047730d)|
+| W1 | ![descarga (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/563ffc45-9ddb-4d74-a356-8bdc03f2c66d)|
+| W2 | ![descarga (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a41ed278-aadb-4faf-bac6-f5ec3bc3b5b0)|
+| W3 | ![descarga (4)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/10c5ed95-f914-4f70-9cf3-5f523b135700)|
+| W4 | ![descarga (5)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/c19dbe16-114d-40a6-8d9b-c12fc6b7b00a)|
+| W5 | ![descarga (6)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/9f0d5027-d2d9-474e-92a0-31ccc4cab5a6)|
+| W6 | ![descarga (7)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/4d2a8c2d-ca0f-4601-bf80-72c2ff4cd6a2)|
+| W7 | ![descarga (8)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/4c5fc560-3582-4a0a-8792-22de0d733020)|
+| W8 | ![descarga (9)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/07d60923-c82a-4193-b237-e33bcfc8cd19)|
