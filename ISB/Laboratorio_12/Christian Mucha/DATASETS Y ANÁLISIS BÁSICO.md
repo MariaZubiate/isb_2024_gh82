@@ -76,8 +76,30 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 
 | ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
-| DEEP BREATH BEFORE EXCERCISE |   |
+| DEEP BREATH BEFORE EXCERCISE |  ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/0d4d88ab-39b4-4851-b58b-05c9862ca585)|
+
+| VENTANAS APLICADAS | SEÑAL OBTENIDA|	
+|:------------:|:---------------:|
+| W0 | ![descarga (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/270a9bfe-b0e4-4cb5-991f-3907a3a12a52)|
+| W1 | ![descarga (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/401991e6-c985-4ede-8b2b-8237963ee261)|
+| W2 | ![descarga (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/67b5584e-d904-4ff8-9ee1-5d8e8f07304a)|
+| W3 |![descarga (4)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/2aca6d05-0776-4c23-a6bc-ca695bd299f0)|
+| W4 | ![descarga (5)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/ab681dab-7efe-4d39-875d-f402a9d7d98c)|
+| W5 |![descarga (6)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/5929eeba-f6a8-4f13-bac8-a337a18ef4dc)|
+| W6 | ![descarga (7)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/eeda3064-2a5f-4a88-a33d-8ebde5077d5f)|
+| W7 | ![descarga (8)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/fa7726e5-a219-42b6-a927-764c28a2066a)|
+
+####################################################################################################
 
 | ACTIVIDAD 2 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 | BURPEES |   |
+
+| VENTANAS APLICADAS | SEÑAL OBTENIDA|	
+|:------------:|:---------------:|
+| W0 |  |
+| W1 |  |
+| W2 |   |
+| W3 |  |
+| W4 |  |
+| W5 |  |
