@@ -20,6 +20,6 @@ Link: https://studio.edgeimpulse.com/public/431542/live
 
 Link: https://studio.edgeimpulse.com/public/431543/live
 
-| Bíceps Contrafuerza | Pulgar Contrafuerza | Pulgar Flexión |
+| Ejercicio de Parpadeo | Reposo Luego del Parpadeo | Resolución Mental de Problemas Matemáticos |
 |:----------------:|:----------------:|:----------------:|
-| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/43d8e337-2058-47fc-b6c0-e93e14e289c7) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/b0ea0923-552d-4b7f-859f-23b12f08c37c) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/ce4ded0b-39ea-4dbf-b642-6315418dba74) |
+| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/e01f2800-3133-4740-a8fd-88d5ad5eb216) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/c186da01-4d4c-451d-9233-a94223af803b) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/8cbf4b87-2e47-4c69-b9cf-9960a535bd24) |
