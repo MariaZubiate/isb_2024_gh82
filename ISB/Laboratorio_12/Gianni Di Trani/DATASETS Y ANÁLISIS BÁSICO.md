@@ -4,30 +4,15 @@
 
 Link: https://studio.edgeimpulse.com/public/431541/live
 
-#### 1.1. SEÑAL EMG - REPOSO
-
 | Bíceps Contrafuerza | Pulgar Contrafuerza | Pulgar Flexión |
 |:----------------:|:----------------:|:----------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/77c56539-8952-416f-bcd2-498276c08389)|||
+| ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/43d8e337-2058-47fc-b6c0-e93e14e289c7) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/b0ea0923-552d-4b7f-859f-23b12f08c37c) | ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164538247/ce4ded0b-39ea-4dbf-b642-6315418dba74) |
 
-#### 1.2. SEÑAL EMG - REPOSO PULGAR CONTRAFUERZA
+## 2. SEÑALES ECG 
 
-| IMAGENES DE INTERVALOS EN TIEMPO |||
-|:----------------:|:----------------:|:----------------:|
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/4f584946-ce8c-49a2-b660-bd294c7f556f)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/bd7b3d53-e7f6-44bf-bdbb-dd1f6884ae30)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/c006261a-48c0-4b50-b445-155ad4ce7979)
-|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/3e2bfde9-cf64-48bd-89a9-526ea2a534ca)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cd1da1cf-e8be-4e8a-8505-262791e37d12)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/f068572d-01f5-4d1d-8887-6ea925848824)
-|....|...|...
+Link: https://studio.edgeimpulse.com/public/431542/live
 
-
-
-## 2. SEÑALES EEG 
-
-LINK : https://studio.edgeimpulse.com/public/431484/live
-
-CODIGO: 
-#### 2.1. SEÑAL EEG - REPOSO
-
-| IMAGENES DE INTERVALOS EN TIEMPO |||
+|  |||
 |:----------------:|:----------------:|:----------------:|
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/bb81167c-6303-4844-9aa5-40e1a32c326f)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/52cf81e5-f21c-427e-8261-ec481cf5ca95)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/aee4fab6-b4f9-4f74-aa79-5c0599fc9801)
 |![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/689c862a-10c5-4209-8568-a9307c3ed83a)|![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/6864961c-5b7f-46b9-beda-15c69f2d80db)
