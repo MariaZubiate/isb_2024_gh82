@@ -34,7 +34,8 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 #  EEG
 | ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
-| PARPADEO |   |
+| PARPADEO | ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/53118fdc-cc2b-4ba3-940d-25f261528db5)
+  |
 
 | ACTIVIDAD 2 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
