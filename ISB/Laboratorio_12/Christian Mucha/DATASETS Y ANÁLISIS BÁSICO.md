@@ -18,7 +18,14 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 
 | ACTIVIDAD 2 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
-| PULGAR CONTRAFUERZA |   |
+| PULGAR CONTRAFUERZA |  ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/409f2f56-4302-442c-9bcf-3229e4438cb6)|
+
+| VENTANAS APLICADAS | SEÑAL OBTENIDA|	
+|:------------:|:---------------:|
+| W0 | ![descarga (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/8c92215d-9dff-419d-b2b0-7e6becb9e749)|
+| W1 | ![descarga (2)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/6337de08-0756-49f9-9140-2e29ebfb006b)|
+| W2 | ![descarga (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f5deaccd-4ba4-4c81-ace6-79e5cdef628a)|
+| W3 | ![descarga (4)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/99fdd1ea-1ccc-4b00-86a1-ed9c95fd6506)|
 
 ## EEG
 | ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
