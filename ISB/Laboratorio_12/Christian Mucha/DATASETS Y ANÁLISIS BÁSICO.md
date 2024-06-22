@@ -5,9 +5,9 @@ Url del proyecto público: https://studio.edgeimpulse.com/public/431194/live
 Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDWntiAury-DaqERws?usp=sharing
 
 ## EMG
-| ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
+|# ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
-| PANTORRILLA CONTRAFUERZA | ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a9fef20d-6d0e-4a09-a9c8-04653ea50630)|
+|# PANTORRILLA CONTRAFUERZA | ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a9fef20d-6d0e-4a09-a9c8-04653ea50630)|
 
 | VENTANAS APLICADAS | SEÑAL OBTENIDA|	
 |:------------:|:---------------:|
