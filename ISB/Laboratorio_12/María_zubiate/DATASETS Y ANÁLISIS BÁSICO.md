@@ -2,7 +2,7 @@
 
 ## 1. SEÑALES EMG 
 
-LINK : https://studio.edgeimpulse.com/studio/431195/acquisition/training?page=1
+LINK : https://studio.edgeimpulse.com/public/431195/live
 
 CODIGO:
 
@@ -28,7 +28,7 @@ CODIGO:
 
 ## 2. SEÑALES EEG 
 
-LINK : https://studio.edgeimpulse.com/studio/431484
+LINK : https://studio.edgeimpulse.com/public/431484/live
 
 CODIGO: 
 #### 2.1. SEÑAL EEG - REPOSO
@@ -54,7 +54,7 @@ CODIGO:
 
 ## 3. SEÑALES ECG 
 
-LINK : https://studio.edgeimpulse.com/studio/431484
+LINK : https://studio.edgeimpulse.com/public/431485/live
 
 CODIGO: 
 #### 3.1. SEÑAL ECG - REPOSO
