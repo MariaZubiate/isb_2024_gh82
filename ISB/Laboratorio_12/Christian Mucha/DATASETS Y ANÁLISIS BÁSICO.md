@@ -4,7 +4,7 @@ Url del proyecto público: https://studio.edgeimpulse.com/public/431194/live
 
 Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDWntiAury-DaqERws?usp=sharing
 
-## EMG
+#  EMG
 |#  ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 |#  PANTORRILLA CONTRAFUERZA | ![descarga](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/a9fef20d-6d0e-4a09-a9c8-04653ea50630)|
@@ -27,7 +27,7 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 | W2 | ![descarga (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/f5deaccd-4ba4-4c81-ace6-79e5cdef628a)|
 | W3 | ![descarga (4)](https://github.com/MariaZubiate/isb_2024_gh82/assets/43424450/99fdd1ea-1ccc-4b00-86a1-ed9c95fd6506)|
 
-## EEG
+#  EEG
 | ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 | PARPADEO |   |
@@ -36,7 +36,7 @@ Código Google Colab: https://colab.research.google.com/drive/1y2aY-b-rOGMw6ODDW
 |:------------:|:---------------:|
 | PREGUNTAS MATEMÁTICAS|   |
 
-## ECG
+#  ECG
 | ACTIVIDAD 1 | SEÑAL ORIGINAL COMPLETA |	
 |:------------:|:---------------:|
 | DEEP BREATH BEFORE EXCERCISE |   |
