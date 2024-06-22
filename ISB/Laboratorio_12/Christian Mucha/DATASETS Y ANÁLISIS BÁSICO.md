@@ -1,9 +1,12 @@
-###  DATASETS Y ANÁLISIS BÁSICO
+##  DATASETS Y ANÁLISIS BÁSICO
 
-### EMG
+Url del proyecto público: https://studio.edgeimpulse.com/public/431194/live
 
-### EEG
 
-### ECG
+## EMG
+
+## EEG
+
+## ECG
 
 
