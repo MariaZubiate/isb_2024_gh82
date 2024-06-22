@@ -9,6 +9,7 @@ Para EMG: https://colab.research.google.com/drive/1GpCA4g7KZlK1Suoqi9tp6z5frpPKU
 Para EEG: https://colab.research.google.com/drive/1D3-hiRTKH809N2Ns8q8vIwy0AUcaVKAh?usp=sharing
 
 
+
 Link del Edge Impulse:
 
 Para EMG: https://studio.edgeimpulse.com/studio/431496
@@ -16,6 +17,7 @@ Para EMG: https://studio.edgeimpulse.com/studio/431496
 Para EEG: https://studio.edgeimpulse.com/studio/431554
 
 Para ECG: https://studio.edgeimpulse.com/studio/431490
+
 
 
 Ejemplo de cómo se separó por ventanas de cierto intervalo de tiempo para cada señal. En este caso, se muestra para la señal ECG, que se enventanó cada 2.5 segundos.
