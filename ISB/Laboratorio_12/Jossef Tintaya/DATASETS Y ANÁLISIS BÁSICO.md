@@ -1,9 +1,26 @@
 ###  DATASETS Y ANÁLISIS BÁSICO
 
+Link del Colab:
+
+Para ECG: https://colab.research.google.com/drive/1eUwpQQ2gG38dx10EK9l5GIEjHIM1CGot?usp=sharing
+
+Para EMG: https://colab.research.google.com/drive/1GpCA4g7KZlK1Suoqi9tp6z5frpPKUxe2?usp=sharing
+
+Para EEG: https://colab.research.google.com/drive/1D3-hiRTKH809N2Ns8q8vIwy0AUcaVKAh?usp=sharing
+
+
+
 Link del Edge Impulse:
+
+Para EMG: https://studio.edgeimpulse.com/studio/431496
+
+Para EEG: https://studio.edgeimpulse.com/studio/431554
 
 Para ECG: https://studio.edgeimpulse.com/studio/431490
 
+
+
+Ejemplo de cómo se separó por ventanas de cierto intervalo de tiempo para cada señal. En este caso, se muestra para la señal ECG, que se enventanó cada 2.5 segundos.
 <center>
     
 |  **REPOSO**  | **EN EJERCICIOS** |
@@ -13,7 +30,3 @@ Para ECG: https://studio.edgeimpulse.com/studio/431490
 |![Captura de pantalla 2024-06-21 225654](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/d0baf659-35dd-4307-bde0-37e39913905e)|![Captura de pantalla 2024-06-21 225905](https://github.com/MariaZubiate/isb_2024_gh82/assets/164566714/0aafd007-4368-4f1a-8ad1-273a460fb7fa)|
 
 
-
-Para EMG: https://studio.edgeimpulse.com/studio/431496
-
-Para EEG: https://studio.edgeimpulse.com/studio/431554
