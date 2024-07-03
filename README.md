@@ -113,6 +113,16 @@ Fig. 2. Músculo flexor radial del carpo. Fuente: paradigma.com
 
 Se utilizó el dispositivo BITalino para la recolección de datos electromiográficos. Para proteger los componentes electrónicos, se diseñó un modelo 3D de una carcasa protectora. Esta carcasa tiene una forma rectangular que se ajusta perfectamente a la placa BITalino e incluye dos asas que permiten pasar una correa de velcro, asegurando el dispositivo al brazo del usuario. La carcasa se imprimió utilizando una impresora Bambu Lab con material PLA, que proporciona rigidez y protección para los componentes mientras mantiene el peso ligero.
 
+
+<p align="center">
+  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/39af68d5-fcb6-488b-bfe5-83631c12d368"
+</p>
+<p align="center">
+Fig. 2. Case Bitalino Fuente: Propia
+</p>
+
+
+
 **4. Adquisición de Datos**
 
 Seguiremos la metodología de estudio de EMG de superficie presentada por N. Massó et al. en la revista APUNTS Medicina del Deporte y las directrices de SENIAM (Recomendaciones Europeas para Electromiografía de Superficie), que detallan los procedimientos necesarios para recolectar datos electromiográficos de atletas de tenis de mesa. En nuestro caso específico, el atleta será un jugador recreativo de tenis de mesa.
@@ -129,9 +139,28 @@ b) Fase de Registro: Realizaremos repeticiones del golpe que queremos analizar (
 
 La técnica de drive implica un movimiento de barrido hacia adelante y hacia arriba con la cara de la pala. Comienza con una postura equilibrada, con el peso en el pie trasero, que se transfiere al pie delantero durante el golpe. El brazo se extiende y el torso se rota ligeramente para generar potencia y control .
 
-1.1 Músculo extensor radial del carpo durante golpes de backhand
+1.1 Músculo extensor radial del carpo durante golpes de foredhand
 
-1.2 Músculo extensor radial del carpo durante golpes de foredhand
+<p align="center">
+  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/e5ebe1a1-372b-4479-8007-10a8b8a42ffb"
+</p>
+<p align="center">
+Fig. 2. Case Bitalino Fuente: Propia
+</p>
+
+
+
+
+1.2 Músculo extensor radial del carpo durante golpes de backhand
+
+<p align="center">
+  <img src=https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/f284e4ab-0781-408c-a260-3d090ba1fb12"
+</p>
+<p align="center">
+Fig. 2. Case Bitalino Fuente: Propia
+</p>
+
+
 
 2. BackHand
 
@@ -139,8 +168,23 @@ La técnica de revés en el tenis de mesa se caracteriza por un movimiento de ba
 
 2.1. Músculo flexor radial del carpo durante golpes de foredhand
 
+<p align="center">
+  <img src=https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/135413f4-24d4-42dd-a699-ecf8c07a9a78"
+</p>
+<p align="center">
+Fig. 2. Case Bitalino Fuente: Propia
+</p>
+
+
+
 2.2. Músculo flexor radial del carpo durante golpes de backhand
 
+<p align="center">
+  <img src=https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/290ca464-b12a-4dfe-ae33-1853853100b3"
+</p>
+<p align="center">
+Fig. 2. Case Bitalino Fuente: Propia
+</p>
 
 
 
@@ -148,6 +192,16 @@ La técnica de revés en el tenis de mesa se caracteriza por un movimiento de ba
 
 Filtrado de Datos
 En este estudio, se utilizará un filtro Butterworth de paso de banda para el procesamiento de señales con una frecuencia de corte inferior de 20 Hz y una frecuencia de corte superior de 400 Hz . Además, se empleará un filtro wavelet Symlet 8 (sym8) para el análisis de señales. La transformada wavelet discreta (DWT) se utiliza debido a su capacidad para realizar análisis simultáneo en dominios de tiempo y frecuencia, lo cual es efectivo para la reducción de ruido en señales no estacionarias. El filtro sym8 fue seleccionado por su efectividad en la descomposición de señales complejas y preservación de las características clave de las señales originales .
+
+<p align="center">
+  <img src=https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/cbdceb45-c64f-4fa9-a8d0-1588648441dd"
+</p>
+<p align="center">
+Fig. 2. Case Bitalino Fuente: Propia
+</p>
+
+
+
 
 Extracción de Características
 La fatiga muscular puede analizarse utilizando características como la frecuencia media y RMS . Cuando ocurre fatiga, se reclutan unidades motoras adicionales en el músculo para mantener un nivel deseado de fuerza, que no estaban activas inicialmente. Este aumento en el reclutamiento de unidades motoras se refleja en cambios en el RMS, con aumentos observados en su valor . Por esta razón, las señales se dividirán en intervalos de 10 segundos, equivalentes a cinco repeticiones de cada tipo de movimiento. Luego, se obtendrán los valores RMS de cada ventana.
@@ -157,6 +211,8 @@ La fatiga muscular puede analizarse utilizando características como la frecuenc
 Las mediciones se realizaron de acuerdo con la configuración descrita. Después de la adquisición de datos, la señal EMG se sometió a un procedimiento de procesamiento en dos etapas. Primero, se filtró utilizando un filtro Butterworth de paso de banda con frecuencias de corte entre 20 Hz y 400 Hz. Posteriormente, se aplicó un filtro Wavelet de la familia Sym8, con 9 niveles de descomposición. Esto resultó en una señal visiblemente más suave con una amplitud reducida en comparación con la señal original. Para verificar el proceso de filtrado, se calculó la Transformada Rápida de Fourier (FFT) tanto para la señal original como para la filtrada. La FFT de la señal original mostró picos a 60 Hz y 400 Hz, atribuibles al ruido y artefactos presentes durante las mediciones. Estos picos se eliminaron después del filtrado, obteniendo la señal procesada.
 
 Una vez obtenida la señal procesada, se dividió en ventanas y se calcularon los valores RMS de cada intervalo para observar las tendencias a lo largo del tiempo. Estos intervalos se graficaron para cada señal muscular, resultando en el siguiente gráfico:
+
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/b877bdb2-1a2c-47b0-b91d-470d6b167b34)
 
 Fig. 8: Valores RMS a lo largo del tiempo
 
