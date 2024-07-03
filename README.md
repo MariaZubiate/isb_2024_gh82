@@ -206,6 +206,8 @@ Fig. 2. Case Bitalino Fuente: Propia
 Extracción de Características
 La fatiga muscular puede analizarse utilizando características como la frecuencia media y RMS . Cuando ocurre fatiga, se reclutan unidades motoras adicionales en el músculo para mantener un nivel deseado de fuerza, que no estaban activas inicialmente. Este aumento en el reclutamiento de unidades motoras se refleja en cambios en el RMS, con aumentos observados en su valor . Por esta razón, las señales se dividirán en intervalos de 10 segundos, equivalentes a cinco repeticiones de cada tipo de movimiento. Luego, se obtendrán los valores RMS de cada ventana.
 
+
+Link: https://colab.research.google.com/drive/1dT8bUffetIDhnJp3YtXHphIt14VGPDwR#scrollTo=YYx3QR0tgmkY
 #### Resultados
 
 Las mediciones se realizaron de acuerdo con la configuración descrita. Después de la adquisición de datos, la señal EMG se sometió a un procedimiento de procesamiento en dos etapas. Primero, se filtró utilizando un filtro Butterworth de paso de banda con frecuencias de corte entre 20 Hz y 400 Hz. Posteriormente, se aplicó un filtro Wavelet de la familia Sym8, con 9 niveles de descomposición. Esto resultó en una señal visiblemente más suave con una amplitud reducida en comparación con la señal original. Para verificar el proceso de filtrado, se calculó la Transformada Rápida de Fourier (FFT) tanto para la señal original como para la filtrada. La FFT de la señal original mostró picos a 60 Hz y 400 Hz, atribuibles al ruido y artefactos presentes durante las mediciones. Estos picos se eliminaron después del filtrado, obteniendo la señal procesada.
