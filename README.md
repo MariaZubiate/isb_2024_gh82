@@ -58,59 +58,39 @@
 
 #### Introducción
 
+El tenis de mesa es un deporte de raqueta caracterizado por la velocidad y precisión de los movimientos. Los jugadores deben ejecutar movimientos rápidos y repetitivos en distancias cortas, utilizando principalmente las articulaciones del hombro y el codo [1, 2]. La actividad muscular durante estos movimientos se estudia utilizando señales de EMG, analizando características como la frecuencia y la potencia, lo que permite detectar la fatiga muscular, el control motor y las patologías neuromusculares [3].
 
-El tenis de mesa, es un deporte de raqueta que se caracteriza por la rapidez y precisión de los movimientos. Los jugadores deben ser capaces de ejecutar movimientos rápidos en distancias cortas y de forma repetitiva [1]. Como parte de la biomecánica al golpear la pelota, los jugadores utilizan principalmente las articulaciones de los hombros y el codo, con poca ayuda de la cintura y la muñeca. Es ahí donde radica la importancia de evaluar el movimiento analizando la actividad muscular durante las “brazadas” [2]. 
+Esta metodología puede extrapolarse a otros deportes de raqueta como el bádminton, tenis, squash, pádel, frontón y golf. En todos estos deportes, los músculos extensor radial del carpo (largo y corto) están igualmente involucrados, desempeñando un papel crucial en la estabilización y movimiento de la muñeca [4, 5]. Por ejemplo, el análisis de EMG en bádminton ha mostrado una implicación significativa de los músculos del antebrazo durante los golpes [6]. En tenis, estudios han indicado una alta actividad de los músculos extensor radial del carpo durante varios golpes [7]. En golf, la coordinación muscular durante el swing también destaca la importancia de estos músculos [8].
 
-Para estudiar la actividad muscular se hace uno de señales EMG, las cuales se pueden analizar a partir de 2 características: frecuencia y potencia de la señal [3]. Con esta información, se puede detectar el estado del músculo, la capacidad de respuesta ante estímulos, fatigas musculares, control motor y patologías neuromusculares.
+Una de las complicaciones más comunes en estos deportes es la tendinopatía del codo, causada por la rigidez de las unidades musculares del antebrazo debido al movimiento repetitivo excesivo, la fuerza de agarre en la raqueta y la transferencia vibracional del impacto al golpear la pelota [4]. Otra lesión frecuente en los jugadores de tenis es la fatiga muscular causada por contracciones dinámicas constantes [5].
 
-Por ello, estudiar el movimiento humano durante la práctica del tenis de mesa es crucial para entender mejor las demandas físicas de este deporte; para así poder optimizar el rendimiento, mejorar la técnica de los jugadores y prevenir ciertas lesiones [1, 2]. Por ejemplo, una de las complicaciones más comunes es la tendinopatía del codo, la cual se produce por la rigidez de las unidades músculo-esqueléticas del antebrazo ante el movimiento excesivo repetitivo, la fuerza de agarre de la raqueta y la transferencia vibratoria de impacto al golpear la pelota [4]. Otra de las lesiones en tenistas es la fatiga muscular por las contracciones dinámicas constantes [5].
+La electromiografía (EMG) es una técnica que registra la actividad eléctrica generada por los músculos durante la contracción. En el contexto del tenis de mesa, el EMG puede utilizarse para evaluar la activación de diferentes grupos musculares durante varios tipos de golpes como drive, revés y topspin, proporcionando información sobre la coordinación muscular y la eficiencia del movimiento [6, 7].
 
-Sin embargo, hasta la fecha existe una limitación en el estudio mecánico y fisiológico de esta disciplina deportiva en cuanto al análisis de cuándo se produce una fatiga muscular durante la trayectoria del movimiento del antebrazo en el tenis de mesa.
-
-La electromiografía (EMG) es una técnica que registra la actividad eléctrica generada por los músculos durante la contracción. En el contexto del tenis de mesa, la EMG puede utilizarse para evaluar la activación de diferentes grupos musculares durante los diversos tipos de golpes como forehand (golpes de drive de derecha), backhand (golpes de drive de revés), topspin y demás; proporcionando información sobre la coordinación muscular y la eficiencia del movimiento [6].
-
-Por ello este estudio tiene como objetivo comparar la activación muscular de los músculos de la extremidad superior durante el golpe forehand en jugadores de tenis de mesa de nivel universitario, utilizando EMG de superficie (sEMG). Se espera que los hallazgos de este estudio proporcionen una comprensión más profunda de la biomecánica del tenis de mesa y ofrezcan información para mejorar los programas de entrenamiento y prevenir lesiones.
+Este estudio tiene como objetivo comparar la activación muscular del miembro superior durante los golpes de drive en jugadores universitarios de tenis de mesa utilizando EMG de superficie (sEMG). Se espera que los hallazgos mejoren la comprensión de la biomecánica del tenis de mesa e informen estrategias de entrenamiento y prevención de lesiones.
 
 
 #### Problemática
 
-La falta de investigación sobre la activación muscular específica en los golpes forehand en el tenis de mesa limita la comprensión de las demandas biomecánicas y fisiológicas del deporte. Esto afecta la optimización del rendimiento y la prevención de lesiones, como la tendinopatía del codo y la fatiga muscular; ya que sin un análisis preciso, es difícil desarrollar programas de entrenamiento efectivos. Además, restringe el desarrollo de equipos de análisis biomecánico, como los dispositivos sEMG, que podrían proporcionar información en tiempo real sobre la activación y fatiga muscular durante el juego.
-
+La fatiga muscular es un problema común en jugadores de tenis de mesa debido a la repetición constante de movimientos rápidos y precisos. Es crucial entender y monitorizar la activación muscular para prevenir lesiones y mejorar el rendimiento
 
 
 #### Solución
 
-Se plantea desarrollar un dispositivo portátil para el análisis y comparación de la actividad eléctrica de los músculos de la extremidad superior durante el golpe forehand en jugadores de tenis de mesa de nivel universitario. Este equipo utilizará electrodos sEMG para registrar y analizar los patrones de activación muscular.
-
-Con esta información podremos brindar un análisis del rendimiento de los músculos con el fin de que estos datos puedan ser usados para mejorar la técnica y el rendimiento de los jugadores, así como para diseñar programas de entrenamiento más efectivos. 
-
-Para ello nuestro diseño se enfocará en cumplir 3 pilares: 
-
-**Ergonómico:**
-Nuestro equipo será diseñado para ser cómodo y adaptarse perfectamente al cuerpo de los jugadores de tenis de mesa. Utilizaremos materiales ligeros y flexibles que no interfieran con el movimiento natural durante los entrenamientos o competencias.
-
-**Inalámbrico:**
-La transmisión inalámbrica permitirá recibir datos en tiempo real, facilitando el análisis instantáneo y la toma de decisiones durante las sesiones de entrenamiento.
-
-**Fácil uso:** 
-Facilidad de uso, asegurando que el equipo sea intuitivo y rápido de configurar. La interfaz de usuario será sencilla y accesible, permitiendo a los usuarios comenzar a capturar y analizar datos EMG con mínima capacitación
-
+Analisis de la fatiga muscular en los músculos del antebrazo en jugadores de tenis de mesa mediante la utilización de electromiografía de superficie (sEMG) 
 
 
 
 #### Metodología
-
+Esta sección describe los métodos utilizados para llevar a cabo el estudio de la actividad muscular durante el golpe de drive en el tenis de mesa. Los métodos incluyen la selección de participantes y músculos, la implementación del equipo de medición, la recolección de datos y el análisis de datos. Cada subsección detalla el proceso específico y las herramientas empleadas para asegurar la precisión y validez de los resultados obtenidos. Este enfoque integral permite una evaluación exhaustiva y detallada de la biomecánica involucrada en el golpe.
 
 **1. Elección de participantes:**
-Jugadores de tenis de mesa, con una experiencia de juego ocasional de 3 meses de la Universidad Peruana Cayetano Heredia. Se seleccionaron estos participantes debido a su proximidad y accesibilidad.
+Los participantes de la Universidad Peruana Cayetano Heredia fueron seleccionados en función de su accesibilidad y niveles de habilidad variables.
 
 **2. Elección de los músculos a analizar:**
 
-Para la elección de los músculos a analizar se realizó una investigación de todos los músculos comprometidos en los diferentes tipos de movimiento en el tenis de mesa. Sin embargo, debido a la complejidad mecánica y fisiológica que involucra cada tipo de movimiento, para el presente estudio, se delimitará a estudiar solamente el golpe forehand, ya qué es el más frecuente en jugadores profesionales, experimentados y recreativos [7, 8]. 
-El golpe de forehand en tenis de mesa, a comparación del de backhand, se caracteriza por una mayor duración del ciclo de movimiento y una distancia recorrida más larga debido a una mayor implicación del cuerpo, generando más energía y un mayor tiempo de contacto en condiciones de alta fuerza [9]. La velocidad de la raqueta en el forehand está correlacionada con las velocidades angulares de la rotación interna del brazo y la aducción del hombro [10]. En el instante de la velocidad máxima de la raqueta en un topspin de forehand, los jugadores inclinan más la raqueta mientras mantienen las rodillas y los codos flexionados y una rotación pronunciada del tronco [11]. Durante el remate, los músculos bíceps femoral, glúteo mayor, gastrocnemio y sóleo están altamente activados [12].
+a) Criterios de Selección: Hay varios músculos involucrados en la ejecución de técnicas de drive y revés. Enfocando el estudio en la región anatómica del antebrazo, se ha demostrado por Maheshwari et al. que los músculos más importantes en el desarrollo de estas técnicas son el extensor radial del carpo y el flexor radial del carpo, ya que se encontró un alto valor RMS durante el estudio de las técnicas de drive y revés en jugadores de tenis de mesa [9].
 
-Para realizar este movimiento se involucran diversos músculos del miembro superior y parte de la zona torácica; por ejemplo, en el estudio realizado en [2] se consideran 9 músculos que intervienen para golpear la pelota; sin embargo, en nuestro caso se delimitará a un menor número de músculos. Según C. Rigozzi et al., en la técnica forehand es relevante analizar dos músculos [8]: El extensor radial corto del carpo, por ser uno de los principales extensores de la muñeca y estar relacionado, según la American Academy of Orthopaedic Surgeons, al desarrollo de la tendinopatía “codo de tenista”(Ver figura 1)[13]; y el flexor radial del carpo,  por ser uno de los principales flexores de la muñeca y su relación, según G. Prabhakar et. al,  con la tendinopatía de epicondilitis medial o “codo de golfista”(Ver figura 2)[14]. 
-
+b) Detalles del Músculo: El extensor radial largo del carpo es un músculo alargado ubicado entre la cresta supracondílea lateral del húmero e inserta en la base del segundo metacarpiano. Está involucrado en la extensión de la articulación radiocarpiana para dirigir la pelota durante la técnica de revés [10].
 
 <p align="center">
   <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/29d4564f-dddd-4ba6-b5f7-79e3113656c0" alt="Músculo extensor radial del carpo">
@@ -118,6 +98,8 @@ Para realizar este movimiento se involucran diversos músculos del miembro super
 <p align="center">
 Fig. 1. Músculo extensor radial del carpo. Fuente: kenhub.com
 </p>
+
+El músculo flexor radial del carpo se origina en el epicóndilo medial del húmero e inserta en las bases del segundo y tercer metacarpiano. De manera similar, permite la flexión de la articulación radiocarpiana para dirigir la pelota durante la técnica de drive [10].
 
 <p align="center">
   <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/4f1e9d1b-28fa-45d3-8333-d1e919ce2ca0"
@@ -127,139 +109,91 @@ Fig. 2. Músculo flexor radial del carpo. Fuente: paradigma.com
 </p>
 
 
+**3.Implementación del Equipo de Medición**
 
+Se utilizó el dispositivo BITalino para la recolección de datos electromiográficos. Para proteger los componentes electrónicos, se diseñó un modelo 3D de una carcasa protectora. Esta carcasa tiene una forma rectangular que se ajusta perfectamente a la placa BITalino e incluye dos asas que permiten pasar una correa de velcro, asegurando el dispositivo al brazo del usuario. La carcasa se imprimió utilizando una impresora Bambu Lab con material PLA, que proporciona rigidez y protección para los componentes mientras mantiene el peso ligero.
 
-**3. Elaboración de equipo de medición:**
-Se plantea un dispositivo portátil que permitirá captar señales de EMG y enviar los datos a una computadora, donde será procesada para realizar el análisis. Para ello se hará uso de un MyoWare que medirá la señales de EMG, conectado a un ESP32 el cual nos permitirá enviar la información a la computadora. Es así que, se realizó la siguiente elección de componentes para la elaboración del equipo. 
+**4. Adquisición de Datos**
 
-**3.1. MyoWare**
+Seguiremos la metodología de estudio de EMG de superficie presentada por N. Massó et al. en la revista APUNTS Medicina del Deporte y las directrices de SENIAM (Recomendaciones Europeas para Electromiografía de Superficie), que detallan los procedimientos necesarios para recolectar datos electromiográficos de atletas de tenis de mesa. En nuestro caso específico, el atleta será un jugador recreativo de tenis de mesa.
 
-<p align="center">
-  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/36a074de-2f8e-4071-b905-bec314f264ca"
-</p>
-<p align="center">
-Figura 3. Myoware Fuente: MyoWare™ Muscle Sensor
-</p>
+Los datos de EMG se recogerán utilizando un sistema inalámbrico con electrodos sEMG durante la ejecución de los golpes. Los participantes realizarán varias pruebas bajo condiciones controladas para asegurar la consistencia de los datos. Cada prueba se registrará bajo condiciones similares para minimizar variaciones externas. Los electrodos del sistema Bitalon se colocarán en músculos específicos del miembro superior, asegurando una adecuada adhesión para señales claras y consistentes. El sistema se emparejará con una computadora vía Bluetooth para la transmisión de datos en tiempo real durante las pruebas.
 
-Este sensor está diseñado específicamente para la detección de señales EMG con alta precisión, lo que permite obtener datos fiables y detallados sobre la actividad muscular. Además, el dispositivo es compacto y fácil de usar, lo que minimiza la incomodidad para los participantes durante las pruebas [15]. 
+La metodología propuesta consiste en dos fases: pre-registro y registro. N. Massó et al. proporcionan recomendaciones para cada una de las siguientes fases:
 
-**3.2. ESP32-WROOM32**
+a) Fase de Pre-registro: Informar al participante sobre el proyecto y todos los detalles relacionados [11,12]. Obtener el consentimiento informado para asegurar que el participante comprenda y apruebe el proceso de adquisición de datos [11,12]. Registrar información sobre condiciones médicas preexistentes, uso de medicamentos o cualquier otro factor que pueda influir en el rendimiento muscular del sujeto de estudio, junto con datos de anamnesis como peso, altura, edad y mano dominante en la práctica deportiva [11,12]. Preparar la piel para la interacción con los electrodos para reducir la impedancia típica de la piel; esto implica afeitar el área del antebrazo, limpiar el sudor y utilizar un gel conductor para reducir la impedancia de la piel seca [11,12]. Colocar los electrodos según la investigación de C. Rigozzi et al. en dos músculos específicos: extensor y flexor radial del carpo, ubicados en la región del antebrazo. Para el extensor radial del carpo, colocar dos electrodos en el centro del músculo, aproximadamente 2-3 cm por debajo del epicóndilo lateral del codo, a lo largo de la dirección longitudinal de las fibras musculares. Incluir un tercer electrodo neutral en el codo. Para el flexor radial del carpo, seguir un procedimiento similar en la parte anterior del antebrazo, respetando las distancias entre electrodos y la referencia al neutral [11,12].
 
-<p align="center">
-  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/29a0bea4-57c1-4a46-a3e3-441027cca857"
-</p>
-<p align="center">
-Figura 4. ESP32-WROOM-32 Fuente: SUNHokey
-</p>
-Debido a que el MyoWare no posee un módulo que permita pasar la información mediante una red inalámbrica, decidimos conectar un ESP32, con el fin de poder resolver esta problemática. Este módulo nos permitirá, recepcionar la data leída por el Myoware y enviarla a una computadora. 
-Este componente es ideal, debido a que puede procesar datos en tiempo real, facilitando el análisis [16].
+b) Fase de Registro: Realizaremos repeticiones del golpe que queremos analizar (drive y revés) y seleccionaremos el músculo a estudiar, ya sea el flexor radial del carpo o el extensor radial del carpo. Primero, el participante realizará repeticiones del golpe durante 2 minutos consecutivos sin registrar la señal. Después de estos minutos, comenzaremos a registrar las señales mientras el participante continúa realizando el ejercicio. El registro se realizará utilizando el software Open Signal, que se conecta al sistema Bitalino vía Bluetooth. Este análisis nos permitirá obtener las señales necesarias para el filtrado y análisis detallado posterior.
 
-**3.3. Batería de Litio 3.7V**
+1. Foredhand
 
-<p align="center">
-  <img src="https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/df62af46-da05-46b8-b7a3-b10184721c8c"
-</p>
-<p align="center">
-Figura 5. Batería de Litio Fuente: SUNHokey
-</p>
-Utilizaremos una batería de litio de 3.7V y 600mAh para la alimentación de nuestros componentes. Elegimos esta batería debido a su capacidad de 600mAh, que es suficiente para mantener nuestro sistema operando durante varias horas. Además, su tamaño compacto la hace ideal para nuestra propuesta, asegurando una integración sin complicaciones y manteniendo el dispositivo ligero y fácil de manejar [17].
+La técnica de drive implica un movimiento de barrido hacia adelante y hacia arriba con la cara de la pala. Comienza con una postura equilibrada, con el peso en el pie trasero, que se transfiere al pie delantero durante el golpe. El brazo se extiende y el torso se rota ligeramente para generar potencia y control .
 
-**Protocolos de conexión:**
+1.1 Músculo extensor radial del carpo durante golpes de backhand
 
-**a. Conexión entre el ESP 32 y el Myoware**
-Se conectará el pin SIG del MyoWare al pin GPIO 34 del ESP32, que funciona como entrada analógica (ADC) de 12 bits para una lectura precisa de señales EMG. El MyoWare se alimentará con 3.3V del ESP32 y compartirá la misma tierra (GND) para una referencia de voltaje estable [15,16].
+1.2 Músculo extensor radial del carpo durante golpes de foredhand
 
-**b.Conexión inalámbrica**
-Se programa el ESP32 usando Arduino IDE con la biblioteca BluetoothSerial para leer las señales y enviarlas por Bluetooth. Asimismo, se conecta el ESP32 con una computadora para que posteriormente, mediante un programa de terminal serial, se visualice los datos en tiempo real [16].
+2. BackHand
 
+La técnica de revés en el tenis de mesa se caracteriza por un movimiento de barrido lateral con la cara de la pala hacia adelante. El jugador comienza con el peso distribuido uniformemente y utiliza un giro del torso para añadir fuerza. El brazo se mueve en un plano más horizontal en comparación con el drive, golpeando la pelota hacia el lado del cuerpo .
 
-**4. Obtención de datos:**
-Nos ceñiremos a la metodología de estudio EMG de superficie presentada por N. Massó et. al en la revista de medicina del deporte APUNTS[18], y las recomendaciones de SENIAM(European Recommendations for Surface Electromyography)[19] en donde detallan el procedimiento necesario para la recopilación de información electromiográfica de deportistas que practican tenis de mesa. En nuestro caso específico el deportista será un individuo practicante recreativo de tenis de mesa.
-Los datos de EMG se recopilarán utilizando un sistema inalámbrico acompañado de electrodos sEMG durante la ejecución de golpes de forehand. Los participantes realizarán varios ensayos bajo condiciones controladas para asegurar la consistencia de los datos. Cada ensayo será registrado en condiciones similares para minimizar las variaciones externas. Se colocarán los electrodos del MyoWare en los músculos específicos de la extremidad superior, asegurando una correcta adhesión para obtener señales claras y consistentes. El sistema, conformado por el MyoWare y el ESP32, será emparejado con una computadora mediante Bluetooth para la transmisión en tiempo real de los datos recogidos durante los ensayos .
+2.1. Músculo flexor radial del carpo durante golpes de foredhand
 
-Por tanto, la metodología planteada estaría conformada por tres fases: fase previa y fase de registro. N. Massó et. nos ofrece recomendaciones en cada una de las dos fases siguientes: 
-
-**1.Fase previa**
-Brindar información sobre el porqué del proyecto y todos los detalles relacionados al mismo al individuo [18][19].
-Obtener el consentimiento informado del individuo para evidenciar que comprende y aprueba la realización de la toma de datos [18][19].
-Registrar información sobre condiciones médicas preexistentes, consumos de medicamentos o algún otro factor que influya en el desempeño muscular del individuo de estudio. Además de incluir datos de anamnesis como el registro de peso, talla y edad. Y también registrar la mano dominante en la práctica del deporte [18][19].
-Preparar la piel para la interacción con los electrodos con el fin de  reducir la impedancia habitual de la piel, para esto se deberá afeitar la zona del antebrazo, limpiar el sudor y usar un gel conductor que reduzca la impedancia por una piel seca [18][19]. 
-La colocación de electrodos, acorde con la investigación de C. Rigozzi et al., se realizará en dos músculos específicos: extensor y flexor radial del carpo, ubicadas en la región del antebrazo. Para el extensor radial del carpo, en la cara posterior del antebrazo se debe colocar dos electrodos en el centro del músculo extensor radial del carpo, aproximadamente 2-3 cm por debajo del epicóndilo lateral del codo. Este deberá estar ubicado en la dirección longitudinal de las fibras musculares. Además se deberá incluir un tercer electrodo neutro ubicado en el codo. Para el flexor radial del carpo, el procedimiento sería similar ubicándose en la cara anterior del antebrazo, se deberá respetar la distancia de los electrodos y la referencia a neutro [18][19].
-
-**2.Fase de registro**
-Realizar 30 repeticiones de golpes forehand sin descanso para analizar la actividad muscular en condiciones realistas, esto brindará información sobre la condición inicial del individuo. Luego detener el registro de datos del dispositivo por 10 minutos, pero con el individuo realizando golpes forehand sin descanso. Es posible retirar el dispositivo para evitar incomodidad. Concluido ese tiempo y tras un pequeño descanso de segundos, retomar inmediatamente  la medición de 30 repeticiones de golpes forehand.Esto permitiría registrar la información de la condición final del individuo en un dispositivo externo para su estudio.
-
-**5.Análisis de datos:**
-A partir de la información recopilada por el dispositivo se realizará el filtrado de los datos para su posterior análisis. Se utilizará el lenguaje de programación Python para analizar las gráficas obtenidas en el dominio del tiempo y de la frecuencia de la señal EMG.
-
-Para el análisis de datos, primero se filtra la señal EMG. De forma convencional, las características de señales sEMG se incluyen en una banda de frecuencia inferior a 500 Hz [3]; y de forma específica, la activación muscular se encuentra típicamente en el rango de 10-250 Hz [20]; por lo tanto se aplicará un filtro pasabajos, pasaaltos y/o pasabandas.
-Después, se descompondrá la señal filtrada usando la Transformada Wavelet que es una técnica de análisis de señales no estacionarias (como las señales EMG) que proporciona información tanto en el dominio de la frecuencia como en el dominio del tiempo [21-23]. Gracias a la descomposición Wavelet y una serie de algoritmos y ecuaciones matemáticas, se obtendrá un coeficiente de fatiga como valor de la calidad de la actividad del tejido muscular y así se estimará la fatiga durante el ejercicio [3]. Por último, se utilizarán las pruebas ANOVA para comparar la actividad muscular entre los diferentes músculos utilizados en el estudio como también lo usa el estudio [24] para EMG.
-
-| **VIDEO DE PRESENTACIÓN DEL PROYECTO** | 
-|:--------------:| 
-| [![Video](https://img.youtube.com/vi/MEfOAX21q3c/0.jpg)](https://youtu.be/MEfOAX21q3c)|
-
-#### Bibliografia
-[1] Le Mansec, Y., Dorel, S., Hug, F., & Jubeau, M. (2018). Lower limb muscle activity during table tennis strokes. Sports Biomechanics, 17(4), 442-452. Available: https://pubmed.ncbi.nlm.nih.gov/28895466/
-
-[2] Y. Guo, Y. Sun, Y. Ren, Z. Huang, J. Wu, and Z. Zhang, “Upper Limb Muscle Force Estimation During Table Tennis Strokes,” White Rose Research Online (University of Leeds), May 2019, doi: https://doi.org/10.1109/bsn.2019.8771082.
-https://ieeexplore-ieee-org.ezproxybib.pucp.edu.pe/document/8771082
-
-[3] H. Nagai, “A method for real-time estimation of local muscular fatigue in exercise using redundant discrete wavelet coefficients,” Nov. 2016, doi: https://doi.org/10.1109/icsai.2016.7811064.‌https://ieeexplore-ieee-org.ezproxybib.pucp.edu.pe/document/7811064
-
-[4] Chantelle Jean Rigozzi, J. Cox, G. A. Vio, and P. Poronnik, “Simultaneous measurement of forearm muscle activity, vibrational transfer and grip strength during the tennis forehand stroke using a novel wearable device - a pilot study,” Jul. 2022, doi: https://doi.org/10.1109/star53492.2022.9859670.https://ieeexplore-ieee-org.ezproxybib.pucp.edu.pe/document/9859670/references#references
-
-[5] D. R. Bueno, J. M. Lizano, and L. Montano, “Muscular fatigue detection using sEMG in dynamic contractions,” PubMed, Aug. 2015, doi: https://doi.org/10.1109/embc.2015.7318407.https://ieeexplore-ieee-org.ezproxybib.pucp.edu.pe/document/7318407
-
-[6] Maheshwari, A., Pal, S., & Pandey, G. (2023). Electromyographic evaluation of upper extremity muscles during forehand and backhand table tennis drives. Journal of Physical Education and Sport. Available: https://www.researchgate.net/publication/371985721_Electromyographic_evaluation_of_upper_extremity_muscles_during_forehand_and_backhand_table_tennis_drives
-
-[7] M. Reid, S. Morgan, y D. Whiteside, “Matchplay characteristics of Grand Slam tennis: implications for training and conditioning”, Journal of Sports Sciences, vol. 34, n.o 19, pp. 1791-1798, oct. 2016, doi: 10.1080/02640414.2016.1139161.
-
-[8] C. J. Rigozzi, G. A. Vio, y P. Poronnik, "Comparison of Grip Strength, Forearm Muscle Activity, and Shock Transmission between the Forehand Stroke Technique of Experienced and Recreational Tennis Players Using a Novel Wearable Device," Sensors, vol. 23, no. 11, p. 5146, May 2023, doi: 10.3390/s23115146.
-
-[9] Z. Bańkosz y S. Winiarski, “The kinematics of table tennis racquet: differences between topspin strokes”, J Sports Med Phys Fitness, vol. 57, n.o 3, pp. 202-213, mar. 2017, doi: 10.23736/S0022-4707.16.06104-1.
-
-[10] Z. Bańkosz y S. Winiarski, “Correlations between Angular Velocities in Selected Joints and Velocity of Table Tennis Racket during Topspin Forehand and Backhand”, J Sports Sci Med, vol. 17, n.o 2, pp. 330-338, jun. 2018.
-
-[11] I. Malagoli Lanzoni, S. Bartolomei, R. Di Michele, y S. Fantozzi, “A kinematic comparison between long-line and cross-court top spin forehand in competitive table tennis players”, J Sports Sci, vol. 36, n.o 23, pp. 2637-2643, dic. 2018, doi: 10.1080/02640414.2018.1456394.
-
-[12] D. W.-C. Wong, W. C.-C. Lee, y W.-K. Lam, “Biomechanics of Table Tennis: A Systematic Scoping Review of Playing Levels and Maneuvers”, Applied Sciences, vol. 10, n.o 15, Art. n.o 15, ene. 2020, doi: 10.3390/app10155203.
-
-[13] "Tennis Elbow (Lateral Epicondylitis)," OrthoInfo - AAOS. [Online]. Available:https://orthoinfo.aaos.org/en/diseases--conditions/tennis-elbow-lateral-epicondylitis/#:~:text=Tennis%20elbow%2C%20or%20lateral%20epicondylitis,also%20put%20you%20at%20risk. [Accessed: May 18, 2024].
-
-[14] G. Prabhakar, V. Kanawade, A. N. Ghali, A. K. Dutta, C. I. Brady, and B. F. Morrey, "Medial Elbow Pain Syndrome: Current Treatment Strategies," Orthopedics, vol. 46, no. 2, pp. e81-e88, Mar-Apr. 2023, doi: 10.3928/01477447-20220719-06.
-
-[15] A. Advancer Technologies, "Myoware Muscle Sensor User Manual" Myoware Muscle Sensor AT-04-001, 2015. [Online]. Available: www.AdvancerTechnologies.com
-
-[16] Espressif Systems, "ESP32 Series Datasheet" Version 4.5, 2024. [Online]. Available: https://www.espressif.com/documentation/esp32_datasheet_en.pdf.
-
-[17] “Amazon.com: Batería recargable de iones de polímero de litio Li Lipo de 3.7V con conector JST de 2 pines de 0.079 in/0.049 in (603040 600mAh 2.0Jst) : Salud y Hogar,” Amazon.com, 2024. https://www.amazon.com/-/es/Bater%C3%ADa-recargable-pol%C3%ADmero-conector-603040/dp/B091FGPP8F (accessed May 08, 2024).
-
-[18] N. Massó, F. Rey, D. Romero, G. Gual, L. Costa, y A. Germán, "Aplicaciones de la electromiografía de superficie en el deporte," Apunts Med Esport, vol. 45, no. 165, pp. 127-136, 2010.
-
-[19] SENIAM, "Surface Electromyography for the Non-Invasive Assessment of Muscles," SENIAM Project, [Online]. Available: http://www.seniam.org/. [Accessed: May 18, 2024].
-
-[20] P. Konrad, The ABC of EMG: A Practical Introduction to Kinesiological Electromyography, Version 1.4, Noraxon INC. USA, 2006, ISBN 0-9771622-1-4.
-
-[21] N. A. Turpin, Arnaud Guével, S. Durand, and F. Hug, “Fatigue-related adaptations in muscle coordination during a cyclic exercise in humans,” Journal of experimental biology, vol. 214, no. 19, pp. 3305–3314, Oct. 2011, doi: https://doi.org/10.1242/jeb.057133.https://journals.biologists.com/jeb/article/214/19/3305/10565/Fatigue-related-adaptations-in-muscle-coordination
-
-[22] Abdelali Belkhou, Abdelouahad Achmamad, and Atman Jbari, “Classification and Diagnosis of Myopathy EMG Signals Using the Continuous Wavelet Transform,” Apr. 2019, doi: https://doi.org/10.1109/ebbt.2019.8742051.‌https://ieeexplore-ieee-org.ezproxybib.pucp.edu.pe/document/8742051/references#references
-
-[23] M. Yochum, T. Bakir, S. Binczak, and Romuald Lepers, “EMG artifacts removal during electrical stimulation, a CWT based technique,” 2014 IEEE REGION 10 SYMPOSIUM, Apr. 2014, doi: https://doi.org/10.1109/tenconspring.2014.6863012.
-
-[24] Y.-F. Shih y Y.-H. Kao, «Influence of pain location and hand dominance on scapular kinematics and EMG activities: an exploratory study», BMC Musculoskeletal Disorders, vol. 12, n.o 1, p. 267, nov. 2011, doi: 10.1186/1471-2474-12-267.
+2.2. Músculo flexor radial del carpo durante golpes de backhand
 
 
 
 
+**5. Procesamiento de Datos**
 
+Filtrado de Datos
+En este estudio, se utilizará un filtro Butterworth de paso de banda para el procesamiento de señales con una frecuencia de corte inferior de 20 Hz y una frecuencia de corte superior de 400 Hz . Además, se empleará un filtro wavelet Symlet 8 (sym8) para el análisis de señales. La transformada wavelet discreta (DWT) se utiliza debido a su capacidad para realizar análisis simultáneo en dominios de tiempo y frecuencia, lo cual es efectivo para la reducción de ruido en señales no estacionarias. El filtro sym8 fue seleccionado por su efectividad en la descomposición de señales complejas y preservación de las características clave de las señales originales .
 
+Extracción de Características
+La fatiga muscular puede analizarse utilizando características como la frecuencia media y RMS . Cuando ocurre fatiga, se reclutan unidades motoras adicionales en el músculo para mantener un nivel deseado de fuerza, que no estaban activas inicialmente. Este aumento en el reclutamiento de unidades motoras se refleja en cambios en el RMS, con aumentos observados en su valor . Por esta razón, las señales se dividirán en intervalos de 10 segundos, equivalentes a cinco repeticiones de cada tipo de movimiento. Luego, se obtendrán los valores RMS de cada ventana.
 
+#### Resultados
 
+Las mediciones se realizaron de acuerdo con la configuración descrita. Después de la adquisición de datos, la señal EMG se sometió a un procedimiento de procesamiento en dos etapas. Primero, se filtró utilizando un filtro Butterworth de paso de banda con frecuencias de corte entre 20 Hz y 400 Hz. Posteriormente, se aplicó un filtro Wavelet de la familia Sym8, con 9 niveles de descomposición. Esto resultó en una señal visiblemente más suave con una amplitud reducida en comparación con la señal original. Para verificar el proceso de filtrado, se calculó la Transformada Rápida de Fourier (FFT) tanto para la señal original como para la filtrada. La FFT de la señal original mostró picos a 60 Hz y 400 Hz, atribuibles al ruido y artefactos presentes durante las mediciones. Estos picos se eliminaron después del filtrado, obteniendo la señal procesada.
 
+Una vez obtenida la señal procesada, se dividió en ventanas y se calcularon los valores RMS de cada intervalo para observar las tendencias a lo largo del tiempo. Estos intervalos se graficaron para cada señal muscular, resultando en el siguiente gráfico:
 
+Fig. 8: Valores RMS a lo largo del tiempo
 
+#### Discusiones
 
+El gráfico nos permite observar la fatiga muscular al analizar las variaciones y tendencias en los valores de RMS (Raíz Cuadrada Media) a lo largo del tiempo. La fatiga generalmente se manifiesta como una disminución en la capacidad del músculo para generar fuerza o mantener un rendimiento consistente.
 
+En el gráfico proporcionado, la fatiga muscular puede identificarse en los siguientes puntos:
 
+FH extensor radial (línea azul): Muestra una tendencia relativamente constante con algunas fluctuaciones, pero sin una caída significativa que indique una fatiga evidente.
+FH flexor radial (línea naranja): Aunque presenta picos altos, hay una tendencia decreciente que comienza aproximadamente a los 170 segundos, lo que puede indicar fatiga ya que el músculo comienza a mostrar una disminución en el RMS.
+BH extensor radial (línea verde): Exhibe una caída significativa en el RMS alrededor de los 130-150 segundos, seguida de fluctuaciones y una tendencia decreciente, lo que sugiere fatiga muscular.
+BH flexor radial (línea roja): Se mantiene relativamente constante con pequeñas fluctuaciones, sin una caída pronunciada que indique una fatiga clara en este músculo.
+En resumen, la fatiga es más evidente en el BH extensor radial (línea verde) comenzando a los 130-150 segundos y en el FH flexor radial (línea naranja) comenzando a los 170 segundos. Estos puntos muestran una disminución en la capacidad para mantener niveles consistentes de RMS, indicando que estos músculos están experimentando fatiga.
 
+#### Conclusiones
+
+El estudio realizado demuestra que es posible detectar la fatiga muscular en los músculos del antebrazo de los jugadores de tenis de mesa utilizando electromiografía de superficie (sEMG). La metodología implementada, empleando filtros Butterworth y análisis wavelet, ha permitido obtener señales EMG más precisas y detalladas, facilitando la identificación de la fatiga en momentos específicos durante los golpes de drive y revés. Notablemente, se observó una fatiga más pronunciada en el músculo extensor radial del carpo durante los golpes de revés (aproximadamente entre 130-150 segundos) y en el músculo flexor radial del carpo durante los golpes de drive (aproximadamente a los 170 segundos).
+
+El análisis sEMG destacó por proporcionar información precisa sobre la activación y fatiga muscular, lo cual es invaluable para comprender mejor la biomecánica del tenis de mesa. Este conocimiento puede utilizarse para desarrollar estrategias de entrenamiento y prevención de lesiones más efectivas, mejorando así el rendimiento atlético de los jugadores.
+
+Además, la metodología utilizada en este estudio tiene el potencial de aplicarse a otros deportes de raqueta como el bádminton, el tenis, el squash, el pádel, el frontón y el golf, donde los músculos del antebrazo también juegan un papel crucial en la ejecución de los golpes. Implementar estas técnicas podría mejorar el monitoreo de la fatiga muscular y la prevención de lesiones en diversos contextos deportivos.
+
+#### Agradecimientos
+
+Nuestros autores agradecen al pasante Carlos Santamaría del Laboratorio de Prototipado de la Universidad Peruana Cayetano Heredia por su asesoría y la impresión de la carcasa para el Bitalino.
+
+#### Referencias
+
+[1] Yann Le Mansec, Sylvain Dorel, François Hug, Marc Jubeau (2018). Lower limb muscle activity during table tennis strokes. Sports Biomechanics, 17(4), 442-452. Disponible en: PubMed
+
+[2] Yiming Guo, Yingfei Sun, Yi Ren, Zhipei Huang (2019). Upper Limb Muscle Force Estimation During Table Tennis Strokes. White Rose Research Online (University of Leeds), doi: 10.1109/BSN.2019.8771082
+
+[3] Nagai, H. (2016). A method for real-time estimation of local muscular fatigue in exercise using redundant discrete wavelet coefficients. doi: 10.1109/icsai.2016.7811064
+
+[4] Chantelle Rigozzi, Jeremy Cox, Gareth Vio, Philip Poronnik (2022). Simultaneous measurement of forearm muscle activity, vibrational transfer and grip strength during the tennis forehand stroke using a novel wearable device - a pilot study. doi: 10.1109/STAR53492.2022.9859670
+
+[5] Diana R. Bueno, J. M. Lizano, L. Montano (2015). Muscular fatigue detection using sEMG in dynamic contractions. doi: 10.1109/embc.2015.7318407
+
+[6] Chien-Lu Tsai, Chan-Chang Yang, Mei-Shiu Lin, Kuei Shu Huang (2008). The Surface EMG Activity Analysis Between Badminton Smash and Jump Smash. International Symposium on Biomechanics in Sports. Disponible en: [Universidad de Konstanz](https://ojs.ub
