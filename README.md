@@ -255,3 +255,7 @@ Nuestros autores agradecen al pasante Carlos Santamaría del Laboratorio de Prot
 [5] Diana R. Bueno, J. M. Lizano, L. Montano (2015). Muscular fatigue detection using sEMG in dynamic contractions. doi: 10.1109/embc.2015.7318407
 
 [6] Chien-Lu Tsai, Chan-Chang Yang, Mei-Shiu Lin, Kuei Shu Huang (2008). The Surface EMG Activity Analysis Between Badminton Smash and Jump Smash. International Symposium on Biomechanics in Sports. Disponible en: [Universidad de Konstanz](https://ojs.ub
+
+
+
+https://www.canva.com/design/DAGJ0OmPles/tHmcPODjuRij97a75qh0Zg/edit?utm_content=DAGJ0OmPles&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
