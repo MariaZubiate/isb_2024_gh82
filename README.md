@@ -207,7 +207,7 @@ Extracción de Características
 La fatiga muscular puede analizarse utilizando características como la frecuencia media y RMS . Cuando ocurre fatiga, se reclutan unidades motoras adicionales en el músculo para mantener un nivel deseado de fuerza, que no estaban activas inicialmente. Este aumento en el reclutamiento de unidades motoras se refleja en cambios en el RMS, con aumentos observados en su valor . Por esta razón, las señales se dividirán en intervalos de 10 segundos, equivalentes a cinco repeticiones de cada tipo de movimiento. Luego, se obtendrán los valores RMS de cada ventana.
 
 
-Link: https://colab.research.google.com/drive/1dT8bUffetIDhnJp3YtXHphIt14VGPDwR#scrollTo=YYx3QR0tgmkY
+Link: https://colab.research.google.com/drive/1G3qBPt0m-rDOSTUysZsKd8Tk5FSCuL1S?usp=sharing
 #### Resultados
 
 Las mediciones se realizaron de acuerdo con la configuración descrita. Después de la adquisición de datos, la señal EMG se sometió a un procedimiento de procesamiento en dos etapas. Primero, se filtró utilizando un filtro Butterworth de paso de banda con frecuencias de corte entre 20 Hz y 400 Hz. Posteriormente, se aplicó un filtro Wavelet de la familia Sym8, con 9 niveles de descomposición. Esto resultó en una señal visiblemente más suave con una amplitud reducida en comparación con la señal original. Para verificar el proceso de filtrado, se calculó la Transformada Rápida de Fourier (FFT) tanto para la señal original como para la filtrada. La FFT de la señal original mostró picos a 60 Hz y 400 Hz, atribuibles al ruido y artefactos presentes durante las mediciones. Estos picos se eliminaron después del filtrado, obteniendo la señal procesada.
@@ -217,6 +217,15 @@ Una vez obtenida la señal procesada, se dividió en ventanas y se calcularon lo
 ![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/b877bdb2-1a2c-47b0-b91d-470d6b167b34)
 
 Fig. 8: Valores RMS a lo largo del tiempo
+
+
+Para el análisis estadístico, se obtuvieron los valores medios de RMS de todas las señales para cada músculo. Se encontró que el valor RMS más alto se encontraba en el músculo extensor carpi radialis durante el movimiento de forehand. Se aplicó la prueba de Shapiro-Wilk a cada músculo para cada movimiento, revelando que el valor p era menor a 0.05. Esto indica que los valores RMS no siguen una distribución normal, lo que requiere el uso de pruebas no paramétricas. En consecuencia, se realizaron comparaciones por pares utilizando la prueba de Kruskal-Wallis, la cual mostró que los grupos diferían significativamente entre sí. Para ilustrar esto, se generó un diagrama de caja y bigotes.
+
+![image](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/861a85de-a07c-4f0c-b509-158640879842)
+
+
+Fig. 9:Valores RMS a lo largo del tiempo
+
 
 #### Discusiones
 
