@@ -40,7 +40,7 @@
 ![Christian (3)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/5925b2c5-aed4-48e8-bb33-ab4e581a9c7e)
 
 
-##### 4. Jossef Tintaya - cristian.mucha@upch.pe
+##### 4. Jossef Tintaya - jossef.tintaya@upch.pe
 ![jossef (1)](https://github.com/MariaZubiate/isb_2024_gh82/assets/164455359/39514d72-00ce-4b6b-9fba-342651bc6dc7)
 
 
